@@ -169,6 +169,8 @@ class BottomLounge(Venue):
 
         # BL seems to promote in-house shows only
         venue_name = self.venue_name
+        # TODO remove venue_id logic
+        venue_id = 99
 
         return (venue_name, venue_id)
 
