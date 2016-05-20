@@ -6,10 +6,6 @@ from .models import Artist, Concert, ConcertMatch, Venue
 
 # Create your views here.
 
-"""
-def upcoming(request):
-    return HttpResponse("Upcoming schedule displayed here")
-"""
 
 class UpcomingShows(generic.View):
 
@@ -19,7 +15,7 @@ class UpcomingShows(generic.View):
         matches = Concert.objects.filter(id__in=matched_concert_ids)
 
         #context_object_name = 'concerts'
-        return render(request, 'shows/concertmatch_list.html', {'matches': matches})
+        return render(request, 'concerts/concertmatch_list.html', {'matches': matches})
 
 
 class ArtistsIndex(generic.ListView):
