@@ -1,0 +1,13 @@
+{% extends "shows/base.html" %}
+
+{% block content %}
+    <h2>Upcoming concerts</h2>
+    <ul>
+        {% for concert in matches %}
+            <li><h3>{{ concert.billing }} at {{ concert.venue }}</h3>
+                <p>{{ concert.date_time|date:"DATETIME_FORMAT" }}, {{ concert.price }}</p>
+                <p><a href={{ concert.url}}>Link</a></p>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

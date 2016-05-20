@@ -1,0 +1,10 @@
+{% extends "shows/base.html" %}
+
+{% block content %}
+    <h2>Artists tracked</h2>
+    <ul>
+        {% for artist in artist_list %}
+            <li>{{ artist.name }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
