@@ -1,6 +1,6 @@
 from django.core.management.base import BaseCommand, CommandError
-from shows.models import Venue, Concert
-from shows.utils import SCRAPERS
+from concerts.models import Venue, Concert
+from concerts.utils import SCRAPERS
 
 
 class Command(BaseCommand):

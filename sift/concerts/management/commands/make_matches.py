@@ -1,7 +1,7 @@
 import re
 
 from django.core.management.base import BaseCommand, CommandError
-from shows.models import Artist, Concert, ConcertMatch, Venue
+from concerts.models import Artist, Concert, ConcertMatch, Venue
 
 
 class Command(BaseCommand):
