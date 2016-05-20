@@ -25,11 +25,10 @@ class Venue:
 
     show_fac = ShowTuple
     # TODO remove venue_id logic, now tracked in models
-    self.venue_id = 99
 
     def __init__(self, **kwargs):
         self.shows = []
-
+        self.venue_id = 99
 
     def __str__(self):
         return "{0} -- {1} current shows".format(self.venue_name, len(self.shows))
