@@ -1,1 +1,1 @@
-web: gunicorn sift.sift.wsgi --pythonpath sift.sift
+web: gunicorn sift.wsgi
