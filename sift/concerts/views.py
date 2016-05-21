@@ -24,3 +24,6 @@ class ArtistsIndex(generic.ListView):
 
 class VenuesIndex(generic.ListView):
     model = Venue
+
+class ConcertsIndex(generic.ListView):
+    model = Concert
