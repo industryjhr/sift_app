@@ -8,7 +8,8 @@ import dj_database_url
 SECRET_KEY = os.environ.get('SECRET_KEY', None)
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = os.environ.get('DEBUG', False)
+#DEBUG = os.environ.get('DEBUG', False)
+DEBUG = False
 
 #ALLOWED_HOSTS = []
 
