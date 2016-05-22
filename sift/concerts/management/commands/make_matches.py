@@ -8,8 +8,8 @@ class Command(BaseCommand):
     help = 'Looks for tracked artists in the concert billings and saves matches'
 
     def handle(self, *args, **options):
-        artist_pairs = list(Artist.objects.values_list('id', 're_string'))
-        concert_pairs = list(Concert.objects.values_list('id', 'billing'))
+        artist_pairs = list(Artist.objects.filter(is_active=True).values_list('id', 're_string'))
+        concert_pairs = list(Concert.objects.filter(is_active=True).values_list('id', 'billing'))
 
         for artist_id, regex_string in artist_pairs:
             artist_regex = re.compile(
