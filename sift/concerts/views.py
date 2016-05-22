@@ -4,8 +4,10 @@ from django.views import generic
 
 from .models import Artist, Concert, ConcertMatch, Venue
 
-# Create your views here.
+class Home(generic.View):
 
+    def get(self, request):
+        return render(request, 'concerts/sift_home.html')
 
 class UpcomingShows(generic.View):
 
