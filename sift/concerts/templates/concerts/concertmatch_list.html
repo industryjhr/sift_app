@@ -8,7 +8,11 @@
         {% for concert in matches %}
             <li><h3>{{ concert.billing }} at {{ concert.venue }}</h3>
                 <p>{{ concert.date_time|timezone:"America/Chicago" }}, {{ concert.price }}</p>
-                <p><a href={{ concert.url}}>Link</a></p>
+                <p>Matches artists
+                {% for artist in concert.artists.all %}
+                    '{{ artist.name }}', {% endfor %}
+                </p>
+                <p><a href={{ concert.url }}>Link</a></p>
             </li>
         {% endfor %}
     </ul>
