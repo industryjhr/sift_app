@@ -8,6 +8,7 @@ iTunes provides the option to dump basically everything about its library to xml
 Using the python standard lib parser (xml.etree.cElementTree), it's not <i>too</i> difficult to pull anything out once you understand the structure.
 
 Artist elements can be accessed:
+
 <tt>
 parsley = xml.etree.cElementTree.XML(xml_string)
 \# have to drill down and run through individual tracks
