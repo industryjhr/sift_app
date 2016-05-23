@@ -18,6 +18,7 @@ tracks_xml = parsley[0][15]
 artists = set()
 
 \# odd items in tracks_xml are individual songs; song[5] is the artist element
+
 for track in tracks_xml:
     try:
         artists.add(track[5].text)
