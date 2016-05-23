@@ -21,11 +21,11 @@ class UpcomingShows(generic.View):
 
 
 class ArtistsIndex(generic.ListView):
-    queryset = Artist.objects.order_by('name')
+    queryset = Artist.objects.filter(is_active=True).order_by('name')
 
 
 class VenuesIndex(generic.ListView):
-    model = Venue
+    queryset = Venue.objects.filter(is_active=True).order_by('name')
 
 class ConcertsIndex(generic.ListView):
     model = Concert

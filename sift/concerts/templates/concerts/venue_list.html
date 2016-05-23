@@ -3,7 +3,7 @@
 {% block content %}
     <h2>Venues tracked</h2>
     {% for venue in venue_list %}
-        <h3>#{{ venue.pk }} <a href={{ venue.schedule_url }}>{{ venue.name }}</a></h3>
+        <h3><a href={{ venue.schedule_url }}>{{ venue.name }}</a></h3>
         <p>{{ venue.address }}</p>
     {% endfor %}
 {% endblock %}
