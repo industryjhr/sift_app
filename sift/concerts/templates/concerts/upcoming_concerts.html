@@ -1,13 +1,11 @@
 {% extends "concerts/base.html" %}
-
-{% load tz %}
-
 {% block content %}
-    <h2>Upcoming concerts</h2>
+
+    <h2>Upcoming concerts</h2><i>last updated {{ last_updated|date:"SHORT_DATE_FORMAT" }}</i>
     <ul>
         {% for concert in matches %}
             <li><h3>{{ concert.billing }} at {{ concert.venue }}</h3>
-                <p>{{ concert.date_time|timezone:"America/Chicago" }}, {{ concert.price }}</p>
+                <p>{{ concert.date_time }}, {{ concert.price }}</p>
                 <p>Matches artists
                 {% for artist in concert.artists.all %}
                     '{{ artist.name }}', {% endfor %}
@@ -16,4 +14,5 @@
             </li>
         {% endfor %}
     </ul>
+
 {% endblock %}

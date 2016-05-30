@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+{% load tz %}
+
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -44,8 +47,10 @@
 
         <div class="container">
 
+            {% timezone "America/Chicago" %}
             {% block content %}
             {% endblock content %}
+            {% endtimezone %}
 
         </div>
 

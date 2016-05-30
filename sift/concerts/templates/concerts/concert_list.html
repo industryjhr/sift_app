@@ -1,11 +1,10 @@
 {% extends "concerts/base.html" %}
 
-{% load tz %}
-
 {% block content %}
     <h2>All concerts</h2>
+    <i>last updated {{ last_updated|date:"SHORT_DATE_FORMAT" }}</i>
     {% for concert in concert_list %}
         <h3>#{{ concert.pk }} <a href={{ concert.url }}>{{ concert.billing }}</a></h3>
-        <p>{{ concert.venue.name }} - {{ concert.date_time|timezone:"America/Chicago" }}, {{ concert.price }}</p>
+        <p>{{ concert.venue.name }} - {{ concert.date_time }}, {{ concert.price }}</p>
     {% endfor %}
 {% endblock %}
