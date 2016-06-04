@@ -2,6 +2,7 @@ beautifulsoup4==4.4.1
 dj-database-url==0.4.1
 Django==1.9.6
 gunicorn==19.5.0
+iso8601==0.1.11
 psycopg2==2.6.1
 pytz==2016.4
 requests==2.10.0

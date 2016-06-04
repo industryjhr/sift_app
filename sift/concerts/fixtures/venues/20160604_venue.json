@@ -26,7 +26,7 @@
         "name": "Subterranean",
         "address": "2011 W North Ave., Chicago, IL, 60647",
         "schedule_url": "http://www.subt.net",
-        "is_active": false
+        "is_active": true
     }
 },
 {

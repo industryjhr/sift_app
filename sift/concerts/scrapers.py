@@ -10,8 +10,11 @@ import calendar, datetime, os, sys, time
 from collections import namedtuple
 
 from bs4 import BeautifulSoup as bs
+import iso8601
 import pytz
 import requests
+
+TODAY = datetime.datetime.today()
 
 
 ShowTuple = namedtuple(
@@ -272,7 +275,7 @@ class EmptyBottle(Venue):
 
 
     def get_show_date(self, summary):
-        """Pulls datetime for a specific show, return as ISO-8601 sep=' '"""
+        """Returns UTC datetime object for concert date and time"""
 
         # TODO instantiate once, higher up; currently for each show
         today = datetime.datetime.today()
@@ -344,22 +347,27 @@ class Subterranean(Venue):
     def get_summaries(self, html):
         """Returns list of parent bs elements for shows """
 
-        show_summaries = bs(html, 'html.parser').select('.schedule-item-content')
+        show_summaries = bs(html, 'html.parser').select('.list-view-item')
         return show_summaries
-
 
     def get_artist_billing(self, summary):
         """Pulls artist billing for a specific show"""
 
-        # artist billing as one string; could break down on ' * '
-        artists = summary.select('.schedule-title')[0].text
+        # headlining and support acts in separate tags; supporting acts optional
+        headliners = summary.select('.list-view-details > .headliners')[0].text
+        try:
+            support = summary.select('.list-view-details > .supports')[0].text
+        except IndexError:
+            return headliners
 
-        return artists
+        return headliners + ' with ' + support
 
 
     def get_venue_info(self, summary):
-        """Some venues promote shows at other venues.
-        In such cases, use venue_id 99 for misc. venues (or check db?)"""
+        """
+        Some venues promote shows at other venues.
+        In such cases, use venue_id 99 for misc. venues (or check db?)
+        """
 
         venue_name = self.venue_name
         venue_id = self.venue_id
@@ -368,41 +376,27 @@ class Subterranean(Venue):
 
 
     def get_show_date(self, summary):
-        """Pulls datetime for a specific show, return as ISO-8601 sep=' '"""
+        """Create UTC datetime object for concert date, time"""
 
-        dt_spans = summary.select('.schedule-date')[0].find_all('span')
-        show_month, show_date, show_year = tuple(dt_spans[0].text.split('/'))
-        html_time = ' '.join(dt_spans[1].text.split()[-2:])
-
-        if html_time.split()[0].isalpha():
-            html_time = '{} PM'.format(html_time.split()[1])
-
-        # convert str to 24hr
-        t = time.strptime(html_time, '%I:%M %p')
-
-        utc_datetime = Venue.make_utc_datetime(
-            show_year=int(show_year),
-            show_month=int(show_month),
-            show_day=int(show_date),
-            show_hour=t.tm_hour,
-            show_minute=t.tm_min)
-
-        return utc_datetime
-
+        show_iso = summary.select('.value-title')[0].attrs['title']
+        local_datetime = iso8601.parse_date(show_iso)
+        return local_datetime.astimezone(pytz.utc)
 
     def get_show_price(self, summary):
-        """Pulls price string for a specific show"""
+        """Return price as a string from a concert summary"""
 
-        # BL prices only available through TicketWeb.. pull all from TW???
-        price = 'NOT ON SITE'
+        try:
+            price = summary.select('.price-range')[0].text.strip()
+        except IndexError:
+            price = 'No price / free?'
         return price
 
-
     def get_show_url(self, summary):
-        """Pulls url for a specific show"""
+        """Returns url to a concert page from a summary"""
 
-        show_url = summary.find('a', href=True)['href']
-        return show_url
+        show_page = summary.find('a', href=True)['href']
+        # show_page link relative
+        return self.url + show_page
 
 
 """
