@@ -56,13 +56,6 @@ class Venue:
         """Returns UTC datetime object from show summary HTML"""
         raise NotImplementedError("get_show_date is venue-specific")
 
-
-    """
-    def make_naive_datetime(self, **kwargs):
-        naive = datetime.datetime(
-                    year=
-    """
-
     @staticmethod
     def make_utc_datetime(*args, **kwargs):
         """Converts naive (local; time as scraped) datetime object to UTC"""
@@ -133,11 +126,10 @@ class Venue:
         else:
             print("This object seems to have shows already")
 
-
+    """
     def filter_shows(self):
-
         self.shows = self.writer.filter_new(self.shows)
-
+    """
 
 class BottomLounge(Venue):
     """Scraper object for Bottom Lounge"""
