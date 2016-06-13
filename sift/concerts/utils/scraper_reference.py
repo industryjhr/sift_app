@@ -1,4 +1,4 @@
-from concerts import scrapers
+from concerts.utils import scrapers
 
 SCRAPERS = {
     1: scrapers.EmptyBottle(),

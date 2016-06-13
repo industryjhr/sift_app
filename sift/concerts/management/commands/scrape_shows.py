@@ -1,6 +1,6 @@
 from django.core.management.base import BaseCommand, CommandError
 from concerts.models import Venue, Concert
-from concerts.utils import SCRAPERS
+from concerts.utils.scraper_reference import SCRAPERS
 
 MISC_VENUE = Venue.objects.get(id=99)
 

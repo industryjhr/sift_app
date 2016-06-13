@@ -13,7 +13,7 @@ class Command(BaseCommand):
 
         for artist_id, regex_string in artist_pairs:
             artist_regex = re.compile(
-                regex_string,
+                r'{}'.format(regex_string),
                 flags=re.IGNORECASE|re.MULTILINE|re.DOTALL,
             )
 
