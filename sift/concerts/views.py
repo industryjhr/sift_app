@@ -13,7 +13,7 @@ class UpcomingShows(generic.View):
 
     def get(self, request):
         matched_concert_ids = list(ConcertMatch.objects.values_list('concert', flat=True))
-        matches = Concert.objects.filter(id__in=matched_concert_ids)
+        matches = Concert.objects.filter(id__in=matched_concert_ids).order_by('date_time')
         last_updated = Concert.objects.get(pk=1).date_scraped
         context = {
             'matches': matches,
@@ -22,10 +22,8 @@ class UpcomingShows(generic.View):
 
         return render(request, 'concerts/upcoming_concerts.html', context)
 
-
 class ArtistsIndex(generic.ListView):
     queryset = Artist.objects.filter(is_active=True).order_by('name')
-
 
 class VenuesIndex(generic.ListView):
     queryset = Venue.objects.filter(is_active=True).order_by('name')
@@ -33,7 +31,7 @@ class VenuesIndex(generic.ListView):
 class ConcertsIndex(generic.View):
 
     def get(self, request):
-        concerts = Concert.objects.all()
+        concerts = Concert.objects.order_by('date_time')
         last_updated = Concert.objects.get(pk=1).date_scraped
         context = {
             'concert_list': concerts,
