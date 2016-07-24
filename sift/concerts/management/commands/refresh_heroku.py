@@ -13,7 +13,7 @@ FIXTURE_DIRS = {
 }
 
 class Command(BaseCommand):
-    help = 'Flushes DB, reloads artist and venue fixtures, scrapes shows and finds the matches'
+    help = "Flushes and re-seeds DB from fixtures, runs make_matches to find upcoming concerts."
 
     def handle(self, *args, **options):
         try:
@@ -38,7 +38,7 @@ class Command(BaseCommand):
                 concerts_fixtures[-1]
             )
         except IndexError as e:
-            sys.exit("Problem opening a fixture: {}".format(e.args))
+            sys.exit("Problem accessing a fixture: {}".format(e.args))
 
         self.stdout.write("Flushing DB...")
         call_command('flush', '--noinput')
@@ -46,18 +46,8 @@ class Command(BaseCommand):
         call_command('loaddata', latest_artists_fixture)
         self.stdout.write("Loading venues from fixture...")
         call_command('loaddata', latest_venues_fixture)
-        self.stdout.write("Scraping venue sites for concerts...")
-        call_command('scrape_shows')
-        self.stdout.write("Finding target artists in the concert billings...")
+        self.stdout.write("Loading concerts from fixture...")
+        call_command('loaddata', latest_concerts_fixture)
+        self.stdout.write("Making concert matches...")
         call_command('make_matches')
-        # TODO Add concert fixture rotation?
-        concert_fixture_name = datetime.utcnow().strftime('%Y%m%d') + '_concert.json'
-        concert_fixture_path = os.path.join(FIXTURE_DIRS['concerts'], concert_fixture_name)
-        self.stdout.write("Dumping new concerts to {}".format(concert_fixture_name))
-        call_command(
-            'dumpdata',
-            'concerts.Concert',
-            '--indent=4',
-            '--output={}'.format(concert_fixture_path)
-        )
         self.stdout.write("Done!")
