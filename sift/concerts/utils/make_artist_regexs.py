@@ -1,7 +1,8 @@
 """
 make_artist_regexs.py
 
-Iterate through the artists fixture json to update artist regexs
+Iterate through the artists fixture json to update artist regexs.
+Called with two posargs: <fixture_input.json> <output_filename.json>
 """
 
 import json, os, re, string, sys

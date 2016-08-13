@@ -1,0 +1,5150 @@
+[
+{
+    "model": "concerts.artist",
+    "pk": 1,
+    "fields": {
+        "name": "Charles Mingus",
+        "re_string": "\\bCharles Mingus\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 2,
+    "fields": {
+        "name": "Naoya Matsuoka & Wesing",
+        "re_string": "\\bNaoya Matsuoka .? Wesing\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 3,
+    "fields": {
+        "name": "Lotus Plaza",
+        "re_string": "\\bLotus Plaza\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 4,
+    "fields": {
+        "name": "The Mars Volta",
+        "re_string": "\\bThe Mars Volta\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 5,
+    "fields": {
+        "name": "El-P",
+        "re_string": "\\bEl.?P\\b",
+        "is_active": false
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 6,
+    "fields": {
+        "name": "City and Colour",
+        "re_string": "\\bCity and Colour\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 7,
+    "fields": {
+        "name": "Dan Deacon",
+        "re_string": "\\bDan Deacon\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 8,
+    "fields": {
+        "name": "Black Milk",
+        "re_string": "\\bBlack Milk\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 9,
+    "fields": {
+        "name": "Charlie Hunter",
+        "re_string": "\\bCharlie Hunter\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 10,
+    "fields": {
+        "name": "Pat Metheny",
+        "re_string": "\\bPat Metheny\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 11,
+    "fields": {
+        "name": "Starsailor",
+        "re_string": "\\bStarsailor\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 12,
+    "fields": {
+        "name": "The Flaming Lips",
+        "re_string": "\\bThe Flaming Lips\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 13,
+    "fields": {
+        "name": "DJ Assault",
+        "re_string": "\\bDJ Assault\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 14,
+    "fields": {
+        "name": "Disclosure",
+        "re_string": "\\bDisclosure\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 15,
+    "fields": {
+        "name": "Wilco",
+        "re_string": "\\bWilco\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 16,
+    "fields": {
+        "name": "Neville Brothers",
+        "re_string": "\\bNeville Brothers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 17,
+    "fields": {
+        "name": "Raekwon",
+        "re_string": "\\bRaekwon\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 18,
+    "fields": {
+        "name": "Tame Impala",
+        "re_string": "\\bTame Impala\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 19,
+    "fields": {
+        "name": "Squarepusher",
+        "re_string": "\\bSquarepusher\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 20,
+    "fields": {
+        "name": "Caribou",
+        "re_string": "\\bCaribou\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 21,
+    "fields": {
+        "name": "Team Sleep",
+        "re_string": "\\bTeam Sleep\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 22,
+    "fields": {
+        "name": "Major Lazer",
+        "re_string": "\\bMajor Lazer\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 23,
+    "fields": {
+        "name": "Asobi Seksu",
+        "re_string": "\\bAsobi Seksu\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 24,
+    "fields": {
+        "name": "Silversun Pickups",
+        "re_string": "\\bSilversun Pickups\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 25,
+    "fields": {
+        "name": "Omar Rodriguez Lopez",
+        "re_string": "\\bOmar Rodriguez Lopez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 26,
+    "fields": {
+        "name": "Wild Nothing",
+        "re_string": "\\bWild Nothing\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 27,
+    "fields": {
+        "name": "Flying Lotus",
+        "re_string": "\\bFlying Lotus\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 28,
+    "fields": {
+        "name": "Monster Movie",
+        "re_string": "\\bMonster Movie\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 29,
+    "fields": {
+        "name": "Ant\u00f4nio Carlos Jobim",
+        "re_string": "\\bAnt\u00f4nio Carlos Jobim\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 30,
+    "fields": {
+        "name": "Nadja",
+        "re_string": "\\bNadja\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 31,
+    "fields": {
+        "name": "Bloc Party",
+        "re_string": "\\bBloc Party\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 32,
+    "fields": {
+        "name": "Bobby Brown",
+        "re_string": "\\bBobby Brown\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 33,
+    "fields": {
+        "name": "Dntel",
+        "re_string": "\\bDntel\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 34,
+    "fields": {
+        "name": "Redman",
+        "re_string": "\\bRedman\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 35,
+    "fields": {
+        "name": "conelrad",
+        "re_string": "\\bconelrad\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 36,
+    "fields": {
+        "name": "Mandrill",
+        "re_string": "\\bMandrill\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 37,
+    "fields": {
+        "name": "Miaou",
+        "re_string": "\\bMiaou\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 38,
+    "fields": {
+        "name": "Primus",
+        "re_string": "\\bPrimus\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 39,
+    "fields": {
+        "name": "Niyaz",
+        "re_string": "\\bNiyaz\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 40,
+    "fields": {
+        "name": "Ronnie Baker Brooks",
+        "re_string": "\\bRonnie Baker Brooks\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 41,
+    "fields": {
+        "name": "The Walkmen",
+        "re_string": "\\bThe Walkmen\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 42,
+    "fields": {
+        "name": "Big Star",
+        "re_string": "\\bBig Star\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 43,
+    "fields": {
+        "name": "Ben Harper",
+        "re_string": "\\bBen Harper\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 44,
+    "fields": {
+        "name": "Talk Talk",
+        "re_string": "\\bTalk Talk\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 45,
+    "fields": {
+        "name": "At the Drive-In",
+        "re_string": "\\bAt the Drive.?In\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 46,
+    "fields": {
+        "name": "K'Naan",
+        "re_string": "\\bK.?Naan\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 47,
+    "fields": {
+        "name": "Mark Lanegan Band",
+        "re_string": "\\bMark Lanegan Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 48,
+    "fields": {
+        "name": "Justin Timberlake",
+        "re_string": "\\bJustin Timberlake\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 49,
+    "fields": {
+        "name": "Ganja White Night",
+        "re_string": "\\bGanja White Night\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 50,
+    "fields": {
+        "name": "Madvillain",
+        "re_string": "\\bMadvillain\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 51,
+    "fields": {
+        "name": "The Silver Mt. Zion Memorial Orchestra & Tra-La-La Band",
+        "re_string": "\\bThe Silver Mt.? Zion Memorial Orchestra .? Tra.?La.?La Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 52,
+    "fields": {
+        "name": "Galactic",
+        "re_string": "\\bGalactic\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 53,
+    "fields": {
+        "name": "Modeselektor",
+        "re_string": "\\bModeselektor\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 54,
+    "fields": {
+        "name": "Kirk Franklin",
+        "re_string": "\\bKirk Franklin\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 55,
+    "fields": {
+        "name": "Earl Sweatshirt",
+        "re_string": "\\bEarl Sweatshirt\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 56,
+    "fields": {
+        "name": "Yelawolf",
+        "re_string": "\\bYelawolf\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 57,
+    "fields": {
+        "name": "Ronald Jenkees",
+        "re_string": "\\bRonald Jenkees\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 58,
+    "fields": {
+        "name": "A Silver Mt. Zion",
+        "re_string": "\\bA Silver Mt.? Zion\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 59,
+    "fields": {
+        "name": "Cat Power",
+        "re_string": "\\bCat Power\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 60,
+    "fields": {
+        "name": "Nujabes",
+        "re_string": "\\bNujabes\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 61,
+    "fields": {
+        "name": "Copywrite",
+        "re_string": "\\bCopywrite\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 62,
+    "fields": {
+        "name": "Kurupt",
+        "re_string": "\\bKurupt\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 63,
+    "fields": {
+        "name": "De La Soul",
+        "re_string": "\\bDe La Soul\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 64,
+    "fields": {
+        "name": "Miles Davis",
+        "re_string": "\\bMiles Davis\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 65,
+    "fields": {
+        "name": "Pete Rock",
+        "re_string": "\\bPete Rock\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 66,
+    "fields": {
+        "name": "Mike & Amy Finders Band",
+        "re_string": "\\bMike .? Amy Finders Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 67,
+    "fields": {
+        "name": "Department of Eagles",
+        "re_string": "\\bDepartment of Eagles\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 68,
+    "fields": {
+        "name": "Return to Forever",
+        "re_string": "\\bReturn to Forever\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 69,
+    "fields": {
+        "name": "Lower Dens",
+        "re_string": "\\bLower Dens\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 70,
+    "fields": {
+        "name": "Burial",
+        "re_string": "\\bBurial\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 71,
+    "fields": {
+        "name": "Built to Spill",
+        "re_string": "\\bBuilt to Spill\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 72,
+    "fields": {
+        "name": "Hammock",
+        "re_string": "\\bHammock\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 73,
+    "fields": {
+        "name": "Dead Prez",
+        "re_string": "\\bDead Prez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 74,
+    "fields": {
+        "name": "Loose Fur",
+        "re_string": "\\bLoose Fur\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 75,
+    "fields": {
+        "name": "Jurassic 5",
+        "re_string": "\\bJurassic 5\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 76,
+    "fields": {
+        "name": "Cee-Lo",
+        "re_string": "\\bCee.?Lo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 77,
+    "fields": {
+        "name": "Yeah Yeah Yeahs",
+        "re_string": "\\bYeah Yeah Yeahs\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 78,
+    "fields": {
+        "name": "AlunaGeorge",
+        "re_string": "\\bAlunaGeorge\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 79,
+    "fields": {
+        "name": "The MFA",
+        "re_string": "\\bThe MFA\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 80,
+    "fields": {
+        "name": "Buddy Guy",
+        "re_string": "\\bBuddy Guy\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 81,
+    "fields": {
+        "name": "Isis",
+        "re_string": "\\bIsis\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 82,
+    "fields": {
+        "name": "Baechigi (\ubc30\uce58\uae30)",
+        "re_string": "\\bBaechigi .?\ubc30\uce58\uae30.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 83,
+    "fields": {
+        "name": "Ladysmith Black Mambazo",
+        "re_string": "\\bLadysmith Black Mambazo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 84,
+    "fields": {
+        "name": "Django Reinhardt",
+        "re_string": "\\bDjango Reinhardt\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 85,
+    "fields": {
+        "name": "Fela Kuti",
+        "re_string": "\\bFela Kuti\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 86,
+    "fields": {
+        "name": "Cults",
+        "re_string": "\\bCults\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 87,
+    "fields": {
+        "name": "Grizzly Bear",
+        "re_string": "\\bGrizzly Bear\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 88,
+    "fields": {
+        "name": "The Smashing Pumpkins",
+        "re_string": "\\bThe Smashing Pumpkins\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 89,
+    "fields": {
+        "name": "Strapping Young Lad",
+        "re_string": "\\bStrapping Young Lad\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 90,
+    "fields": {
+        "name": "Pantha du Prince",
+        "re_string": "\\bPantha du Prince\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 91,
+    "fields": {
+        "name": "Danny Brown",
+        "re_string": "\\bDanny Brown\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 92,
+    "fields": {
+        "name": "Pacific UV",
+        "re_string": "\\bPacific UV\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 93,
+    "fields": {
+        "name": "Gypsy Kings",
+        "re_string": "\\bGypsy Kings\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 94,
+    "fields": {
+        "name": "Tatsuro Yamashita",
+        "re_string": "\\bTatsuro Yamashita\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 95,
+    "fields": {
+        "name": "Simple",
+        "re_string": "\\bSimple\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 96,
+    "fields": {
+        "name": "Actress",
+        "re_string": "\\bActress\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 97,
+    "fields": {
+        "name": "Buckethead",
+        "re_string": "\\bBuckethead\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 98,
+    "fields": {
+        "name": "Marriages",
+        "re_string": "\\bMarriages\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 99,
+    "fields": {
+        "name": "Soil and Pimp Sessions ",
+        "re_string": "\\bSoil and Pimp Sessions \\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 100,
+    "fields": {
+        "name": "CINEMA dub MONKS",
+        "re_string": "\\bCINEMA dub MONKS\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 101,
+    "fields": {
+        "name": "Erykah Badu",
+        "re_string": "\\bErykah Badu\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 102,
+    "fields": {
+        "name": "Bonobo",
+        "re_string": "\\bBonobo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 103,
+    "fields": {
+        "name": "Earth",
+        "re_string": "\\bEarth\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 104,
+    "fields": {
+        "name": "Flux Pavillion",
+        "re_string": "\\bFlux Pavillion\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 105,
+    "fields": {
+        "name": "DJ Koze",
+        "re_string": "\\bDJ Koze\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 106,
+    "fields": {
+        "name": "Bonnie Raitt",
+        "re_string": "\\bBonnie Raitt\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 107,
+    "fields": {
+        "name": "Reverend Horton Heat",
+        "re_string": "\\bReverend Horton Heat\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 108,
+    "fields": {
+        "name": "Neutral Milk Hotel",
+        "re_string": "\\bNeutral Milk Hotel\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 109,
+    "fields": {
+        "name": "Modest Mouse",
+        "re_string": "\\bModest Mouse\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 110,
+    "fields": {
+        "name": "Alcest",
+        "re_string": "\\bAlcest\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 111,
+    "fields": {
+        "name": "Gas",
+        "re_string": "\\bGas\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 112,
+    "fields": {
+        "name": "Big Boi",
+        "re_string": "\\bBig Boi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 113,
+    "fields": {
+        "name": "Lady Gaga",
+        "re_string": "\\bLady Gaga\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 114,
+    "fields": {
+        "name": "The Tallest Man On Earth",
+        "re_string": "\\bThe Tallest Man On Earth\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 115,
+    "fields": {
+        "name": "The Middle East",
+        "re_string": "\\bThe Middle East\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 116,
+    "fields": {
+        "name": "Fujiya & Miyagi",
+        "re_string": "\\bFujiya .? Miyagi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 117,
+    "fields": {
+        "name": "Peaches",
+        "re_string": "\\bPeaches\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 118,
+    "fields": {
+        "name": "Jesu",
+        "re_string": "\\bJesu\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 119,
+    "fields": {
+        "name": "Ozomatli",
+        "re_string": "\\bOzomatli\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 120,
+    "fields": {
+        "name": "Atlas Sound",
+        "re_string": "\\bAtlas Sound\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 121,
+    "fields": {
+        "name": "Kid Sister",
+        "re_string": "\\bKid Sister\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 122,
+    "fields": {
+        "name": "Joni Haastrup",
+        "re_string": "\\bJoni Haastrup\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 123,
+    "fields": {
+        "name": "Michio Kurihara",
+        "re_string": "\\bMichio Kurihara\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 124,
+    "fields": {
+        "name": "Lonny Breaux",
+        "re_string": "\\bLonny Breaux\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 125,
+    "fields": {
+        "name": "Memoryhouse",
+        "re_string": "\\bMemoryhouse\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 126,
+    "fields": {
+        "name": "The Bad Plus",
+        "re_string": "\\bThe Bad Plus\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 127,
+    "fields": {
+        "name": "Father John Misty",
+        "re_string": "\\bFather John Misty\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 128,
+    "fields": {
+        "name": "The xx",
+        "re_string": "\\bThe xx\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 129,
+    "fields": {
+        "name": "Strokes",
+        "re_string": "\\bStrokes\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 130,
+    "fields": {
+        "name": "Bill Withers",
+        "re_string": "\\bBill Withers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 131,
+    "fields": {
+        "name": "Lettuce",
+        "re_string": "\\bLettuce\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 132,
+    "fields": {
+        "name": "Junior Kimbrough",
+        "re_string": "\\bJunior Kimbrough\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 133,
+    "fields": {
+        "name": "Rage Against the Machine",
+        "re_string": "\\bRage Against the Machine\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 134,
+    "fields": {
+        "name": "Little Brother",
+        "re_string": "\\bLittle Brother\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 135,
+    "fields": {
+        "name": "Breakestra",
+        "re_string": "\\bBreakestra\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 136,
+    "fields": {
+        "name": "Dead Can Dance",
+        "re_string": "\\bDead Can Dance\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 137,
+    "fields": {
+        "name": "Panda Bear",
+        "re_string": "\\bPanda Bear\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 138,
+    "fields": {
+        "name": "The War on Drugs",
+        "re_string": "\\bThe War on Drugs\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 139,
+    "fields": {
+        "name": "Tortoise",
+        "re_string": "\\bTortoise\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 140,
+    "fields": {
+        "name": "David Hidalgo & Louie P\u00e9rez",
+        "re_string": "\\bDavid Hidalgo .? Louie P\u00e9rez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 141,
+    "fields": {
+        "name": "Genius/GZA",
+        "re_string": "\\bGenius.?GZA\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 142,
+    "fields": {
+        "name": "Takkyu Ishino",
+        "re_string": "\\bTakkyu Ishino\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 143,
+    "fields": {
+        "name": "Tim Hecker",
+        "re_string": "\\bTim Hecker\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 144,
+    "fields": {
+        "name": "Busta Rhymes",
+        "re_string": "\\bBusta Rhymes\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 145,
+    "fields": {
+        "name": "Royksopp",
+        "re_string": "\\bRoyksopp\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 146,
+    "fields": {
+        "name": "Godspeed You! Black Emperor",
+        "re_string": "\\bGodspeed You.? Black Emperor\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 147,
+    "fields": {
+        "name": "Epik High (\uc5d0\ud53d \ud558\uc774)",
+        "re_string": "\\bEpik High .?\uc5d0\ud53d \ud558\uc774.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 148,
+    "fields": {
+        "name": "Pharcyde",
+        "re_string": "\\bPharcyde\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 149,
+    "fields": {
+        "name": "Aphex Twin",
+        "re_string": "\\bAphex Twin\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 150,
+    "fields": {
+        "name": "Wye Oak",
+        "re_string": "\\bWye Oak\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 151,
+    "fields": {
+        "name": "Sunn O)))",
+        "re_string": "\\bSunn O.?.?.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 152,
+    "fields": {
+        "name": "Immanu El",
+        "re_string": "\\bImmanu El\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 153,
+    "fields": {
+        "name": "ZAZEN BOYS",
+        "re_string": "\\bZAZEN BOYS\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 154,
+    "fields": {
+        "name": "Meshuggah",
+        "re_string": "\\bMeshuggah\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 155,
+    "fields": {
+        "name": "Jay Rock",
+        "re_string": "\\bJay Rock\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 156,
+    "fields": {
+        "name": "Best Coast",
+        "re_string": "\\bBest Coast\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 157,
+    "fields": {
+        "name": "Pusha T",
+        "re_string": "\\bPusha T\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 158,
+    "fields": {
+        "name": "Handsome Boy Modeling School",
+        "re_string": "\\bHandsome Boy Modeling School\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 159,
+    "fields": {
+        "name": "Method Man",
+        "re_string": "\\bMethod Man\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 160,
+    "fields": {
+        "name": "D'Angelo",
+        "re_string": "\\bD.?Angelo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 161,
+    "fields": {
+        "name": "Katy B",
+        "re_string": "\\bKaty B\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 162,
+    "fields": {
+        "name": "La Roux",
+        "re_string": "\\bLa Roux\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 163,
+    "fields": {
+        "name": "Death From Above 1979",
+        "re_string": "\\bDeath From Above 1979\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 164,
+    "fields": {
+        "name": "Deafheaven",
+        "re_string": "\\bDeafheaven\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 165,
+    "fields": {
+        "name": "Jaga Jazzist",
+        "re_string": "\\bJaga Jazzist\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 166,
+    "fields": {
+        "name": "Dakhabrakha",
+        "re_string": "\\bDakhabrakha\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 167,
+    "fields": {
+        "name": "Herbie Hancock",
+        "re_string": "\\bHerbie Hancock\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 168,
+    "fields": {
+        "name": "Medeski Scofield Martin & Wood",
+        "re_string": "\\bMedeski Scofield Martin .? Wood\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 169,
+    "fields": {
+        "name": "Jodeci",
+        "re_string": "\\bJodeci\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 170,
+    "fields": {
+        "name": "Beirut",
+        "re_string": "\\bBeirut\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 171,
+    "fields": {
+        "name": "Steely Dan",
+        "re_string": "\\bSteely Dan\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 172,
+    "fields": {
+        "name": "Santigold",
+        "re_string": "\\bSantigold\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 173,
+    "fields": {
+        "name": "One Be Lo",
+        "re_string": "\\bOne Be Lo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 174,
+    "fields": {
+        "name": "Soulive",
+        "re_string": "\\bSoulive\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 175,
+    "fields": {
+        "name": "Fennesz",
+        "re_string": "\\bFennesz\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 176,
+    "fields": {
+        "name": "Rhye",
+        "re_string": "\\bRhye\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 177,
+    "fields": {
+        "name": "Melvins",
+        "re_string": "\\bMelvins\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 178,
+    "fields": {
+        "name": "Pete Yorn",
+        "re_string": "\\bPete Yorn\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 179,
+    "fields": {
+        "name": "Mastodon",
+        "re_string": "\\bMastodon\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 180,
+    "fields": {
+        "name": "Seu Jorge",
+        "re_string": "\\bSeu Jorge\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 181,
+    "fields": {
+        "name": "Thelonious Monk",
+        "re_string": "\\bThelonious Monk\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 182,
+    "fields": {
+        "name": "John Coltrane",
+        "re_string": "\\bJohn Coltrane\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 183,
+    "fields": {
+        "name": "Apparat",
+        "re_string": "\\bApparat\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 184,
+    "fields": {
+        "name": "Cody ChesnuTT",
+        "re_string": "\\bCody ChesnuTT\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 185,
+    "fields": {
+        "name": "Cursive",
+        "re_string": "\\bCursive\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 186,
+    "fields": {
+        "name": "Benny Greb",
+        "re_string": "\\bBenny Greb\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 187,
+    "fields": {
+        "name": "Elvis Costello",
+        "re_string": "\\bElvis Costello\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 188,
+    "fields": {
+        "name": "New Pornographers",
+        "re_string": "\\bNew Pornographers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 189,
+    "fields": {
+        "name": "Anthony Hamilton",
+        "re_string": "\\bAnthony Hamilton\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 190,
+    "fields": {
+        "name": "The Dead Texan",
+        "re_string": "\\bThe Dead Texan\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 191,
+    "fields": {
+        "name": "The American Dollar",
+        "re_string": "\\bThe American Dollar\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 192,
+    "fields": {
+        "name": "Mogwai",
+        "re_string": "\\bMogwai\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 193,
+    "fields": {
+        "name": "Nas & Damian Marley",
+        "re_string": "\\bNas .? Damian Marley\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 194,
+    "fields": {
+        "name": "North Mississippi Allstars",
+        "re_string": "\\bNorth Mississippi Allstars\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 195,
+    "fields": {
+        "name": "Band of Horses",
+        "re_string": "\\bBand of Horses\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 196,
+    "fields": {
+        "name": "Antemasque",
+        "re_string": "\\bAntemasque\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 197,
+    "fields": {
+        "name": "Happy End",
+        "re_string": "\\bHappy End\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 198,
+    "fields": {
+        "name": "Amiina",
+        "re_string": "\\bAmiina\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 199,
+    "fields": {
+        "name": "Xiu Xiu",
+        "re_string": "\\bXiu Xiu\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 200,
+    "fields": {
+        "name": "Big K.R.I.T.",
+        "re_string": "\\bBig K.?R.?I.?T.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 201,
+    "fields": {
+        "name": "Lonnie Smith",
+        "re_string": "\\bLonnie Smith\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 202,
+    "fields": {
+        "name": "Madlib",
+        "re_string": "\\bMadlib\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 203,
+    "fields": {
+        "name": "Lemonade",
+        "re_string": "\\bLemonade\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 204,
+    "fields": {
+        "name": "Segun Bucknor",
+        "re_string": "\\bSegun Bucknor\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 205,
+    "fields": {
+        "name": "Thom Yorke",
+        "re_string": "\\bThom Yorke\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 206,
+    "fields": {
+        "name": "Billy Bang",
+        "re_string": "\\bBilly Bang\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 207,
+    "fields": {
+        "name": "Derek Trucks Band",
+        "re_string": "\\bDerek Trucks Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 208,
+    "fields": {
+        "name": "Joshua Redman",
+        "re_string": "\\bJoshua Redman\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 209,
+    "fields": {
+        "name": "Ratatat",
+        "re_string": "\\bRatatat\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 210,
+    "fields": {
+        "name": "George Clinton and P-Funk",
+        "re_string": "\\bGeorge Clinton and P.?Funk\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 211,
+    "fields": {
+        "name": "Sonic Youth",
+        "re_string": "\\bSonic Youth\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 212,
+    "fields": {
+        "name": "Palms",
+        "re_string": "\\bPalms\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 213,
+    "fields": {
+        "name": "Marsha Ambrosius",
+        "re_string": "\\bMarsha Ambrosius\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 214,
+    "fields": {
+        "name": "Usher",
+        "re_string": "\\bUsher\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 215,
+    "fields": {
+        "name": "John Legend",
+        "re_string": "\\bJohn Legend\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 216,
+    "fields": {
+        "name": "Explosions In The Sky",
+        "re_string": "\\bExplosions In The Sky\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 217,
+    "fields": {
+        "name": "Monocism",
+        "re_string": "\\bMonocism\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 218,
+    "fields": {
+        "name": "Dub Trio",
+        "re_string": "\\bDub Trio\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 219,
+    "fields": {
+        "name": "A-Trak",
+        "re_string": "\\bA.?Trak\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 220,
+    "fields": {
+        "name": "Health",
+        "re_string": "\\bHealth\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 221,
+    "fields": {
+        "name": "Rufus Wainwright",
+        "re_string": "\\bRufus Wainwright\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 222,
+    "fields": {
+        "name": "Sianspheric",
+        "re_string": "\\bSianspheric\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 223,
+    "fields": {
+        "name": "Queens of the Stone Age",
+        "re_string": "\\bQueens of the Stone Age\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 224,
+    "fields": {
+        "name": "Stevie Wonder",
+        "re_string": "\\bStevie Wonder\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 225,
+    "fields": {
+        "name": "Heartless Bastards",
+        "re_string": "\\bHeartless Bastards\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 226,
+    "fields": {
+        "name": "Presidents of the United States of America",
+        "re_string": "\\bPresidents of the United States of America\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 227,
+    "fields": {
+        "name": "Stanton Moore",
+        "re_string": "\\bStanton Moore\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 228,
+    "fields": {
+        "name": "Cake",
+        "re_string": "\\bCake\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 229,
+    "fields": {
+        "name": "Kaki King",
+        "re_string": "\\bKaki King\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 230,
+    "fields": {
+        "name": "Sufjan Stevens",
+        "re_string": "\\bSufjan Stevens\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 231,
+    "fields": {
+        "name": "Bela Fleck",
+        "re_string": "\\bBela Fleck\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 232,
+    "fields": {
+        "name": "Jamie Xx",
+        "re_string": "\\bJamie Xx\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 233,
+    "fields": {
+        "name": "Mary J. Blige",
+        "re_string": "\\bMary J.? Blige\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 234,
+    "fields": {
+        "name": "Boris",
+        "re_string": "\\bBoris\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 235,
+    "fields": {
+        "name": "William Basinski",
+        "re_string": "\\bWilliam Basinski\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 236,
+    "fields": {
+        "name": "Lee Fields",
+        "re_string": "\\bLee Fields\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 237,
+    "fields": {
+        "name": "Lazer Life of Brooklyn Zoo",
+        "re_string": "\\bLazer Life of Brooklyn Zoo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 238,
+    "fields": {
+        "name": "John Beltran",
+        "re_string": "\\bJohn Beltran\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 239,
+    "fields": {
+        "name": "Sigur Ros",
+        "re_string": "\\bSigur Ros\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 240,
+    "fields": {
+        "name": "Van Morrison",
+        "re_string": "\\bVan Morrison\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 241,
+    "fields": {
+        "name": "Clipse",
+        "re_string": "\\bClipse\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 242,
+    "fields": {
+        "name": "Gov't Mule",
+        "re_string": "\\bGov.?t Mule\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 243,
+    "fields": {
+        "name": "Slowdive",
+        "re_string": "\\bSlowdive\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 244,
+    "fields": {
+        "name": "Bebel Gilberto",
+        "re_string": "\\bBebel Gilberto\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 245,
+    "fields": {
+        "name": "Phoenix",
+        "re_string": "\\bPhoenix\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 246,
+    "fields": {
+        "name": "Fiona Apple",
+        "re_string": "\\bFiona Apple\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 247,
+    "fields": {
+        "name": "Black Star",
+        "re_string": "\\bBlack Star\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 248,
+    "fields": {
+        "name": "OutKast",
+        "re_string": "\\bOutKast\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 249,
+    "fields": {
+        "name": "Alt-J",
+        "re_string": "\\bAlt.?J\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 250,
+    "fields": {
+        "name": "Secede",
+        "re_string": "\\bSecede\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 251,
+    "fields": {
+        "name": "School of Seven Bells",
+        "re_string": "\\bSchool of Seven Bells\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 252,
+    "fields": {
+        "name": "Wax",
+        "re_string": "\\bWax\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 253,
+    "fields": {
+        "name": "Imogen Heap ",
+        "re_string": "\\bImogen Heap \\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 254,
+    "fields": {
+        "name": "Static-X",
+        "re_string": "\\bStatic.?X\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 255,
+    "fields": {
+        "name": "Stanley Clarke",
+        "re_string": "\\bStanley Clarke\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 256,
+    "fields": {
+        "name": "Ken Andrews",
+        "re_string": "\\bKen Andrews\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 257,
+    "fields": {
+        "name": "Reggie Watts",
+        "re_string": "\\bReggie Watts\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 258,
+    "fields": {
+        "name": "Alex Cline",
+        "re_string": "\\bAlex Cline\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 259,
+    "fields": {
+        "name": "David Bowie",
+        "re_string": "\\bDavid Bowie\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 260,
+    "fields": {
+        "name": "Ride",
+        "re_string": "\\bRide\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 261,
+    "fields": {
+        "name": "Bun B",
+        "re_string": "\\bBun B\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 262,
+    "fields": {
+        "name": "The Black Keys",
+        "re_string": "\\bThe Black Keys\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 263,
+    "fields": {
+        "name": "Common",
+        "re_string": "\\bCommon\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 264,
+    "fields": {
+        "name": "Interpol",
+        "re_string": "\\bInterpol\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 265,
+    "fields": {
+        "name": "9dw",
+        "re_string": "\\b9dw\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 266,
+    "fields": {
+        "name": "Acid Mothers Temple & the Melting Paraiso U.F.O.",
+        "re_string": "\\bAcid Mothers Temple .? the Melting Paraiso U.?F.?O.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 267,
+    "fields": {
+        "name": "M-1",
+        "re_string": "\\bM.?1\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 268,
+    "fields": {
+        "name": "Iroha & Fragment.",
+        "re_string": "\\bIroha .? Fragment.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 269,
+    "fields": {
+        "name": "Kenny Rogers and the First Edition",
+        "re_string": "\\bKenny Rogers and the First Edition\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 270,
+    "fields": {
+        "name": "Doves",
+        "re_string": "\\bDoves\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 271,
+    "fields": {
+        "name": "DJ Logic",
+        "re_string": "\\bDJ Logic\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 272,
+    "fields": {
+        "name": "Killer Mike",
+        "re_string": "\\bKiller Mike\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 273,
+    "fields": {
+        "name": "Local Natives",
+        "re_string": "\\bLocal Natives\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 274,
+    "fields": {
+        "name": "Bitcrush",
+        "re_string": "\\bBitcrush\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 275,
+    "fields": {
+        "name": "Deep Blue Organ Trio",
+        "re_string": "\\bDeep Blue Organ Trio\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 276,
+    "fields": {
+        "name": "Ben Frost",
+        "re_string": "\\bBen Frost\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 277,
+    "fields": {
+        "name": "Working For a Nuclear Free City",
+        "re_string": "\\bWorking For a Nuclear Free City\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 278,
+    "fields": {
+        "name": "Yo La Tengo",
+        "re_string": "\\bYo La Tengo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 279,
+    "fields": {
+        "name": "Riceboy Sleeps",
+        "re_string": "\\bRiceboy Sleeps\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 280,
+    "fields": {
+        "name": "Bjork",
+        "re_string": "\\bBjork\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 281,
+    "fields": {
+        "name": "Kashiwa Daisuke",
+        "re_string": "\\bKashiwa Daisuke\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 282,
+    "fields": {
+        "name": "World's End Girlfriend",
+        "re_string": "\\bWorld.?s End Girlfriend\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 283,
+    "fields": {
+        "name": "Matt Marque",
+        "re_string": "\\bMatt Marque\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 284,
+    "fields": {
+        "name": "Russian Circles",
+        "re_string": "\\bRussian Circles\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 285,
+    "fields": {
+        "name": "David Sylvian",
+        "re_string": "\\bDavid Sylvian\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 286,
+    "fields": {
+        "name": "Muse",
+        "re_string": "\\bMuse\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 287,
+    "fields": {
+        "name": "Nels Cline",
+        "re_string": "\\bNels Cline\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 288,
+    "fields": {
+        "name": "Ours",
+        "re_string": "\\bOurs\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 289,
+    "fields": {
+        "name": "DJ Shadow",
+        "re_string": "\\bDJ Shadow\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 290,
+    "fields": {
+        "name": "J\u00f3nsi",
+        "re_string": "\\bJ\u00f3nsi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 291,
+    "fields": {
+        "name": "St. Vincent",
+        "re_string": "\\bSt.? Vincent\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 292,
+    "fields": {
+        "name": "Bootsy Collins",
+        "re_string": "\\bBootsy Collins\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 293,
+    "fields": {
+        "name": "John Hodgman",
+        "re_string": "\\bJohn Hodgman\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 294,
+    "fields": {
+        "name": "My Bloody Valentine",
+        "re_string": "\\bMy Bloody Valentine\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 295,
+    "fields": {
+        "name": "My Brightest Diamond",
+        "re_string": "\\bMy Brightest Diamond\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 296,
+    "fields": {
+        "name": "ASAP Rocky",
+        "re_string": "\\bASAP Rocky\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 297,
+    "fields": {
+        "name": "PJ Harvey",
+        "re_string": "\\bPJ Harvey\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 298,
+    "fields": {
+        "name": "Antibalas Afrobeat Orchestra",
+        "re_string": "\\bAntibalas Afrobeat Orchestra\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 299,
+    "fields": {
+        "name": "Blackalicious",
+        "re_string": "\\bBlackalicious\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 300,
+    "fields": {
+        "name": "Them Crooked Vultures",
+        "re_string": "\\bThem Crooked Vultures\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 301,
+    "fields": {
+        "name": "The Radio Dept.",
+        "re_string": "\\bThe Radio Dept.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 302,
+    "fields": {
+        "name": "Medeski, Martin and Wood",
+        "re_string": "\\bMedeski.? Martin and Wood\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 303,
+    "fields": {
+        "name": "Al Di Meola",
+        "re_string": "\\bAl Di Meola\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 304,
+    "fields": {
+        "name": "Boris & Ian Astbury",
+        "re_string": "\\bBoris .? Ian Astbury\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 305,
+    "fields": {
+        "name": "Sleepy Eyes of Death",
+        "re_string": "\\bSleepy Eyes of Death\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 306,
+    "fields": {
+        "name": "tUnE-yArDs",
+        "re_string": "\\btUnE.?yArDs\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 307,
+    "fields": {
+        "name": "Opeth",
+        "re_string": "\\bOpeth\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 308,
+    "fields": {
+        "name": "This Will Destroy You",
+        "re_string": "\\bThis Will Destroy You\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 309,
+    "fields": {
+        "name": "Merzbow",
+        "re_string": "\\bMerzbow\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 310,
+    "fields": {
+        "name": "Peter Gutteridge",
+        "re_string": "\\bPeter Gutteridge\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 311,
+    "fields": {
+        "name": "Zu",
+        "re_string": "\\bZu\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 312,
+    "fields": {
+        "name": "Moderat",
+        "re_string": "\\bModerat\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 313,
+    "fields": {
+        "name": "Dungeonesse",
+        "re_string": "\\bDungeonesse\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 314,
+    "fields": {
+        "name": "Lauryn Hill",
+        "re_string": "\\bLauryn Hill\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 315,
+    "fields": {
+        "name": "Rodrigo Y Gabriela",
+        "re_string": "\\bRodrigo Y Gabriela\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 316,
+    "fields": {
+        "name": "Q-Tip",
+        "re_string": "\\bQ.?Tip\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 317,
+    "fields": {
+        "name": "Melee Beats",
+        "re_string": "\\bMelee Beats\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 318,
+    "fields": {
+        "name": "Hugh Masakela & The Union of South Africa",
+        "re_string": "\\bHugh Masakela .? The Union of South Africa\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 319,
+    "fields": {
+        "name": "Ass Trio",
+        "re_string": "\\bAss Trio\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 320,
+    "fields": {
+        "name": "Robert Glasper Experiment",
+        "re_string": "\\bRobert Glasper Experiment\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 321,
+    "fields": {
+        "name": "Airhead & James Blake",
+        "re_string": "\\bAirhead .? James Blake\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 322,
+    "fields": {
+        "name": "Do Make Say Think",
+        "re_string": "\\bDo Make Say Think\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 323,
+    "fields": {
+        "name": "K. Frimpong & His Cubano Fiestas",
+        "re_string": "\\bK.? Frimpong .? His Cubano Fiestas\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 324,
+    "fields": {
+        "name": "Snoop Dogg",
+        "re_string": "\\bSnoop Dogg\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 325,
+    "fields": {
+        "name": "Ofo The Black Company",
+        "re_string": "\\bOfo The Black Company\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 326,
+    "fields": {
+        "name": "Slint",
+        "re_string": "\\bSlint\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 327,
+    "fields": {
+        "name": "Julianna Barwick",
+        "re_string": "\\bJulianna Barwick\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 328,
+    "fields": {
+        "name": "Pelican",
+        "re_string": "\\bPelican\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 329,
+    "fields": {
+        "name": "Merzbow & Bal\u00e1zs P\u00e1ndi",
+        "re_string": "\\bMerzbow .? Bal\u00e1zs P\u00e1ndi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 330,
+    "fields": {
+        "name": "NRBQ",
+        "re_string": "\\bNRBQ\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 331,
+    "fields": {
+        "name": "Massive Attack",
+        "re_string": "\\bMassive Attack\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 332,
+    "fields": {
+        "name": "Chemical Brothers",
+        "re_string": "\\bChemical Brothers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 334,
+    "fields": {
+        "name": "Los Lobos",
+        "re_string": "\\bLos Lobos\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 335,
+    "fields": {
+        "name": "Jessie Ware",
+        "re_string": "\\bJessie Ware\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 336,
+    "fields": {
+        "name": "Billy Martin and John Medeski",
+        "re_string": "\\bBilly Martin and John Medeski\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 337,
+    "fields": {
+        "name": "Vince Staples",
+        "re_string": "\\bVince Staples\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 338,
+    "fields": {
+        "name": "Three Dog Night",
+        "re_string": "\\bThree Dog Night\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 339,
+    "fields": {
+        "name": "Ben Folds Five",
+        "re_string": "\\bBen Folds Five\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 340,
+    "fields": {
+        "name": "Dirty Projectors",
+        "re_string": "\\bDirty Projectors\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 341,
+    "fields": {
+        "name": "Michelle Branch",
+        "re_string": "\\bMichelle Branch\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 342,
+    "fields": {
+        "name": "Del Tha Funkee Homosapien",
+        "re_string": "\\bDel Tha Funkee Homosapien\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 343,
+    "fields": {
+        "name": "Autechre",
+        "re_string": "\\bAutechre\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 344,
+    "fields": {
+        "name": "Musiq",
+        "re_string": "\\bMusiq\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 345,
+    "fields": {
+        "name": "Jonny Greenwood",
+        "re_string": "\\bJonny Greenwood\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 346,
+    "fields": {
+        "name": "Yardbirds",
+        "re_string": "\\bYardbirds\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 347,
+    "fields": {
+        "name": "B.B. King",
+        "re_string": "\\bB.?B.? King\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 348,
+    "fields": {
+        "name": "Mono & World's End Girlfriend",
+        "re_string": "\\bMono .? World.?s End Girlfriend\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 349,
+    "fields": {
+        "name": "Belong",
+        "re_string": "\\bBelong\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 351,
+    "fields": {
+        "name": "Logic",
+        "re_string": "\\bLogic\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 352,
+    "fields": {
+        "name": "Masters of Groove",
+        "re_string": "\\bMasters of Groove\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 353,
+    "fields": {
+        "name": "City of Echoes",
+        "re_string": "\\bCity of Echoes\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 354,
+    "fields": {
+        "name": "Count Basie",
+        "re_string": "\\bCount Basie\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 355,
+    "fields": {
+        "name": "The Field",
+        "re_string": "\\bThe Field\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 356,
+    "fields": {
+        "name": "Jim O'Rourke",
+        "re_string": "\\bJim O.?Rourke\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 357,
+    "fields": {
+        "name": "Jimmy Smith",
+        "re_string": "\\bJimmy Smith\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 358,
+    "fields": {
+        "name": "Tony Allen & His Afro Messengers",
+        "re_string": "\\bTony Allen .? His Afro Messengers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 359,
+    "fields": {
+        "name": "Wolves in the Throne Room",
+        "re_string": "\\bWolves in the Throne Room\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 360,
+    "fields": {
+        "name": "Anouman",
+        "re_string": "\\bAnouman\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 361,
+    "fields": {
+        "name": "Anamanaguchi",
+        "re_string": "\\bAnamanaguchi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 362,
+    "fields": {
+        "name": "M.I.A.",
+        "re_string": "\\bM.?I.?A.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 363,
+    "fields": {
+        "name": "Greyboy",
+        "re_string": "\\bGreyboy\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 364,
+    "fields": {
+        "name": "Ibrahim Maalouf",
+        "re_string": "\\bIbrahim Maalouf\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 365,
+    "fields": {
+        "name": "Nusrat Fateh Ali Khan",
+        "re_string": "\\bNusrat Fateh Ali Khan\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 366,
+    "fields": {
+        "name": "3toes",
+        "re_string": "\\b3toes\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 367,
+    "fields": {
+        "name": "Dick Khoza",
+        "re_string": "\\bDick Khoza\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 368,
+    "fields": {
+        "name": "Marco Polo",
+        "re_string": "\\bMarco Polo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 369,
+    "fields": {
+        "name": "Bibio",
+        "re_string": "\\bBibio\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 370,
+    "fields": {
+        "name": "Max Roach",
+        "re_string": "\\bMax Roach\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 371,
+    "fields": {
+        "name": "Prince",
+        "re_string": "\\bPrince\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 372,
+    "fields": {
+        "name": "Ebenezer Obey",
+        "re_string": "\\bEbenezer Obey\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 373,
+    "fields": {
+        "name": "J Dilla",
+        "re_string": "\\bJ Dilla\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 374,
+    "fields": {
+        "name": "Henry Krinkle",
+        "re_string": "\\bHenry Krinkle\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 375,
+    "fields": {
+        "name": "Todd Terje",
+        "re_string": "\\bTodd Terje\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 376,
+    "fields": {
+        "name": "Cocteau Twins",
+        "re_string": "\\bCocteau Twins\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 377,
+    "fields": {
+        "name": "Omarion",
+        "re_string": "\\bOmarion\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 378,
+    "fields": {
+        "name": "Chaka Khan",
+        "re_string": "\\bChaka Khan\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 379,
+    "fields": {
+        "name": "Joe Cocker",
+        "re_string": "\\bJoe Cocker\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 380,
+    "fields": {
+        "name": "Talib Kweli",
+        "re_string": "\\bTalib Kweli\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 381,
+    "fields": {
+        "name": "Wes Montgomery",
+        "re_string": "\\bWes Montgomery\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 382,
+    "fields": {
+        "name": "Bon Iver",
+        "re_string": "\\bBon Iver\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 383,
+    "fields": {
+        "name": "Kendrick Lamar",
+        "re_string": "\\bKendrick Lamar\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 384,
+    "fields": {
+        "name": "Phish",
+        "re_string": "\\bPhish\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 385,
+    "fields": {
+        "name": "Cyril Hahn & Javeon",
+        "re_string": "\\bCyril Hahn .? Javeon\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 386,
+    "fields": {
+        "name": "Jeff Buckley",
+        "re_string": "\\bJeff Buckley\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 387,
+    "fields": {
+        "name": "Toro Y Moi",
+        "re_string": "\\bToro Y Moi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 388,
+    "fields": {
+        "name": "My Morning Jacket",
+        "re_string": "\\bMy Morning Jacket\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 389,
+    "fields": {
+        "name": "Frank Ocean",
+        "re_string": "\\bFrank Ocean\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 390,
+    "fields": {
+        "name": "Fuck Buttons",
+        "re_string": "\\bFuck Buttons\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 391,
+    "fields": {
+        "name": "London Grammar",
+        "re_string": "\\bLondon Grammar\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 392,
+    "fields": {
+        "name": "Beyonc\u00e9",
+        "re_string": "\\bBeyonc\u00e9\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 393,
+    "fields": {
+        "name": "John Lee Hooker & Canned Heat",
+        "re_string": "\\bJohn Lee Hooker .? Canned Heat\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 394,
+    "fields": {
+        "name": "Super Mambo 69",
+        "re_string": "\\bSuper Mambo 69\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 395,
+    "fields": {
+        "name": "Tunde Williams & Africa 70",
+        "re_string": "\\bTunde Williams .? Africa 70\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 396,
+    "fields": {
+        "name": "Stars of the Lid",
+        "re_string": "\\bStars of the Lid\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 397,
+    "fields": {
+        "name": "El Grupo Nuevo de Omar Rodriguez-Lopez",
+        "re_string": "\\bEl Grupo Nuevo de Omar Rodriguez.?Lopez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 398,
+    "fields": {
+        "name": "Freddie Gibbs",
+        "re_string": "\\bFreddie Gibbs\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 399,
+    "fields": {
+        "name": "Bohren & Der Club of Gore",
+        "re_string": "\\bBohren .? Der Club of Gore\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 400,
+    "fields": {
+        "name": "Telefon Tel Aviv",
+        "re_string": "\\bTelefon Tel Aviv\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 401,
+    "fields": {
+        "name": "Sam Cooke",
+        "re_string": "\\bSam Cooke\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 402,
+    "fields": {
+        "name": "Gregory Porter",
+        "re_string": "\\bGregory Porter\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 403,
+    "fields": {
+        "name": "Young Jeezy",
+        "re_string": "\\bYoung Jeezy\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 404,
+    "fields": {
+        "name": "Black Rebel Motorcycle Club",
+        "re_string": "\\bBlack Rebel Motorcycle Club\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 405,
+    "fields": {
+        "name": "Jay-Z",
+        "re_string": "\\bJay.?Z\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 406,
+    "fields": {
+        "name": "M83",
+        "re_string": "\\bM83\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 407,
+    "fields": {
+        "name": "Art Blakey & the Jazz Messengers",
+        "re_string": "\\bArt Blakey .? the Jazz Messengers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 408,
+    "fields": {
+        "name": "Simian Mobile Disco",
+        "re_string": "\\bSimian Mobile Disco\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 409,
+    "fields": {
+        "name": "Tenacious D",
+        "re_string": "\\bTenacious D\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 410,
+    "fields": {
+        "name": "Neko Case",
+        "re_string": "\\bNeko Case\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 411,
+    "fields": {
+        "name": "James Blake",
+        "re_string": "\\bJames Blake\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 412,
+    "fields": {
+        "name": "B\u00e9la Fleck",
+        "re_string": "\\bB\u00e9la Fleck\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 413,
+    "fields": {
+        "name": "Rachel's",
+        "re_string": "\\bRachel.?s\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 414,
+    "fields": {
+        "name": "Victor Wooten",
+        "re_string": "\\bVictor Wooten\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 415,
+    "fields": {
+        "name": "A Tribe Called Quest",
+        "re_string": "\\bA Tribe Called Quest\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 416,
+    "fields": {
+        "name": "Nas",
+        "re_string": "\\bNas\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 417,
+    "fields": {
+        "name": "Charlie Hunter Trio",
+        "re_string": "\\bCharlie Hunter Trio\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 418,
+    "fields": {
+        "name": "Bilal",
+        "re_string": "\\bBilal\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 419,
+    "fields": {
+        "name": "Jean Grae",
+        "re_string": "\\bJean Grae\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 420,
+    "fields": {
+        "name": "Parliament",
+        "re_string": "\\bParliament\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 421,
+    "fields": {
+        "name": "Tower of Power",
+        "re_string": "\\bTower of Power\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 422,
+    "fields": {
+        "name": "Omar Rodr\u00edguez-L\u00f3pez",
+        "re_string": "\\bOmar Rodr\u00edguez.?L\u00f3pez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 423,
+    "fields": {
+        "name": "Amon Tobin",
+        "re_string": "\\bAmon Tobin\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 424,
+    "fields": {
+        "name": "Eluvium",
+        "re_string": "\\bEluvium\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 425,
+    "fields": {
+        "name": "Run The Jewels",
+        "re_string": "\\bRun The Jewels\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 426,
+    "fields": {
+        "name": "Beastie Boys",
+        "re_string": "\\bBeastie Boys\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 427,
+    "fields": {
+        "name": "Wild Blue",
+        "re_string": "\\bWild Blue\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 428,
+    "fields": {
+        "name": "CocoRosie",
+        "re_string": "\\bCocoRosie\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 429,
+    "fields": {
+        "name": "Lunar Heights",
+        "re_string": "\\bLunar Heights\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 430,
+    "fields": {
+        "name": "UGK",
+        "re_string": "\\bUGK\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 431,
+    "fields": {
+        "name": "...And You Will Know Us By the Trail of Dead",
+        "re_string": "\\b.?.?.?And You Will Know Us By the Trail of Dead\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 432,
+    "fields": {
+        "name": "Beck",
+        "re_string": "\\bBeck\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 433,
+    "fields": {
+        "name": "Oneida",
+        "re_string": "\\bOneida\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 434,
+    "fields": {
+        "name": "Robert Fripp",
+        "re_string": "\\bRobert Fripp\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 435,
+    "fields": {
+        "name": "Doors",
+        "re_string": "\\bDoors\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 436,
+    "fields": {
+        "name": "N.A.S.A.",
+        "re_string": "\\bN.?A.?S.?A.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 437,
+    "fields": {
+        "name": "Charlie Hunter & Pound for Pound",
+        "re_string": "\\bCharlie Hunter .? Pound for Pound\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 438,
+    "fields": {
+        "name": "Dawn of Midi",
+        "re_string": "\\bDawn of Midi\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 439,
+    "fields": {
+        "name": "Aloe Blacc",
+        "re_string": "\\bAloe Blacc\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 440,
+    "fields": {
+        "name": "Flux Pavilion",
+        "re_string": "\\bFlux Pavilion\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 441,
+    "fields": {
+        "name": "Jeff Beck",
+        "re_string": "\\bJeff Beck\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 442,
+    "fields": {
+        "name": "Bj\u00f6rk",
+        "re_string": "\\bBj\u00f6rk\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 443,
+    "fields": {
+        "name": "Blo",
+        "re_string": "\\bBlo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 444,
+    "fields": {
+        "name": "Albert King",
+        "re_string": "\\bAlbert King\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 445,
+    "fields": {
+        "name": "Charlie Parker",
+        "re_string": "\\bCharlie Parker\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 446,
+    "fields": {
+        "name": "Funkadelic",
+        "re_string": "\\bFunkadelic\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 447,
+    "fields": {
+        "name": "Sunn 0)))",
+        "re_string": "\\bSunn 0.?.?.?\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 448,
+    "fields": {
+        "name": "Chick Corea & Bela Fleck",
+        "re_string": "\\bChick Corea .? Bela Fleck\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 449,
+    "fields": {
+        "name": "Steven Wilson",
+        "re_string": "\\bSteven Wilson\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 450,
+    "fields": {
+        "name": "Alicia Keys",
+        "re_string": "\\bAlicia Keys\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 451,
+    "fields": {
+        "name": "Del the Funky Homosapien",
+        "re_string": "\\bDel the Funky Homosapien\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 452,
+    "fields": {
+        "name": "Sergio Mendes & Brasil 66",
+        "re_string": "\\bSergio Mendes .? Brasil 66\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 453,
+    "fields": {
+        "name": "Chick Corea Electric Band",
+        "re_string": "\\bChick Corea Electric Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 454,
+    "fields": {
+        "name": "Dream Theater",
+        "re_string": "\\bDream Theater\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 455,
+    "fields": {
+        "name": "Lianne La Havas",
+        "re_string": "\\bLianne La Havas\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 456,
+    "fields": {
+        "name": "The Weeknd",
+        "re_string": "\\bThe Weeknd\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 457,
+    "fields": {
+        "name": "Animal Collective",
+        "re_string": "\\bAnimal Collective\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 458,
+    "fields": {
+        "name": "Mahavishnu Orchestra",
+        "re_string": "\\bMahavishnu Orchestra\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 459,
+    "fields": {
+        "name": "T\u00e9",
+        "re_string": "\\bT\u00e9\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 460,
+    "fields": {
+        "name": "Bass Communion",
+        "re_string": "\\bBass Communion\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 462,
+    "fields": {
+        "name": "Jimmy McGriff",
+        "re_string": "\\bJimmy McGriff\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 463,
+    "fields": {
+        "name": "Nicki Minaj",
+        "re_string": "\\bNicki Minaj\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 464,
+    "fields": {
+        "name": "Robyn",
+        "re_string": "\\bRobyn\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 465,
+    "fields": {
+        "name": "The Brian Jonestown Massacre",
+        "re_string": "\\bThe Brian Jonestown Massacre\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 466,
+    "fields": {
+        "name": "Salif Keita",
+        "re_string": "\\bSalif Keita\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 467,
+    "fields": {
+        "name": "Morrissey",
+        "re_string": "\\bMorrissey\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 468,
+    "fields": {
+        "name": "Kylie Minogue",
+        "re_string": "\\bKylie Minogue\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 469,
+    "fields": {
+        "name": "Sex Pistols",
+        "re_string": "\\bSex Pistols\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 470,
+    "fields": {
+        "name": "Public Enemy",
+        "re_string": "\\bPublic Enemy\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 471,
+    "fields": {
+        "name": "Pixies",
+        "re_string": "\\bPixies\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 472,
+    "fields": {
+        "name": "Grand Funk Railroad",
+        "re_string": "\\bGrand Funk Railroad\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 473,
+    "fields": {
+        "name": "Paul Hillier & Theatre of Voices",
+        "re_string": "\\bPaul Hillier .? Theatre of Voices\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 474,
+    "fields": {
+        "name": "Weather Report",
+        "re_string": "\\bWeather Report\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 475,
+    "fields": {
+        "name": "Butthole Surfers",
+        "re_string": "\\bButthole Surfers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 476,
+    "fields": {
+        "name": "Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band",
+        "re_string": "\\bThee Silver Mt.? Zion Memorial Orchestra .? Tra.?La.?La Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 477,
+    "fields": {
+        "name": "The Allman Brothers Band",
+        "re_string": "\\bThe Allman Brothers Band\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 478,
+    "fields": {
+        "name": "Neil Young",
+        "re_string": "\\bNeil Young\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 479,
+    "fields": {
+        "name": "Chromeo",
+        "re_string": "\\bChromeo\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 480,
+    "fields": {
+        "name": "LCD Soundsystem",
+        "re_string": "\\bLCD Soundsystem\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 482,
+    "fields": {
+        "name": "Local H",
+        "re_string": "\\bLocal H\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 483,
+    "fields": {
+        "name": "John McLaughlin",
+        "re_string": "\\bJohn McLaughlin\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 484,
+    "fields": {
+        "name": "Curtis Mayfield",
+        "re_string": "\\bCurtis Mayfield\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 485,
+    "fields": {
+        "name": "Wale",
+        "re_string": "\\bWale\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 486,
+    "fields": {
+        "name": "Segun Bucknor & His Revolution",
+        "re_string": "\\bSegun Bucknor .? His Revolution\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 487,
+    "fields": {
+        "name": "Horace Silver",
+        "re_string": "\\bHorace Silver\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 488,
+    "fields": {
+        "name": "Daft Punk",
+        "re_string": "\\bDaft Punk\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 489,
+    "fields": {
+        "name": "Weezer",
+        "re_string": "\\bWeezer\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 490,
+    "fields": {
+        "name": "David Byrne",
+        "re_string": "\\bDavid Byrne\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 491,
+    "fields": {
+        "name": "King Crimson",
+        "re_string": "\\bKing Crimson\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 493,
+    "fields": {
+        "name": "Sade",
+        "re_string": "\\bSade\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 494,
+    "fields": {
+        "name": "Chief Commander Ebenezer Obey ",
+        "re_string": "\\bChief Commander Ebenezer Obey \\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 496,
+    "fields": {
+        "name": "Gil Scott-Heron",
+        "re_string": "\\bGil Scott.?Heron\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 497,
+    "fields": {
+        "name": "The Knife",
+        "re_string": "\\bThe Knife\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 498,
+    "fields": {
+        "name": "Melee",
+        "re_string": "\\bMelee\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 499,
+    "fields": {
+        "name": "Devin Townsend",
+        "re_string": "\\bDevin Townsend\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 500,
+    "fields": {
+        "name": "BADBADNOTGOOD",
+        "re_string": "\\bBADBADNOTGOOD\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 501,
+    "fields": {
+        "name": "Billy Martin",
+        "re_string": "\\bBilly Martin\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 502,
+    "fields": {
+        "name": "Cyril Hahn",
+        "re_string": "\\bCyril Hahn\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 503,
+    "fields": {
+        "name": "Supreme Cuts",
+        "re_string": "\\bSupreme Cuts\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 504,
+    "fields": {
+        "name": "Chevelle",
+        "re_string": "\\bChevelle\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 505,
+    "fields": {
+        "name": "Andrew Bird",
+        "re_string": "\\bAndrew Bird\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 506,
+    "fields": {
+        "name": "Groove Armada",
+        "re_string": "\\bGroove Armada\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 507,
+    "fields": {
+        "name": "Wu-Tang Clan",
+        "re_string": "\\bWu.?Tang Clan\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 508,
+    "fields": {
+        "name": "Tool",
+        "re_string": "\\bTool\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 509,
+    "fields": {
+        "name": "Fonica",
+        "re_string": "\\bFonica\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 510,
+    "fields": {
+        "name": "Ghostface Killah",
+        "re_string": "\\bGhostface Killah\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 511,
+    "fields": {
+        "name": "Joe Satriani",
+        "re_string": "\\bJoe Satriani\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 512,
+    "fields": {
+        "name": "Black Keys",
+        "re_string": "\\bBlack Keys\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 513,
+    "fields": {
+        "name": "Telepopmusik",
+        "re_string": "\\bTelepopmusik\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 514,
+    "fields": {
+        "name": "Bone Thugs-N-Harmony",
+        "re_string": "\\bBone Thugs.?N.?Harmony\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 515,
+    "fields": {
+        "name": "The Depreciation Guild",
+        "re_string": "\\bThe Depreciation Guild\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 516,
+    "fields": {
+        "name": "Outkast",
+        "re_string": "\\bOutkast\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 517,
+    "fields": {
+        "name": "Super Eagles",
+        "re_string": "\\bSuper Eagles\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 518,
+    "fields": {
+        "name": "Red Hot Chili Peppers",
+        "re_string": "\\bRed Hot Chili Peppers\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 519,
+    "fields": {
+        "name": "Julianna Barwick & Ikue Mori",
+        "re_string": "\\bJulianna Barwick .? Ikue Mori\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 520,
+    "fields": {
+        "name": "El Trio de Omar Rodriguez Lopez",
+        "re_string": "\\bEl Trio de Omar Rodriguez Lopez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 521,
+    "fields": {
+        "name": "Kanye West",
+        "re_string": "\\bKanye West\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 522,
+    "fields": {
+        "name": "Nine Inch Nails",
+        "re_string": "\\bNine Inch Nails\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 523,
+    "fields": {
+        "name": "Deftones",
+        "re_string": "\\bDeftones\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 524,
+    "fields": {
+        "name": "Incubus",
+        "re_string": "\\bIncubus\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 525,
+    "fields": {
+        "name": "Talking Heads",
+        "re_string": "\\bTalking Heads\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 526,
+    "fields": {
+        "name": "Charles Hamilton",
+        "re_string": "\\bCharles Hamilton\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 527,
+    "fields": {
+        "name": "65DAYSOFSTATIC",
+        "re_string": "\\b65DAYSOFSTATIC\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 528,
+    "fields": {
+        "name": "God is an Astronaut",
+        "re_string": "\\bGod is an Astronaut\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 529,
+    "fields": {
+        "name": "Luniz",
+        "re_string": "\\bLuniz\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 530,
+    "fields": {
+        "name": "Al Green",
+        "re_string": "\\bAl Green\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 531,
+    "fields": {
+        "name": "Air",
+        "re_string": "\\bAir\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 532,
+    "fields": {
+        "name": "NOMO",
+        "re_string": "\\bNOMO\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 533,
+    "fields": {
+        "name": "Santana",
+        "re_string": "\\bSantana\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 534,
+    "fields": {
+        "name": "Emerson Lake and Palmer",
+        "re_string": "\\bEmerson Lake and Palmer\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 535,
+    "fields": {
+        "name": "Tori Amos",
+        "re_string": "\\bTori Amos\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 536,
+    "fields": {
+        "name": "The Sea and Cake",
+        "re_string": "\\bThe Sea and Cake\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 537,
+    "fields": {
+        "name": "Zazen Boys",
+        "re_string": "\\bZazen Boys\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 538,
+    "fields": {
+        "name": "Crippled Black Phoenix",
+        "re_string": "\\bCrippled Black Phoenix\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 539,
+    "fields": {
+        "name": "Aidan Baker & Tim Hecker",
+        "re_string": "\\bAidan Baker .? Tim Hecker\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 540,
+    "fields": {
+        "name": "Mono",
+        "re_string": "\\bMono\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 541,
+    "fields": {
+        "name": "Brian Eno",
+        "re_string": "\\bBrian Eno\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 542,
+    "fields": {
+        "name": "R\u00f6yksopp",
+        "re_string": "\\bR\u00f6yksopp\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 543,
+    "fields": {
+        "name": "Who",
+        "re_string": "\\bWho\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 544,
+    "fields": {
+        "name": "M\u00fam",
+        "re_string": "\\bM\u00fam\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 545,
+    "fields": {
+        "name": "Four Tet",
+        "re_string": "\\bFour Tet\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 546,
+    "fields": {
+        "name": "Ghosts on Tape",
+        "re_string": "\\bGhosts on Tape\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 547,
+    "fields": {
+        "name": "Bela Fleck and the Flecktones",
+        "re_string": "\\bBela Fleck and the Flecktones\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 548,
+    "fields": {
+        "name": "El Guincho",
+        "re_string": "\\bEl Guincho\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 550,
+    "fields": {
+        "name": "Maceo Parker",
+        "re_string": "\\bMaceo Parker\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 551,
+    "fields": {
+        "name": "Damian Marley",
+        "re_string": "\\bDamian Marley\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 552,
+    "fields": {
+        "name": "White Stripes",
+        "re_string": "\\bWhite Stripes\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 553,
+    "fields": {
+        "name": "Ben Folds",
+        "re_string": "\\bBen Folds\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 554,
+    "fields": {
+        "name": "Jennifer Lopez",
+        "re_string": "\\bJennifer Lopez\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 555,
+    "fields": {
+        "name": "The Devin Townsend Project",
+        "re_string": "\\bThe Devin Townsend Project\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 556,
+    "fields": {
+        "name": "The Meters",
+        "re_string": "\\bThe Meters\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 557,
+    "fields": {
+        "name": "Chick Corea",
+        "re_string": "\\bChick Corea\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 558,
+    "fields": {
+        "name": "John Scofield",
+        "re_string": "\\bJohn Scofield\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 559,
+    "fields": {
+        "name": "Gramatik",
+        "re_string": "\\bGramatik\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 560,
+    "fields": {
+        "name": "Porcupine Tree",
+        "re_string": "\\bPorcupine Tree\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 561,
+    "fields": {
+        "name": "The Word",
+        "re_string": "\\bThe Word\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 562,
+    "fields": {
+        "name": "Charlie Byrd Trio",
+        "re_string": "\\bCharlie Byrd Trio\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 563,
+    "fields": {
+        "name": "Eagles of Death Metal",
+        "re_string": "\\bEagles of Death Metal\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 564,
+    "fields": {
+        "name": "Fugees",
+        "re_string": "\\bFugees\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 565,
+    "fields": {
+        "name": "Aesop Rock",
+        "re_string": "\\bAesop Rock\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 566,
+    "fields": {
+        "name": "Radiohead",
+        "re_string": "\\bRadiohead\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 567,
+    "fields": {
+        "name": "DJ Godfather",
+        "re_string": "\\bDJ Godfather\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 568,
+    "fields": {
+        "name": "Tom Waits",
+        "re_string": "\\bTom Waits\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 569,
+    "fields": {
+        "name": "Chance The Rapper",
+        "re_string": "\\bChance The Rapper\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 570,
+    "fields": {
+        "name": "Sun Ra",
+        "re_string": "\\bSun Ra\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 571,
+    "fields": {
+        "name": "R\u00f6yksopp & Robyn",
+        "re_string": "\\bR\u00f6yksopp .? Robyn\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 572,
+    "fields": {
+        "name": "Rahzel",
+        "re_string": "\\bRahzel\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 573,
+    "fields": {
+        "name": "Joe Pass",
+        "re_string": "\\bJoe Pass\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 574,
+    "fields": {
+        "name": "The Cool Kids",
+        "re_string": "\\bThe Cool Kids\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 575,
+    "fields": {
+        "name": "Portishead",
+        "re_string": "\\bPortishead\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 576,
+    "fields": {
+        "name": "Antibalas",
+        "re_string": "\\bAntibalas\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 577,
+    "fields": {
+        "name": "The Cure",
+        "re_string": "\\bThe Cure\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 578,
+    "fields": {
+        "name": "The Roots",
+        "re_string": "\\bThe Roots\\b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 579,
+    "fields": {
+        "name": "MSTRKRFT",
+        "re_string": "\\bMSTRKRFT\\b",
+        "is_active": true
+    }
+}
+]
