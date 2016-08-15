@@ -6,6 +6,7 @@ from django.db import models
 class Artist(models.Model):
     name = models.CharField(max_length=200)
     re_string = models.CharField(max_length=200)
+    spotify_id = models.CharField(max_length=200, blank=True)
     is_active = models.BooleanField(default=True)
 
     def __str__(self):
