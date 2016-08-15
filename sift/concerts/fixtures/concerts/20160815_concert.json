@@ -8,7 +8,7 @@
         "date_time": "2016-08-17T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6737985",
-        "date_scraped": "2016-08-15T17:28:16.307Z",
+        "date_scraped": "2016-08-15T17:40:51.120Z",
         "is_active": true,
         "artists": []
     }
@@ -22,7 +22,7 @@
         "date_time": "2016-08-18T02:00:00Z",
         "price": "$5.00",
         "url": "http://emptybottle.com/?event_id=6824645",
-        "date_scraped": "2016-08-15T17:28:16.309Z",
+        "date_scraped": "2016-08-15T17:40:51.413Z",
         "is_active": true,
         "artists": []
     }
@@ -36,7 +36,7 @@
         "date_time": "2016-08-19T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6805635",
-        "date_scraped": "2016-08-15T17:28:16.311Z",
+        "date_scraped": "2016-08-15T17:40:51.418Z",
         "is_active": true,
         "artists": []
     }
@@ -50,7 +50,7 @@
         "date_time": "2016-08-19T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823755",
-        "date_scraped": "2016-08-15T17:28:16.312Z",
+        "date_scraped": "2016-08-15T17:40:51.422Z",
         "is_active": true,
         "artists": []
     }
@@ -64,7 +64,7 @@
         "date_time": "2016-08-20T02:00:00Z",
         "price": "$12 (advance), $14",
         "url": "http://emptybottle.com/?event_id=6663655",
-        "date_scraped": "2016-08-15T17:28:16.314Z",
+        "date_scraped": "2016-08-15T17:40:51.425Z",
         "is_active": true,
         "artists": []
     }
@@ -78,7 +78,7 @@
         "date_time": "2016-08-21T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6729295",
-        "date_scraped": "2016-08-15T17:28:16.315Z",
+        "date_scraped": "2016-08-15T17:40:51.428Z",
         "is_active": true,
         "artists": []
     }
@@ -92,7 +92,7 @@
         "date_time": "2016-08-22T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6825445",
-        "date_scraped": "2016-08-15T17:28:16.317Z",
+        "date_scraped": "2016-08-15T17:40:51.430Z",
         "is_active": true,
         "artists": []
     }
@@ -106,7 +106,7 @@
         "date_time": "2016-08-23T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6818085",
-        "date_scraped": "2016-08-15T17:28:16.318Z",
+        "date_scraped": "2016-08-15T17:40:51.432Z",
         "is_active": true,
         "artists": []
     }
@@ -120,7 +120,7 @@
         "date_time": "2016-08-24T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6729555",
-        "date_scraped": "2016-08-15T17:28:16.320Z",
+        "date_scraped": "2016-08-15T17:40:51.433Z",
         "is_active": true,
         "artists": []
     }
@@ -134,7 +134,7 @@
         "date_time": "2016-08-25T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6715285",
-        "date_scraped": "2016-08-15T17:28:16.322Z",
+        "date_scraped": "2016-08-15T17:40:51.434Z",
         "is_active": true,
         "artists": []
     }
@@ -148,7 +148,7 @@
         "date_time": "2016-08-26T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6744915",
-        "date_scraped": "2016-08-15T17:28:16.323Z",
+        "date_scraped": "2016-08-15T17:40:51.435Z",
         "is_active": true,
         "artists": []
     }
@@ -162,7 +162,7 @@
         "date_time": "2016-08-26T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823785",
-        "date_scraped": "2016-08-15T17:28:16.325Z",
+        "date_scraped": "2016-08-15T17:40:51.437Z",
         "is_active": true,
         "artists": []
     }
@@ -176,7 +176,7 @@
         "date_time": "2016-08-27T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6798375",
-        "date_scraped": "2016-08-15T17:28:16.327Z",
+        "date_scraped": "2016-08-15T17:40:51.438Z",
         "is_active": true,
         "artists": []
     }
@@ -190,7 +190,7 @@
         "date_time": "2016-08-27T19:00:00Z",
         "price": "Free Show",
         "url": "http://emptybottle.com/?event_id=6858355",
-        "date_scraped": "2016-08-15T17:28:16.330Z",
+        "date_scraped": "2016-08-15T17:40:51.439Z",
         "is_active": true,
         "artists": []
     }
@@ -204,7 +204,7 @@
         "date_time": "2016-08-28T02:00:00Z",
         "price": "$5 Cover",
         "url": "http://emptybottle.com/?event_id=6835475",
-        "date_scraped": "2016-08-15T17:28:16.332Z",
+        "date_scraped": "2016-08-15T17:40:51.440Z",
         "is_active": true,
         "artists": []
     }
@@ -218,7 +218,7 @@
         "date_time": "2016-08-28T20:00:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6843815",
-        "date_scraped": "2016-08-15T17:28:16.335Z",
+        "date_scraped": "2016-08-15T17:40:51.441Z",
         "is_active": true,
         "artists": []
     }
@@ -232,7 +232,7 @@
         "date_time": "2016-08-29T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6757915",
-        "date_scraped": "2016-08-15T17:28:16.337Z",
+        "date_scraped": "2016-08-15T17:40:51.442Z",
         "is_active": true,
         "artists": []
     }
@@ -246,7 +246,7 @@
         "date_time": "2016-08-30T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6760045",
-        "date_scraped": "2016-08-15T17:28:16.340Z",
+        "date_scraped": "2016-08-15T17:40:51.443Z",
         "is_active": true,
         "artists": []
     }
@@ -260,7 +260,7 @@
         "date_time": "2016-08-31T02:00:00Z",
         "price": "$7.00",
         "url": "http://emptybottle.com/?event_id=6807125",
-        "date_scraped": "2016-08-15T17:28:16.342Z",
+        "date_scraped": "2016-08-15T17:40:51.444Z",
         "is_active": true,
         "artists": []
     }
@@ -274,7 +274,7 @@
         "date_time": "2016-09-01T02:00:00Z",
         "price": "$7.00",
         "url": "http://emptybottle.com/?event_id=6823425",
-        "date_scraped": "2016-08-15T17:28:16.344Z",
+        "date_scraped": "2016-08-15T17:40:51.446Z",
         "is_active": true,
         "artists": []
     }
@@ -288,7 +288,7 @@
         "date_time": "2016-09-02T02:00:00Z",
         "price": "$10 (advance), $12",
         "url": "http://emptybottle.com/?event_id=6798085",
-        "date_scraped": "2016-08-15T17:28:16.346Z",
+        "date_scraped": "2016-08-15T17:40:51.447Z",
         "is_active": true,
         "artists": []
     }
@@ -302,7 +302,7 @@
         "date_time": "2016-09-02T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823715",
-        "date_scraped": "2016-08-15T17:28:16.348Z",
+        "date_scraped": "2016-08-15T17:40:51.448Z",
         "is_active": true,
         "artists": []
     }
@@ -316,7 +316,7 @@
         "date_time": "2016-09-03T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6734515",
-        "date_scraped": "2016-08-15T17:28:16.350Z",
+        "date_scraped": "2016-08-15T17:40:51.449Z",
         "is_active": true,
         "artists": []
     }
@@ -330,7 +330,7 @@
         "date_time": "2016-09-04T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6734565",
-        "date_scraped": "2016-08-15T17:28:16.352Z",
+        "date_scraped": "2016-08-15T17:40:51.450Z",
         "is_active": true,
         "artists": []
     }
@@ -344,7 +344,7 @@
         "date_time": "2016-09-05T02:00:00Z",
         "price": "$7.00",
         "url": "http://emptybottle.com/?event_id=6799595",
-        "date_scraped": "2016-08-15T17:28:16.353Z",
+        "date_scraped": "2016-08-15T17:40:51.451Z",
         "is_active": true,
         "artists": []
     }
@@ -358,7 +358,7 @@
         "date_time": "2016-09-06T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6810445",
-        "date_scraped": "2016-08-15T17:28:16.355Z",
+        "date_scraped": "2016-08-15T17:40:51.452Z",
         "is_active": true,
         "artists": []
     }
@@ -372,7 +372,7 @@
         "date_time": "2016-09-07T02:00:00Z",
         "price": "$10 (advance). $12",
         "url": "http://emptybottle.com/?event_id=6815165",
-        "date_scraped": "2016-08-15T17:28:16.357Z",
+        "date_scraped": "2016-08-15T17:40:51.453Z",
         "is_active": true,
         "artists": []
     }
@@ -386,7 +386,7 @@
         "date_time": "2016-09-08T02:00:00Z",
         "price": "$5.00",
         "url": "http://emptybottle.com/?event_id=6863915",
-        "date_scraped": "2016-08-15T17:28:16.358Z",
+        "date_scraped": "2016-08-15T17:40:51.454Z",
         "is_active": true,
         "artists": []
     }
@@ -400,7 +400,7 @@
         "date_time": "2016-09-09T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6766175",
-        "date_scraped": "2016-08-15T17:28:16.360Z",
+        "date_scraped": "2016-08-15T17:40:51.456Z",
         "is_active": true,
         "artists": []
     }
@@ -414,7 +414,7 @@
         "date_time": "2016-09-09T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823705",
-        "date_scraped": "2016-08-15T17:28:16.362Z",
+        "date_scraped": "2016-08-15T17:40:51.457Z",
         "is_active": true,
         "artists": []
     }
@@ -428,7 +428,7 @@
         "date_time": "2016-09-10T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6842685",
-        "date_scraped": "2016-08-15T17:28:16.364Z",
+        "date_scraped": "2016-08-15T17:40:51.458Z",
         "is_active": true,
         "artists": []
     }
@@ -442,7 +442,7 @@
         "date_time": "2016-09-11T01:00:00Z",
         "price": "$35 (advance), $40",
         "url": "http://emptybottle.com/?event_id=6591755",
-        "date_scraped": "2016-08-15T17:28:16.366Z",
+        "date_scraped": "2016-08-15T17:40:51.459Z",
         "is_active": true,
         "artists": [
             216
@@ -458,7 +458,7 @@
         "date_time": "2016-09-11T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6740205",
-        "date_scraped": "2016-08-15T17:28:16.368Z",
+        "date_scraped": "2016-08-15T17:40:51.460Z",
         "is_active": true,
         "artists": [
             260
@@ -474,7 +474,7 @@
         "date_time": "2016-09-13T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6849425",
-        "date_scraped": "2016-08-15T17:28:16.370Z",
+        "date_scraped": "2016-08-15T17:40:51.461Z",
         "is_active": true,
         "artists": []
     }
@@ -488,7 +488,7 @@
         "date_time": "2016-09-14T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6853895",
-        "date_scraped": "2016-08-15T17:28:16.372Z",
+        "date_scraped": "2016-08-15T17:40:51.462Z",
         "is_active": true,
         "artists": []
     }
@@ -502,7 +502,7 @@
         "date_time": "2016-09-15T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6813695",
-        "date_scraped": "2016-08-15T17:28:16.374Z",
+        "date_scraped": "2016-08-15T17:40:51.463Z",
         "is_active": true,
         "artists": []
     }
@@ -516,7 +516,7 @@
         "date_time": "2016-09-16T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6784085",
-        "date_scraped": "2016-08-15T17:28:16.376Z",
+        "date_scraped": "2016-08-15T17:40:51.465Z",
         "is_active": true,
         "artists": []
     }
@@ -530,7 +530,7 @@
         "date_time": "2016-09-16T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823665",
-        "date_scraped": "2016-08-15T17:28:16.378Z",
+        "date_scraped": "2016-08-15T17:40:51.466Z",
         "is_active": true,
         "artists": []
     }
@@ -544,7 +544,7 @@
         "date_time": "2016-09-17T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6780475",
-        "date_scraped": "2016-08-15T17:28:16.380Z",
+        "date_scraped": "2016-08-15T17:40:51.467Z",
         "is_active": true,
         "artists": []
     }
@@ -558,7 +558,7 @@
         "date_time": "2016-09-19T02:00:00Z",
         "price": "$7 (advance), $10",
         "url": "http://emptybottle.com/?event_id=6805655",
-        "date_scraped": "2016-08-15T17:28:16.382Z",
+        "date_scraped": "2016-08-15T17:40:51.468Z",
         "is_active": true,
         "artists": []
     }
@@ -572,7 +572,7 @@
         "date_time": "2016-09-20T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6858015",
-        "date_scraped": "2016-08-15T17:28:16.384Z",
+        "date_scraped": "2016-08-15T17:40:51.469Z",
         "is_active": true,
         "artists": []
     }
@@ -586,7 +586,7 @@
         "date_time": "2016-09-21T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6817115",
-        "date_scraped": "2016-08-15T17:28:16.386Z",
+        "date_scraped": "2016-08-15T17:40:51.470Z",
         "is_active": true,
         "artists": []
     }
@@ -600,7 +600,7 @@
         "date_time": "2016-09-22T02:00:00Z",
         "price": "$12 (advance), $15",
         "url": "http://emptybottle.com/?event_id=6824685",
-        "date_scraped": "2016-08-15T17:28:16.388Z",
+        "date_scraped": "2016-08-15T17:40:51.471Z",
         "is_active": true,
         "artists": []
     }
@@ -614,7 +614,7 @@
         "date_time": "2016-09-23T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6843845",
-        "date_scraped": "2016-08-15T17:28:16.390Z",
+        "date_scraped": "2016-08-15T17:40:51.472Z",
         "is_active": true,
         "artists": []
     }
@@ -628,7 +628,7 @@
         "date_time": "2016-09-23T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823675",
-        "date_scraped": "2016-08-15T17:28:16.392Z",
+        "date_scraped": "2016-08-15T17:40:51.474Z",
         "is_active": true,
         "artists": []
     }
@@ -642,7 +642,7 @@
         "date_time": "2016-09-24T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6692375",
-        "date_scraped": "2016-08-15T17:28:16.393Z",
+        "date_scraped": "2016-08-15T17:40:51.475Z",
         "is_active": true,
         "artists": [
             359
@@ -658,7 +658,7 @@
         "date_time": "2016-09-25T02:00:00Z",
         "price": "$25.00",
         "url": "http://emptybottle.com/?event_id=6790125",
-        "date_scraped": "2016-08-15T17:28:16.395Z",
+        "date_scraped": "2016-08-15T17:40:51.476Z",
         "is_active": true,
         "artists": []
     }
@@ -672,7 +672,7 @@
         "date_time": "2016-09-26T02:00:00Z",
         "price": "$20.00",
         "url": "http://emptybottle.com/?event_id=6807695",
-        "date_scraped": "2016-08-15T17:28:16.397Z",
+        "date_scraped": "2016-08-15T17:40:51.477Z",
         "is_active": true,
         "artists": [
             220
@@ -688,7 +688,7 @@
         "date_time": "2016-09-27T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6825545",
-        "date_scraped": "2016-08-15T17:28:16.399Z",
+        "date_scraped": "2016-08-15T17:40:51.478Z",
         "is_active": true,
         "artists": []
     }
@@ -702,7 +702,7 @@
         "date_time": "2016-09-29T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6832105",
-        "date_scraped": "2016-08-15T17:28:16.401Z",
+        "date_scraped": "2016-08-15T17:40:51.479Z",
         "is_active": true,
         "artists": []
     }
@@ -716,7 +716,7 @@
         "date_time": "2016-09-30T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6853805",
-        "date_scraped": "2016-08-15T17:28:16.403Z",
+        "date_scraped": "2016-08-15T17:40:51.480Z",
         "is_active": true,
         "artists": [
             212
@@ -732,7 +732,7 @@
         "date_time": "2016-09-30T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823685",
-        "date_scraped": "2016-08-15T17:28:16.405Z",
+        "date_scraped": "2016-08-15T17:40:51.481Z",
         "is_active": true,
         "artists": []
     }
@@ -746,7 +746,7 @@
         "date_time": "2016-10-01T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6762195",
-        "date_scraped": "2016-08-15T17:28:16.407Z",
+        "date_scraped": "2016-08-15T17:40:51.483Z",
         "is_active": true,
         "artists": []
     }
@@ -760,7 +760,7 @@
         "date_time": "2016-10-02T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6849435",
-        "date_scraped": "2016-08-15T17:28:16.409Z",
+        "date_scraped": "2016-08-15T17:40:51.484Z",
         "is_active": true,
         "artists": []
     }
@@ -774,7 +774,7 @@
         "date_time": "2016-10-03T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6807395",
-        "date_scraped": "2016-08-15T17:28:16.411Z",
+        "date_scraped": "2016-08-15T17:40:51.485Z",
         "is_active": true,
         "artists": []
     }
@@ -788,7 +788,7 @@
         "date_time": "2016-10-04T02:00:00Z",
         "price": "FREE MONDAY!",
         "url": "http://emptybottle.com/?event_id=6862145",
-        "date_scraped": "2016-08-15T17:28:16.413Z",
+        "date_scraped": "2016-08-15T17:40:51.486Z",
         "is_active": true,
         "artists": [
             131
@@ -804,7 +804,7 @@
         "date_time": "2016-10-06T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6811635",
-        "date_scraped": "2016-08-15T17:28:16.415Z",
+        "date_scraped": "2016-08-15T17:40:51.487Z",
         "is_active": true,
         "artists": []
     }
@@ -818,7 +818,7 @@
         "date_time": "2016-10-07T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823725",
-        "date_scraped": "2016-08-15T17:28:16.417Z",
+        "date_scraped": "2016-08-15T17:40:51.488Z",
         "is_active": true,
         "artists": []
     }
@@ -832,7 +832,7 @@
         "date_time": "2016-10-08T02:00:00Z",
         "price": "$12 (advance), $14",
         "url": "http://emptybottle.com/?event_id=6768305",
-        "date_scraped": "2016-08-15T17:28:16.419Z",
+        "date_scraped": "2016-08-15T17:40:51.489Z",
         "is_active": true,
         "artists": []
     }
@@ -846,7 +846,7 @@
         "date_time": "2016-10-09T01:30:00Z",
         "price": "$20.00",
         "url": "http://emptybottle.com/?event_id=6849535",
-        "date_scraped": "2016-08-15T17:28:16.421Z",
+        "date_scraped": "2016-08-15T17:40:51.490Z",
         "is_active": true,
         "artists": []
     }
@@ -860,7 +860,7 @@
         "date_time": "2016-10-10T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6861105",
-        "date_scraped": "2016-08-15T17:28:16.423Z",
+        "date_scraped": "2016-08-15T17:40:51.492Z",
         "is_active": true,
         "artists": []
     }
@@ -874,7 +874,7 @@
         "date_time": "2016-10-11T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6845005",
-        "date_scraped": "2016-08-15T17:28:16.425Z",
+        "date_scraped": "2016-08-15T17:40:51.493Z",
         "is_active": true,
         "artists": []
     }
@@ -888,7 +888,7 @@
         "date_time": "2016-10-12T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6784965",
-        "date_scraped": "2016-08-15T17:28:16.427Z",
+        "date_scraped": "2016-08-15T17:40:51.494Z",
         "is_active": true,
         "artists": []
     }
@@ -902,7 +902,7 @@
         "date_time": "2016-10-14T02:00:00Z",
         "price": "$15 (advance), $18",
         "url": "http://emptybottle.com/?event_id=6784635",
-        "date_scraped": "2016-08-15T17:28:16.429Z",
+        "date_scraped": "2016-08-15T17:40:51.495Z",
         "is_active": true,
         "artists": []
     }
@@ -916,7 +916,7 @@
         "date_time": "2016-10-14T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823765",
-        "date_scraped": "2016-08-15T17:28:16.431Z",
+        "date_scraped": "2016-08-15T17:40:51.496Z",
         "is_active": true,
         "artists": []
     }
@@ -930,7 +930,7 @@
         "date_time": "2016-10-16T02:00:00Z",
         "price": "$15 (advance), $18",
         "url": "http://emptybottle.com/?event_id=6860115",
-        "date_scraped": "2016-08-15T17:28:16.433Z",
+        "date_scraped": "2016-08-15T17:40:51.497Z",
         "is_active": true,
         "artists": []
     }
@@ -944,7 +944,7 @@
         "date_time": "2016-10-17T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6797495",
-        "date_scraped": "2016-08-15T17:28:16.435Z",
+        "date_scraped": "2016-08-15T17:40:51.498Z",
         "is_active": true,
         "artists": []
     }
@@ -958,7 +958,7 @@
         "date_time": "2016-10-18T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6855635",
-        "date_scraped": "2016-08-15T17:28:16.437Z",
+        "date_scraped": "2016-08-15T17:40:51.499Z",
         "is_active": true,
         "artists": []
     }
@@ -972,7 +972,7 @@
         "date_time": "2016-10-21T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6856455",
-        "date_scraped": "2016-08-15T17:28:16.438Z",
+        "date_scraped": "2016-08-15T17:40:51.501Z",
         "is_active": true,
         "artists": []
     }
@@ -986,7 +986,7 @@
         "date_time": "2016-10-21T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823745",
-        "date_scraped": "2016-08-15T17:28:16.440Z",
+        "date_scraped": "2016-08-15T17:40:51.502Z",
         "is_active": true,
         "artists": []
     }
@@ -1000,7 +1000,7 @@
         "date_time": "2016-10-22T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6736515",
-        "date_scraped": "2016-08-15T17:28:16.442Z",
+        "date_scraped": "2016-08-15T17:40:51.503Z",
         "is_active": true,
         "artists": []
     }
@@ -1014,7 +1014,7 @@
         "date_time": "2016-10-23T02:00:00Z",
         "price": "$20.00",
         "url": "http://emptybottle.com/?event_id=6736475",
-        "date_scraped": "2016-08-15T17:28:16.443Z",
+        "date_scraped": "2016-08-15T17:40:51.504Z",
         "is_active": true,
         "artists": []
     }
@@ -1028,7 +1028,7 @@
         "date_time": "2016-10-28T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823735",
-        "date_scraped": "2016-08-15T17:28:16.445Z",
+        "date_scraped": "2016-08-15T17:40:51.505Z",
         "is_active": true,
         "artists": []
     }
@@ -1042,7 +1042,7 @@
         "date_time": "2016-10-29T02:00:00Z",
         "price": "$20 (advance), $25",
         "url": "http://emptybottle.com/?event_id=6828925",
-        "date_scraped": "2016-08-15T17:28:16.447Z",
+        "date_scraped": "2016-08-15T17:40:51.506Z",
         "is_active": true,
         "artists": []
     }
@@ -1056,7 +1056,7 @@
         "date_time": "2016-10-31T02:00:00Z",
         "price": "$12 advance, $15",
         "url": "http://emptybottle.com/?event_id=6853885",
-        "date_scraped": "2016-08-15T17:28:16.448Z",
+        "date_scraped": "2016-08-15T17:40:51.507Z",
         "is_active": true,
         "artists": []
     }
@@ -1070,7 +1070,7 @@
         "date_time": "2016-11-03T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6844905",
-        "date_scraped": "2016-08-15T17:28:16.450Z",
+        "date_scraped": "2016-08-15T17:40:51.508Z",
         "is_active": true,
         "artists": []
     }
@@ -1084,7 +1084,7 @@
         "date_time": "2016-11-04T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823775",
-        "date_scraped": "2016-08-15T17:28:16.452Z",
+        "date_scraped": "2016-08-15T17:40:51.509Z",
         "is_active": true,
         "artists": []
     }
@@ -1098,7 +1098,7 @@
         "date_time": "2016-11-20T03:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6860515",
-        "date_scraped": "2016-08-15T17:28:16.453Z",
+        "date_scraped": "2016-08-15T17:40:51.511Z",
         "is_active": true,
         "artists": []
     }
@@ -1112,7 +1112,7 @@
         "date_time": "2016-08-20T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5119",
-        "date_scraped": "2016-08-15T17:28:18.436Z",
+        "date_scraped": "2016-08-15T17:40:54.160Z",
         "is_active": true,
         "artists": []
     }
@@ -1126,7 +1126,7 @@
         "date_time": "2016-08-21T03:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5091",
-        "date_scraped": "2016-08-15T17:28:18.732Z",
+        "date_scraped": "2016-08-15T17:40:54.456Z",
         "is_active": true,
         "artists": []
     }
@@ -1140,7 +1140,7 @@
         "date_time": "2016-08-27T01:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5268",
-        "date_scraped": "2016-08-15T17:28:18.738Z",
+        "date_scraped": "2016-08-15T17:40:54.461Z",
         "is_active": true,
         "artists": []
     }
@@ -1154,7 +1154,7 @@
         "date_time": "2016-08-28T00:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4995",
-        "date_scraped": "2016-08-15T17:28:18.742Z",
+        "date_scraped": "2016-08-15T17:40:54.463Z",
         "is_active": true,
         "artists": []
     }
@@ -1168,7 +1168,7 @@
         "date_time": "2016-09-03T03:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5287",
-        "date_scraped": "2016-08-15T17:28:18.744Z",
+        "date_scraped": "2016-08-15T17:40:54.468Z",
         "is_active": true,
         "artists": []
     }
@@ -1182,7 +1182,7 @@
         "date_time": "2016-09-04T03:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5281",
-        "date_scraped": "2016-08-15T17:28:18.746Z",
+        "date_scraped": "2016-08-15T17:40:54.469Z",
         "is_active": true,
         "artists": []
     }
@@ -1196,7 +1196,7 @@
         "date_time": "2016-09-06T22:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5127",
-        "date_scraped": "2016-08-15T17:28:18.747Z",
+        "date_scraped": "2016-08-15T17:40:54.471Z",
         "is_active": true,
         "artists": []
     }
@@ -1210,7 +1210,7 @@
         "date_time": "2016-09-08T23:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4471",
-        "date_scraped": "2016-08-15T17:28:18.750Z",
+        "date_scraped": "2016-08-15T17:40:54.473Z",
         "is_active": true,
         "artists": []
     }
@@ -1224,7 +1224,7 @@
         "date_time": "2016-09-10T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5032",
-        "date_scraped": "2016-08-15T17:28:18.754Z",
+        "date_scraped": "2016-08-15T17:40:54.474Z",
         "is_active": true,
         "artists": []
     }
@@ -1238,7 +1238,7 @@
         "date_time": "2016-09-15T03:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5061",
-        "date_scraped": "2016-08-15T17:28:18.756Z",
+        "date_scraped": "2016-08-15T17:40:54.476Z",
         "is_active": true,
         "artists": []
     }
@@ -1252,7 +1252,7 @@
         "date_time": "2016-09-15T23:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5136",
-        "date_scraped": "2016-08-15T17:28:18.759Z",
+        "date_scraped": "2016-08-15T17:40:54.477Z",
         "is_active": true,
         "artists": []
     }
@@ -1266,7 +1266,7 @@
         "date_time": "2016-09-17T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5106",
-        "date_scraped": "2016-08-15T17:28:18.762Z",
+        "date_scraped": "2016-08-15T17:40:54.478Z",
         "is_active": true,
         "artists": []
     }
@@ -1280,7 +1280,7 @@
         "date_time": "2016-09-23T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4920",
-        "date_scraped": "2016-08-15T17:28:18.765Z",
+        "date_scraped": "2016-08-15T17:40:54.479Z",
         "is_active": true,
         "artists": []
     }
@@ -1294,7 +1294,7 @@
         "date_time": "2016-09-24T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5168",
-        "date_scraped": "2016-08-15T17:28:18.767Z",
+        "date_scraped": "2016-08-15T17:40:54.480Z",
         "is_active": true,
         "artists": []
     }
@@ -1308,7 +1308,7 @@
         "date_time": "2016-09-25T01:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5303",
-        "date_scraped": "2016-08-15T17:28:18.770Z",
+        "date_scraped": "2016-08-15T17:40:54.481Z",
         "is_active": true,
         "artists": []
     }
@@ -1322,7 +1322,7 @@
         "date_time": "2016-09-25T23:15:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5004",
-        "date_scraped": "2016-08-15T17:28:18.772Z",
+        "date_scraped": "2016-08-15T17:40:54.482Z",
         "is_active": true,
         "artists": []
     }
@@ -1336,7 +1336,7 @@
         "date_time": "2016-09-29T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5052",
-        "date_scraped": "2016-08-15T17:28:18.775Z",
+        "date_scraped": "2016-08-15T17:40:54.484Z",
         "is_active": true,
         "artists": []
     }
@@ -1350,7 +1350,7 @@
         "date_time": "2016-10-01T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5058",
-        "date_scraped": "2016-08-15T17:28:18.777Z",
+        "date_scraped": "2016-08-15T17:40:54.485Z",
         "is_active": true,
         "artists": []
     }
@@ -1364,7 +1364,7 @@
         "date_time": "2016-10-02T00:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5045",
-        "date_scraped": "2016-08-15T17:28:18.779Z",
+        "date_scraped": "2016-08-15T17:40:54.486Z",
         "is_active": true,
         "artists": []
     }
@@ -1378,7 +1378,7 @@
         "date_time": "2016-10-05T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5074",
-        "date_scraped": "2016-08-15T17:28:18.781Z",
+        "date_scraped": "2016-08-15T17:40:54.487Z",
         "is_active": true,
         "artists": []
     }
@@ -1392,7 +1392,7 @@
         "date_time": "2016-10-06T01:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5172",
-        "date_scraped": "2016-08-15T17:28:18.783Z",
+        "date_scraped": "2016-08-15T17:40:54.488Z",
         "is_active": true,
         "artists": []
     }
@@ -1406,7 +1406,7 @@
         "date_time": "2016-10-08T22:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4969",
-        "date_scraped": "2016-08-15T17:28:18.784Z",
+        "date_scraped": "2016-08-15T17:40:54.489Z",
         "is_active": true,
         "artists": []
     }
@@ -1420,7 +1420,7 @@
         "date_time": "2016-10-12T01:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4818",
-        "date_scraped": "2016-08-15T17:28:18.786Z",
+        "date_scraped": "2016-08-15T17:40:54.491Z",
         "is_active": true,
         "artists": [
             90,
@@ -1437,7 +1437,7 @@
         "date_time": "2016-10-13T00:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5009",
-        "date_scraped": "2016-08-15T17:28:18.788Z",
+        "date_scraped": "2016-08-15T17:40:54.492Z",
         "is_active": true,
         "artists": []
     }
@@ -1451,7 +1451,7 @@
         "date_time": "2016-10-13T23:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5241",
-        "date_scraped": "2016-08-15T17:28:18.790Z",
+        "date_scraped": "2016-08-15T17:40:54.493Z",
         "is_active": true,
         "artists": []
     }
@@ -1465,7 +1465,7 @@
         "date_time": "2016-10-15T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4817",
-        "date_scraped": "2016-08-15T17:28:18.792Z",
+        "date_scraped": "2016-08-15T17:40:54.494Z",
         "is_active": true,
         "artists": []
     }
@@ -1479,7 +1479,7 @@
         "date_time": "2016-10-16T00:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5218",
-        "date_scraped": "2016-08-15T17:28:18.794Z",
+        "date_scraped": "2016-08-15T17:40:54.496Z",
         "is_active": true,
         "artists": []
     }
@@ -1493,7 +1493,7 @@
         "date_time": "2016-10-17T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5137",
-        "date_scraped": "2016-08-15T17:28:18.795Z",
+        "date_scraped": "2016-08-15T17:40:54.497Z",
         "is_active": true,
         "artists": []
     }
@@ -1507,7 +1507,7 @@
         "date_time": "2016-10-18T23:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4982",
-        "date_scraped": "2016-08-15T17:28:18.797Z",
+        "date_scraped": "2016-08-15T17:40:54.498Z",
         "is_active": true,
         "artists": []
     }
@@ -1521,7 +1521,7 @@
         "date_time": "2016-10-22T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5179",
-        "date_scraped": "2016-08-15T17:28:18.799Z",
+        "date_scraped": "2016-08-15T17:40:54.499Z",
         "is_active": true,
         "artists": []
     }
@@ -1535,7 +1535,7 @@
         "date_time": "2016-10-29T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5180",
-        "date_scraped": "2016-08-15T17:28:18.800Z",
+        "date_scraped": "2016-08-15T17:40:54.500Z",
         "is_active": true,
         "artists": []
     }
@@ -1549,7 +1549,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5087",
-        "date_scraped": "2016-08-15T17:28:18.802Z",
+        "date_scraped": "2016-08-15T17:40:54.501Z",
         "is_active": true,
         "artists": []
     }
@@ -1563,7 +1563,7 @@
         "date_time": "2016-11-04T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5116",
-        "date_scraped": "2016-08-15T17:28:18.804Z",
+        "date_scraped": "2016-08-15T17:40:54.502Z",
         "is_active": true,
         "artists": []
     }
@@ -1577,7 +1577,7 @@
         "date_time": "2016-11-12T03:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4998",
-        "date_scraped": "2016-08-15T17:28:18.806Z",
+        "date_scraped": "2016-08-15T17:40:54.504Z",
         "is_active": true,
         "artists": []
     }
@@ -1591,7 +1591,7 @@
         "date_time": "2016-11-13T01:30:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5112",
-        "date_scraped": "2016-08-15T17:28:18.808Z",
+        "date_scraped": "2016-08-15T17:40:54.505Z",
         "is_active": true,
         "artists": []
     }
@@ -1605,7 +1605,7 @@
         "date_time": "2016-11-13T23:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5261",
-        "date_scraped": "2016-08-15T17:28:18.809Z",
+        "date_scraped": "2016-08-15T17:40:54.506Z",
         "is_active": true,
         "artists": []
     }
@@ -1619,7 +1619,7 @@
         "date_time": "2016-11-17T02:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5102",
-        "date_scraped": "2016-08-15T17:28:18.811Z",
+        "date_scraped": "2016-08-15T17:40:54.507Z",
         "is_active": true,
         "artists": []
     }
@@ -1633,7 +1633,7 @@
         "date_time": "2016-12-03T01:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5251",
-        "date_scraped": "2016-08-15T17:28:18.813Z",
+        "date_scraped": "2016-08-15T17:40:54.508Z",
         "is_active": true,
         "artists": []
     }
@@ -1647,7 +1647,7 @@
         "date_time": "2016-12-11T03:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5226",
-        "date_scraped": "2016-08-15T17:28:18.815Z",
+        "date_scraped": "2016-08-15T17:40:54.509Z",
         "is_active": true,
         "artists": []
     }
@@ -1661,7 +1661,7 @@
         "date_time": "2016-12-16T00:00:00Z",
         "price": "NOT ON SITE",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5100",
-        "date_scraped": "2016-08-15T17:28:18.817Z",
+        "date_scraped": "2016-08-15T17:40:54.510Z",
         "is_active": true,
         "artists": []
     }
@@ -1675,7 +1675,7 @@
         "date_time": "2016-08-16T03:30:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1265701-chinchorreo-mondays-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.148Z",
+        "date_scraped": "2016-08-15T17:40:59.203Z",
         "is_active": true,
         "artists": []
     }
@@ -1689,7 +1689,7 @@
         "date_time": "2016-08-17T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1250837-see-through-dresses-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.151Z",
+        "date_scraped": "2016-08-15T17:40:59.497Z",
         "is_active": true,
         "artists": []
     }
@@ -1703,7 +1703,7 @@
         "date_time": "2016-08-17T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1265681-open-mic-hip-hop-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.153Z",
+        "date_scraped": "2016-08-15T17:40:59.502Z",
         "is_active": true,
         "artists": []
     }
@@ -1717,7 +1717,7 @@
         "date_time": "2016-08-18T01:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1252913-ivorys-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.155Z",
+        "date_scraped": "2016-08-15T17:40:59.506Z",
         "is_active": true,
         "artists": []
     }
@@ -1731,7 +1731,7 @@
         "date_time": "2016-08-19T01:00:00Z",
         "price": "$13.00 - $40.00",
         "url": "http://www.subt.net/event/1211435-wintertime-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.156Z",
+        "date_scraped": "2016-08-15T17:40:59.508Z",
         "is_active": true,
         "artists": []
     }
@@ -1745,7 +1745,7 @@
         "date_time": "2016-08-19T03:00:00Z",
         "price": "$5.00",
         "url": "http://www.subt.net/event/1265693-reggae-gold-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.158Z",
+        "date_scraped": "2016-08-15T17:40:59.510Z",
         "is_active": true,
         "artists": []
     }
@@ -1759,7 +1759,7 @@
         "date_time": "2016-08-20T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1254655-forfeit-record-release-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.160Z",
+        "date_scraped": "2016-08-15T17:40:59.512Z",
         "is_active": true,
         "artists": []
     }
@@ -1773,7 +1773,7 @@
         "date_time": "2016-08-20T02:00:00Z",
         "price": "$13.00 - $15.00",
         "url": "http://www.subt.net/event/1248065-whigs-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.162Z",
+        "date_scraped": "2016-08-15T17:40:59.513Z",
         "is_active": true,
         "artists": []
     }
@@ -1787,7 +1787,7 @@
         "date_time": "2016-08-21T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1247935-sueves-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.164Z",
+        "date_scraped": "2016-08-15T17:40:59.515Z",
         "is_active": true,
         "artists": []
     }
@@ -1801,7 +1801,7 @@
         "date_time": "2016-08-21T02:30:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1226261-big-league-boys-play-now-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.166Z",
+        "date_scraped": "2016-08-15T17:40:59.517Z",
         "is_active": true,
         "artists": []
     }
@@ -1815,7 +1815,7 @@
         "date_time": "2016-08-21T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1267461-international-bust-down-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.169Z",
+        "date_scraped": "2016-08-15T17:40:59.521Z",
         "is_active": true,
         "artists": []
     }
@@ -1829,7 +1829,7 @@
         "date_time": "2016-08-21T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1265665-our-lady-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.171Z",
+        "date_scraped": "2016-08-15T17:40:59.523Z",
         "is_active": true,
         "artists": []
     }
@@ -1843,7 +1843,7 @@
         "date_time": "2016-08-22T01:00:00Z",
         "price": "$10.00 - $15.00",
         "url": "http://www.subt.net/event/1285797-stix-jam-night-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.173Z",
+        "date_scraped": "2016-08-15T17:40:59.526Z",
         "is_active": true,
         "artists": []
     }
@@ -1857,7 +1857,7 @@
         "date_time": "2016-08-22T03:00:00Z",
         "price": "$10",
         "url": "http://www.subt.net/event/1279361-grown-folks-business-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.174Z",
+        "date_scraped": "2016-08-15T17:40:59.528Z",
         "is_active": true,
         "artists": []
     }
@@ -1871,7 +1871,7 @@
         "date_time": "2016-08-23T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1241567-california-x-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.177Z",
+        "date_scraped": "2016-08-15T17:40:59.531Z",
         "is_active": true,
         "artists": [
             103
@@ -1887,7 +1887,7 @@
         "date_time": "2016-08-24T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1265683-open-mic-hip-hop-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.179Z",
+        "date_scraped": "2016-08-15T17:40:59.534Z",
         "is_active": true,
         "artists": []
     }
@@ -1901,7 +1901,7 @@
         "date_time": "2016-08-25T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1218877-vein-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.181Z",
+        "date_scraped": "2016-08-15T17:40:59.537Z",
         "is_active": true,
         "artists": []
     }
@@ -1915,7 +1915,7 @@
         "date_time": "2016-08-26T01:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1278359-pact-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.182Z",
+        "date_scraped": "2016-08-15T17:40:59.540Z",
         "is_active": true,
         "artists": []
     }
@@ -1929,7 +1929,7 @@
         "date_time": "2016-08-26T03:00:00Z",
         "price": "$5.00",
         "url": "http://www.subt.net/event/1265695-reggae-gold-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.184Z",
+        "date_scraped": "2016-08-15T17:40:59.542Z",
         "is_active": true,
         "artists": []
     }
@@ -1943,7 +1943,7 @@
         "date_time": "2016-08-27T01:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1265669-reptilian-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.186Z",
+        "date_scraped": "2016-08-15T17:40:59.544Z",
         "is_active": true,
         "artists": []
     }
@@ -1957,7 +1957,7 @@
         "date_time": "2016-08-27T02:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1247883-thewhoevers-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.189Z",
+        "date_scraped": "2016-08-15T17:40:59.546Z",
         "is_active": true,
         "artists": []
     }
@@ -1971,7 +1971,7 @@
         "date_time": "2016-08-28T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1264683-nouveau-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.191Z",
+        "date_scraped": "2016-08-15T17:40:59.548Z",
         "is_active": true,
         "artists": []
     }
@@ -1985,7 +1985,7 @@
         "date_time": "2016-08-28T02:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1287205-sea-lords-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.193Z",
+        "date_scraped": "2016-08-15T17:40:59.550Z",
         "is_active": true,
         "artists": []
     }
@@ -1999,7 +1999,7 @@
         "date_time": "2016-08-28T23:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1272153-karma-wears-white-ties-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.195Z",
+        "date_scraped": "2016-08-15T17:40:59.552Z",
         "is_active": true,
         "artists": []
     }
@@ -2013,7 +2013,7 @@
         "date_time": "2016-08-28T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1241537-den-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.197Z",
+        "date_scraped": "2016-08-15T17:40:59.554Z",
         "is_active": true,
         "artists": []
     }
@@ -2027,7 +2027,7 @@
         "date_time": "2016-08-30T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1221157-sundressed-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.199Z",
+        "date_scraped": "2016-08-15T17:40:59.556Z",
         "is_active": true,
         "artists": []
     }
@@ -2041,7 +2041,7 @@
         "date_time": "2016-08-30T03:30:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1265703-chinchorreo-mondays-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.201Z",
+        "date_scraped": "2016-08-15T17:40:59.558Z",
         "is_active": true,
         "artists": []
     }
@@ -2055,7 +2055,7 @@
         "date_time": "2016-08-31T00:00:00Z",
         "price": "$14.00 - $16.00",
         "url": "http://www.subt.net/event/1205411-elvis-depressedly-teen-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.203Z",
+        "date_scraped": "2016-08-15T17:40:59.560Z",
         "is_active": true,
         "artists": []
     }
@@ -2069,7 +2069,7 @@
         "date_time": "2016-08-31T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1265685-open-mic-hip-hop-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.205Z",
+        "date_scraped": "2016-08-15T17:40:59.562Z",
         "is_active": true,
         "artists": []
     }
@@ -2083,7 +2083,7 @@
         "date_time": "2016-09-01T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1265687-break-stuff-chicago-nue-metal-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.207Z",
+        "date_scraped": "2016-08-15T17:40:59.564Z",
         "is_active": true,
         "artists": []
     }
@@ -2097,7 +2097,7 @@
         "date_time": "2016-09-02T00:00:00Z",
         "price": "$12.00",
         "url": "http://www.subt.net/event/1158811-kublai-khan-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.209Z",
+        "date_scraped": "2016-08-15T17:40:59.565Z",
         "is_active": true,
         "artists": []
     }
@@ -2111,7 +2111,7 @@
         "date_time": "2016-09-03T04:00:00Z",
         "price": "$10.00 - $12.00",
         "url": "http://www.subt.net/event/1239069-gringo-star-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.211Z",
+        "date_scraped": "2016-08-15T17:40:59.567Z",
         "is_active": true,
         "artists": []
     }
@@ -2125,7 +2125,7 @@
         "date_time": "2016-09-04T02:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1191111-tribulation-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.213Z",
+        "date_scraped": "2016-08-15T17:40:59.569Z",
         "is_active": true,
         "artists": []
     }
@@ -2139,7 +2139,7 @@
         "date_time": "2016-09-05T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1255547-analecta-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.215Z",
+        "date_scraped": "2016-08-15T17:40:59.570Z",
         "is_active": true,
         "artists": []
     }
@@ -2153,7 +2153,7 @@
         "date_time": "2016-09-08T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1247881-oops-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.217Z",
+        "date_scraped": "2016-08-15T17:40:59.572Z",
         "is_active": true,
         "artists": []
     }
@@ -2167,7 +2167,7 @@
         "date_time": "2016-09-08T02:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1278567-sweet-juices-welcome-molly-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.219Z",
+        "date_scraped": "2016-08-15T17:40:59.574Z",
         "is_active": true,
         "artists": []
     }
@@ -2181,7 +2181,7 @@
         "date_time": "2016-09-09T00:00:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1263507-black-heart-revenge-tour-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.221Z",
+        "date_scraped": "2016-08-15T17:40:59.576Z",
         "is_active": true,
         "artists": []
     }
@@ -2195,7 +2195,7 @@
         "date_time": "2016-09-10T03:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1262139-daisyhead-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.223Z",
+        "date_scraped": "2016-08-15T17:40:59.577Z",
         "is_active": true,
         "artists": []
     }
@@ -2209,7 +2209,7 @@
         "date_time": "2016-09-10T23:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1263679-moosh-twist-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.225Z",
+        "date_scraped": "2016-08-15T17:40:59.579Z",
         "is_active": true,
         "artists": []
     }
@@ -2223,7 +2223,7 @@
         "date_time": "2016-09-11T00:00:00Z",
         "price": "$13.00 - $15.00",
         "url": "http://www.subt.net/event/1226447-paper-bird-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.227Z",
+        "date_scraped": "2016-08-15T17:40:59.581Z",
         "is_active": true,
         "artists": []
     }
@@ -2237,7 +2237,7 @@
         "date_time": "2016-09-11T03:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1255557-boom-bap-vs-trap-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.229Z",
+        "date_scraped": "2016-08-15T17:40:59.582Z",
         "is_active": true,
         "artists": []
     }
@@ -2251,7 +2251,7 @@
         "date_time": "2016-09-11T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1274121-vacation-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.230Z",
+        "date_scraped": "2016-08-15T17:40:59.584Z",
         "is_active": true,
         "artists": []
     }
@@ -2265,7 +2265,7 @@
         "date_time": "2016-09-14T01:00:00Z",
         "price": "$10.00 - $12.00",
         "url": "http://www.subt.net/event/1205651-ps-eliot-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.232Z",
+        "date_scraped": "2016-08-15T17:40:59.586Z",
         "is_active": true,
         "artists": []
     }
@@ -2279,7 +2279,7 @@
         "date_time": "2016-09-15T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1287281-enhasa-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.234Z",
+        "date_scraped": "2016-08-15T17:40:59.587Z",
         "is_active": true,
         "artists": []
     }
@@ -2293,7 +2293,7 @@
         "date_time": "2016-09-17T02:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1281941-cloud9-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.236Z",
+        "date_scraped": "2016-08-15T17:40:59.589Z",
         "is_active": true,
         "artists": []
     }
@@ -2307,7 +2307,7 @@
         "date_time": "2016-09-18T02:00:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1246595-g-nome-project-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.238Z",
+        "date_scraped": "2016-08-15T17:40:59.591Z",
         "is_active": true,
         "artists": []
     }
@@ -2321,7 +2321,7 @@
         "date_time": "2016-09-21T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1276101-miserable-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.239Z",
+        "date_scraped": "2016-08-15T17:40:59.592Z",
         "is_active": true,
         "artists": []
     }
@@ -2335,7 +2335,7 @@
         "date_time": "2016-09-22T02:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1279369-sneeze-greys-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.241Z",
+        "date_scraped": "2016-08-15T17:40:59.594Z",
         "is_active": true,
         "artists": []
     }
@@ -2349,7 +2349,7 @@
         "date_time": "2016-09-24T01:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1226197-roosevelt-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.243Z",
+        "date_scraped": "2016-08-15T17:40:59.596Z",
         "is_active": true,
         "artists": []
     }
@@ -2363,7 +2363,7 @@
         "date_time": "2016-09-25T02:00:00Z",
         "price": "$25.00",
         "url": "http://www.subt.net/event/1254663-legendary-pink-dots-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.245Z",
+        "date_scraped": "2016-08-15T17:40:59.597Z",
         "is_active": true,
         "artists": []
     }
@@ -2377,7 +2377,7 @@
         "date_time": "2016-09-26T01:30:00Z",
         "price": "$23.00",
         "url": "http://www.subt.net/event/1258725-chencha-berrinches-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.246Z",
+        "date_scraped": "2016-08-15T17:40:59.599Z",
         "is_active": true,
         "artists": []
     }
@@ -2391,7 +2391,7 @@
         "date_time": "2016-09-30T00:30:00Z",
         "price": "$18.00",
         "url": "http://www.subt.net/event/1275303-chris-webby-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.248Z",
+        "date_scraped": "2016-08-15T17:40:59.601Z",
         "is_active": true,
         "artists": []
     }
@@ -2405,7 +2405,7 @@
         "date_time": "2016-10-01T02:00:00Z",
         "price": "$16.00",
         "url": "http://www.subt.net/event/1268365-porches-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.250Z",
+        "date_scraped": "2016-08-15T17:40:59.603Z",
         "is_active": true,
         "artists": []
     }
@@ -2419,7 +2419,7 @@
         "date_time": "2016-10-02T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1285857-elliott-vincent-jones-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.252Z",
+        "date_scraped": "2016-08-15T17:40:59.605Z",
         "is_active": true,
         "artists": []
     }
@@ -2433,7 +2433,7 @@
         "date_time": "2016-10-02T02:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1241561-loudernow-taste-emo-night-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.253Z",
+        "date_scraped": "2016-08-15T17:40:59.607Z",
         "is_active": true,
         "artists": []
     }
@@ -2447,7 +2447,7 @@
         "date_time": "2016-10-04T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1279401-kal-marks-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.255Z",
+        "date_scraped": "2016-08-15T17:40:59.609Z",
         "is_active": true,
         "artists": []
     }
@@ -2461,7 +2461,7 @@
         "date_time": "2016-10-06T02:00:00Z",
         "price": "$10.00 - $12.00",
         "url": "http://www.subt.net/event/1226549-magic-sword-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.257Z",
+        "date_scraped": "2016-08-15T17:40:59.611Z",
         "is_active": true,
         "artists": []
     }
@@ -2475,7 +2475,7 @@
         "date_time": "2016-10-07T01:00:00Z",
         "price": "$15.00 - $17.00",
         "url": "http://www.subt.net/event/1233997-mothxr-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.258Z",
+        "date_scraped": "2016-08-15T17:40:59.612Z",
         "is_active": true,
         "artists": []
     }
@@ -2489,7 +2489,7 @@
         "date_time": "2016-10-08T01:30:00Z",
         "price": "$14.00 - $16.00",
         "url": "http://www.subt.net/event/1279409-from-indian-lakes-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.260Z",
+        "date_scraped": "2016-08-15T17:40:59.614Z",
         "is_active": true,
         "artists": []
     }
@@ -2503,7 +2503,7 @@
         "date_time": "2016-10-08T03:30:00Z",
         "price": "$8.00 - $10.00",
         "url": "http://www.subt.net/event/1279425-monobody-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.262Z",
+        "date_scraped": "2016-08-15T17:40:59.616Z",
         "is_active": true,
         "artists": []
     }
@@ -2517,7 +2517,7 @@
         "date_time": "2016-10-09T00:15:00Z",
         "price": "$18.00 - $20.00",
         "url": "http://www.subt.net/event/1264655-gorguts-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.263Z",
+        "date_scraped": "2016-08-15T17:40:59.619Z",
         "is_active": true,
         "artists": []
     }
@@ -2531,7 +2531,7 @@
         "date_time": "2016-10-12T00:00:00Z",
         "price": "$8.00 - $10.00",
         "url": "http://www.subt.net/event/1279441-donovan-wolfington-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.265Z",
+        "date_scraped": "2016-08-15T17:40:59.620Z",
         "is_active": true,
         "artists": []
     }
@@ -2545,7 +2545,7 @@
         "date_time": "2016-10-12T23:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1261053-this-wild-life-low-tides-tour-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.267Z",
+        "date_scraped": "2016-08-15T17:40:59.622Z",
         "is_active": true,
         "artists": []
     }
@@ -2559,7 +2559,7 @@
         "date_time": "2016-10-14T00:00:00Z",
         "price": "$12.00",
         "url": "http://www.subt.net/event/1287319-palm-kids-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.268Z",
+        "date_scraped": "2016-08-15T17:40:59.624Z",
         "is_active": true,
         "artists": []
     }
@@ -2573,7 +2573,7 @@
         "date_time": "2016-10-15T02:00:00Z",
         "price": "$8",
         "url": "http://www.subt.net/event/1286207-uk-corral-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.270Z",
+        "date_scraped": "2016-08-15T17:40:59.626Z",
         "is_active": true,
         "artists": []
     }
@@ -2587,7 +2587,7 @@
         "date_time": "2016-10-20T01:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1253383-cute-is-what-we-aim-for-same-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.272Z",
+        "date_scraped": "2016-08-15T17:40:59.628Z",
         "is_active": true,
         "artists": []
     }
@@ -2601,7 +2601,7 @@
         "date_time": "2016-10-23T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1279465-lord-snow-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.273Z",
+        "date_scraped": "2016-08-15T17:40:59.629Z",
         "is_active": true,
         "artists": []
     }
@@ -2615,7 +2615,7 @@
         "date_time": "2016-10-23T02:00:00Z",
         "price": "$16.00",
         "url": "http://www.subt.net/event/1235631-skeletonwitch-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.275Z",
+        "date_scraped": "2016-08-15T17:40:59.631Z",
         "is_active": true,
         "artists": []
     }
@@ -2629,7 +2629,7 @@
         "date_time": "2016-10-26T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1267733-karl-blau-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.277Z",
+        "date_scraped": "2016-08-15T17:40:59.633Z",
         "is_active": true,
         "artists": []
     }
@@ -2643,7 +2643,7 @@
         "date_time": "2016-10-26T23:30:00Z",
         "price": "$14.00 - $18.00",
         "url": "http://www.subt.net/event/1219079-kero-kero-bonito-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.278Z",
+        "date_scraped": "2016-08-15T17:40:59.635Z",
         "is_active": true,
         "artists": []
     }
@@ -2657,7 +2657,7 @@
         "date_time": "2016-10-29T01:00:00Z",
         "price": "$14.00",
         "url": "http://www.subt.net/event/1287351-honeyblood-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.280Z",
+        "date_scraped": "2016-08-15T17:40:59.637Z",
         "is_active": true,
         "artists": []
     }
@@ -2671,7 +2671,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "$18.00 - $20.00",
         "url": "http://www.subt.net/event/1185901-bear-vs-shark-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.282Z",
+        "date_scraped": "2016-08-15T17:40:59.639Z",
         "is_active": true,
         "artists": []
     }
@@ -2685,7 +2685,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "$7.00 - $10.00",
         "url": "http://www.subt.net/event/1287235-tanzen-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.284Z",
+        "date_scraped": "2016-08-15T17:40:59.640Z",
         "is_active": true,
         "artists": []
     }
@@ -2699,7 +2699,7 @@
         "date_time": "2016-10-31T01:00:00Z",
         "price": "$18.00 - $20.00",
         "url": "http://www.subt.net/event/1189751-bear-vs-shark-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.285Z",
+        "date_scraped": "2016-08-15T17:40:59.642Z",
         "is_active": true,
         "artists": []
     }
@@ -2713,7 +2713,7 @@
         "date_time": "2016-11-06T01:30:00Z",
         "price": "$16.00 - $18.00",
         "url": "http://www.subt.net/event/1218787-mc-chris-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.287Z",
+        "date_scraped": "2016-08-15T17:40:59.644Z",
         "is_active": true,
         "artists": []
     }
@@ -2727,7 +2727,7 @@
         "date_time": "2016-11-10T03:00:00Z",
         "price": "$12.00 - $14.00",
         "url": "http://www.subt.net/event/1279491-july-talk-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.289Z",
+        "date_scraped": "2016-08-15T17:40:59.646Z",
         "is_active": true,
         "artists": []
     }
@@ -2741,7 +2741,7 @@
         "date_time": "2016-11-12T01:00:00Z",
         "price": "$15.00 - $18.00",
         "url": "http://www.subt.net/event/1250075-alex-g-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.290Z",
+        "date_scraped": "2016-08-15T17:40:59.648Z",
         "is_active": true,
         "artists": []
     }
@@ -2755,7 +2755,7 @@
         "date_time": "2016-11-13T03:00:00Z",
         "price": "$13.00 - $15.00",
         "url": "http://www.subt.net/event/1254763-arkells-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.292Z",
+        "date_scraped": "2016-08-15T17:40:59.649Z",
         "is_active": true,
         "artists": []
     }
@@ -2769,7 +2769,7 @@
         "date_time": "2016-11-15T01:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1272165-jeffrey-lewis-los-bolts-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.294Z",
+        "date_scraped": "2016-08-15T17:40:59.651Z",
         "is_active": true,
         "artists": []
     }
@@ -2783,7 +2783,7 @@
         "date_time": "2016-11-18T01:30:00Z",
         "price": "$16.00",
         "url": "http://www.subt.net/event/1241437-gavin-james-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.295Z",
+        "date_scraped": "2016-08-15T17:40:59.653Z",
         "is_active": true,
         "artists": []
     }
@@ -2797,7 +2797,7 @@
         "date_time": "2016-11-20T03:30:00Z",
         "price": "$13.00 - $15.00",
         "url": "http://www.subt.net/event/1233859-slim-cessnas-auto-club-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.297Z",
+        "date_scraped": "2016-08-15T17:40:59.655Z",
         "is_active": true,
         "artists": []
     }
@@ -2811,7 +2811,7 @@
         "date_time": "2017-01-14T01:00:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1273867-weekend-nachos-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.299Z",
+        "date_scraped": "2016-08-15T17:40:59.657Z",
         "is_active": true,
         "artists": []
     }
@@ -2825,7 +2825,7 @@
         "date_time": "2017-01-15T01:00:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1274149-weekend-nachos-chicago/",
-        "date_scraped": "2016-08-15T17:28:19.300Z",
+        "date_scraped": "2016-08-15T17:40:59.659Z",
         "is_active": true,
         "artists": []
     }
