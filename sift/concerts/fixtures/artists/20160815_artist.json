@@ -1,0 +1,5622 @@
+[
+{
+    "model": "concerts.artist",
+    "pk": 1,
+    "fields": {
+        "name": "Charles Mingus",
+        "re_string": "\\bCharles Mingus\\b",
+        "spotify_id": "1W8TbFzNS15VwsempfY12H",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 2,
+    "fields": {
+        "name": "Naoya Matsuoka & Wesing",
+        "re_string": "\\bNaoya Matsuoka .? Wesing\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 3,
+    "fields": {
+        "name": "Lotus Plaza",
+        "re_string": "\\bLotus Plaza\\b",
+        "spotify_id": "4o1mf6VhPYeSoQkMcfB0HG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 4,
+    "fields": {
+        "name": "The Mars Volta",
+        "re_string": "\\bThe Mars Volta\\b",
+        "spotify_id": "75U40yZLLPglFgXbDVnmVs",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 5,
+    "fields": {
+        "name": "El-P",
+        "re_string": "\\bEl.?P\\b",
+        "spotify_id": "57UnSUpae3SbRekxNa5Kgl",
+        "is_active": false
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 6,
+    "fields": {
+        "name": "City and Colour",
+        "re_string": "\\bCity and Colour\\b",
+        "spotify_id": "74gcBzlQza1bSfob90yRhR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 7,
+    "fields": {
+        "name": "Dan Deacon",
+        "re_string": "\\bDan Deacon\\b",
+        "spotify_id": "5Z3IWpvwOvoaWodujHw7xh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 8,
+    "fields": {
+        "name": "Black Milk",
+        "re_string": "\\bBlack Milk\\b",
+        "spotify_id": "77zgRkcehIGCAtROXkXkb3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 9,
+    "fields": {
+        "name": "Charlie Hunter",
+        "re_string": "\\bCharlie Hunter\\b",
+        "spotify_id": "0si9BxvM2C33fAIkr1pgUc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 10,
+    "fields": {
+        "name": "Pat Metheny",
+        "re_string": "\\bPat Metheny\\b",
+        "spotify_id": "3t58jfUhoMLYVO14XaUFLA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 11,
+    "fields": {
+        "name": "Starsailor",
+        "re_string": "\\bStarsailor\\b",
+        "spotify_id": "0G8zjE6SsFTlbglCkU8pm3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 12,
+    "fields": {
+        "name": "The Flaming Lips",
+        "re_string": "\\bThe Flaming Lips\\b",
+        "spotify_id": "16eRpMNXSQ15wuJoeqguaB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 13,
+    "fields": {
+        "name": "DJ Assault",
+        "re_string": "\\bDJ Assault\\b",
+        "spotify_id": "3yoyUFgb11DMp1KrsJoQZU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 14,
+    "fields": {
+        "name": "Disclosure",
+        "re_string": "\\bDisclosure\\b",
+        "spotify_id": "6nS5roXSAGhTGr34W6n7Et",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 15,
+    "fields": {
+        "name": "Wilco",
+        "re_string": "\\bWilco\\b",
+        "spotify_id": "2QoU3awHVdcHS8LrZEKvSM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 16,
+    "fields": {
+        "name": "Neville Brothers",
+        "re_string": "\\bNeville Brothers\\b",
+        "spotify_id": "3d1olqhURDe8e5HOta1Qxg",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 17,
+    "fields": {
+        "name": "Raekwon",
+        "re_string": "\\bRaekwon\\b",
+        "spotify_id": "2yQf6b8hxahZaT5dHlWaB1",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 18,
+    "fields": {
+        "name": "Tame Impala",
+        "re_string": "\\bTame Impala\\b",
+        "spotify_id": "5INjqkS1o8h1imAzPqGZBb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 19,
+    "fields": {
+        "name": "Squarepusher",
+        "re_string": "\\bSquarepusher\\b",
+        "spotify_id": "4mtHSXwIHihO6MWNq5Qoko",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 20,
+    "fields": {
+        "name": "Caribou",
+        "re_string": "\\bCaribou\\b",
+        "spotify_id": "4aEnNH9PuU1HF3TsZTru54",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 21,
+    "fields": {
+        "name": "Team Sleep",
+        "re_string": "\\bTeam Sleep\\b",
+        "spotify_id": "6CwDvApcRshxhEVMP30Sq7",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 22,
+    "fields": {
+        "name": "Major Lazer",
+        "re_string": "\\bMajor Lazer\\b",
+        "spotify_id": "738wLrAtLtCtFOLvQBXOXp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 23,
+    "fields": {
+        "name": "Asobi Seksu",
+        "re_string": "\\bAsobi Seksu\\b",
+        "spotify_id": "7vXdfh8G9fJVGvfUSkqf62",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 24,
+    "fields": {
+        "name": "Silversun Pickups",
+        "re_string": "\\bSilversun Pickups\\b",
+        "spotify_id": "6qyi8X6MdP1lu6B1K6yh3h",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 25,
+    "fields": {
+        "name": "Omar Rodriguez Lopez",
+        "re_string": "\\bOmar Rodriguez Lopez\\b",
+        "spotify_id": "4ANigmoglCpG6sHgfT1hkB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 26,
+    "fields": {
+        "name": "Wild Nothing",
+        "re_string": "\\bWild Nothing\\b",
+        "spotify_id": "6NrkINd80slV25wkBu9mEB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 27,
+    "fields": {
+        "name": "Flying Lotus",
+        "re_string": "\\bFlying Lotus\\b",
+        "spotify_id": "29XOeO6KIWxGthejQqn793",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 28,
+    "fields": {
+        "name": "Monster Movie",
+        "re_string": "\\bMonster Movie\\b",
+        "spotify_id": "2dfQY7CANDxfh2L21wenxo",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 29,
+    "fields": {
+        "name": "Ant\u00f4nio Carlos Jobim",
+        "re_string": "\\bAnt\u00f4nio Carlos Jobim\\b",
+        "spotify_id": "3pO5VjZ4wOHCMBXOvbMISG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 30,
+    "fields": {
+        "name": "Nadja",
+        "re_string": "\\bNadja\\b",
+        "spotify_id": "5ilW7mgqfRPZzRi28RNk8V",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 31,
+    "fields": {
+        "name": "Bloc Party",
+        "re_string": "\\bBloc Party\\b",
+        "spotify_id": "3MM8mtgFzaEJsqbjZBSsHJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 32,
+    "fields": {
+        "name": "Bobby Brown",
+        "re_string": "\\bBobby Brown\\b",
+        "spotify_id": "62sPt3fswraiEPnKQpAbdE",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 33,
+    "fields": {
+        "name": "Dntel",
+        "re_string": "\\bDntel\\b",
+        "spotify_id": "1jf3CssdtSksxNa3uIpPzS",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 34,
+    "fields": {
+        "name": "Redman",
+        "re_string": "\\bRedman\\b",
+        "spotify_id": "7xTKLpo7UCzXSnlH7fOIoM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 35,
+    "fields": {
+        "name": "conelrad",
+        "re_string": "\\bconelrad\\b",
+        "spotify_id": "6h2Aqa4ho2GWh1jRDcUSjG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 36,
+    "fields": {
+        "name": "Mandrill",
+        "re_string": "\\bMandrill\\b",
+        "spotify_id": "6RWnslEkqboHbDg0OUabe5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 37,
+    "fields": {
+        "name": "Miaou",
+        "re_string": "\\bMiaou\\b",
+        "spotify_id": "5AyAxKkrradQAcpKeKJV9Q",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 38,
+    "fields": {
+        "name": "Primus",
+        "re_string": "\\bPrimus\\b",
+        "spotify_id": "64mPnRMMeudAet0E62ypkx",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 39,
+    "fields": {
+        "name": "Niyaz",
+        "re_string": "\\bNiyaz\\b",
+        "spotify_id": "7sBjVJ5NcSKtTsvPphq4Xp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 40,
+    "fields": {
+        "name": "Ronnie Baker Brooks",
+        "re_string": "\\bRonnie Baker Brooks\\b",
+        "spotify_id": "1R61o55489TKal84OYdcnI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 41,
+    "fields": {
+        "name": "The Walkmen",
+        "re_string": "\\bThe Walkmen\\b",
+        "spotify_id": "6kFay2DQ5aZfeu5OsrF3Pw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 42,
+    "fields": {
+        "name": "Big Star",
+        "re_string": "\\bBig Star\\b",
+        "spotify_id": "3UvcmAOZt64oKpP95f6MMM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 43,
+    "fields": {
+        "name": "Ben Harper",
+        "re_string": "\\bBen Harper\\b",
+        "spotify_id": "45lorWzrKLxfKlWpV7r9CN",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 44,
+    "fields": {
+        "name": "Talk Talk",
+        "re_string": "\\bTalk Talk\\b",
+        "spotify_id": "7Fo8TAyGJr4VmhE68QamMf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 45,
+    "fields": {
+        "name": "At the Drive-In",
+        "re_string": "\\bAt the Drive.?In\\b",
+        "spotify_id": "5E2rtn57BM2WPjwak4kGd5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 46,
+    "fields": {
+        "name": "K'Naan",
+        "re_string": "\\bK.?Naan\\b",
+        "spotify_id": "7pGyQZx9thVa8GxMBeXscB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 47,
+    "fields": {
+        "name": "Mark Lanegan Band",
+        "re_string": "\\bMark Lanegan Band\\b",
+        "spotify_id": "1fpXM23IoNckJ7NDAm8YJQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 48,
+    "fields": {
+        "name": "Justin Timberlake",
+        "re_string": "\\bJustin Timberlake\\b",
+        "spotify_id": "31TPClRtHm23RisEBtV3X7",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 49,
+    "fields": {
+        "name": "Ganja White Night",
+        "re_string": "\\bGanja White Night\\b",
+        "spotify_id": "1a6oIpEh4DGgaqgWg5xwd3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 50,
+    "fields": {
+        "name": "Madvillain",
+        "re_string": "\\bMadvillain\\b",
+        "spotify_id": "2aoFQUeHD1U7pL098lRsDU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 51,
+    "fields": {
+        "name": "The Silver Mt. Zion Memorial Orchestra & Tra-La-La Band",
+        "re_string": "\\bThe Silver Mt.? Zion Memorial Orchestra .? Tra.?La.?La Band\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 52,
+    "fields": {
+        "name": "Galactic",
+        "re_string": "\\bGalactic\\b",
+        "spotify_id": "4rMUtWPGbE6waga7PQO0oQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 53,
+    "fields": {
+        "name": "Modeselektor",
+        "re_string": "\\bModeselektor\\b",
+        "spotify_id": "2jYMYP2SVifgmzNRQJx3SJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 54,
+    "fields": {
+        "name": "Kirk Franklin",
+        "re_string": "\\bKirk Franklin\\b",
+        "spotify_id": "4akybxRTGHJZ1DXjLhJ1qu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 55,
+    "fields": {
+        "name": "Earl Sweatshirt",
+        "re_string": "\\bEarl Sweatshirt\\b",
+        "spotify_id": "3A5tHz1SfngyOZM2gItYKu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 56,
+    "fields": {
+        "name": "Yelawolf",
+        "re_string": "\\bYelawolf\\b",
+        "spotify_id": "68DWke2VjdDmA75aJX5C57",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 57,
+    "fields": {
+        "name": "Ronald Jenkees",
+        "re_string": "\\bRonald Jenkees\\b",
+        "spotify_id": "5UmeRtxfJxx9iUnyUP8dFm",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 58,
+    "fields": {
+        "name": "A Silver Mt. Zion",
+        "re_string": "\\bA Silver Mt.? Zion\\b",
+        "spotify_id": "0bRpSBtMd3stO4J6TWclMb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 59,
+    "fields": {
+        "name": "Cat Power",
+        "re_string": "\\bCat Power\\b",
+        "spotify_id": "6G7OerKc3eBO9sVkRNopFC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 60,
+    "fields": {
+        "name": "Nujabes",
+        "re_string": "\\bNujabes\\b",
+        "spotify_id": "3Rq3YOF9YG9YfCWD4D56RZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 61,
+    "fields": {
+        "name": "Copywrite",
+        "re_string": "\\bCopywrite\\b",
+        "spotify_id": "05YQdfjpG35u5fmVn7Y0sc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 62,
+    "fields": {
+        "name": "Kurupt",
+        "re_string": "\\bKurupt\\b",
+        "spotify_id": "6NyJIFHAePjHR1pFxwisqz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 63,
+    "fields": {
+        "name": "De La Soul",
+        "re_string": "\\bDe La Soul\\b",
+        "spotify_id": "1Z8ODXyhEBi3WynYw0Rya6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 64,
+    "fields": {
+        "name": "Miles Davis",
+        "re_string": "\\bMiles Davis\\b",
+        "spotify_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 65,
+    "fields": {
+        "name": "Pete Rock",
+        "re_string": "\\bPete Rock\\b",
+        "spotify_id": "3BeQqzKdlARoOd6y30kCO2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 66,
+    "fields": {
+        "name": "Mike & Amy Finders Band",
+        "re_string": "\\bMike .? Amy Finders Band\\b",
+        "spotify_id": "6n7MLKEhMeVUvOmaPoTJNR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 67,
+    "fields": {
+        "name": "Department of Eagles",
+        "re_string": "\\bDepartment of Eagles\\b",
+        "spotify_id": "0d2BmAcZ7p8vrtBPY48WMW",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 68,
+    "fields": {
+        "name": "Return to Forever",
+        "re_string": "\\bReturn to Forever\\b",
+        "spotify_id": "1txWOvvuItlRlkB4rM0cUK",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 69,
+    "fields": {
+        "name": "Lower Dens",
+        "re_string": "\\bLower Dens\\b",
+        "spotify_id": "5uTJLo3c4ZHpH8oEwGxYUN",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 70,
+    "fields": {
+        "name": "Burial",
+        "re_string": "\\bBurial\\b",
+        "spotify_id": "0uNj4RxFjG0iVPlZS753en",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 71,
+    "fields": {
+        "name": "Built to Spill",
+        "re_string": "\\bBuilt to Spill\\b",
+        "spotify_id": "3kbBWco9PZ5eSQsNScwG6U",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 72,
+    "fields": {
+        "name": "Hammock",
+        "re_string": "\\bHammock\\b",
+        "spotify_id": "0VOR7Ie9xUSb45fzIIVJQ1",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 73,
+    "fields": {
+        "name": "Dead Prez",
+        "re_string": "\\bDead Prez\\b",
+        "spotify_id": "2UBt0GWBuPVXlPisRvWzlD",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 74,
+    "fields": {
+        "name": "Loose Fur",
+        "re_string": "\\bLoose Fur\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 75,
+    "fields": {
+        "name": "Jurassic 5",
+        "re_string": "\\bJurassic 5\\b",
+        "spotify_id": "6wFId9Jhuf9AKVzWboOj2B",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 76,
+    "fields": {
+        "name": "Cee-Lo",
+        "re_string": "\\bCee.?Lo\\b",
+        "spotify_id": "5nLYd9ST4Cnwy6NHaCxbj8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 77,
+    "fields": {
+        "name": "Yeah Yeah Yeahs",
+        "re_string": "\\bYeah Yeah Yeahs\\b",
+        "spotify_id": "3TNt4aUIxgfy9aoaft5Jj2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 78,
+    "fields": {
+        "name": "AlunaGeorge",
+        "re_string": "\\bAlunaGeorge\\b",
+        "spotify_id": "2VAnyOxzJuSAj7XIuEOT38",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 79,
+    "fields": {
+        "name": "The MFA",
+        "re_string": "\\bThe MFA\\b",
+        "spotify_id": "74dzDYmlHy0VkRX3eRheDF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 80,
+    "fields": {
+        "name": "Buddy Guy",
+        "re_string": "\\bBuddy Guy\\b",
+        "spotify_id": "2gCsNOpiBaMNh20jQ5prf0",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 81,
+    "fields": {
+        "name": "Isis",
+        "re_string": "\\bIsis\\b",
+        "spotify_id": "2vsXeWGC8rILp3rpSN2Fyk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 82,
+    "fields": {
+        "name": "Baechigi (\ubc30\uce58\uae30)",
+        "re_string": "\\bBaechigi .?\ubc30\uce58\uae30.?\\b",
+        "spotify_id": "4gFS4uBzQGZeNoXoPz2wPA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 83,
+    "fields": {
+        "name": "Ladysmith Black Mambazo",
+        "re_string": "\\bLadysmith Black Mambazo\\b",
+        "spotify_id": "3FdLhnmXynPvZkbILPpB6d",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 84,
+    "fields": {
+        "name": "Django Reinhardt",
+        "re_string": "\\bDjango Reinhardt\\b",
+        "spotify_id": "5Z1XZyEFY0dewG8faEIiEx",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 85,
+    "fields": {
+        "name": "Fela Kuti",
+        "re_string": "\\bFela Kuti\\b",
+        "spotify_id": "5CG9X521RDFWCuAhlo6QoR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 86,
+    "fields": {
+        "name": "Cults",
+        "re_string": "\\bCults\\b",
+        "spotify_id": "3Oim8XBPbznAa8Jj8QzNc8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 87,
+    "fields": {
+        "name": "Grizzly Bear",
+        "re_string": "\\bGrizzly Bear\\b",
+        "spotify_id": "2Jv5eshHtLycR6R8KQCdc4",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 88,
+    "fields": {
+        "name": "The Smashing Pumpkins",
+        "re_string": "\\bThe Smashing Pumpkins\\b",
+        "spotify_id": "40Yq4vzPs9VNUrIBG5Jr2i",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 89,
+    "fields": {
+        "name": "Strapping Young Lad",
+        "re_string": "\\bStrapping Young Lad\\b",
+        "spotify_id": "457qPvtiBTIl6LR4dZiKZy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 90,
+    "fields": {
+        "name": "Pantha du Prince",
+        "re_string": "\\bPantha du Prince\\b",
+        "spotify_id": "7Go2Fj2YWEQkYBqTVQArYi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 91,
+    "fields": {
+        "name": "Danny Brown",
+        "re_string": "\\bDanny Brown\\b",
+        "spotify_id": "7aA592KWirLsnfb5ulGWvU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 92,
+    "fields": {
+        "name": "Pacific UV",
+        "re_string": "\\bPacific UV\\b",
+        "spotify_id": "2xypNitSexrJq9bkV5A8Wt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 93,
+    "fields": {
+        "name": "Gypsy Kings",
+        "re_string": "\\bGypsy Kings\\b",
+        "spotify_id": "3jc496ljiyrS3ECrD7QiqL",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 94,
+    "fields": {
+        "name": "Tatsuro Yamashita",
+        "re_string": "\\bTatsuro Yamashita\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 95,
+    "fields": {
+        "name": "Simple",
+        "re_string": "\\bSimple\\b",
+        "spotify_id": "2p4FqHnazRucYQHyDCdBrJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 96,
+    "fields": {
+        "name": "Actress",
+        "re_string": "\\bActress\\b",
+        "spotify_id": "4nZbOHYEypqHtWwTPQu8Fl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 97,
+    "fields": {
+        "name": "Buckethead",
+        "re_string": "\\bBuckethead\\b",
+        "spotify_id": "0fDF0jjmdouCIeWhNnblwV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 98,
+    "fields": {
+        "name": "Marriages",
+        "re_string": "\\bMarriages\\b",
+        "spotify_id": "7lAYeGtgIQjUZ5mw0XxEZ2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 99,
+    "fields": {
+        "name": "Soil and Pimp Sessions ",
+        "re_string": "\\bSoil and Pimp Sessions \\b",
+        "spotify_id": "5COMNbVWoe1Kb5UTFAaUwF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 100,
+    "fields": {
+        "name": "CINEMA dub MONKS",
+        "re_string": "\\bCINEMA dub MONKS\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 101,
+    "fields": {
+        "name": "Erykah Badu",
+        "re_string": "\\bErykah Badu\\b",
+        "spotify_id": "7IfculRW2WXyzNQ8djX8WX",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 102,
+    "fields": {
+        "name": "Bonobo",
+        "re_string": "\\bBonobo\\b",
+        "spotify_id": "0cmWgDlu9CwTgxPhf403hb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 103,
+    "fields": {
+        "name": "Earth",
+        "re_string": "\\bEarth\\b",
+        "spotify_id": "4QQgXkCYTt3BlENzhyNETg",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 104,
+    "fields": {
+        "name": "Flux Pavillion",
+        "re_string": "\\bFlux Pavillion\\b",
+        "spotify_id": "1aN1v7r1yVKHgp7hFQPFrD",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 105,
+    "fields": {
+        "name": "DJ Koze",
+        "re_string": "\\bDJ Koze\\b",
+        "spotify_id": "1kR99O4MgSTasyeJh8UFCg",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 106,
+    "fields": {
+        "name": "Bonnie Raitt",
+        "re_string": "\\bBonnie Raitt\\b",
+        "spotify_id": "4KDyYWR7IpxZ7xrdYbKrqY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 107,
+    "fields": {
+        "name": "Reverend Horton Heat",
+        "re_string": "\\bReverend Horton Heat\\b",
+        "spotify_id": "4byZW0sEv5RUoyQBfv7CPw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 108,
+    "fields": {
+        "name": "Neutral Milk Hotel",
+        "re_string": "\\bNeutral Milk Hotel\\b",
+        "spotify_id": "2ooIqOf4X2uz4mMptXCtie",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 109,
+    "fields": {
+        "name": "Modest Mouse",
+        "re_string": "\\bModest Mouse\\b",
+        "spotify_id": "1yAwtBaoHLEDWAnWR87hBT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 110,
+    "fields": {
+        "name": "Alcest",
+        "re_string": "\\bAlcest\\b",
+        "spotify_id": "0d5ZwMtCer8dQdOPAgWhe7",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 111,
+    "fields": {
+        "name": "Gas",
+        "re_string": "\\bGas\\b",
+        "spotify_id": "4lk58CCPlPW7xSnoWBd7wc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 112,
+    "fields": {
+        "name": "Big Boi",
+        "re_string": "\\bBig Boi\\b",
+        "spotify_id": "2ht3wxeT69CzyKFChNnNAB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 113,
+    "fields": {
+        "name": "Lady Gaga",
+        "re_string": "\\bLady Gaga\\b",
+        "spotify_id": "1HY2Jd0NmPuamShAr6KMms",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 114,
+    "fields": {
+        "name": "The Tallest Man On Earth",
+        "re_string": "\\bThe Tallest Man On Earth\\b",
+        "spotify_id": "2BpAc5eK7Rz5GAwSp9UYXa",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 115,
+    "fields": {
+        "name": "The Middle East",
+        "re_string": "\\bThe Middle East\\b",
+        "spotify_id": "6imbHAlhHrFwtsOgqpeBK2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 116,
+    "fields": {
+        "name": "Fujiya & Miyagi",
+        "re_string": "\\bFujiya .? Miyagi\\b",
+        "spotify_id": "0j2MwhbFTvquOBhs3LeIfU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 117,
+    "fields": {
+        "name": "Peaches",
+        "re_string": "\\bPeaches\\b",
+        "spotify_id": "1gkSl4XpHIHI4I1WQbfXOE",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 118,
+    "fields": {
+        "name": "Jesu",
+        "re_string": "\\bJesu\\b",
+        "spotify_id": "1binm59tmJzoZLvLETVYBP",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 119,
+    "fields": {
+        "name": "Ozomatli",
+        "re_string": "\\bOzomatli\\b",
+        "spotify_id": "1An0HCtDktvCBDdFEu7HC0",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 120,
+    "fields": {
+        "name": "Atlas Sound",
+        "re_string": "\\bAtlas Sound\\b",
+        "spotify_id": "3kGhAL9j1WyNjNkWTRQd8T",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 121,
+    "fields": {
+        "name": "Kid Sister",
+        "re_string": "\\bKid Sister\\b",
+        "spotify_id": "3FTzn86WmApHmwBMGVSEXE",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 122,
+    "fields": {
+        "name": "Joni Haastrup",
+        "re_string": "\\bJoni Haastrup\\b",
+        "spotify_id": "4Mp7yETSzhsOZt0lm4TaRu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 123,
+    "fields": {
+        "name": "Michio Kurihara",
+        "re_string": "\\bMichio Kurihara\\b",
+        "spotify_id": "15wfNVVSOT566eJUKq9QH4",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 124,
+    "fields": {
+        "name": "Lonny Breaux",
+        "re_string": "\\bLonny Breaux\\b",
+        "spotify_id": "69PpJilwhE2MGiqDb2iRXk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 125,
+    "fields": {
+        "name": "Memoryhouse",
+        "re_string": "\\bMemoryhouse\\b",
+        "spotify_id": "0T1n7Qbe4vwYIu42mB6qXe",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 126,
+    "fields": {
+        "name": "The Bad Plus",
+        "re_string": "\\bThe Bad Plus\\b",
+        "spotify_id": "5qOfTfMzTj2dvvpWKzIFk6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 127,
+    "fields": {
+        "name": "Father John Misty",
+        "re_string": "\\bFather John Misty\\b",
+        "spotify_id": "2kGBy2WHvF0VdZyqiVCkDT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 128,
+    "fields": {
+        "name": "The xx",
+        "re_string": "\\bThe xx\\b",
+        "spotify_id": "3iOvXCl6edW5Um0fXEBRXy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 129,
+    "fields": {
+        "name": "Strokes",
+        "re_string": "\\bStrokes\\b",
+        "spotify_id": "0epOFNiUfyON9EYx7Tpr6V",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 130,
+    "fields": {
+        "name": "Bill Withers",
+        "re_string": "\\bBill Withers\\b",
+        "spotify_id": "1ThoqLcyIYvZn7iWbj8fsj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 131,
+    "fields": {
+        "name": "Lettuce",
+        "re_string": "\\bLettuce\\b",
+        "spotify_id": "1fZXjUQEkVbB0TvZX4qFR8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 132,
+    "fields": {
+        "name": "Junior Kimbrough",
+        "re_string": "\\bJunior Kimbrough\\b",
+        "spotify_id": "03HEHGJoLPdARs4nrtUidr",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 133,
+    "fields": {
+        "name": "Rage Against the Machine",
+        "re_string": "\\bRage Against the Machine\\b",
+        "spotify_id": "2d0hyoQ5ynDBnkvAbJKORj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 134,
+    "fields": {
+        "name": "Little Brother",
+        "re_string": "\\bLittle Brother\\b",
+        "spotify_id": "0s9MrSopEoAn8JqwBipgdO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 135,
+    "fields": {
+        "name": "Breakestra",
+        "re_string": "\\bBreakestra\\b",
+        "spotify_id": "0Jq39W2ruHAA8hGsheXIYG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 136,
+    "fields": {
+        "name": "Dead Can Dance",
+        "re_string": "\\bDead Can Dance\\b",
+        "spotify_id": "6sq7prp0tj9Abn89khmfja",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 137,
+    "fields": {
+        "name": "Panda Bear",
+        "re_string": "\\bPanda Bear\\b",
+        "spotify_id": "1R84VlXnFFULOsWWV8IrCQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 138,
+    "fields": {
+        "name": "The War on Drugs",
+        "re_string": "\\bThe War on Drugs\\b",
+        "spotify_id": "6g0mn3tzAds6aVeUYRsryU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 139,
+    "fields": {
+        "name": "Tortoise",
+        "re_string": "\\bTortoise\\b",
+        "spotify_id": "3WggbHDpj4rPKbL97zG5MQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 141,
+    "fields": {
+        "name": "Genius/GZA",
+        "re_string": "\\bGenius.?GZA\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 142,
+    "fields": {
+        "name": "Takkyu Ishino",
+        "re_string": "\\bTakkyu Ishino\\b",
+        "spotify_id": "1Y1eAeGo4bz5wP1CfRGn6c",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 143,
+    "fields": {
+        "name": "Tim Hecker",
+        "re_string": "\\bTim Hecker\\b",
+        "spotify_id": "1qiwaJwjKod5WhcYZ76O1B",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 144,
+    "fields": {
+        "name": "Busta Rhymes",
+        "re_string": "\\bBusta Rhymes\\b",
+        "spotify_id": "1YfEcTuGvBQ8xSD1f53UnK",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 145,
+    "fields": {
+        "name": "Royksopp",
+        "re_string": "\\bRoyksopp\\b",
+        "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 146,
+    "fields": {
+        "name": "Godspeed You! Black Emperor",
+        "re_string": "\\bGodspeed You.? Black Emperor\\b",
+        "spotify_id": "4svpOyfmQKuWpHLjgy4cdK",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 147,
+    "fields": {
+        "name": "Epik High (\uc5d0\ud53d \ud558\uc774)",
+        "re_string": "\\bEpik High .?\uc5d0\ud53d \ud558\uc774.?\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 148,
+    "fields": {
+        "name": "Pharcyde",
+        "re_string": "\\bPharcyde\\b",
+        "spotify_id": "7yk35uHNQclPXFGFoTU44w",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 149,
+    "fields": {
+        "name": "Aphex Twin",
+        "re_string": "\\bAphex Twin\\b",
+        "spotify_id": "6kBDZFXuLrZgHnvmPu9NsG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 150,
+    "fields": {
+        "name": "Wye Oak",
+        "re_string": "\\bWye Oak\\b",
+        "spotify_id": "5SjNVG3L9mgWQPsfp1sFDB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 151,
+    "fields": {
+        "name": "Sunn O)))",
+        "re_string": "\\bSunn O.?.?.?\\b",
+        "spotify_id": "0b0OE9FQA5z5B21Wkvzxoe",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 152,
+    "fields": {
+        "name": "Immanu El",
+        "re_string": "\\bImmanu El\\b",
+        "spotify_id": "5vdQYwhaxOpaSV8s7AjjH6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 153,
+    "fields": {
+        "name": "ZAZEN BOYS",
+        "re_string": "\\bZAZEN BOYS\\b",
+        "spotify_id": "6oAUOiOlMM5wvNfu2xikvM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 154,
+    "fields": {
+        "name": "Meshuggah",
+        "re_string": "\\bMeshuggah\\b",
+        "spotify_id": "3ggwAqZD3lyT2sbovlmfQY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 155,
+    "fields": {
+        "name": "Jay Rock",
+        "re_string": "\\bJay Rock\\b",
+        "spotify_id": "28ExwzUQsvgJooOI0X1mr3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 156,
+    "fields": {
+        "name": "Best Coast",
+        "re_string": "\\bBest Coast\\b",
+        "spotify_id": "5YkBrE0wF8cAlq3GCOw5Eu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 157,
+    "fields": {
+        "name": "Pusha T",
+        "re_string": "\\bPusha T\\b",
+        "spotify_id": "0ONHkAv9pCAFxb0zJwDNTy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 158,
+    "fields": {
+        "name": "Handsome Boy Modeling School",
+        "re_string": "\\bHandsome Boy Modeling School\\b",
+        "spotify_id": "3pkmfqaBNsMqnXus05PNfP",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 159,
+    "fields": {
+        "name": "Method Man",
+        "re_string": "\\bMethod Man\\b",
+        "spotify_id": "4VmEWwd8y9MCLwexFMdpwt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 160,
+    "fields": {
+        "name": "D'Angelo",
+        "re_string": "\\bD.?Angelo\\b",
+        "spotify_id": "336vr2M3Va0FjyvB55lJEd",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 161,
+    "fields": {
+        "name": "Katy B",
+        "re_string": "\\bKaty B\\b",
+        "spotify_id": "5EUdiv20t58GCS09VMKk7M",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 162,
+    "fields": {
+        "name": "La Roux",
+        "re_string": "\\bLa Roux\\b",
+        "spotify_id": "3K2zB87GZv1krx031en5VA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 163,
+    "fields": {
+        "name": "Death From Above 1979",
+        "re_string": "\\bDeath From Above 1979\\b",
+        "spotify_id": "18H0sAptzdwid08XGg1Lcj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 164,
+    "fields": {
+        "name": "Deafheaven",
+        "re_string": "\\bDeafheaven\\b",
+        "spotify_id": "4XpPveeg7RuYS3CgLo75t9",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 165,
+    "fields": {
+        "name": "Jaga Jazzist",
+        "re_string": "\\bJaga Jazzist\\b",
+        "spotify_id": "68HFSFMCZzyRjkkm9bv5Vt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 166,
+    "fields": {
+        "name": "Dakhabrakha",
+        "re_string": "\\bDakhabrakha\\b",
+        "spotify_id": "5hQYZqZaPcRceL82mFZTO5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 167,
+    "fields": {
+        "name": "Herbie Hancock",
+        "re_string": "\\bHerbie Hancock\\b",
+        "spotify_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 168,
+    "fields": {
+        "name": "Medeski Scofield Martin & Wood",
+        "re_string": "\\bMedeski Scofield Martin .? Wood\\b",
+        "spotify_id": "4QlI67Mg3LbNH3VBcExNr4",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 169,
+    "fields": {
+        "name": "Jodeci",
+        "re_string": "\\bJodeci\\b",
+        "spotify_id": "1eNkUXHPaXyuyC8NAgzykK",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 170,
+    "fields": {
+        "name": "Beirut",
+        "re_string": "\\bBeirut\\b",
+        "spotify_id": "6pmxr66tMAePxzOLfjGNcX",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 171,
+    "fields": {
+        "name": "Steely Dan",
+        "re_string": "\\bSteely Dan\\b",
+        "spotify_id": "6P7H3ai06vU1sGvdpBwDmE",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 172,
+    "fields": {
+        "name": "Santigold",
+        "re_string": "\\bSantigold\\b",
+        "spotify_id": "6Jrxnp0JgqmeUX1veU591p",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 173,
+    "fields": {
+        "name": "One Be Lo",
+        "re_string": "\\bOne Be Lo\\b",
+        "spotify_id": "2wQR86xNE8mkPaffnClYAj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 174,
+    "fields": {
+        "name": "Soulive",
+        "re_string": "\\bSoulive\\b",
+        "spotify_id": "6mWEaOFdcN3s30GuFWruGO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 175,
+    "fields": {
+        "name": "Fennesz",
+        "re_string": "\\bFennesz\\b",
+        "spotify_id": "2DoQBgPsB9AdmWpIa2hUSz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 176,
+    "fields": {
+        "name": "Rhye",
+        "re_string": "\\bRhye\\b",
+        "spotify_id": "2AcUPzkVWo81vumdzeLLRN",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 177,
+    "fields": {
+        "name": "Melvins",
+        "re_string": "\\bMelvins\\b",
+        "spotify_id": "6aVjo0xHSiuW5hkasoYSR3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 178,
+    "fields": {
+        "name": "Pete Yorn",
+        "re_string": "\\bPete Yorn\\b",
+        "spotify_id": "5l2EAkfckNPYZbEDbQtEkO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 179,
+    "fields": {
+        "name": "Mastodon",
+        "re_string": "\\bMastodon\\b",
+        "spotify_id": "1Dvfqq39HxvCJ3GvfeIFuT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 180,
+    "fields": {
+        "name": "Seu Jorge",
+        "re_string": "\\bSeu Jorge\\b",
+        "spotify_id": "0i1s9WcIu0PrUvHzALgofo",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 181,
+    "fields": {
+        "name": "Thelonious Monk",
+        "re_string": "\\bThelonious Monk\\b",
+        "spotify_id": "4PDpGtF16XpqvXxsrFwQnN",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 182,
+    "fields": {
+        "name": "John Coltrane",
+        "re_string": "\\bJohn Coltrane\\b",
+        "spotify_id": "2hGh5VOeeqimQFxqXvfCUf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 183,
+    "fields": {
+        "name": "Apparat",
+        "re_string": "\\bApparat\\b",
+        "spotify_id": "40Ojab0UtVQFjA76qXr8Ot",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 184,
+    "fields": {
+        "name": "Cody ChesnuTT",
+        "re_string": "\\bCody ChesnuTT\\b",
+        "spotify_id": "3sO8muEXafy2NGwUZByrTr",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 185,
+    "fields": {
+        "name": "Cursive",
+        "re_string": "\\bCursive\\b",
+        "spotify_id": "1sylmUjlKYsLA49YtkNHW3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 186,
+    "fields": {
+        "name": "Benny Greb",
+        "re_string": "\\bBenny Greb\\b",
+        "spotify_id": "5hjhUiwzXZliQMmqqkYT81",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 187,
+    "fields": {
+        "name": "Elvis Costello",
+        "re_string": "\\bElvis Costello\\b",
+        "spotify_id": "4qmHkMxr6pTWh5Zo74odpH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 188,
+    "fields": {
+        "name": "New Pornographers",
+        "re_string": "\\bNew Pornographers\\b",
+        "spotify_id": "4mO4aGO6u29UyR6XLZR9XW",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 189,
+    "fields": {
+        "name": "Anthony Hamilton",
+        "re_string": "\\bAnthony Hamilton\\b",
+        "spotify_id": "2DzRMyWgjuMbYvt5BLbpCo",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 190,
+    "fields": {
+        "name": "The Dead Texan",
+        "re_string": "\\bThe Dead Texan\\b",
+        "spotify_id": "0sf2u7qJQLxkZjon6FsvJT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 191,
+    "fields": {
+        "name": "The American Dollar",
+        "re_string": "\\bThe American Dollar\\b",
+        "spotify_id": "5r4OqYJL7JrtZlffx7FJlb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 192,
+    "fields": {
+        "name": "Mogwai",
+        "re_string": "\\bMogwai\\b",
+        "spotify_id": "34UhPkLbtFKRq3nmfFgejG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 193,
+    "fields": {
+        "name": "Nas & Damian Marley",
+        "re_string": "\\bNas .? Damian Marley\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 194,
+    "fields": {
+        "name": "North Mississippi Allstars",
+        "re_string": "\\bNorth Mississippi Allstars\\b",
+        "spotify_id": "714osTgzZrkyf3SGjggpfY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 195,
+    "fields": {
+        "name": "Band of Horses",
+        "re_string": "\\bBand of Horses\\b",
+        "spotify_id": "0OdUWJ0sBjDrqHygGUXeCF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 196,
+    "fields": {
+        "name": "Antemasque",
+        "re_string": "\\bAntemasque\\b",
+        "spotify_id": "4NjUYhiL8KL363WwGeLnqZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 197,
+    "fields": {
+        "name": "Happy End",
+        "re_string": "\\bHappy End\\b",
+        "spotify_id": "3r2rU8L1Izt78Sa3zTbmxC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 198,
+    "fields": {
+        "name": "Amiina",
+        "re_string": "\\bAmiina\\b",
+        "spotify_id": "79MO0KcrOdScKyzuDTtI3k",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 199,
+    "fields": {
+        "name": "Xiu Xiu",
+        "re_string": "\\bXiu Xiu\\b",
+        "spotify_id": "5JLqvjW3Nyom2OsRUyFsS9",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 200,
+    "fields": {
+        "name": "Big K.R.I.T.",
+        "re_string": "\\bBig K.?R.?I.?T.?\\b",
+        "spotify_id": "0CKa42Jqrc9fSFbDjePaXP",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 201,
+    "fields": {
+        "name": "Lonnie Smith",
+        "re_string": "\\bLonnie Smith\\b",
+        "spotify_id": "1ZpPJRe9erwiWi548SKVyn",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 202,
+    "fields": {
+        "name": "Madlib",
+        "re_string": "\\bMadlib\\b",
+        "spotify_id": "5LhTec3c7dcqBvpLRWbMcf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 203,
+    "fields": {
+        "name": "Lemonade",
+        "re_string": "\\bLemonade\\b",
+        "spotify_id": "2LOGLObCdmkQPDM0huSCGX",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 204,
+    "fields": {
+        "name": "Segun Bucknor",
+        "re_string": "\\bSegun Bucknor\\b",
+        "spotify_id": "6oK2fXqjM9P9N0VIeHBO6D",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 205,
+    "fields": {
+        "name": "Thom Yorke",
+        "re_string": "\\bThom Yorke\\b",
+        "spotify_id": "4CvTDPKA6W06DRfBnZKrau",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 206,
+    "fields": {
+        "name": "Billy Bang",
+        "re_string": "\\bBilly Bang\\b",
+        "spotify_id": "5yMnzCMvTdq16azP78SEMw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 207,
+    "fields": {
+        "name": "Derek Trucks Band",
+        "re_string": "\\bDerek Trucks Band\\b",
+        "spotify_id": "1YwfENKEZrowcmtR1nALZn",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 208,
+    "fields": {
+        "name": "Joshua Redman",
+        "re_string": "\\bJoshua Redman\\b",
+        "spotify_id": "3uaHfXYx9Fh4HjqMbrWn5S",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 209,
+    "fields": {
+        "name": "Ratatat",
+        "re_string": "\\bRatatat\\b",
+        "spotify_id": "57dN52uHvrHOxijzpIgu3E",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 210,
+    "fields": {
+        "name": "George Clinton and P-Funk",
+        "re_string": "\\bGeorge Clinton and P.?Funk\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 211,
+    "fields": {
+        "name": "Sonic Youth",
+        "re_string": "\\bSonic Youth\\b",
+        "spotify_id": "5UqTO8smerMvxHYA5xsXb6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 212,
+    "fields": {
+        "name": "Palms",
+        "re_string": "\\bPalms\\b",
+        "spotify_id": "1zVGInzEij1qk9ZlMlOC2X",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 213,
+    "fields": {
+        "name": "Marsha Ambrosius",
+        "re_string": "\\bMarsha Ambrosius\\b",
+        "spotify_id": "46VWDbmWmzvPBTmkSr25gM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 214,
+    "fields": {
+        "name": "Usher",
+        "re_string": "\\bUsher\\b",
+        "spotify_id": "23zg3TcAtWQy7J6upgbUnj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 215,
+    "fields": {
+        "name": "John Legend",
+        "re_string": "\\bJohn Legend\\b",
+        "spotify_id": "5y2Xq6xcjJb2jVM54GHK3t",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 216,
+    "fields": {
+        "name": "Explosions In The Sky",
+        "re_string": "\\bExplosions In The Sky\\b",
+        "spotify_id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 217,
+    "fields": {
+        "name": "Monocism",
+        "re_string": "\\bMonocism\\b",
+        "spotify_id": "3HVUefCokz3KNfNnW5QgOm",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 218,
+    "fields": {
+        "name": "Dub Trio",
+        "re_string": "\\bDub Trio\\b",
+        "spotify_id": "5oToGR9YFfpwBmXleDpB7T",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 219,
+    "fields": {
+        "name": "A-Trak",
+        "re_string": "\\bA.?Trak\\b",
+        "spotify_id": "3TaUSUXn41GixL7zbvrIDt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 220,
+    "fields": {
+        "name": "Health",
+        "re_string": "\\bHealth\\b",
+        "spotify_id": "6FfjnGXMhxSsJTuGLWBDth",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 221,
+    "fields": {
+        "name": "Rufus Wainwright",
+        "re_string": "\\bRufus Wainwright\\b",
+        "spotify_id": "2PfBzriIMRsCXPDtSy9vg8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 222,
+    "fields": {
+        "name": "Sianspheric",
+        "re_string": "\\bSianspheric\\b",
+        "spotify_id": "0xpUNBX2Ip4vAepPM7IbkM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 223,
+    "fields": {
+        "name": "Queens of the Stone Age",
+        "re_string": "\\bQueens of the Stone Age\\b",
+        "spotify_id": "4pejUc4iciQfgdX6OKulQn",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 224,
+    "fields": {
+        "name": "Stevie Wonder",
+        "re_string": "\\bStevie Wonder\\b",
+        "spotify_id": "7guDJrEfX3qb6FEbdPA5qi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 225,
+    "fields": {
+        "name": "Heartless Bastards",
+        "re_string": "\\bHeartless Bastards\\b",
+        "spotify_id": "2wwMTLM2da1sa2JcJslf8W",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 226,
+    "fields": {
+        "name": "Presidents of the United States of America",
+        "re_string": "\\bPresidents of the United States of America\\b",
+        "spotify_id": "1lZvg4fNAqHoj6I9N8naBM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 227,
+    "fields": {
+        "name": "Stanton Moore",
+        "re_string": "\\bStanton Moore\\b",
+        "spotify_id": "7bOHiKCHJ7mPMrSIiLMOIj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 228,
+    "fields": {
+        "name": "Cake",
+        "re_string": "\\bCake\\b",
+        "spotify_id": "6A43Djmhbe9100UwnI7epV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 229,
+    "fields": {
+        "name": "Kaki King",
+        "re_string": "\\bKaki King\\b",
+        "spotify_id": "1s2pki7lATUaBOL76E3vCV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 230,
+    "fields": {
+        "name": "Sufjan Stevens",
+        "re_string": "\\bSufjan Stevens\\b",
+        "spotify_id": "4MXUO7sVCaFgFjoTI5ox5c",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 231,
+    "fields": {
+        "name": "Bela Fleck",
+        "re_string": "\\bBela Fleck\\b",
+        "spotify_id": "2ka8z2lwkcp13fG8Wyv3xU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 232,
+    "fields": {
+        "name": "Jamie Xx",
+        "re_string": "\\bJamie Xx\\b",
+        "spotify_id": "7A0awCXkE1FtSU8B0qwOJQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 233,
+    "fields": {
+        "name": "Mary J. Blige",
+        "re_string": "\\bMary J.? Blige\\b",
+        "spotify_id": "1XkoF8ryArs86LZvFOkbyr",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 234,
+    "fields": {
+        "name": "Boris",
+        "re_string": "\\bBoris\\b",
+        "spotify_id": "3EgMK920cIH5aLxFnJ6zSi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 235,
+    "fields": {
+        "name": "William Basinski",
+        "re_string": "\\bWilliam Basinski\\b",
+        "spotify_id": "6u5axd0rpDsWSmzhFfb2VB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 236,
+    "fields": {
+        "name": "Lee Fields",
+        "re_string": "\\bLee Fields\\b",
+        "spotify_id": "2bToe6WyGvADJftreuXh2K",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 237,
+    "fields": {
+        "name": "Lazer Life of Brooklyn Zoo",
+        "re_string": "\\bLazer Life of Brooklyn Zoo\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 238,
+    "fields": {
+        "name": "John Beltran",
+        "re_string": "\\bJohn Beltran\\b",
+        "spotify_id": "0si3qPiSptTnVbdGByVAMd",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 239,
+    "fields": {
+        "name": "Sigur Ros",
+        "re_string": "\\bSigur Ros\\b",
+        "spotify_id": "6UUrUCIZtQeOf8tC0WuzRy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 240,
+    "fields": {
+        "name": "Van Morrison",
+        "re_string": "\\bVan Morrison\\b",
+        "spotify_id": "44NX2ffIYHr6D4n7RaZF7A",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 241,
+    "fields": {
+        "name": "Clipse",
+        "re_string": "\\bClipse\\b",
+        "spotify_id": "2J257euzcjnDLipsyJH3F2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 242,
+    "fields": {
+        "name": "Gov't Mule",
+        "re_string": "\\bGov.?t Mule\\b",
+        "spotify_id": "5zoKOcTDI9EMOhGNaxL708",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 243,
+    "fields": {
+        "name": "Slowdive",
+        "re_string": "\\bSlowdive\\b",
+        "spotify_id": "72X6FHxaShda0XeQw3vbeF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 244,
+    "fields": {
+        "name": "Bebel Gilberto",
+        "re_string": "\\bBebel Gilberto\\b",
+        "spotify_id": "6gk4ierjjSVPoZep27VfZz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 245,
+    "fields": {
+        "name": "Phoenix",
+        "re_string": "\\bPhoenix\\b",
+        "spotify_id": "1xU878Z1QtBldR7ru9owdU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 246,
+    "fields": {
+        "name": "Fiona Apple",
+        "re_string": "\\bFiona Apple\\b",
+        "spotify_id": "3g2kUQ6tHLLbmkV7T4GPtL",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 247,
+    "fields": {
+        "name": "Black Star",
+        "re_string": "\\bBlack Star\\b",
+        "spotify_id": "67ei8ib6PLT1w3OkhIb4fB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 248,
+    "fields": {
+        "name": "OutKast",
+        "re_string": "\\bOutKast\\b",
+        "spotify_id": "1G9G7WwrXka3Z1r7aIDjI7",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 249,
+    "fields": {
+        "name": "Alt-J",
+        "re_string": "\\bAlt.?J\\b",
+        "spotify_id": "3XHO7cRUPCLOr6jwp8vsx5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 250,
+    "fields": {
+        "name": "Secede",
+        "re_string": "\\bSecede\\b",
+        "spotify_id": "2TX49iaYgV8gRIyRw6Nx81",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 251,
+    "fields": {
+        "name": "School of Seven Bells",
+        "re_string": "\\bSchool of Seven Bells\\b",
+        "spotify_id": "1mBdei7fcRpbUEYHgsQN9H",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 252,
+    "fields": {
+        "name": "Wax",
+        "re_string": "\\bWax\\b",
+        "spotify_id": "36kzCQhGfJzrLuZzrHweNV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 253,
+    "fields": {
+        "name": "Imogen Heap ",
+        "re_string": "\\bImogen Heap \\b",
+        "spotify_id": "6Xb4ezwoAQC4516kI89nWz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 254,
+    "fields": {
+        "name": "Static-X",
+        "re_string": "\\bStatic.?X\\b",
+        "spotify_id": "7JDSHlDdVTo7aZKdQZ53Vf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 255,
+    "fields": {
+        "name": "Stanley Clarke",
+        "re_string": "\\bStanley Clarke\\b",
+        "spotify_id": "1lGt9WgdYGpMnmwGkcCm05",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 256,
+    "fields": {
+        "name": "Ken Andrews",
+        "re_string": "\\bKen Andrews\\b",
+        "spotify_id": "1y1l5fMMx1VIehHQQbValM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 257,
+    "fields": {
+        "name": "Reggie Watts",
+        "re_string": "\\bReggie Watts\\b",
+        "spotify_id": "3ni9LX95aVQksOuoHFEbEx",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 258,
+    "fields": {
+        "name": "Alex Cline",
+        "re_string": "\\bAlex Cline\\b",
+        "spotify_id": "2omP5I4QiDCrvyGFuU99Rq",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 259,
+    "fields": {
+        "name": "David Bowie",
+        "re_string": "\\bDavid Bowie\\b",
+        "spotify_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 260,
+    "fields": {
+        "name": "Ride",
+        "re_string": "\\bRide\\b",
+        "spotify_id": "0WPY9nnBy01s5QOt4o4oQX",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 261,
+    "fields": {
+        "name": "Bun B",
+        "re_string": "\\bBun B\\b",
+        "spotify_id": "45a6gCQWq61lIUDmr1tKuO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 262,
+    "fields": {
+        "name": "The Black Keys",
+        "re_string": "\\bThe Black Keys\\b",
+        "spotify_id": "7mnBLXK823vNxN3UWB7Gfz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 263,
+    "fields": {
+        "name": "Common",
+        "re_string": "\\bCommon\\b",
+        "spotify_id": "2GHclqNVjqGuiE5mA7BEoc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 264,
+    "fields": {
+        "name": "Interpol",
+        "re_string": "\\bInterpol\\b",
+        "spotify_id": "3WaJSfKnzc65VDgmj2zU8B",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 265,
+    "fields": {
+        "name": "9dw",
+        "re_string": "\\b9dw\\b",
+        "spotify_id": "67dxY0AxnSbggpJM4KJ65u",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 266,
+    "fields": {
+        "name": "Acid Mothers Temple & the Melting Paraiso U.F.O.",
+        "re_string": "\\bAcid Mothers Temple .? the Melting Paraiso U.?F.?O.?\\b",
+        "spotify_id": "4lSb7hjm2q4WTwdpjwcar7",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 267,
+    "fields": {
+        "name": "M-1",
+        "re_string": "\\bM.?1\\b",
+        "spotify_id": "7uzt4poE3201N4cCMMoKrF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 268,
+    "fields": {
+        "name": "Iroha & Fragment.",
+        "re_string": "\\bIroha .? Fragment.?\\b",
+        "spotify_id": "1hEXPtpF70h8D3okje7Paf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 269,
+    "fields": {
+        "name": "Kenny Rogers and the First Edition",
+        "re_string": "\\bKenny Rogers and the First Edition\\b",
+        "spotify_id": "0WjkBDqno4HbjwNDqyMgVa",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 270,
+    "fields": {
+        "name": "Doves",
+        "re_string": "\\bDoves\\b",
+        "spotify_id": "0LVrQUinPUBFvVD5pLqmWY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 271,
+    "fields": {
+        "name": "DJ Logic",
+        "re_string": "\\bDJ Logic\\b",
+        "spotify_id": "75GlHUh2Mr5IthCCRptIQV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 272,
+    "fields": {
+        "name": "Killer Mike",
+        "re_string": "\\bKiller Mike\\b",
+        "spotify_id": "2N4EYkIlG1kv25g6Wv8LGI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 273,
+    "fields": {
+        "name": "Local Natives",
+        "re_string": "\\bLocal Natives\\b",
+        "spotify_id": "75dQReiBOHN37fQgWQrIAJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 274,
+    "fields": {
+        "name": "Bitcrush",
+        "re_string": "\\bBitcrush\\b",
+        "spotify_id": "5uQBda08nrwVEgnhvsLdmU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 275,
+    "fields": {
+        "name": "Deep Blue Organ Trio",
+        "re_string": "\\bDeep Blue Organ Trio\\b",
+        "spotify_id": "5zXRRZ5ToCbtOkX10jA4Hw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 276,
+    "fields": {
+        "name": "Ben Frost",
+        "re_string": "\\bBen Frost\\b",
+        "spotify_id": "6qEM4txXHvfMbOUOK9L7pl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 277,
+    "fields": {
+        "name": "Working For a Nuclear Free City",
+        "re_string": "\\bWorking For a Nuclear Free City\\b",
+        "spotify_id": "6FEVYVBDwRguK1DTiKef1p",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 278,
+    "fields": {
+        "name": "Yo La Tengo",
+        "re_string": "\\bYo La Tengo\\b",
+        "spotify_id": "5hAhrnb0Ch4ODwWu4tsbpi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 279,
+    "fields": {
+        "name": "Riceboy Sleeps",
+        "re_string": "\\bRiceboy Sleeps\\b",
+        "spotify_id": "2jabDfWozfWUm6qTlar7c2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 280,
+    "fields": {
+        "name": "Bjork",
+        "re_string": "\\bBjork\\b",
+        "spotify_id": "7w29UYBi0qsHi5RTcv3lmA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 281,
+    "fields": {
+        "name": "Kashiwa Daisuke",
+        "re_string": "\\bKashiwa Daisuke\\b",
+        "spotify_id": "5sGsy5o8hBSMmDUFTC5Q2P",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 282,
+    "fields": {
+        "name": "World's End Girlfriend",
+        "re_string": "\\bWorld.?s End Girlfriend\\b",
+        "spotify_id": "3lqgWxgqJb19h62n19FKQp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 283,
+    "fields": {
+        "name": "Matt Marque",
+        "re_string": "\\bMatt Marque\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 284,
+    "fields": {
+        "name": "Russian Circles",
+        "re_string": "\\bRussian Circles\\b",
+        "spotify_id": "0AZ3VR0YbFcS0Kgei7L2QF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 285,
+    "fields": {
+        "name": "David Sylvian",
+        "re_string": "\\bDavid Sylvian\\b",
+        "spotify_id": "2oyWkw7sq99yqj12hVUHtw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 286,
+    "fields": {
+        "name": "Muse",
+        "re_string": "\\bMuse\\b",
+        "spotify_id": "12Chz98pHFMPJEknJQMWvI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 287,
+    "fields": {
+        "name": "Nels Cline",
+        "re_string": "\\bNels Cline\\b",
+        "spotify_id": "3s6o8vxtYJ1utkWl8EXxUp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 288,
+    "fields": {
+        "name": "Ours",
+        "re_string": "\\bOurs\\b",
+        "spotify_id": "5u1yDuCoxRODm86FhVqUU2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 289,
+    "fields": {
+        "name": "DJ Shadow",
+        "re_string": "\\bDJ Shadow\\b",
+        "spotify_id": "5CE2IfdYZEQGIDsfiRm8SI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 290,
+    "fields": {
+        "name": "J\u00f3nsi",
+        "re_string": "\\bJ\u00f3nsi\\b",
+        "spotify_id": "3khg8RDB6nMuw34w1IHS6Y",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 291,
+    "fields": {
+        "name": "St. Vincent",
+        "re_string": "\\bSt.? Vincent\\b",
+        "spotify_id": "7bcbShaqKdcyjnmv4Ix8j6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 292,
+    "fields": {
+        "name": "Bootsy Collins",
+        "re_string": "\\bBootsy Collins\\b",
+        "spotify_id": "5K0rbdBrs2tNXe5LeWMATT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 293,
+    "fields": {
+        "name": "John Hodgman",
+        "re_string": "\\bJohn Hodgman\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 294,
+    "fields": {
+        "name": "My Bloody Valentine",
+        "re_string": "\\bMy Bloody Valentine\\b",
+        "spotify_id": "3G3Gdm0ZRAOxLrbyjfhii5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 295,
+    "fields": {
+        "name": "My Brightest Diamond",
+        "re_string": "\\bMy Brightest Diamond\\b",
+        "spotify_id": "37qXWlhfRvpxmIeTKvfw8B",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 296,
+    "fields": {
+        "name": "ASAP Rocky",
+        "re_string": "\\bASAP Rocky\\b",
+        "spotify_id": "13ubrt8QOOCPljQ2FL1Kca",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 297,
+    "fields": {
+        "name": "PJ Harvey",
+        "re_string": "\\bPJ Harvey\\b",
+        "spotify_id": "12VaqyEhgwDRuFfEqbnrpz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 298,
+    "fields": {
+        "name": "Antibalas Afrobeat Orchestra",
+        "re_string": "\\bAntibalas Afrobeat Orchestra\\b",
+        "spotify_id": "2KGF6IKZfVGCKfyqcNVGfh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 299,
+    "fields": {
+        "name": "Blackalicious",
+        "re_string": "\\bBlackalicious\\b",
+        "spotify_id": "42Np3r8zXnaKcjLQsQSjyG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 300,
+    "fields": {
+        "name": "Them Crooked Vultures",
+        "re_string": "\\bThem Crooked Vultures\\b",
+        "spotify_id": "4zYQWYmtimAEmI6WWEzGfO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 301,
+    "fields": {
+        "name": "The Radio Dept.",
+        "re_string": "\\bThe Radio Dept.?\\b",
+        "spotify_id": "0utS63XytOEVN1EtzWhJpG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 302,
+    "fields": {
+        "name": "Medeski, Martin and Wood",
+        "re_string": "\\bMedeski.? Martin and Wood\\b",
+        "spotify_id": "2Hg4SUNDuIn8xIidz9GxFw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 303,
+    "fields": {
+        "name": "Al Di Meola",
+        "re_string": "\\bAl Di Meola\\b",
+        "spotify_id": "3bBWKHfpepPOychRNFzg4q",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 305,
+    "fields": {
+        "name": "Sleepy Eyes of Death",
+        "re_string": "\\bSleepy Eyes of Death\\b",
+        "spotify_id": "0MShkn0tHaqdmyjUrdMtV3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 306,
+    "fields": {
+        "name": "tUnE-yArDs",
+        "re_string": "\\btUnE.?yArDs\\b",
+        "spotify_id": "0asVlqTLu3TimnYVyY5Jxi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 307,
+    "fields": {
+        "name": "Opeth",
+        "re_string": "\\bOpeth\\b",
+        "spotify_id": "0ybFZ2Ab08V8hueghSXm6E",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 308,
+    "fields": {
+        "name": "This Will Destroy You",
+        "re_string": "\\bThis Will Destroy You\\b",
+        "spotify_id": "0MG4LXIw7n4x0wjDc6WYXk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 309,
+    "fields": {
+        "name": "Merzbow",
+        "re_string": "\\bMerzbow\\b",
+        "spotify_id": "5UezsklPScipW64XJm7qql",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 310,
+    "fields": {
+        "name": "Peter Gutteridge",
+        "re_string": "\\bPeter Gutteridge\\b",
+        "spotify_id": "4oKJBqkEtJG5dlUaXWBGjs",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 311,
+    "fields": {
+        "name": "Zu",
+        "re_string": "\\bZu\\b",
+        "spotify_id": "2zzKlxMsKTPMsZacZCPRNA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 312,
+    "fields": {
+        "name": "Moderat",
+        "re_string": "\\bModerat\\b",
+        "spotify_id": "2exkZbmNqMKnT8LRWuxWgy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 313,
+    "fields": {
+        "name": "Dungeonesse",
+        "re_string": "\\bDungeonesse\\b",
+        "spotify_id": "679JpWmuqSUdtcHCkSq1yZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 314,
+    "fields": {
+        "name": "Lauryn Hill",
+        "re_string": "\\bLauryn Hill\\b",
+        "spotify_id": "2Mu5NfyYm8n5iTomuKAEHl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 315,
+    "fields": {
+        "name": "Rodrigo Y Gabriela",
+        "re_string": "\\bRodrigo Y Gabriela\\b",
+        "spotify_id": "7vX3cMVyW8gtDA4y855ynF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 316,
+    "fields": {
+        "name": "Q-Tip",
+        "re_string": "\\bQ.?Tip\\b",
+        "spotify_id": "3ZotbHeyVQKxQCPDJuQ4SU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 317,
+    "fields": {
+        "name": "Melee Beats",
+        "re_string": "\\bMelee Beats\\b",
+        "spotify_id": "5WSknGKFZyMFVTLV6pQtAO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 318,
+    "fields": {
+        "name": "Hugh Masakela & The Union of South Africa",
+        "re_string": "\\bHugh Masakela .? The Union of South Africa\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 319,
+    "fields": {
+        "name": "Ass Trio",
+        "re_string": "\\bAss Trio\\b",
+        "spotify_id": "0Y6dXQYqWr5Fo8M9zDjWIh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 320,
+    "fields": {
+        "name": "Robert Glasper Experiment",
+        "re_string": "\\bRobert Glasper Experiment\\b",
+        "spotify_id": "7vZ7qmfXiu114lY0qm7rOe",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 322,
+    "fields": {
+        "name": "Do Make Say Think",
+        "re_string": "\\bDo Make Say Think\\b",
+        "spotify_id": "1WudHeuEN3d18SXVos95mc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 323,
+    "fields": {
+        "name": "K. Frimpong & His Cubano Fiestas",
+        "re_string": "\\bK.? Frimpong .? His Cubano Fiestas\\b",
+        "spotify_id": "2uRoE5V4awezL00N4oXW8a",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 324,
+    "fields": {
+        "name": "Snoop Dogg",
+        "re_string": "\\bSnoop Dogg\\b",
+        "spotify_id": "7hJcb9fa4alzcOq3EaNPoG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 325,
+    "fields": {
+        "name": "Ofo The Black Company",
+        "re_string": "\\bOfo The Black Company\\b",
+        "spotify_id": "0BX4K3xwLgIqMqza4yS8eI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 326,
+    "fields": {
+        "name": "Slint",
+        "re_string": "\\bSlint\\b",
+        "spotify_id": "4IwOItqRhsIoRuD5HP4vyC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 327,
+    "fields": {
+        "name": "Julianna Barwick",
+        "re_string": "\\bJulianna Barwick\\b",
+        "spotify_id": "0HWfFWL4vVrbaBQqxVCwCi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 328,
+    "fields": {
+        "name": "Pelican",
+        "re_string": "\\bPelican\\b",
+        "spotify_id": "0Gq06EJlfPumvCdMsnkJFp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 330,
+    "fields": {
+        "name": "NRBQ",
+        "re_string": "\\bNRBQ\\b",
+        "spotify_id": "5PpcyAkdpuo9a08HiU6yfi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 331,
+    "fields": {
+        "name": "Massive Attack",
+        "re_string": "\\bMassive Attack\\b",
+        "spotify_id": "6FXMGgJwohJLUSr5nVlf9X",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 332,
+    "fields": {
+        "name": "Chemical Brothers",
+        "re_string": "\\bChemical Brothers\\b",
+        "spotify_id": "1GhPHrq36VKCY3ucVaZCfo",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 334,
+    "fields": {
+        "name": "Los Lobos",
+        "re_string": "\\bLos Lobos\\b",
+        "spotify_id": "6OWapcJm9xd55ci9CYbAuT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 335,
+    "fields": {
+        "name": "Jessie Ware",
+        "re_string": "\\bJessie Ware\\b",
+        "spotify_id": "5Mq7iqCWBzofK39FBqblNc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 337,
+    "fields": {
+        "name": "Vince Staples",
+        "re_string": "\\bVince Staples\\b",
+        "spotify_id": "68kEuyFKyqrdQQLLsmiatm",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 338,
+    "fields": {
+        "name": "Three Dog Night",
+        "re_string": "\\bThree Dog Night\\b",
+        "spotify_id": "4FAEZeJcsYYBkNq2D3KGTV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 339,
+    "fields": {
+        "name": "Ben Folds Five",
+        "re_string": "\\bBen Folds Five\\b",
+        "spotify_id": "44gRHbEm4Uqa0ykW0rDTNk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 340,
+    "fields": {
+        "name": "Dirty Projectors",
+        "re_string": "\\bDirty Projectors\\b",
+        "spotify_id": "5VF0YkVLeVD4ytyiyVSIiF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 341,
+    "fields": {
+        "name": "Michelle Branch",
+        "re_string": "\\bMichelle Branch\\b",
+        "spotify_id": "5rScKX1Sh1U67meeUyTGwk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 342,
+    "fields": {
+        "name": "Del Tha Funkee Homosapien",
+        "re_string": "\\bDel Tha Funkee Homosapien\\b",
+        "spotify_id": "0YsLR3SQd5QTXAhGIGX7cl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 343,
+    "fields": {
+        "name": "Autechre",
+        "re_string": "\\bAutechre\\b",
+        "spotify_id": "6WH1V41LwGDGmlPUhSZLHO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 344,
+    "fields": {
+        "name": "Musiq",
+        "re_string": "\\bMusiq\\b",
+        "spotify_id": "3UVRliakQfa1pMWIsNuiZ8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 345,
+    "fields": {
+        "name": "Jonny Greenwood",
+        "re_string": "\\bJonny Greenwood\\b",
+        "spotify_id": "0z9s3P5vCzKcUBSxgBDyLU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 346,
+    "fields": {
+        "name": "Yardbirds",
+        "re_string": "\\bYardbirds\\b",
+        "spotify_id": "2lxX1ivRYp26soIavdG9bX",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 347,
+    "fields": {
+        "name": "B.B. King",
+        "re_string": "\\bB.?B.? King\\b",
+        "spotify_id": "5xLSa7l4IV1gsQfhAMvl0U",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 349,
+    "fields": {
+        "name": "Belong",
+        "re_string": "\\bBelong\\b",
+        "spotify_id": "3c5PAcbkeFrbWUp42FaBkW",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 351,
+    "fields": {
+        "name": "Logic",
+        "re_string": "\\bLogic\\b",
+        "spotify_id": "4xRYI6VqpkE3UwrDrAZL8L",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 352,
+    "fields": {
+        "name": "Masters of Groove",
+        "re_string": "\\bMasters of Groove\\b",
+        "spotify_id": "66GTGPq3f8zF5P1jzKPyLN",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 353,
+    "fields": {
+        "name": "City of Echoes",
+        "re_string": "\\bCity of Echoes\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 354,
+    "fields": {
+        "name": "Count Basie",
+        "re_string": "\\bCount Basie\\b",
+        "spotify_id": "2jFZlvIea42ZvcCw4OeEdA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 355,
+    "fields": {
+        "name": "The Field",
+        "re_string": "\\bThe Field\\b",
+        "spotify_id": "23MIhFHpoOuhtEHZDrrnCS",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 356,
+    "fields": {
+        "name": "Jim O'Rourke",
+        "re_string": "\\bJim O.?Rourke\\b",
+        "spotify_id": "46urSPEzIrRVqKqciwOq2f",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 357,
+    "fields": {
+        "name": "Jimmy Smith",
+        "re_string": "\\bJimmy Smith\\b",
+        "spotify_id": "5GXruybcLmXPjR9rKKFyS6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 358,
+    "fields": {
+        "name": "Tony Allen & His Afro Messengers",
+        "re_string": "\\bTony Allen .? His Afro Messengers\\b",
+        "spotify_id": "1cZ7GjkiXns4XmU5XKJ5kp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 359,
+    "fields": {
+        "name": "Wolves in the Throne Room",
+        "re_string": "\\bWolves in the Throne Room\\b",
+        "spotify_id": "5lqyPWmAivV75tII5Vxpet",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 360,
+    "fields": {
+        "name": "Anouman",
+        "re_string": "\\bAnouman\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 361,
+    "fields": {
+        "name": "Anamanaguchi",
+        "re_string": "\\bAnamanaguchi\\b",
+        "spotify_id": "2UwJRAgSOi1zcLkvUNc8XL",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 362,
+    "fields": {
+        "name": "M.I.A.",
+        "re_string": "\\bM.?I.?A.?\\b",
+        "spotify_id": "0QJIPDAEDILuo8AIq3pMuU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 363,
+    "fields": {
+        "name": "Greyboy",
+        "re_string": "\\bGreyboy\\b",
+        "spotify_id": "3G8x1XQX8nCXYouEfMrP07",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 364,
+    "fields": {
+        "name": "Ibrahim Maalouf",
+        "re_string": "\\bIbrahim Maalouf\\b",
+        "spotify_id": "0NSO0g40h9CTj13hKPskeb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 365,
+    "fields": {
+        "name": "Nusrat Fateh Ali Khan",
+        "re_string": "\\bNusrat Fateh Ali Khan\\b",
+        "spotify_id": "3OLGltG8UPIea8sA4w0yg0",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 366,
+    "fields": {
+        "name": "3toes",
+        "re_string": "\\b3toes\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 367,
+    "fields": {
+        "name": "Dick Khoza",
+        "re_string": "\\bDick Khoza\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 368,
+    "fields": {
+        "name": "Marco Polo",
+        "re_string": "\\bMarco Polo\\b",
+        "spotify_id": "7Dasxr6NQ6uRSEFYFjNdzn",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 369,
+    "fields": {
+        "name": "Bibio",
+        "re_string": "\\bBibio\\b",
+        "spotify_id": "0qzzGu8qpbXYpzgV52wOFT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 370,
+    "fields": {
+        "name": "Max Roach",
+        "re_string": "\\bMax Roach\\b",
+        "spotify_id": "6jrlNnS5B830kpi40j3S6g",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 371,
+    "fields": {
+        "name": "Prince",
+        "re_string": "\\bPrince\\b",
+        "spotify_id": "3MHaV05u0io8fQbZ2XPtlC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 372,
+    "fields": {
+        "name": "Ebenezer Obey",
+        "re_string": "\\bEbenezer Obey\\b",
+        "spotify_id": "508KmjoFyijrHprjyRkrtv",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 373,
+    "fields": {
+        "name": "J Dilla",
+        "re_string": "\\bJ Dilla\\b",
+        "spotify_id": "0IVcLMMbm05VIjnzPkGCyp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 374,
+    "fields": {
+        "name": "Henry Krinkle",
+        "re_string": "\\bHenry Krinkle\\b",
+        "spotify_id": "1gLcjMrQA0camEmid1nBHO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 375,
+    "fields": {
+        "name": "Todd Terje",
+        "re_string": "\\bTodd Terje\\b",
+        "spotify_id": "49gaZqfow2v8EEQmjGyEIw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 376,
+    "fields": {
+        "name": "Cocteau Twins",
+        "re_string": "\\bCocteau Twins\\b",
+        "spotify_id": "5Wabl1lPdNOeIn0SQ5A1mp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 377,
+    "fields": {
+        "name": "Omarion",
+        "re_string": "\\bOmarion\\b",
+        "spotify_id": "0f5nVCcR06GX8Qikz0COtT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 378,
+    "fields": {
+        "name": "Chaka Khan",
+        "re_string": "\\bChaka Khan\\b",
+        "spotify_id": "6mQfAAqZGBzIfrmlZCeaYT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 379,
+    "fields": {
+        "name": "Joe Cocker",
+        "re_string": "\\bJoe Cocker\\b",
+        "spotify_id": "3pFCERyEiP5xeN2EsPXhjI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 380,
+    "fields": {
+        "name": "Talib Kweli",
+        "re_string": "\\bTalib Kweli\\b",
+        "spotify_id": "0lEssBAxQl2In4RpaB1C2Y",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 381,
+    "fields": {
+        "name": "Wes Montgomery",
+        "re_string": "\\bWes Montgomery\\b",
+        "spotify_id": "03YhcM6fxypfwckPCQV8pQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 382,
+    "fields": {
+        "name": "Bon Iver",
+        "re_string": "\\bBon Iver\\b",
+        "spotify_id": "4LEiUm1SRbFMgfqnQTwUbQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 383,
+    "fields": {
+        "name": "Kendrick Lamar",
+        "re_string": "\\bKendrick Lamar\\b",
+        "spotify_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 384,
+    "fields": {
+        "name": "Phish",
+        "re_string": "\\bPhish\\b",
+        "spotify_id": "5wbIWUzTPuTxTyG6ouQKqz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 386,
+    "fields": {
+        "name": "Jeff Buckley",
+        "re_string": "\\bJeff Buckley\\b",
+        "spotify_id": "3nnQpaTvKb5jCQabZefACI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 387,
+    "fields": {
+        "name": "Toro Y Moi",
+        "re_string": "\\bToro Y Moi\\b",
+        "spotify_id": "6O4EGCCb6DoIiR6B1QCQgp",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 388,
+    "fields": {
+        "name": "My Morning Jacket",
+        "re_string": "\\bMy Morning Jacket\\b",
+        "spotify_id": "43O3c6wewpzPKwVaGEEtBM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 389,
+    "fields": {
+        "name": "Frank Ocean",
+        "re_string": "\\bFrank Ocean\\b",
+        "spotify_id": "2h93pZq0e7k5yf4dywlkpM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 390,
+    "fields": {
+        "name": "Fuck Buttons",
+        "re_string": "\\bFuck Buttons\\b",
+        "spotify_id": "6tCENAD2FBfIMyygJMeOJV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 391,
+    "fields": {
+        "name": "London Grammar",
+        "re_string": "\\bLondon Grammar\\b",
+        "spotify_id": "3Bd1cgCjtCI32PYvDC3ynO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 392,
+    "fields": {
+        "name": "Beyonc\u00e9",
+        "re_string": "\\bBeyonc\u00e9\\b",
+        "spotify_id": "6vWDO969PvNqNYHIOW5v0m",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 393,
+    "fields": {
+        "name": "John Lee Hooker & Canned Heat",
+        "re_string": "\\bJohn Lee Hooker .? Canned Heat\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 394,
+    "fields": {
+        "name": "Super Mambo 69",
+        "re_string": "\\bSuper Mambo 69\\b",
+        "spotify_id": "4l7M1nYrldPMyDSsD4jGFy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 395,
+    "fields": {
+        "name": "Tunde Williams & Africa 70",
+        "re_string": "\\bTunde Williams .? Africa 70\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 396,
+    "fields": {
+        "name": "Stars of the Lid",
+        "re_string": "\\bStars of the Lid\\b",
+        "spotify_id": "36pCa1JHc6hlGbfEmLzJQc",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 397,
+    "fields": {
+        "name": "El Grupo Nuevo de Omar Rodriguez-Lopez",
+        "re_string": "\\bEl Grupo Nuevo de Omar Rodriguez.?Lopez\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 398,
+    "fields": {
+        "name": "Freddie Gibbs",
+        "re_string": "\\bFreddie Gibbs\\b",
+        "spotify_id": "0Y4inQK6OespitzD6ijMwb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 399,
+    "fields": {
+        "name": "Bohren & Der Club of Gore",
+        "re_string": "\\bBohren .? Der Club of Gore\\b",
+        "spotify_id": "4VpWzXVUAR2YyQuWQpNGAf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 400,
+    "fields": {
+        "name": "Telefon Tel Aviv",
+        "re_string": "\\bTelefon Tel Aviv\\b",
+        "spotify_id": "53N4oJpWtmnB0KGLLserGC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 401,
+    "fields": {
+        "name": "Sam Cooke",
+        "re_string": "\\bSam Cooke\\b",
+        "spotify_id": "6hnWRPzGGKiapVX1UCdEAC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 402,
+    "fields": {
+        "name": "Gregory Porter",
+        "re_string": "\\bGregory Porter\\b",
+        "spotify_id": "06nevPmNVfWUXyZkccahL8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 403,
+    "fields": {
+        "name": "Young Jeezy",
+        "re_string": "\\bYoung Jeezy\\b",
+        "spotify_id": "4yBK75WVCQXej1p04GWqxH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 404,
+    "fields": {
+        "name": "Black Rebel Motorcycle Club",
+        "re_string": "\\bBlack Rebel Motorcycle Club\\b",
+        "spotify_id": "1tpXaFf2F55E7kVJON4j4G",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 405,
+    "fields": {
+        "name": "Jay-Z",
+        "re_string": "\\bJay.?Z\\b",
+        "spotify_id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 406,
+    "fields": {
+        "name": "M83",
+        "re_string": "\\bM83\\b",
+        "spotify_id": "63MQldklfxkjYDoUE4Tppz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 407,
+    "fields": {
+        "name": "Art Blakey & the Jazz Messengers",
+        "re_string": "\\bArt Blakey .? the Jazz Messengers\\b",
+        "spotify_id": "6ykfXAed2KOLOMI3R0TZdz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 408,
+    "fields": {
+        "name": "Simian Mobile Disco",
+        "re_string": "\\bSimian Mobile Disco\\b",
+        "spotify_id": "31DXlldabwPHwu6dYevuzK",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 409,
+    "fields": {
+        "name": "Tenacious D",
+        "re_string": "\\bTenacious D\\b",
+        "spotify_id": "1XpDYCrUJnvCo9Ez6yeMWh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 410,
+    "fields": {
+        "name": "Neko Case",
+        "re_string": "\\bNeko Case\\b",
+        "spotify_id": "4Cedjq5BQL3MhapRvDpFED",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 411,
+    "fields": {
+        "name": "James Blake",
+        "re_string": "\\bJames Blake\\b",
+        "spotify_id": "53KwLdlmrlCelAZMaLVZqU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 412,
+    "fields": {
+        "name": "B\u00e9la Fleck",
+        "re_string": "\\bB\u00e9la Fleck\\b",
+        "spotify_id": "2ka8z2lwkcp13fG8Wyv3xU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 413,
+    "fields": {
+        "name": "Rachel's",
+        "re_string": "\\bRachel.?s\\b",
+        "spotify_id": "3QLIkT4rD2FMusaqmkepbq",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 414,
+    "fields": {
+        "name": "Victor Wooten",
+        "re_string": "\\bVictor Wooten\\b",
+        "spotify_id": "2STVYmc2T02GlvvWZl7umj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 415,
+    "fields": {
+        "name": "A Tribe Called Quest",
+        "re_string": "\\bA Tribe Called Quest\\b",
+        "spotify_id": "09hVIj6vWgoCDtT03h8ZCa",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 416,
+    "fields": {
+        "name": "Nas",
+        "re_string": "\\bNas\\b",
+        "spotify_id": "20qISvAhX20dpIbOOzGK3q",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 417,
+    "fields": {
+        "name": "Charlie Hunter Trio",
+        "re_string": "\\bCharlie Hunter Trio\\b",
+        "spotify_id": "5rNExnbAb7ZjH89O5kn8uG",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 418,
+    "fields": {
+        "name": "Bilal",
+        "re_string": "\\bBilal\\b",
+        "spotify_id": "4jCbgl5Dmt3uOh8WRQfpPs",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 419,
+    "fields": {
+        "name": "Jean Grae",
+        "re_string": "\\bJean Grae\\b",
+        "spotify_id": "2ipBhKpOYqs6BbysLNGye6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 420,
+    "fields": {
+        "name": "Parliament",
+        "re_string": "\\bParliament\\b",
+        "spotify_id": "5SMVzTJyKFJ7TUb46DglcH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 421,
+    "fields": {
+        "name": "Tower of Power",
+        "re_string": "\\bTower of Power\\b",
+        "spotify_id": "0JCxGVxsISZzJHJPUOtceB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 422,
+    "fields": {
+        "name": "Omar Rodr\u00edguez-L\u00f3pez",
+        "re_string": "\\bOmar Rodr\u00edguez.?L\u00f3pez\\b",
+        "spotify_id": "4ANigmoglCpG6sHgfT1hkB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 423,
+    "fields": {
+        "name": "Amon Tobin",
+        "re_string": "\\bAmon Tobin\\b",
+        "spotify_id": "3mvkWMe6swnknwscwvGCHO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 424,
+    "fields": {
+        "name": "Eluvium",
+        "re_string": "\\bEluvium\\b",
+        "spotify_id": "4QK3YJ6hzJdhJHE9q7kbVV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 425,
+    "fields": {
+        "name": "Run The Jewels",
+        "re_string": "\\bRun The Jewels\\b",
+        "spotify_id": "4RnBFZRiMLRyZy0AzzTg2C",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 426,
+    "fields": {
+        "name": "Beastie Boys",
+        "re_string": "\\bBeastie Boys\\b",
+        "spotify_id": "03r4iKL2g2442PT9n2UKsx",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 427,
+    "fields": {
+        "name": "Wild Blue",
+        "re_string": "\\bWild Blue\\b",
+        "spotify_id": "3Jssd072LkZXgIEHAq6dBE",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 428,
+    "fields": {
+        "name": "CocoRosie",
+        "re_string": "\\bCocoRosie\\b",
+        "spotify_id": "05fo024EFotg9songSENOZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 429,
+    "fields": {
+        "name": "Lunar Heights",
+        "re_string": "\\bLunar Heights\\b",
+        "spotify_id": "2tEBbQdHVt6tk759X2WxUT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 430,
+    "fields": {
+        "name": "UGK",
+        "re_string": "\\bUGK\\b",
+        "spotify_id": "6ZhjJOJXXwnPS8PrXdmjLw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 431,
+    "fields": {
+        "name": "...And You Will Know Us By the Trail of Dead",
+        "re_string": "\\b.?.?.?And You Will Know Us By the Trail of Dead\\b",
+        "spotify_id": "6wBUn8gMP85n8dPu6LoUcF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 432,
+    "fields": {
+        "name": "Beck",
+        "re_string": "\\bBeck\\b",
+        "spotify_id": "3vbKDsSS70ZX9D2OcvbZmS",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 433,
+    "fields": {
+        "name": "Oneida",
+        "re_string": "\\bOneida\\b",
+        "spotify_id": "6If4kQp0rhfVgAZDNudjjS",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 434,
+    "fields": {
+        "name": "Robert Fripp",
+        "re_string": "\\bRobert Fripp\\b",
+        "spotify_id": "5HKpBHDxIDNdtmEAGXGntl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 435,
+    "fields": {
+        "name": "Doors",
+        "re_string": "\\bDoors\\b",
+        "spotify_id": "22WZ7M8sxp5THdruNY3gXt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 436,
+    "fields": {
+        "name": "N.A.S.A.",
+        "re_string": "\\bN.?A.?S.?A.?\\b",
+        "spotify_id": "07WjVPM79OGQLOZ1jfUVk9",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 437,
+    "fields": {
+        "name": "Charlie Hunter & Pound for Pound",
+        "re_string": "\\bCharlie Hunter .? Pound for Pound\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 438,
+    "fields": {
+        "name": "Dawn of Midi",
+        "re_string": "\\bDawn of Midi\\b",
+        "spotify_id": "6ZEO5Ygd5FwXAcPNWuSu4F",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 439,
+    "fields": {
+        "name": "Aloe Blacc",
+        "re_string": "\\bAloe Blacc\\b",
+        "spotify_id": "0id62QV2SZZfvBn9xpmuCl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 440,
+    "fields": {
+        "name": "Flux Pavilion",
+        "re_string": "\\bFlux Pavilion\\b",
+        "spotify_id": "7muzHifhMdnfN1xncRLOqk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 441,
+    "fields": {
+        "name": "Jeff Beck",
+        "re_string": "\\bJeff Beck\\b",
+        "spotify_id": "0AD4odMWVQ2wUSlgxOB5Rl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 442,
+    "fields": {
+        "name": "Bj\u00f6rk",
+        "re_string": "\\bBj\u00f6rk\\b",
+        "spotify_id": "7w29UYBi0qsHi5RTcv3lmA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 443,
+    "fields": {
+        "name": "Blo",
+        "re_string": "\\bBlo\\b",
+        "spotify_id": "6Occ6ZTaLDgVUjzpQMkTTq",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 444,
+    "fields": {
+        "name": "Albert King",
+        "re_string": "\\bAlbert King\\b",
+        "spotify_id": "5aygfDCEaX5KTZOxSCpT9o",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 445,
+    "fields": {
+        "name": "Charlie Parker",
+        "re_string": "\\bCharlie Parker\\b",
+        "spotify_id": "4Ww5mwS7BWYjoZTUIrMHfC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 446,
+    "fields": {
+        "name": "Funkadelic",
+        "re_string": "\\bFunkadelic\\b",
+        "spotify_id": "5SMVzTJyKFJ7TUb46DglcH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 447,
+    "fields": {
+        "name": "Sunn 0)))",
+        "re_string": "\\bSunn 0.?.?.?\\b",
+        "spotify_id": "2e7hYqRjL82c1nIoREHc4J",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 449,
+    "fields": {
+        "name": "Steven Wilson",
+        "re_string": "\\bSteven Wilson\\b",
+        "spotify_id": "4X42BfuhWCAZ2swiVze9O0",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 450,
+    "fields": {
+        "name": "Alicia Keys",
+        "re_string": "\\bAlicia Keys\\b",
+        "spotify_id": "3DiDSECUqqY1AuBP8qtaIa",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 451,
+    "fields": {
+        "name": "Del the Funky Homosapien",
+        "re_string": "\\bDel the Funky Homosapien\\b",
+        "spotify_id": "0YsLR3SQd5QTXAhGIGX7cl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 452,
+    "fields": {
+        "name": "Sergio Mendes & Brasil 66",
+        "re_string": "\\bSergio Mendes .? Brasil 66\\b",
+        "spotify_id": "6hCsqVHnBo1BVQWuIjRMkL",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 454,
+    "fields": {
+        "name": "Dream Theater",
+        "re_string": "\\bDream Theater\\b",
+        "spotify_id": "2aaLAng2L2aWD2FClzwiep",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 455,
+    "fields": {
+        "name": "Lianne La Havas",
+        "re_string": "\\bLianne La Havas\\b",
+        "spotify_id": "2RP4pPHTXlQpDnO9LvR7Yt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 456,
+    "fields": {
+        "name": "The Weeknd",
+        "re_string": "\\bThe Weeknd\\b",
+        "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 457,
+    "fields": {
+        "name": "Animal Collective",
+        "re_string": "\\bAnimal Collective\\b",
+        "spotify_id": "4kwxTgCKMipBKhSnEstNKj",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 458,
+    "fields": {
+        "name": "Mahavishnu Orchestra",
+        "re_string": "\\bMahavishnu Orchestra\\b",
+        "spotify_id": "3Ao7NH7lRyQAeKQg2mlTcO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 459,
+    "fields": {
+        "name": "T\u00e9",
+        "re_string": "\\bT\u00e9\\b",
+        "spotify_id": "7rfzIs42bO9s242CZE1X3S",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 460,
+    "fields": {
+        "name": "Bass Communion",
+        "re_string": "\\bBass Communion\\b",
+        "spotify_id": "1BB9lYWJhWmZI528ajQe0y",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 462,
+    "fields": {
+        "name": "Jimmy McGriff",
+        "re_string": "\\bJimmy McGriff\\b",
+        "spotify_id": "1A0QR12gcj2L5hYh1WWDeh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 463,
+    "fields": {
+        "name": "Nicki Minaj",
+        "re_string": "\\bNicki Minaj\\b",
+        "spotify_id": "0hCNtLu0JehylgoiP8L4Gh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 464,
+    "fields": {
+        "name": "Robyn",
+        "re_string": "\\bRobyn\\b",
+        "spotify_id": "6UE7nl9mha6s8z0wFQFIZ2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 465,
+    "fields": {
+        "name": "The Brian Jonestown Massacre",
+        "re_string": "\\bThe Brian Jonestown Massacre\\b",
+        "spotify_id": "30uiS1n3uIGXJEYFR1GVDy",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 466,
+    "fields": {
+        "name": "Salif Keita",
+        "re_string": "\\bSalif Keita\\b",
+        "spotify_id": "0VVnWF3KNaa5O7ESohKhAx",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 467,
+    "fields": {
+        "name": "Morrissey",
+        "re_string": "\\bMorrissey\\b",
+        "spotify_id": "3iTsJGG39nMg9YiolUgLMQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 468,
+    "fields": {
+        "name": "Kylie Minogue",
+        "re_string": "\\bKylie Minogue\\b",
+        "spotify_id": "4RVnAU35WRWra6OZ3CbbMA",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 469,
+    "fields": {
+        "name": "Sex Pistols",
+        "re_string": "\\bSex Pistols\\b",
+        "spotify_id": "1u7kkVrr14iBvrpYnZILJR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 470,
+    "fields": {
+        "name": "Public Enemy",
+        "re_string": "\\bPublic Enemy\\b",
+        "spotify_id": "6Mo9PoU6svvhgEum7wh2Nd",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 471,
+    "fields": {
+        "name": "Pixies",
+        "re_string": "\\bPixies\\b",
+        "spotify_id": "6zvul52xwTWzilBZl6BUbT",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 472,
+    "fields": {
+        "name": "Grand Funk Railroad",
+        "re_string": "\\bGrand Funk Railroad\\b",
+        "spotify_id": "0qEcf3SFlpRcb3lK3f2GZI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 473,
+    "fields": {
+        "name": "Paul Hillier & Theatre of Voices",
+        "re_string": "\\bPaul Hillier .? Theatre of Voices\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 474,
+    "fields": {
+        "name": "Weather Report",
+        "re_string": "\\bWeather Report\\b",
+        "spotify_id": "162DCkd8aDKwvjBb74Gu8b",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 475,
+    "fields": {
+        "name": "Butthole Surfers",
+        "re_string": "\\bButthole Surfers\\b",
+        "spotify_id": "62BcWP4fzR8axESibNQEhs",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 476,
+    "fields": {
+        "name": "Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band",
+        "re_string": "\\bThee Silver Mt.? Zion Memorial Orchestra .? Tra.?La.?La Band\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 477,
+    "fields": {
+        "name": "The Allman Brothers Band",
+        "re_string": "\\bThe Allman Brothers Band\\b",
+        "spotify_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 478,
+    "fields": {
+        "name": "Neil Young",
+        "re_string": "\\bNeil Young\\b",
+        "spotify_id": "6v8FB84lnmJs434UJf2Mrm",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 479,
+    "fields": {
+        "name": "Chromeo",
+        "re_string": "\\bChromeo\\b",
+        "spotify_id": "2mV8aJphiSHYJf43DxL7Gt",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 480,
+    "fields": {
+        "name": "LCD Soundsystem",
+        "re_string": "\\bLCD Soundsystem\\b",
+        "spotify_id": "066X20Nz7iquqkkCW6Jxy6",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 482,
+    "fields": {
+        "name": "Local H",
+        "re_string": "\\bLocal H\\b",
+        "spotify_id": "415JrPfN7ukaTu8JV8BLE8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 483,
+    "fields": {
+        "name": "John McLaughlin",
+        "re_string": "\\bJohn McLaughlin\\b",
+        "spotify_id": "4v0R1feRiuCDch7aAheVhY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 484,
+    "fields": {
+        "name": "Curtis Mayfield",
+        "re_string": "\\bCurtis Mayfield\\b",
+        "spotify_id": "2AV6XDIs32ofIJhkkDevjm",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 485,
+    "fields": {
+        "name": "Wale",
+        "re_string": "\\bWale\\b",
+        "spotify_id": "67nwj3Y5sZQLl72VNUHEYE",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 486,
+    "fields": {
+        "name": "Segun Bucknor & His Revolution",
+        "re_string": "\\bSegun Bucknor .? His Revolution\\b",
+        "spotify_id": "4BGIE8L9h2Xt9ck48pl5Ow",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 487,
+    "fields": {
+        "name": "Horace Silver",
+        "re_string": "\\bHorace Silver\\b",
+        "spotify_id": "5ZATfKurLqflrBhv2FLht5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 488,
+    "fields": {
+        "name": "Daft Punk",
+        "re_string": "\\bDaft Punk\\b",
+        "spotify_id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 489,
+    "fields": {
+        "name": "Weezer",
+        "re_string": "\\bWeezer\\b",
+        "spotify_id": "3jOstUTkEu2JkjvRdBA5Gu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 490,
+    "fields": {
+        "name": "David Byrne",
+        "re_string": "\\bDavid Byrne\\b",
+        "spotify_id": "20vuBdFblWUo2FCOvUzusB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 491,
+    "fields": {
+        "name": "King Crimson",
+        "re_string": "\\bKing Crimson\\b",
+        "spotify_id": "66qn3Si0OGVzxGqwLcgrsJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 493,
+    "fields": {
+        "name": "Sade",
+        "re_string": "\\bSade\\b",
+        "spotify_id": "47zz7sob9NUcODy0BTDvKx",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 494,
+    "fields": {
+        "name": "Chief Commander Ebenezer Obey ",
+        "re_string": "\\bChief Commander Ebenezer Obey \\b",
+        "spotify_id": "508KmjoFyijrHprjyRkrtv",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 496,
+    "fields": {
+        "name": "Gil Scott-Heron",
+        "re_string": "\\bGil Scott.?Heron\\b",
+        "spotify_id": "0kEfub5RzlZOB2zGomqVSU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 497,
+    "fields": {
+        "name": "The Knife",
+        "re_string": "\\bThe Knife\\b",
+        "spotify_id": "7eQZTqEMozBcuSubfu52i4",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 498,
+    "fields": {
+        "name": "Melee",
+        "re_string": "\\bMelee\\b",
+        "spotify_id": "1koahA4L2b5ZFjaFC05pbk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 499,
+    "fields": {
+        "name": "Devin Townsend",
+        "re_string": "\\bDevin Townsend\\b",
+        "spotify_id": "54Xuca1P5nDqfKYZGDfHxl",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 500,
+    "fields": {
+        "name": "BADBADNOTGOOD",
+        "re_string": "\\bBADBADNOTGOOD\\b",
+        "spotify_id": "65dGLGjkw3UbddUg2GKQoZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 501,
+    "fields": {
+        "name": "Billy Martin",
+        "re_string": "\\bBilly Martin\\b",
+        "spotify_id": "6Pr4YRSKHVDPr6WpwivIRY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 502,
+    "fields": {
+        "name": "Cyril Hahn",
+        "re_string": "\\bCyril Hahn\\b",
+        "spotify_id": "4EFMHRFpgrpfp0AVEBp4m2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 503,
+    "fields": {
+        "name": "Supreme Cuts",
+        "re_string": "\\bSupreme Cuts\\b",
+        "spotify_id": "0pkJMsTwKbRvrX9d4QEoAM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 504,
+    "fields": {
+        "name": "Chevelle",
+        "re_string": "\\bChevelle\\b",
+        "spotify_id": "56dO9zeHKuU5Gvfc2kxHNw",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 505,
+    "fields": {
+        "name": "Andrew Bird",
+        "re_string": "\\bAndrew Bird\\b",
+        "spotify_id": "4uSftVc3FPWe6RJuMZNEe9",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 506,
+    "fields": {
+        "name": "Groove Armada",
+        "re_string": "\\bGroove Armada\\b",
+        "spotify_id": "67tgMwUfnmqzYsNAtnP6YJ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 507,
+    "fields": {
+        "name": "Wu-Tang Clan",
+        "re_string": "\\bWu.?Tang Clan\\b",
+        "spotify_id": "34EP7KEpOjXcM2TCat1ISk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 508,
+    "fields": {
+        "name": "Tool",
+        "re_string": "\\bTool\\b",
+        "spotify_id": "6zreklnHnGi9Zfr2WhaO5a",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 509,
+    "fields": {
+        "name": "Fonica",
+        "re_string": "\\bFonica\\b",
+        "spotify_id": "6qQNzga4oTdnpHNL1NZ8um",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 510,
+    "fields": {
+        "name": "Ghostface Killah",
+        "re_string": "\\bGhostface Killah\\b",
+        "spotify_id": "6FD0unjzGQhX3b6eMccMJe",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 511,
+    "fields": {
+        "name": "Joe Satriani",
+        "re_string": "\\bJoe Satriani\\b",
+        "spotify_id": "2yzxX2DI9LFK8VFTyW2zZ8",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 512,
+    "fields": {
+        "name": "Black Keys",
+        "re_string": "\\bBlack Keys\\b",
+        "spotify_id": "7mnBLXK823vNxN3UWB7Gfz",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 513,
+    "fields": {
+        "name": "Telepopmusik",
+        "re_string": "\\bTelepopmusik\\b",
+        "spotify_id": "3aKCo8gLJfuPYtr88aWKjF",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 514,
+    "fields": {
+        "name": "Bone Thugs-N-Harmony",
+        "re_string": "\\bBone Thugs.?N.?Harmony\\b",
+        "spotify_id": "5spEJXLwD1sKUdC2bnOHPg",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 515,
+    "fields": {
+        "name": "The Depreciation Guild",
+        "re_string": "\\bThe Depreciation Guild\\b",
+        "spotify_id": "3Hg2a04c1Z2I3wKX32hLGU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 516,
+    "fields": {
+        "name": "Outkast",
+        "re_string": "\\bOutkast\\b",
+        "spotify_id": "1G9G7WwrXka3Z1r7aIDjI7",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 517,
+    "fields": {
+        "name": "Super Eagles",
+        "re_string": "\\bSuper Eagles\\b",
+        "spotify_id": "2vyu3bWnidVmXk5wmqJaQ5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 518,
+    "fields": {
+        "name": "Red Hot Chili Peppers",
+        "re_string": "\\bRed Hot Chili Peppers\\b",
+        "spotify_id": "0L8ExT028jH3ddEcZwqJJ5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 520,
+    "fields": {
+        "name": "El Trio de Omar Rodriguez Lopez",
+        "re_string": "\\bEl Trio de Omar Rodriguez Lopez\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 521,
+    "fields": {
+        "name": "Kanye West",
+        "re_string": "\\bKanye West\\b",
+        "spotify_id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 522,
+    "fields": {
+        "name": "Nine Inch Nails",
+        "re_string": "\\bNine Inch Nails\\b",
+        "spotify_id": "0X380XXQSNBYuleKzav5UO",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 523,
+    "fields": {
+        "name": "Deftones",
+        "re_string": "\\bDeftones\\b",
+        "spotify_id": "6Ghvu1VvMGScGpOUJBAHNH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 524,
+    "fields": {
+        "name": "Incubus",
+        "re_string": "\\bIncubus\\b",
+        "spotify_id": "3YcBF2ttyueytpXtEzn1Za",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 525,
+    "fields": {
+        "name": "Talking Heads",
+        "re_string": "\\bTalking Heads\\b",
+        "spotify_id": "2x9SpqnPi8rlE9pjHBwmSC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 526,
+    "fields": {
+        "name": "Charles Hamilton",
+        "re_string": "\\bCharles Hamilton\\b",
+        "spotify_id": "4jOUE5phvhoCUHQBZ3uMyM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 527,
+    "fields": {
+        "name": "65DAYSOFSTATIC",
+        "re_string": "\\b65DAYSOFSTATIC\\b",
+        "spotify_id": "6DVVsQAnpHdJjb1nYuOQ6g",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 528,
+    "fields": {
+        "name": "God is an Astronaut",
+        "re_string": "\\bGod is an Astronaut\\b",
+        "spotify_id": "079svMEXkbT5nGU2kfoqO2",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 529,
+    "fields": {
+        "name": "Luniz",
+        "re_string": "\\bLuniz\\b",
+        "spotify_id": "3z3g65U7mmyyBmmDfsQK9x",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 530,
+    "fields": {
+        "name": "Al Green",
+        "re_string": "\\bAl Green\\b",
+        "spotify_id": "3dkbV4qihUeMsqN4vBGg93",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 531,
+    "fields": {
+        "name": "Air",
+        "re_string": "\\bAir\\b",
+        "spotify_id": "1P6U1dCeHxPui5pIrGmndZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 532,
+    "fields": {
+        "name": "NOMO",
+        "re_string": "\\bNOMO\\b",
+        "spotify_id": "4uWvboDVb3UDhPJPKRx4CB",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 533,
+    "fields": {
+        "name": "Santana",
+        "re_string": "\\bSantana\\b",
+        "spotify_id": "6GI52t8N5F02MxU0g5U69P",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 534,
+    "fields": {
+        "name": "Emerson Lake and Palmer",
+        "re_string": "\\bEmerson Lake and Palmer\\b",
+        "spotify_id": "0nCiidE5GgDrc5kWN3NZgZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 535,
+    "fields": {
+        "name": "Tori Amos",
+        "re_string": "\\bTori Amos\\b",
+        "spotify_id": "1KsASRNugxU85T0u6zSg32",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 536,
+    "fields": {
+        "name": "The Sea and Cake",
+        "re_string": "\\bThe Sea and Cake\\b",
+        "spotify_id": "0ihBDeJlIlXo4LFfAllsGm",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 537,
+    "fields": {
+        "name": "Zazen Boys",
+        "re_string": "\\bZazen Boys\\b",
+        "spotify_id": "6oAUOiOlMM5wvNfu2xikvM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 538,
+    "fields": {
+        "name": "Crippled Black Phoenix",
+        "re_string": "\\bCrippled Black Phoenix\\b",
+        "spotify_id": "6WEyPcf9ezhNLm1xOBjbwH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 540,
+    "fields": {
+        "name": "Mono",
+        "re_string": "\\bMono\\b",
+        "spotify_id": "53LVoipNTQ4lvUSJ61XKU3",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 541,
+    "fields": {
+        "name": "Brian Eno",
+        "re_string": "\\bBrian Eno\\b",
+        "spotify_id": "7MSUfLeTdDEoZiJPDSBXgi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 542,
+    "fields": {
+        "name": "R\u00f6yksopp",
+        "re_string": "\\bR\u00f6yksopp\\b",
+        "spotify_id": "5nPOO9iTcrs9k6yFffPxjH",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 543,
+    "fields": {
+        "name": "Who",
+        "re_string": "\\bWho\\b",
+        "spotify_id": "67ea9eGLXYMsO2eYQRui3w",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 544,
+    "fields": {
+        "name": "M\u00fam",
+        "re_string": "\\bM\u00fam\\b",
+        "spotify_id": "4mw86zm4QZIL8SksdyE6OU",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 545,
+    "fields": {
+        "name": "Four Tet",
+        "re_string": "\\bFour Tet\\b",
+        "spotify_id": "7Eu1txygG6nJttLHbZdQOh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 546,
+    "fields": {
+        "name": "Ghosts on Tape",
+        "re_string": "\\bGhosts on Tape\\b",
+        "spotify_id": "5Gc0UGsCrNvpOxu6TAbEXe",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 547,
+    "fields": {
+        "name": "Bela Fleck and the Flecktones",
+        "re_string": "\\bBela Fleck and the Flecktones\\b",
+        "spotify_id": "5Zmur9D9gpr6tXyDrpnbOe",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 548,
+    "fields": {
+        "name": "El Guincho",
+        "re_string": "\\bEl Guincho\\b",
+        "spotify_id": "1oMiDFyAgmIzw9ZBQYHOJI",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 550,
+    "fields": {
+        "name": "Maceo Parker",
+        "re_string": "\\bMaceo Parker\\b",
+        "spotify_id": "4RAQZfFgR7NPAWjKwUpEeC",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 551,
+    "fields": {
+        "name": "Damian Marley",
+        "re_string": "\\bDamian Marley\\b",
+        "spotify_id": "3QJzdZJYIAcoET1GcfpNGi",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 552,
+    "fields": {
+        "name": "White Stripes",
+        "re_string": "\\bWhite Stripes\\b",
+        "spotify_id": "4F84IBURUo98rz4r61KF70",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 553,
+    "fields": {
+        "name": "Ben Folds",
+        "re_string": "\\bBen Folds\\b",
+        "spotify_id": "55tif8708yyDQlSjh3Trdu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 554,
+    "fields": {
+        "name": "Jennifer Lopez",
+        "re_string": "\\bJennifer Lopez\\b",
+        "spotify_id": "2DlGxzQSjYe5N6G9nkYghR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 555,
+    "fields": {
+        "name": "The Devin Townsend Project",
+        "re_string": "\\bThe Devin Townsend Project\\b",
+        "spotify_id": "",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 556,
+    "fields": {
+        "name": "The Meters",
+        "re_string": "\\bThe Meters\\b",
+        "spotify_id": "2JRvXPGWiINrnJljNJhG5s",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 557,
+    "fields": {
+        "name": "Chick Corea",
+        "re_string": "\\bChick Corea\\b",
+        "spotify_id": "5olDKSsFhhmwh8UCWwKtpq",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 558,
+    "fields": {
+        "name": "John Scofield",
+        "re_string": "\\bJohn Scofield\\b",
+        "spotify_id": "14RXohtx6NiBGFTW8IdmAK",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 559,
+    "fields": {
+        "name": "Gramatik",
+        "re_string": "\\bGramatik\\b",
+        "spotify_id": "179BpmLkQCRIoU68Co80f5",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 560,
+    "fields": {
+        "name": "Porcupine Tree",
+        "re_string": "\\bPorcupine Tree\\b",
+        "spotify_id": "5NXHXK6hOCotCF8lvGM1I0",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 561,
+    "fields": {
+        "name": "The Word",
+        "re_string": "\\bThe Word\\b",
+        "spotify_id": "1CF8aEN939swnuIZGFI7Hk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 562,
+    "fields": {
+        "name": "Charlie Byrd Trio",
+        "re_string": "\\bCharlie Byrd Trio\\b",
+        "spotify_id": "6J0zr65OYF8CYDLwDgHwmq",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 563,
+    "fields": {
+        "name": "Eagles of Death Metal",
+        "re_string": "\\bEagles of Death Metal\\b",
+        "spotify_id": "02uYdhMhCgdB49hZlYRm9o",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 564,
+    "fields": {
+        "name": "Fugees",
+        "re_string": "\\bFugees\\b",
+        "spotify_id": "2WKdxPFRD7IqZvlIAvhMgY",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 565,
+    "fields": {
+        "name": "Aesop Rock",
+        "re_string": "\\bAesop Rock\\b",
+        "spotify_id": "2fSaE6BXtQy0x7R7v9IOmZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 566,
+    "fields": {
+        "name": "Radiohead",
+        "re_string": "\\bRadiohead\\b",
+        "spotify_id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 567,
+    "fields": {
+        "name": "DJ Godfather",
+        "re_string": "\\bDJ Godfather\\b",
+        "spotify_id": "0cKrM2XKF7wxyfEQDauvyQ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 568,
+    "fields": {
+        "name": "Tom Waits",
+        "re_string": "\\bTom Waits\\b",
+        "spotify_id": "7x83XhcMbOTl1UdYsPTuZM",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 569,
+    "fields": {
+        "name": "Chance The Rapper",
+        "re_string": "\\bChance The Rapper\\b",
+        "spotify_id": "1anyVhU62p31KFi8MEzkbf",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 570,
+    "fields": {
+        "name": "Sun Ra",
+        "re_string": "\\bSun Ra\\b",
+        "spotify_id": "0tIODqvzGUoEaK26rK4pvX",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 571,
+    "fields": {
+        "name": "R\u00f6yksopp & Robyn",
+        "re_string": "\\bR\u00f6yksopp .? Robyn\\b",
+        "spotify_id": "5V6QXzDmQl9KYCcJkVkjBk",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 572,
+    "fields": {
+        "name": "Rahzel",
+        "re_string": "\\bRahzel\\b",
+        "spotify_id": "6vunRaBya0Sx6CMJZAlHTZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 573,
+    "fields": {
+        "name": "Joe Pass",
+        "re_string": "\\bJoe Pass\\b",
+        "spotify_id": "4DuZTASH5eSyd0K73W6fuZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 574,
+    "fields": {
+        "name": "The Cool Kids",
+        "re_string": "\\bThe Cool Kids\\b",
+        "spotify_id": "1AWNf5CLnHH4oM1hcHiVeV",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 575,
+    "fields": {
+        "name": "Portishead",
+        "re_string": "\\bPortishead\\b",
+        "spotify_id": "6liAMWkVf5LH7YR9yfFy1Y",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 576,
+    "fields": {
+        "name": "Antibalas",
+        "re_string": "\\bAntibalas\\b",
+        "spotify_id": "2KGF6IKZfVGCKfyqcNVGfh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 577,
+    "fields": {
+        "name": "The Cure",
+        "re_string": "\\bThe Cure\\b",
+        "spotify_id": "7bu3H8JO7d0UbMoVzbo70s",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 578,
+    "fields": {
+        "name": "The Roots",
+        "re_string": "\\bThe Roots\\b",
+        "spotify_id": "78xUyw6FkVZrRAtziFdtdu",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 579,
+    "fields": {
+        "name": "MSTRKRFT",
+        "re_string": "\\bMSTRKRFT\\b",
+        "spotify_id": "2squZ8HjM4AzR0j6jsPn4a",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 580,
+    "fields": {
+        "name": "Aidan Baker",
+        "re_string": "\\bAidan Baker\\b",
+        "spotify_id": "7wPBSl15ddi9mRCgIllOa9",
+        "is_active": true
+    }
+}
+]
