@@ -4,13 +4,18 @@
     <h2>Upcoming concerts</h2><i>last updated {{ last_updated|date:"SHORT_DATE_FORMAT" }}</i>
     <ul>
         {% for concert in matches %}
-            <li><h3>{{ concert.billing }} at {{ concert.venue }}</h3>
-                <p>{{ concert.date_time }}, {{ concert.price }}</p>
+            <li>
+                <h3>{{ concert.billing }}</h3><h4> at {{ concert.venue }}</h4>
+                <p>{{ concert.date_time }} | Tickets {{ concert.price }} | <a href={{ concert.url }}>Show page</a></p>
                 <p>Matches artists
                 {% for artist in concert.artists.all %}
-                    '{{ artist.name }}', {% endfor %}
+                    {% if artist.spotify_id %}
+                        '{{ artist.name }}' <a id="spotify-link" href=https://play.spotify.com/artist/{{ artist.spotify_id }}>(Spotify)</a>, 
+                    {% else %}
+                        '{{ artist.name }}', 
+                    {% endif %}
+              {% endfor %}
                 </p>
-                <p><a href={{ concert.url }}>Link</a></p>
             </li>
         {% endfor %}
     </ul>
