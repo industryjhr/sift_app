@@ -16,7 +16,6 @@ import requests
 
 TODAY = datetime.datetime.today()
 
-
 ShowTuple = namedtuple(
                 'show',
                 'artists, venue_name, show_date, price, show_url, schedule_url'
@@ -246,9 +245,17 @@ class EmptyBottle(Venue):
         """Pulls artist billing for a specific show"""
 
         # artist billing as one string; could break down on ' \n '
+
+        artists_blob = summary.select('.show_artists')[0].text
+        stripped = artists_blob.strip()
+        formatted = stripped.replace(' \n', ',')
+
+        """
         artists = \
-            summary.select('.show_artists')[0].text.replace('\n', '')
-        return artists
+            summary.select('.show_artists')[0].text.replace('\n', ',')
+        """
+
+        return formatted
 
 
     def get_venue_info(self, summary):
@@ -270,16 +277,16 @@ class EmptyBottle(Venue):
         """Returns UTC datetime object for concert date and time"""
 
         # TODO instantiate once, higher up; currently for each show
-        today = datetime.datetime.today()
+        #today = datetime.datetime.today()
 
         date_on_site = summary.select('.tw-event-date')[0].text
         # month as number (1-12)
         show_month = self.month_map[date_on_site.split()[0]]
         show_date = int(date_on_site.split()[1])
-        if show_month >= today.month:
-            show_year = today.year
+        if show_month >= TODAY.month:
+            show_year = TODAY.year
         else:
-            show_year = today.year + 1
+            show_year = TODAY.year + 1
 
         html_time = summary.select('.tw-event-time')[0].text
         t = time.strptime(html_time, '%I:%M %p')
