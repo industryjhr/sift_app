@@ -1,3 +1,11 @@
+"""
+concerts/management/commands/make_matches.py
+
+Uses the Artist.re_string to search for the artist in the
+concert lineup (Concert.billing).  If a match is found, saves a
+ConcertMatch object for lookup later.
+"""
+
 import re
 import logging
 

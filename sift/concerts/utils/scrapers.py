@@ -9,15 +9,7 @@ Scraper objects for venues, starting with the base Venue class:
     Subterranean
 """
 
-import (
-    calendar,
-    datetime,
-    iso8601,
-    os,
-    pytz,
-    sys,
-    time,
-)
+import calendar, datetime, iso8601, os, pytz, sys, time
 from collections import namedtuple
 
 import requests
@@ -473,8 +465,9 @@ class Subterranean(Venue):
 
     def get_venue_info(self, summary):
         """
-        Some venues promote shows at other venues.
-        In such cases, use venue_id 99 for misc. venues (or check db?)
+        See Venue.get_venue_info.
+
+        Subterranean concerts are in-house only so far.
         """
 
         venue_name = self.venue_name
@@ -484,14 +477,22 @@ class Subterranean(Venue):
 
 
     def get_show_date(self, summary):
-        """Create UTC datetime object for concert date, time"""
+        """
+        See Venue.get_show_date.
+
+        '.list-view-item' > '.value-title' > 'title' attribute
+        """
 
         show_iso = summary.select('.value-title')[0].attrs['title']
         local_datetime = iso8601.parse_date(show_iso)
         return local_datetime.astimezone(pytz.utc)
 
     def get_show_price(self, summary):
-        """Return price as a string from a concert summary"""
+        """
+        See Venue.get_artist_billing.
+
+        '.list-view-item' > '.price-range'
+        """
 
         try:
             price = summary.select('.price-range')[0].text.strip()
@@ -500,7 +501,11 @@ class Subterranean(Venue):
         return price
 
     def get_show_url(self, summary):
-        """Returns url to a concert page from a summary"""
+        """
+        See Venue.get_artist_billing.
+
+        '.list-view-item' > first link
+        """
 
         show_page = summary.find('a', href=True)['href']
         # show_page link relative

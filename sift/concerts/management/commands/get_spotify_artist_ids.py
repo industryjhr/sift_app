@@ -1,3 +1,10 @@
+"""
+concerts/management/commands/get_spotify_artist_ids.py
+
+For Artist entries without a spotify_id, queries the Spotify API for
+artist ID and saves it to the DB.
+"""
+
 import logging
 import time
 from random import randint

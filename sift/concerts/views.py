@@ -5,6 +5,9 @@ from django.views import generic
 from .models import Artist, Concert, ConcertMatch, Venue
 
 class Home(generic.View):
+    """
+    Return cover page.
+    """
 
     def get(self, request):
         return render(request, 'concerts/sift_home.html')
@@ -12,6 +15,11 @@ class Home(generic.View):
 class UpcomingShows(generic.View):
 
     def get(self, request):
+        """
+        Return Concerts that have matched an artist in their billing,
+        ordered by date ascending. 
+        """
+        
         matched_concert_ids = list(ConcertMatch.objects.values_list('concert', flat=True))
         matches = Concert.objects.filter(id__in=matched_concert_ids).order_by('date_time')
         last_updated = Concert.objects.get(pk=1).date_scraped
@@ -31,8 +39,11 @@ class VenuesIndex(generic.ListView):
 class ConcertsIndex(generic.View):
 
     def get(self, request):
+        """
+        Return a list of all Concerts in the database.
+        """
         concerts = Concert.objects.order_by('date_time')
-        last_updated = Concert.objects.get(pk=1).date_scraped
+        last_updated = concerts[0].date_scraped
         context = {
             'concert_list': concerts,
             'last_updated': last_updated,

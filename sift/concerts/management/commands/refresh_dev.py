@@ -1,3 +1,12 @@
+"""
+concerts/management/commands/refresh_dev.py
+
+Flushes the DB and re-seeds Artist and Venue from fixtures, then
+runs scrape_shows and make_matches commmands to populate ConcertMatch table.
+
+Also dumps Concerts to a fixture for the Heroku app to use.
+"""
+
 import os, sys
 from datetime import datetime
 

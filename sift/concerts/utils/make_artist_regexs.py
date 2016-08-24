@@ -1,7 +1,10 @@
 """
-make_artist_regexs.py
+concerts/utils/make_artist_regexs.py
 
-Iterate through the artists fixture json to update artist regexs.
+Iterate through the artists fixture json and save a regex of of the artist
+name to a fixture file, to later become artist.re_string on the
+concerts.models.Artist objects.
+
 Called with two posargs: <fixture_input.json> <output_filename.json>
 """
 

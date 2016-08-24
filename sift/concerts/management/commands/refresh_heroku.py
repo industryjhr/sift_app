@@ -1,3 +1,13 @@
+"""
+concerts/management/commands/refresh_heroku.py
+
+Flushes and re-seeds the DB from Artist, Venue, and Concert fixtures,
+then runs the make_matches management commmand to populate ConcertMatch table.
+
+This workflow is currently necessary due to being unable to scrape the
+Subterranean site from Heroku. cf. concerts/buffering_error.txt.
+"""
+
 import os, sys
 from datetime import datetime
 

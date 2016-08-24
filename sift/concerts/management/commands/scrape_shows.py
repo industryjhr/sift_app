@@ -1,3 +1,10 @@
+"""
+concerts/management/commands/scrape_shows.py
+
+Using the concerts.utils.scrapers, scrapes venue sites and
+writes the upcoming concerts to Concerts table.
+"""
+
 from django.core.management.base import BaseCommand, CommandError
 from concerts.models import Venue, Concert
 from concerts.utils.scraper_reference import SCRAPERS
@@ -6,12 +13,12 @@ MISC_VENUE = Venue.objects.get(id=99)
 
 
 class Command(BaseCommand):
-    help = 'Scrapes sites for all active venues and writes shows to Concerts table'
+    help = 'Scrapes sites for all active Venues and writes shows to Concerts table'
 
     def handle(self, *args, **options):
 
         for venue in Venue.objects.filter(is_active=True):
-            scraper = SCRAPERS[venue.id]
+            scraper = SCRAPERS[venue.id]()
             scraper.load_live_shows()
 
             for show in scraper.shows:
