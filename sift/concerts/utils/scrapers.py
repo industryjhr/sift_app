@@ -1,18 +1,27 @@
 """
 scrapers.py
 
-Scraper objects for venues
+Scraper objects for venues, starting with the base Venue class:
 
-scraper field on venue model objects key to lookup here(?)
+    (Venue)
+    BottomLounge
+    EmptyBottle
+    Subterranean
 """
 
-import calendar, datetime, os, sys, time
+import (
+    calendar,
+    datetime,
+    iso8601,
+    os,
+    pytz,
+    sys,
+    time,
+)
 from collections import namedtuple
 
-from bs4 import BeautifulSoup as bs
-import iso8601
-import pytz
 import requests
+from bs4 import BeautifulSoup as bs
 
 TODAY = datetime.datetime.today()
 
@@ -23,41 +32,92 @@ ShowTuple = namedtuple(
 
 
 class Venue:
-    """Base class for venue scrapers"""
+    """
+    Base class for venue scrapers to inherit from.
+
+    The base class defines a `shows` data attribute, initialized as an empty
+    list.  The child venue classes should also define venue_name
+    and url data attributes.
+
+    Complete methods include make_shows, load_live_shows, and
+    (staticmethod) make_utc_datetime.
+
+    The rest of the methods are venue-specific parsing functions, to be
+    defined by child objects.
+    """
 
     show_fac = ShowTuple
-    # TODO remove venue_id logic, now tracked in models
 
+    # TODO remove venue_id logic, now tracked in models
     def __init__(self, **kwargs):
         self.shows = []
         self.venue_id = 99
 
     def __str__(self):
-        return "{0} -- {1} current shows".format(self.venue_name, len(self.shows))
+        return "{0} -- {1} current shows".format(
+            self.venue_name, len(self.shows)
+        )
 
 
     def get_summaries(self, html):
-        """Returns list of parent beautifulsoup elements for shows."""
+        """
+        Venue-specific parsing function.  Returns list of parent beautifulsoup
+        elements for shows.
+
+        :param str html: The scraped HTML of the venue's concert schedule page.
+        :returns: A list of show "summaries" -- parent bs elements that contain
+                  all sub-elements with relevant information for a concert.
+        """
         raise NotImplementedError("get_summaries is venue-specific")
 
 
     def get_artist_billing(self, summary):
-        """Pulls artist information for the show."""
-        raise NotImplementedError("get_artist_bililng is venue-specific")
+        """
+        Venue-specific parsing function.  Extracts and returns artist billing
+        for a concert.
+
+        :param bs4.element.Tag summary: HTML blob for one concert.
+        :returns: A string containing all artists for the concert.
+        """
+        raise NotImplementedError("get_artist_billing is venue-specific")
 
 
     def get_venue_info(self, summary):
-        """Return venue name and id for the show."""
+        """
+        Venue-specific parsing function.  Extracts and returns the venue
+        details for a concert.  Done on a per-concert basis because some venues
+        may hold/produce concerts at other locations (currently tracked in the
+        DB under venue.id 99).
+
+        :param bs4.element.Tag summary: HTML blob for one concert.
+        :returns: A tuple of (<venue name>, <venue id>) for the concert.
+        """
         raise NotImplementedError("get_venue_info is venue-specific")
 
 
     def get_show_date(self, summary):
-        """Returns UTC datetime object from show summary HTML"""
+        """
+        Venue-specific parsing function.  Extracts and returns a UTC datetime
+        object for a concert.
+
+        :param bs4.element.Tag summary: HTML blob for one concert.
+        :returns: UTC datetime object.
+        """
         raise NotImplementedError("get_show_date is venue-specific")
 
     @staticmethod
-    def make_utc_datetime(*args, **kwargs):
-        """Converts naive (local; time as scraped) datetime object to UTC"""
+    def make_utc_datetime(year, month, day, hour, minute):
+        """
+        Helper function to convert the local (Chicago) time as scraped
+        to a UTC datetime object.
+
+        :param int year: Year of the concert start time.
+        :param int month: Month of the concert start time.
+        :param int day: Day of the concert start time.
+        :param int hour: Hour of the concert start time.
+        :param int minute: Minute of the concert start time.
+        :returns: UTC datetime object.
+        """
 
         naive_time_obj = datetime.datetime(
             year=kwargs['show_year'],
@@ -76,23 +136,34 @@ class Venue:
 
 
     def get_show_price(self, summary):
-        """Return price (as string) for the show."""
+        """
+        Venue-specific parsing function.  Extracts and returns a string
+        describing the ticket price, due to variations.
+
+        :param bs4.element.Tag summary: HTML blob for one concert.
+        :returns: ticket price info (as string) for the concert.
+        """
         raise NotImplementedError("get_show_price is venue-specific")
 
 
     def get_show_url(self, summary):
-        """Return url for the show's details page."""
-        raise NotImplementedError("get_show_price is venue-specific")
+        """
+        Venue-specific parsing function.  Extracts and returns a URL
+        to the concert page on the venue's official site.
+
+        :param bs4.element.Tag summary: HTML blob for one concert.
+        :returns: a URL string to the concert page on the venue's site.
+        """
+        raise NotImplementedError("get_show_url is venue-specific")
 
 
     def make_shows(self, html):
         """
-        Uses the venue's scraped schedule HTML as input and
-        populates the scraper object's shows list with ShowTuples.
-
-        A 'summary' here is a slice of HTML that contains
-        all known information about a single concert.
-        Ie. all relevant information about a show is present in its summary.
+        Venue's show creation function, called by self.load_live_shows.
+        Parses the scraped HTML and adds ShowTuple named tuples to the
+        object's self.shows list.
+     
+        :param str html: HTML scraped from the venue's concerts page.
         """
 
         summaries = self.get_summaries(html)
@@ -115,7 +186,10 @@ class Venue:
 
 
     def load_live_shows(self):
-        """Scrapes venue site and populates self.shows list with ShowTuples."""
+        """
+        Scrapes the venue's concerts schedule page and populates
+        self.shows list with ShowTuples if none exist yet.
+        """
 
         if not self.shows:
             venue_html = requests.get(self.url)
@@ -125,13 +199,15 @@ class Venue:
         else:
             print("This object seems to have shows already")
 
-    """
-    def filter_shows(self):
-        self.shows = self.writer.filter_new(self.shows)
-    """
 
 class BottomLounge(Venue):
-    """Scraper object for Bottom Lounge"""
+    """
+    Scraper object for Bottom Lounge.
+    
+    1375 W Lake St.
+    Chicago, IL, 60607
+    http://bottomlounge.com
+    """
 
     def __init__(self):
         super().__init__()
@@ -140,14 +216,22 @@ class BottomLounge(Venue):
 
 
     def get_summaries(self, html):
-        """Returns list of parent bs elements for shows """
+        """
+        See Venue.get_summaries.
+
+        html dump > '.schedule-item-content'
+        """
 
         show_summaries = bs(html, 'html.parser').select('.schedule-item-content')
         return show_summaries
 
 
     def get_artist_billing(self, summary):
-        """Pulls artist billing for a specific show"""
+        """
+        See Venue.get_artist_billing.
+
+        '.schedule-item-content' > '.schedule-title' (All one element)
+        """
 
         # artist billing as one string; could break down on ' * '
         artists = summary.select('.schedule-title')[0].text
@@ -157,8 +241,9 @@ class BottomLounge(Venue):
 
     def get_venue_info(self, summary):
         """
-        Some venues promote shows at other venues.
-        In such cases, use venue_id 99 for misc. venues.
+        See Venue.get_venue_info.
+
+        Bottom Lounge appears currently to promote in-house shows only.
         """
 
         # BL seems to promote in-house shows only
@@ -170,14 +255,25 @@ class BottomLounge(Venue):
 
 
     def get_show_date(self, summary):
-        """TODO"""
+        """
+        See Venue.get_show_date.
+
+        '.schedule-item-content' > '.schedule-date' >
+            
+            span[0]: '09/08/2016'
+            span[1]: ' Doors 6:00 PM    '
+            span[2]: ' Show 6:30 PM'
+
+        Use Show time (span[2]).
+        """
 
         dt_spans = summary.select('.schedule-date')[0].find_all('span')
         show_month, show_date, show_year = tuple(dt_spans[0].text.split('/'))
 
-        html_time = ' '.join(dt_spans[1].text.split()[-2:])
-        # XXX *one* show on the site right now doesn't have AM/PM: 'Show 6:00'
-        # in such cases, going to assume it's PM; might want to handle earlier?
+        # use show time
+        html_time = ' '.join(dt_spans[2].text.split()[-2:])
+        # Rarely, a show on the site doesn't have AM/PM, eg. 'Show 6:00'.
+        # In such cases, assume it's PM.
         if html_time.split()[0].isalpha():
             html_time = '{} PM'.format(html_time.split()[1])
 
@@ -189,79 +285,84 @@ class BottomLounge(Venue):
             show_month=int(show_month),
             show_day=int(show_date),
             show_hour=t.tm_hour,
-            show_minute=t.tm_min)
+            show_minute=t.tm_min
+        )
 
         return utc_datetime
 
 
     def get_show_price(self, summary):
-        """Pulls price string for a specific show"""
+        """
+        See Venue.get_show_price.
 
-        # BL prices only available through TicketWeb.. pull all from TW???
-        price = 'NOT ON SITE'
+        BL prices only available through TicketWeb (two 
+        links and a search required).
+        """
+
+        price = '(See ticketing site for price)'
         return price
 
 
     def get_show_url(self, summary):
-        """Pulls url for a specific show"""
+        """
+        See Venue.get_show_url.
+
+        '.schedule-item-content' > first link
+        """
 
         show_url = summary.find('a', href=True)['href']
         return show_url
 
 
-# TODO move to docs
-"""
-Parsing notes
-
-shows in <div class="schedule-item-content">
-soupy.select('.schedule-item-content')
-
-date and time in <div class="schedule-date">  >  spans
-dt_obj = show.select('.schedule-date')
-spans = dt_obj[0].find_all('span')
-date = spans[0]
-time = spans[1] # doors time and show time; use show time
-"""
-
 
 class EmptyBottle(Venue):
-    """Scraper object for The Empty Bottle"""
+    """
+    Scraper object for The Empty Bottle.
+
+    1035 N Western Ave.
+    Chicago, IL, 60622
+    http://emptybottle.com
+    """
 
     def __init__(self):
         super().__init__()
         self.venue_name = 'The Empty Bottle'
         self.url = 'http://emptybottle.com'
-        # EB dates conform to calendar.month_abbr
-        self.month_map = {k:v for v, k in enumerate(calendar.month_abbr)}
 
     def get_summaries(self, html):
-        """Returns list of parent bs elements for shows """
+        """
+        See Venue.get_summaries.
+
+        html dump > '.show_summary'
+        """
 
         show_summaries = bs(html, 'html.parser').select('.show_summary')
         return show_summaries
 
 
     def get_artist_billing(self, summary):
-        """Pulls artist billing for a specific show"""
+        """
+        See Venue.get_artist_billing.
 
-        # artist billing as one string; could break down on ' \n '
+        '.show_summary' > '.show_artists'
+        """
 
         artists_blob = summary.select('.show_artists')[0].text
         stripped = artists_blob.strip()
         formatted = stripped.replace(' \n', ',')
 
-        """
-        artists = \
-            summary.select('.show_artists')[0].text.replace('\n', ',')
-        """
-
         return formatted
 
 
     def get_venue_info(self, summary):
-        """Pull venue for a show; some produced by EB but hosted elsewhere.
-           In such cases, use venue_id 99 for misc. venues
-           Returns tuple (<venue_name>, <venue_id>) """
+        """
+        See Venue.get_venue_info.
+
+        If show is at an alternate venue:
+            '.show_summary' > '.show_venue'
+        
+        Else Empty Bottle.
+        """
 
         if summary.select('.show_venue'):
             venue_name = summary.select('.show_venue')[0].text.strip()
@@ -274,14 +375,19 @@ class EmptyBottle(Venue):
 
 
     def get_show_date(self, summary):
-        """Returns UTC datetime object for concert date and time"""
+        """
+        See Venue.get_show_date.
 
-        # TODO instantiate once, higher up; currently for each show
-        #today = datetime.datetime.today()
+        '.show_summary' > '.tw-event-date'
+        '.show_summary' > '.tw-event-time'
+        """
+
+        # Dates on EB site use abbreviations, conform to calendar.month_abbr
+        month_map = {k:v for v, k in enumerate(calendar.month_abbr)}
 
         date_on_site = summary.select('.tw-event-date')[0].text
         # month as number (1-12)
-        show_month = self.month_map[date_on_site.split()[0]]
+        show_month = month_map[date_on_site.split()[0]]
         show_date = int(date_on_site.split()[1])
         if show_month >= TODAY.month:
             show_year = TODAY.year
@@ -302,41 +408,35 @@ class EmptyBottle(Venue):
 
 
     def get_show_price(self, summary):
-        """Pulls price string for a specific show"""
+        """
+        See Venue.get_show_price.
+
+        '.show_summary' > '.show_price'
+        """
 
         price = summary.select('.show_price')[0].text.strip()
         return price
 
 
     def get_show_url(self, summary):
+        """
+        See Venue.get_show_url.
+
+        '.show_summary' > first link
+        """
 
         show_url = summary.find('a', href=True)['href']
         return show_url
 
 
-# TODO move to docs
-"""
-Parsing info
-
-html.select('.show_summary') # individual shows
-div .show_summary > a .show_link # eg. "http://emptybottle.com/show/#######" >
-span .show_details
-
-> span .show_artists # artists billing > ul > li > artist string (individual)
-
-> span .show_date # DoW, Date, Time >
-.show_date > .tw-day-of-week # DoW, abbrev. eg. "Fri"
-.show_date > .tw-event-date-complete > .tw-event-date # date, eg. "Jan 08"
-.show_date > .tw-even-time-complete > .tw-event-time # time, eg. "5:30 pm"
-
-> span .show_price # eg. "$10.00"
-
-> span .show_venue # if span exists, show is at another venue
-
-"""
-
 class Subterranean(Venue):
-    """Scraper object for Subterranean"""
+    """
+    Scraper object for Subterranean.
+
+    2011 W North Ave.
+    Chicago, IL, 60647
+    http://www.subt.net
+    """
 
     def __init__(self):
         super().__init__()
@@ -344,13 +444,22 @@ class Subterranean(Venue):
         self.url = 'http://www.subt.net'
 
     def get_summaries(self, html):
-        """Returns list of parent bs elements for shows """
+        """
+        See Venue.get_summaries.
+
+        html dump > '.list-view-item'
+        """
 
         show_summaries = bs(html, 'html.parser').select('.list-view-item')
         return show_summaries
 
     def get_artist_billing(self, summary):
-        """Pulls artist billing for a specific show"""
+        """
+        See Venue.get_artist_billing.
+
+        '.list-view-item' > '.list-view-details' > '.headliners'
+        '.list-view-item' > '.list-view-details' > '.supports'
+        """
 
         # headlining and support acts in separate tags; supporting acts optional
         headliners = summary.select('.list-view-details > .headliners')[0].text
@@ -398,9 +507,5 @@ class Subterranean(Venue):
         return self.url + show_page
 
 
-"""
-Parsing notes
-
-
-
-"""
+if __name__ == '__main__':
+    main()
