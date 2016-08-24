@@ -98,10 +98,12 @@ class Venue:
         raise NotImplementedError("get_show_date is venue-specific")
 
     @staticmethod
-    def make_utc_datetime(year, month, day, hour, minute):
+    def make_utc_datetime(**kwargs):
         """
         Helper function to convert the local (Chicago) time as scraped
         to a UTC datetime object.
+
+        Expected in the kwargs:
 
         :param int year: Year of the concert start time.
         :param int month: Month of the concert start time.
@@ -253,17 +255,16 @@ class BottomLounge(Venue):
         '.schedule-item-content' > '.schedule-date' >
             
             span[0]: '09/08/2016'
-            span[1]: ' Doors 6:00 PM    '
-            span[2]: ' Show 6:30 PM'
+            span[1]: ' Doors 6:00 PM    Show 6:30 PM'
 
-        Use Show time (span[2]).
+        Use show time.
         """
 
         dt_spans = summary.select('.schedule-date')[0].find_all('span')
         show_month, show_date, show_year = tuple(dt_spans[0].text.split('/'))
 
         # use show time
-        html_time = ' '.join(dt_spans[2].text.split()[-2:])
+        html_time = ' '.join(dt_spans[1].text.split()[-2:])
         # Rarely, a show on the site doesn't have AM/PM, eg. 'Show 6:00'.
         # In such cases, assume it's PM.
         if html_time.split()[0].isalpha():
