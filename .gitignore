@@ -3,7 +3,12 @@ __pycache__
 
 *.swp
 
+# environment
 .env
 activate
 
+# logs
 debug.log
+
+# sphinx docs
+_*

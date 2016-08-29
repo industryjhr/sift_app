@@ -1,6 +1,8 @@
 """
 concerts/utils/make_artist_regexs.py
 
+TODO move to management command?
+
 Iterate through the artists fixture json and save a regex of of the artist
 name to a fixture file, to later become artist.re_string on the
 concerts.models.Artist objects.
