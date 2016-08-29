@@ -1,12 +1,7 @@
 """
 scrapers.py
 
-Scraper objects for venues, starting with the base Venue class:
-
-    (Venue)
-    BottomLounge
-    EmptyBottle
-    Subterranean
+Scraper objects for venues.
 """
 
 import calendar, datetime, iso8601, os, pytz, sys, time

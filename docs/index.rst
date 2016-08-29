@@ -17,4 +17,5 @@ Index
 
    modules/models
    modules/views
-   management/index
+   modules/management
+   modules/utils

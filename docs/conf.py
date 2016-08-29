@@ -135,7 +135,12 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'github_banner': True,
+    'github_user': 'industryjhr',
+    'github_repo': 'sift_app',
+    'show_powered_by': True,
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []
@@ -143,7 +148,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'Sift (Heroku) v0.1'
+html_title = 'Sift (Heroku) Docs'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
