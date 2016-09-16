@@ -10,7 +10,19 @@ class Home(generic.View):
     """
 
     def get(self, request):
-        return render(request, 'concerts/sift_home.html')
+
+        from random import choice
+
+        taglines = (
+            "Shake it 'til you bake it",
+            "Whatever will bewilder me",
+            "Properly following proper protocols",
+            "Stopped to watch my emotions sway",
+            "Reckon luck sees us the same",
+            "The ocean floor is hidden from your viewing lens",
+        )
+        context = {'tagline': choice(taglines)}
+        return render(request, 'concerts/sift_home.html', context)
 
 class UpcomingShows(generic.View):
     """
