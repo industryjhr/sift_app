@@ -1,0 +1,3126 @@
+[
+{
+    "model": "concerts.concert",
+    "pk": 1,
+    "fields": {
+        "billing": "The Meridian Trio",
+        "venue": 1,
+        "date_time": "2016-10-02T19:00:00Z",
+        "price": "FREE",
+        "url": "http://emptybottle.com/?event_id=6897375",
+        "date_scraped": "2016-10-01T22:58:43.905Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 2,
+    "fields": {
+        "billing": "Goblin Cock, Bad Grades, REZN",
+        "venue": 1,
+        "date_time": "2016-10-03T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6807395",
+        "date_scraped": "2016-10-01T22:58:43.910Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 3,
+    "fields": {
+        "billing": "GRiMMSandBLACKNiGHT, Wild Jesus & the Devil's Lettuce, Malci & The Lobster",
+        "venue": 1,
+        "date_time": "2016-10-04T02:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=6862145",
+        "date_scraped": "2016-10-01T22:58:43.912Z",
+        "is_active": true,
+        "artists": [
+            131
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 4,
+    "fields": {
+        "billing": "The Empty Bottle\u2019s Enthralling Cavalcade of Remarkable Anybodies, Special Somebodies, and Incredible Everybodies, hosted by Brian Costello",
+        "venue": 1,
+        "date_time": "2016-10-05T02:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=6898365",
+        "date_scraped": "2016-10-01T22:58:43.915Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 5,
+    "fields": {
+        "billing": "Kikagaku Moyo, Moss Folk, Dead Feathers",
+        "venue": 1,
+        "date_time": "2016-10-06T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6811635",
+        "date_scraped": "2016-10-01T22:58:43.916Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 6,
+    "fields": {
+        "billing": "PBR & The Empty Bottle Present Tacos VS Pizza featuring ShowYouSuck, Vamos, Soft Service DJs, Hosted by Dr. Alejandro Morales",
+        "venue": 1,
+        "date_time": "2016-10-07T02:00:00Z",
+        "price": "FREE",
+        "url": "http://emptybottle.com/?event_id=6931425",
+        "date_scraped": "2016-10-01T22:58:43.918Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 7,
+    "fields": {
+        "billing": "Hard Country Honky-Tonk with The Hoyle Brothers",
+        "venue": 1,
+        "date_time": "2016-10-07T22:30:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6823725",
+        "date_scraped": "2016-10-01T22:58:43.920Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 8,
+    "fields": {
+        "billing": "CHIRP Radio welcomes : Seratones, The Evening Attraction, Baby Money & The Down Payments",
+        "venue": 1,
+        "date_time": "2016-10-08T02:00:00Z",
+        "price": "$12 (advance), $14",
+        "url": "http://emptybottle.com/?event_id=6768305",
+        "date_scraped": "2016-10-01T22:58:43.922Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 9,
+    "fields": {
+        "billing": "Handmade Market",
+        "venue": 1,
+        "date_time": "2016-10-08T17:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6880575",
+        "date_scraped": "2016-10-01T22:58:43.924Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 10,
+    "fields": {
+        "billing": "Owen, Victor Villareal",
+        "venue": 99,
+        "date_time": "2016-10-09T01:30:00Z",
+        "price": "$20.00",
+        "url": "http://emptybottle.com/?event_id=6849535",
+        "date_scraped": "2016-10-01T22:58:43.927Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 11,
+    "fields": {
+        "billing": "Abdu Ali, Joy Postell, Kaycee Ortiz, Presented by Chances Dances and The Empty Bottle",
+        "venue": 1,
+        "date_time": "2016-10-09T02:00:00Z",
+        "price": "$8 advance, $10",
+        "url": "http://emptybottle.com/?event_id=6877065",
+        "date_scraped": "2016-10-01T22:58:43.930Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 12,
+    "fields": {
+        "billing": "Cajun Dance Party featuring Cajun Vagabonds",
+        "venue": 1,
+        "date_time": "2016-10-09T19:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6914885",
+        "date_scraped": "2016-10-01T22:58:43.933Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 13,
+    "fields": {
+        "billing": "Lunar Tomb, Friends That Fuck, Terran Wretch, Heart of Palm",
+        "venue": 1,
+        "date_time": "2016-10-10T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6861105",
+        "date_scraped": "2016-10-01T22:58:43.935Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 14,
+    "fields": {
+        "billing": "Please The Trees, Luke Henry & Rabbitfoot (Vinyl Release), Big Syn",
+        "venue": 1,
+        "date_time": "2016-10-11T02:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=6845005",
+        "date_scraped": "2016-10-01T22:58:43.937Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 15,
+    "fields": {
+        "billing": "Cymbals Eat Guitars, Field Mouse, Wildhoney",
+        "venue": 1,
+        "date_time": "2016-10-12T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=6784965",
+        "date_scraped": "2016-10-01T22:58:43.939Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 16,
+    "fields": {
+        "billing": "Fielded, Heavy Dreams, Grun Wasser",
+        "venue": 1,
+        "date_time": "2016-10-13T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6877735",
+        "date_scraped": "2016-10-01T22:58:43.941Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 17,
+    "fields": {
+        "billing": "Born Ruffians, GGOOLLDD, Laverne",
+        "venue": 1,
+        "date_time": "2016-10-14T02:00:00Z",
+        "price": "$15 (advance), $18",
+        "url": "http://emptybottle.com/?event_id=6784635",
+        "date_scraped": "2016-10-01T22:58:43.945Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 18,
+    "fields": {
+        "billing": "Hard Country Honky-Tonk with The Hoyle Brothers",
+        "venue": 1,
+        "date_time": "2016-10-14T22:30:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6823765",
+        "date_scraped": "2016-10-01T22:58:43.947Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 19,
+    "fields": {
+        "billing": "Oozing Wound (Record Release), Rabble Rabble (Final Show), Dim",
+        "venue": 1,
+        "date_time": "2016-10-15T02:00:00Z",
+        "price": "$7 advance, $10",
+        "url": "http://emptybottle.com/?event_id=6891155",
+        "date_scraped": "2016-10-01T22:58:43.949Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 20,
+    "fields": {
+        "billing": "Logan Square Food Truck Social, Presented by The A.V. Club",
+        "venue": 99,
+        "date_time": "2016-10-15T16:00:00Z",
+        "price": "$5 Suggested Donation",
+        "url": "http://emptybottle.com/?event_id=6909705",
+        "date_scraped": "2016-10-01T22:58:43.951Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 21,
+    "fields": {
+        "billing": "Grateful Dead Brunch featuring 1\n2 of Dad's Basement",
+        "venue": 1,
+        "date_time": "2016-10-15T17:00:00Z",
+        "price": "FREE",
+        "url": "http://emptybottle.com/?event_id=6933385",
+        "date_scraped": "2016-10-01T22:58:43.953Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 22,
+    "fields": {
+        "billing": "Squash Bowels, Malas, Brodequin, Corphagy, Inner Decay, Presented by Sound Zero Productions and The Empty Bottle",
+        "venue": 1,
+        "date_time": "2016-10-16T01:00:00Z",
+        "price": "$15",
+        "url": "http://emptybottle.com/?event_id=6860115",
+        "date_scraped": "2016-10-01T22:58:43.955Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 23,
+    "fields": {
+        "billing": "FALL FLAIR Festival - Presented by Girl Pin Gang",
+        "venue": 1,
+        "date_time": "2016-10-16T18:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6907925",
+        "date_scraped": "2016-10-01T22:58:43.957Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 24,
+    "fields": {
+        "billing": "White Fang, No Parents with very special guests Birth Defects",
+        "venue": 1,
+        "date_time": "2016-10-17T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6797495",
+        "date_scraped": "2016-10-01T22:58:43.958Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 25,
+    "fields": {
+        "billing": "ONO, Pariuh, Lala Lala",
+        "venue": 1,
+        "date_time": "2016-10-18T02:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=6855635",
+        "date_scraped": "2016-10-01T22:58:43.960Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 26,
+    "fields": {
+        "billing": "A Night of Modular Synthesis III featuring Jason Soliday, Anthony Janas, Jeremy Fisher, Zarzutzki, bucketbrigade, Kevin Kalayc\u0131o\u011flu",
+        "venue": 1,
+        "date_time": "2016-10-19T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6917405",
+        "date_scraped": "2016-10-01T22:58:43.962Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 27,
+    "fields": {
+        "billing": "Glitter Creeps presents : Lil Tits, The Breathing Light, Pussy Foot",
+        "venue": 1,
+        "date_time": "2016-10-20T02:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=6917885",
+        "date_scraped": "2016-10-01T22:58:43.964Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 28,
+    "fields": {
+        "billing": "NOTS, Trampoline Team, The Sueves, Bottomfeeders",
+        "venue": 1,
+        "date_time": "2016-10-21T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6856455",
+        "date_scraped": "2016-10-01T22:58:43.966Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 29,
+    "fields": {
+        "billing": "Hard Country Honky-Tonk with The Hoyle Brothers",
+        "venue": 1,
+        "date_time": "2016-10-21T22:30:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6823745",
+        "date_scraped": "2016-10-01T22:58:43.968Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 30,
+    "fields": {
+        "billing": "Cass McCombs Band, Delicate Steve",
+        "venue": 1,
+        "date_time": "2016-10-22T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=6736515",
+        "date_scraped": "2016-10-01T22:58:43.970Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 31,
+    "fields": {
+        "billing": "Temples, Vinyl Williams",
+        "venue": 1,
+        "date_time": "2016-10-23T02:00:00Z",
+        "price": "$20.00",
+        "url": "http://emptybottle.com/?event_id=6736475",
+        "date_scraped": "2016-10-01T22:58:43.972Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 32,
+    "fields": {
+        "billing": "Paint Fumes, Poison Boys",
+        "venue": 1,
+        "date_time": "2016-10-24T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6906675",
+        "date_scraped": "2016-10-01T22:58:43.974Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 33,
+    "fields": {
+        "billing": "Permanent 10-Year Anniversary, Running, Counter Intuits, Matchess, Nude Attitude + No Dreams, Trouble In Mind DJs",
+        "venue": 1,
+        "date_time": "2016-10-25T02:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=6890305",
+        "date_scraped": "2016-10-01T22:58:43.977Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 34,
+    "fields": {
+        "billing": "Birthday Suits, Peeling [Mexican Slang, Dilly Dally, Odonis Odonis]",
+        "venue": 1,
+        "date_time": "2016-10-26T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6876135",
+        "date_scraped": "2016-10-01T22:58:43.979Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 35,
+    "fields": {
+        "billing": "Itasca, Moon Bros, The Lawrence Peters Outfit",
+        "venue": 1,
+        "date_time": "2016-10-27T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6889555",
+        "date_scraped": "2016-10-01T22:58:43.981Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 36,
+    "fields": {
+        "billing": "White Lung, Flasher",
+        "venue": 1,
+        "date_time": "2016-10-28T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=6920825",
+        "date_scraped": "2016-10-01T22:58:43.983Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 37,
+    "fields": {
+        "billing": "Hard Country Honky-Tonk with The Hoyle Brothers",
+        "venue": 1,
+        "date_time": "2016-10-28T22:30:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6823735",
+        "date_scraped": "2016-10-01T22:58:43.985Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 38,
+    "fields": {
+        "billing": "Nick Hook, Nadus, Kool Hersh",
+        "venue": 1,
+        "date_time": "2016-10-29T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6885075",
+        "date_scraped": "2016-10-01T22:58:43.987Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 39,
+    "fields": {
+        "billing": "Mucca Pazza, Santah",
+        "venue": 99,
+        "date_time": "2016-10-29T02:00:00Z",
+        "price": "$20 (advance), $25",
+        "url": "http://emptybottle.com/?event_id=6828925",
+        "date_scraped": "2016-10-01T22:58:43.990Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 40,
+    "fields": {
+        "billing": "Windy City Soul Club",
+        "venue": 1,
+        "date_time": "2016-10-30T02:00:00Z",
+        "price": "$5 Cover",
+        "url": "http://emptybottle.com/?event_id=6914145",
+        "date_scraped": "2016-10-01T22:58:43.992Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 41,
+    "fields": {
+        "billing": "La Sera, Springtime Carnivore, TV Party",
+        "venue": 1,
+        "date_time": "2016-10-31T02:00:00Z",
+        "price": "$12 (advance), $15",
+        "url": "http://emptybottle.com/?event_id=6853885",
+        "date_scraped": "2016-10-01T22:58:43.994Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 42,
+    "fields": {
+        "billing": "Paper Mice performing Television's 'Marquee Moon', American Draft performing Danzig's 'Danzig' as Danzig, Marateck, Maurice",
+        "venue": 1,
+        "date_time": "2016-11-01T02:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=6937465",
+        "date_scraped": "2016-10-01T22:58:43.996Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 43,
+    "fields": {
+        "billing": "Protomartyr , The Gotobeds, Order of Night",
+        "venue": 1,
+        "date_time": "2016-11-03T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=6844905",
+        "date_scraped": "2016-10-01T22:58:43.998Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 44,
+    "fields": {
+        "billing": "Ricky Eat Acid, Kitty",
+        "venue": 1,
+        "date_time": "2016-11-04T02:00:00Z",
+        "price": "$10 (advance), $12",
+        "url": "http://emptybottle.com/?event_id=6890605",
+        "date_scraped": "2016-10-01T22:58:44.000Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 45,
+    "fields": {
+        "billing": "Hard Country Honky-Tonk with The Hoyle Brothers",
+        "venue": 1,
+        "date_time": "2016-11-04T22:30:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=6823775",
+        "date_scraped": "2016-10-01T22:58:44.002Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 46,
+    "fields": {
+        "billing": "Natural Child",
+        "venue": 1,
+        "date_time": "2016-11-05T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=6900615",
+        "date_scraped": "2016-10-01T22:58:44.004Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 47,
+    "fields": {
+        "billing": "Double Vanity Tour 2016, BRONCHO with very special guests SPORTS, Pool Holograph",
+        "venue": 1,
+        "date_time": "2016-11-06T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=6922155",
+        "date_scraped": "2016-10-01T22:58:44.006Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 48,
+    "fields": {
+        "billing": "S U R V I V E, Majeure",
+        "venue": 1,
+        "date_time": "2016-11-07T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=6877305",
+        "date_scraped": "2016-10-01T22:58:44.008Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 49,
+    "fields": {
+        "billing": "Melkbelly, HSY, Earring",
+        "venue": 1,
+        "date_time": "2016-11-10T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6898335",
+        "date_scraped": "2016-10-01T22:58:44.010Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 50,
+    "fields": {
+        "billing": "Lightfoils, Dead Leaf Echo, Ganser, The Shimmer DJs",
+        "venue": 1,
+        "date_time": "2016-11-11T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6898285",
+        "date_scraped": "2016-10-01T22:58:44.012Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 51,
+    "fields": {
+        "billing": "Uniform, HIDE, Mark Solotroff",
+        "venue": 1,
+        "date_time": "2016-11-13T03:00:00Z",
+        "price": "$8 advance, $10",
+        "url": "http://emptybottle.com/?event_id=6895755",
+        "date_scraped": "2016-10-01T22:58:44.013Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 52,
+    "fields": {
+        "billing": "Beef Jerk, Parent, Person",
+        "venue": 1,
+        "date_time": "2016-11-14T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6918025",
+        "date_scraped": "2016-10-01T22:58:44.015Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 53,
+    "fields": {
+        "billing": "Pujol",
+        "venue": 1,
+        "date_time": "2016-11-16T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=6936305",
+        "date_scraped": "2016-10-01T22:58:44.017Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 54,
+    "fields": {
+        "billing": "Glitter Creeps 2 Year Anniversary featuring Nobunny, Proud Parents, Bev Rage & The Drinks, Interlude performed by Lucy Stoole",
+        "venue": 1,
+        "date_time": "2016-11-17T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6917915",
+        "date_scraped": "2016-10-01T22:58:44.019Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 55,
+    "fields": {
+        "billing": "DZ Deathrays, Dune Rats",
+        "venue": 1,
+        "date_time": "2016-11-18T03:00:00Z",
+        "price": "$10 (advance), $12",
+        "url": "http://emptybottle.com/?event_id=6863845",
+        "date_scraped": "2016-10-01T22:58:44.021Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 56,
+    "fields": {
+        "billing": "True Widow, Mary Lattimore",
+        "venue": 1,
+        "date_time": "2016-11-20T03:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=6860515",
+        "date_scraped": "2016-10-01T22:58:44.022Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 57,
+    "fields": {
+        "billing": "Thee Oh Sees, The Blind Shake, Torture Love",
+        "venue": 1,
+        "date_time": "2016-11-21T03:00:00Z",
+        "price": "$20.00",
+        "url": "http://emptybottle.com/?event_id=6931035",
+        "date_scraped": "2016-10-01T22:58:44.024Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 58,
+    "fields": {
+        "billing": "Luke Bell",
+        "venue": 1,
+        "date_time": "2016-11-28T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6910965",
+        "date_scraped": "2016-10-01T22:58:44.026Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 59,
+    "fields": {
+        "billing": "Kawabata Makoto (Acid Mothers Temple) and Tatsuya Nakatani, Spires That In The Sunset Rise, Brian Case",
+        "venue": 1,
+        "date_time": "2016-11-30T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6933445",
+        "date_scraped": "2016-10-01T22:58:44.028Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 60,
+    "fields": {
+        "billing": "Earthless, Ruby The Hatchet",
+        "venue": 1,
+        "date_time": "2016-12-03T03:00:00Z",
+        "price": "$14 (advance), $16",
+        "url": "http://emptybottle.com/?event_id=6877775",
+        "date_scraped": "2016-10-01T22:58:44.030Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 61,
+    "fields": {
+        "billing": "The King Khan & BBQ Show, The Gartrells",
+        "venue": 1,
+        "date_time": "2016-12-04T03:00:00Z",
+        "price": "$20.00",
+        "url": "http://emptybottle.com/?event_id=6872615",
+        "date_scraped": "2016-10-01T22:58:44.032Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 62,
+    "fields": {
+        "billing": "Exit Verse",
+        "venue": 1,
+        "date_time": "2016-12-13T03:00:00Z",
+        "price": "*FREE MONDAY*",
+        "url": "http://emptybottle.com/?event_id=6940155",
+        "date_scraped": "2016-10-01T22:58:44.034Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 63,
+    "fields": {
+        "billing": "godheadSilo, Corey J Brewer",
+        "venue": 1,
+        "date_time": "2017-01-10T03:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=6907135",
+        "date_scraped": "2016-10-01T22:58:44.035Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 64,
+    "fields": {
+        "billing": "Official Palace Film Festival After Party featuring Xeno & Oaklander",
+        "venue": 1,
+        "date_time": "2017-01-29T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6891535",
+        "date_scraped": "2016-10-01T22:58:44.038Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 65,
+    "fields": {
+        "billing": "FINISH TICKET * RUN RIVER NORTH * IRONTOM",
+        "venue": 2,
+        "date_time": "2016-10-02T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5045",
+        "date_scraped": "2016-10-01T22:58:46.037Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 66,
+    "fields": {
+        "billing": "NICK WATERHOUSE * JOLLYS * THE BINGERS",
+        "venue": 2,
+        "date_time": "2016-10-05T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5074",
+        "date_scraped": "2016-10-01T22:58:46.333Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 67,
+    "fields": {
+        "billing": "RX BANDITS \u2013 \u2026AND THE BATTLE BEGUN 10 YEAR ANNIVERSARY TOUR with AND SO I WATCH YOU FROM AFAR",
+        "venue": 2,
+        "date_time": "2016-10-06T01:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5172",
+        "date_scraped": "2016-10-01T22:58:46.338Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 68,
+    "fields": {
+        "billing": "FRIDAY PILOTS CLUB * HIGH RULE * BONELANG * CO-STANZA",
+        "venue": 2,
+        "date_time": "2016-10-07T00:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5498",
+        "date_scraped": "2016-10-01T22:58:46.341Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 69,
+    "fields": {
+        "billing": "THE AMITY AFFLICTION * BEING AS AN OCEAN * HUNDREDTH * TROPHY EYES * DEADSHIPS",
+        "venue": 2,
+        "date_time": "2016-10-08T22:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=4969",
+        "date_scraped": "2016-10-01T22:58:46.343Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 70,
+    "fields": {
+        "billing": "1833 PRESENTS: PANTHA DU PRINCE LIVE",
+        "venue": 2,
+        "date_time": "2016-10-12T01:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=4818",
+        "date_scraped": "2016-10-01T22:58:46.345Z",
+        "is_active": true,
+        "artists": [
+            90,
+            371
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 71,
+    "fields": {
+        "billing": "NF \u2013 Therapy Sessions presented by Ones To Watch",
+        "venue": 2,
+        "date_time": "2016-10-13T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5009",
+        "date_scraped": "2016-10-01T22:58:46.346Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 72,
+    "fields": {
+        "billing": "The Rise Up Tour: THE DEVIL WEARS PRADA * MEMPHIS MAY FIRE * LIKE MOTHS TO FLAMES * LEGACY AT HEART",
+        "venue": 2,
+        "date_time": "2016-10-13T23:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5241",
+        "date_scraped": "2016-10-01T22:58:46.348Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 73,
+    "fields": {
+        "billing": "RANDY & MR. LAHEY LIVE",
+        "venue": 2,
+        "date_time": "2016-10-15T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=4817",
+        "date_scraped": "2016-10-01T22:58:46.349Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 74,
+    "fields": {
+        "billing": "Ones to Watch & WKQX Present: SAINT MOTEL \u2013 MOTELEVISION TOUR with JR JR and WEATHERS",
+        "venue": 2,
+        "date_time": "2016-10-16T00:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5218",
+        "date_scraped": "2016-10-01T22:58:46.352Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 75,
+    "fields": {
+        "billing": "PARTICLE * KUNG FU",
+        "venue": 2,
+        "date_time": "2016-10-17T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5137",
+        "date_scraped": "2016-10-01T22:58:46.355Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 76,
+    "fields": {
+        "billing": "TESSERACT * OUTRUN THE SUNLIGHT * SIOUM",
+        "venue": 2,
+        "date_time": "2016-10-18T23:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=4982",
+        "date_scraped": "2016-10-01T22:58:46.356Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 77,
+    "fields": {
+        "billing": "A NIGHT OF QUIZZICAL FUN",
+        "venue": 2,
+        "date_time": "2016-10-20T23:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5354",
+        "date_scraped": "2016-10-01T22:58:46.358Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 78,
+    "fields": {
+        "billing": "TEENAGE FANCLUB * SAM EVIAN",
+        "venue": 2,
+        "date_time": "2016-10-22T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5179",
+        "date_scraped": "2016-10-01T22:58:46.359Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 79,
+    "fields": {
+        "billing": "PASSAFIRE * CELINE NEON",
+        "venue": 2,
+        "date_time": "2016-10-23T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5315",
+        "date_scraped": "2016-10-01T22:58:46.361Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 80,
+    "fields": {
+        "billing": "TRASH TALK * ANTWON * BLACK NOISE",
+        "venue": 2,
+        "date_time": "2016-10-27T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5340",
+        "date_scraped": "2016-10-01T22:58:46.362Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 81,
+    "fields": {
+        "billing": "HAR MAR SUPERSTAR * SWEET SPIRIT",
+        "venue": 2,
+        "date_time": "2016-10-29T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5180",
+        "date_scraped": "2016-10-01T22:58:46.364Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 82,
+    "fields": {
+        "billing": "GREEN RIVER ORDINANCE * THE ROOSEVELTS * CASTRO",
+        "venue": 2,
+        "date_time": "2016-10-30T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5087",
+        "date_scraped": "2016-10-01T22:58:46.365Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 83,
+    "fields": {
+        "billing": "RUSS \u2013 YUNG GOD TOUR",
+        "venue": 2,
+        "date_time": "2016-10-31T00:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5468",
+        "date_scraped": "2016-10-01T22:58:46.367Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 84,
+    "fields": {
+        "billing": "93XRT Big Beat Welcomes JAGWAR MA with KLANGSTOF",
+        "venue": 2,
+        "date_time": "2016-11-04T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5116",
+        "date_scraped": "2016-10-01T22:58:46.368Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 85,
+    "fields": {
+        "billing": "SOLD OUT! \u2013 TIMEFLIES",
+        "venue": 2,
+        "date_time": "2016-11-05T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5249",
+        "date_scraped": "2016-10-01T22:58:46.370Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 86,
+    "fields": {
+        "billing": "SET YOUR GOALS",
+        "venue": 2,
+        "date_time": "2016-11-06T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5472",
+        "date_scraped": "2016-10-01T22:58:46.372Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 87,
+    "fields": {
+        "billing": "SiriusXM Presents Alt Nation\u2019s Advanced Placement Tour: NIGHT RIOTS * THE HUNNA *  THE SHELTERS",
+        "venue": 2,
+        "date_time": "2016-11-07T00:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5438",
+        "date_scraped": "2016-10-01T22:58:46.373Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 88,
+    "fields": {
+        "billing": "THE LIVING END * COUNTERPUNCH * RYAN\u2019S HOPE",
+        "venue": 2,
+        "date_time": "2016-11-08T01:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5378",
+        "date_scraped": "2016-10-01T22:58:46.375Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 89,
+    "fields": {
+        "billing": "WXRT presents WILD NOTHING * SMALL BLACK",
+        "venue": 2,
+        "date_time": "2016-11-10T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5465",
+        "date_scraped": "2016-10-01T22:58:46.377Z",
+        "is_active": true,
+        "artists": [
+            26
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 90,
+    "fields": {
+        "billing": "NAPALM DEATH & THE BLACK DAHLIA MURDER * MISERY INDEX * ABNORMALITY",
+        "venue": 2,
+        "date_time": "2016-11-11T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5345",
+        "date_scraped": "2016-10-01T22:58:46.379Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 91,
+    "fields": {
+        "billing": "Sloan: One Chord To Another 20th Anniversary Tour",
+        "venue": 2,
+        "date_time": "2016-11-12T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=4998",
+        "date_scraped": "2016-10-01T22:58:46.381Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 92,
+    "fields": {
+        "billing": "PUP * MEAT WAVE * CHASTITY",
+        "venue": 2,
+        "date_time": "2016-11-13T01:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5112",
+        "date_scraped": "2016-10-01T22:58:46.383Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 93,
+    "fields": {
+        "billing": "CROWN THE EMPIRE: THE RETROGRADE TOUR WITH BLESSTHEFALL * NEW YEARS DAY * TOO CLOSE TO TOUCH * LIGHT UP THE SKY",
+        "venue": 2,
+        "date_time": "2016-11-13T23:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5261",
+        "date_scraped": "2016-10-01T22:58:46.385Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 94,
+    "fields": {
+        "billing": "Kiiara \u2013 low kii n savage af .",
+        "venue": 2,
+        "date_time": "2016-11-15T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5344",
+        "date_scraped": "2016-10-01T22:58:46.387Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 95,
+    "fields": {
+        "billing": "VAMPS * CITIZEN ZERO",
+        "venue": 2,
+        "date_time": "2016-11-16T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5475",
+        "date_scraped": "2016-10-01T22:58:46.389Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 96,
+    "fields": {
+        "billing": "TWO TONGUES * BACKWARDS DANCER",
+        "venue": 2,
+        "date_time": "2016-11-17T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5102",
+        "date_scraped": "2016-10-01T22:58:46.391Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 97,
+    "fields": {
+        "billing": "SNOW THA PRODUCT",
+        "venue": 2,
+        "date_time": "2016-11-18T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5491",
+        "date_scraped": "2016-10-01T22:58:46.392Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 98,
+    "fields": {
+        "billing": "101.1 WKQX Presents: HIGHLY SUSPECT * SLOTHRUST",
+        "venue": 2,
+        "date_time": "2016-11-19T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5366",
+        "date_scraped": "2016-10-01T22:58:46.394Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 99,
+    "fields": {
+        "billing": "FRANK IERO AND THE PATIENCE * THE SO SO GLOS",
+        "venue": 2,
+        "date_time": "2016-11-20T00:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5455",
+        "date_scraped": "2016-10-01T22:58:46.396Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 100,
+    "fields": {
+        "billing": "BBC PRESENTS SUNDARA KARMA, SPRING KING AND IZZY BIZU USA TOUR",
+        "venue": 2,
+        "date_time": "2016-11-24T00:45:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5509",
+        "date_scraped": "2016-10-01T22:58:46.397Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 101,
+    "fields": {
+        "billing": "ANIMALS AS LEADERS * INTERVALS * PLINI",
+        "venue": 2,
+        "date_time": "2016-11-26T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5319",
+        "date_scraped": "2016-10-01T22:58:46.398Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 102,
+    "fields": {
+        "billing": "THE FUNK HUNTERS WITH CHALI 2NA",
+        "venue": 2,
+        "date_time": "2016-11-27T03:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5514",
+        "date_scraped": "2016-10-01T22:58:46.400Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 103,
+    "fields": {
+        "billing": "KEVIN DEVINE & THE GODDAMN BAND * PINEGROVE * PETAL",
+        "venue": 2,
+        "date_time": "2016-12-03T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5251",
+        "date_scraped": "2016-10-01T22:58:46.401Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 104,
+    "fields": {
+        "billing": "GIRAFFE TONGUE ORCHESTRA",
+        "venue": 2,
+        "date_time": "2016-12-04T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5463",
+        "date_scraped": "2016-10-01T22:58:46.402Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 105,
+    "fields": {
+        "billing": "HANDS LIKE HOUSES & OUR LAST NIGHT * THE COLOR MORALE * OUT CAME THE WOLVES",
+        "venue": 2,
+        "date_time": "2016-12-04T23:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5237",
+        "date_scraped": "2016-10-01T22:58:46.404Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 106,
+    "fields": {
+        "billing": "DOPAPOD * PIGEONS PLAYING PING PONG",
+        "venue": 2,
+        "date_time": "2016-12-11T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5226",
+        "date_scraped": "2016-10-01T22:58:46.405Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 107,
+    "fields": {
+        "billing": "AGAINST THE CURRENT: IN OUR BONES WORLD TOUR presented by OTW/ALCATEL IDOL 4/CRICKET with CRUISR * BEACH WEATHER",
+        "venue": 2,
+        "date_time": "2016-12-15T00:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5439",
+        "date_scraped": "2016-10-01T22:58:46.407Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 108,
+    "fields": {
+        "billing": "FOR TODAY \u2013 THE FAREWELL TOUR with NORMA JEAN * MY EPIC",
+        "venue": 2,
+        "date_time": "2016-12-16T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5100",
+        "date_scraped": "2016-10-01T22:58:46.408Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 109,
+    "fields": {
+        "billing": "THE MAIN SQUEEZE",
+        "venue": 2,
+        "date_time": "2016-12-18T03:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5430",
+        "date_scraped": "2016-10-01T22:58:46.411Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 110,
+    "fields": {
+        "billing": "Elliott Vincent Jones with FEE LION, Press",
+        "venue": 3,
+        "date_time": "2016-10-02T00:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1285857-elliott-vincent-jones-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.862Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 111,
+    "fields": {
+        "billing": "LOUDERNOW and The Taste of Emo Night",
+        "venue": 3,
+        "date_time": "2016-10-02T02:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1241561-loudernow-taste-emo-night-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.865Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 112,
+    "fields": {
+        "billing": "Vic Spencer with Denmark Vessey, Trevor the Trashman",
+        "venue": 3,
+        "date_time": "2016-10-03T01:00:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1294245-vic-spencer-chris-crack-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.866Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 113,
+    "fields": {
+        "billing": "Couples Lip Sync Battle",
+        "venue": 3,
+        "date_time": "2016-10-03T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1334353-couples-lip-sync-battle-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.868Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 114,
+    "fields": {
+        "billing": "Yohuna with Color Card, Nest, Meristems",
+        "venue": 3,
+        "date_time": "2016-10-04T00:00:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1320777-yohuna-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.869Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 115,
+    "fields": {
+        "billing": "Kal Marks with Yeesh, Spooky Action Space Captain, Nouveau",
+        "venue": 3,
+        "date_time": "2016-10-04T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1279401-kal-marks-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.871Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 116,
+    "fields": {
+        "billing": "Open Mic Hip Hop",
+        "venue": 3,
+        "date_time": "2016-10-05T03:00:00Z",
+        "price": "No price / free?",
+        "url": "http://www.subt.net/event/1334403-open-mic-hip-hop-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.873Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 117,
+    "fields": {
+        "billing": "Magic Sword with Woongi, Canter",
+        "venue": 3,
+        "date_time": "2016-10-06T02:00:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1226549-magic-sword-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.874Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 118,
+    "fields": {
+        "billing": "OBY with Human Bloom, ConSoul",
+        "venue": 3,
+        "date_time": "2016-10-07T01:00:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1301825-oby-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.875Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 119,
+    "fields": {
+        "billing": "Reggae Gold",
+        "venue": 3,
+        "date_time": "2016-10-07T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1334411-reggae-gold-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.876Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 120,
+    "fields": {
+        "billing": "The Lincoln Lodge",
+        "venue": 3,
+        "date_time": "2016-10-08T01:00:00Z",
+        "price": "Suggested Donation",
+        "url": "http://www.subt.net/event/1334427-lincoln-lodge-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.877Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 121,
+    "fields": {
+        "billing": "From Indian Lakes with Made Violent, Wild Wild Horses",
+        "venue": 3,
+        "date_time": "2016-10-08T01:30:00Z",
+        "price": "$14.00 - $16.00",
+        "url": "http://www.subt.net/event/1279409-from-indian-lakes-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.878Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 122,
+    "fields": {
+        "billing": "Monobody with The Bronzed Chorus, Self-Evident",
+        "venue": 3,
+        "date_time": "2016-10-08T03:30:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1279425-monobody-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.880Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 123,
+    "fields": {
+        "billing": "Cult Leader with Disrotted, Moral Void, Bottomed",
+        "venue": 3,
+        "date_time": "2016-10-09T00:00:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1302829-cult-leader-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.881Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 124,
+    "fields": {
+        "billing": "Gorguts with Intronaut, Brain Tentacles, Without Waves",
+        "venue": 3,
+        "date_time": "2016-10-09T00:15:00Z",
+        "price": "$18.00 - $20.00",
+        "url": "http://www.subt.net/event/1264655-gorguts-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.882Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 125,
+    "fields": {
+        "billing": "Army of Two Triple Album Release Party",
+        "venue": 3,
+        "date_time": "2016-10-09T03:00:00Z",
+        "price": "$0.00",
+        "url": "http://www.subt.net/event/1317951-army-two-triple-album-release-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.883Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 126,
+    "fields": {
+        "billing": "Werewolves At Hour 30 with 20 Watt Tombstone, Black Glass",
+        "venue": 3,
+        "date_time": "2016-10-10T01:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1335075-werewolves-hour-30-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.885Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 127,
+    "fields": {
+        "billing": "Roots & Afro Beats",
+        "venue": 3,
+        "date_time": "2016-10-10T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1334351-roots-afro-beats-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.886Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 128,
+    "fields": {
+        "billing": "Donovan Wolfington with Caddywhompus, Coaster",
+        "venue": 3,
+        "date_time": "2016-10-12T00:00:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1279441-donovan-wolfington-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.887Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 129,
+    "fields": {
+        "billing": "Open Mic Hip Hop",
+        "venue": 3,
+        "date_time": "2016-10-12T03:00:00Z",
+        "price": "No price / free?",
+        "url": "http://www.subt.net/event/1334405-open-mic-hip-hop-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.888Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 130,
+    "fields": {
+        "billing": "This Wild Life: Low Tides Tour with Have Mercy, Movements",
+        "venue": 3,
+        "date_time": "2016-10-12T23:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1261053-this-wild-life-low-tides-tour-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.890Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 131,
+    "fields": {
+        "billing": "Palm with Oshwa",
+        "venue": 3,
+        "date_time": "2016-10-14T00:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.subt.net/event/1287319-palm-kids-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.891Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 132,
+    "fields": {
+        "billing": "Reggae Gold",
+        "venue": 3,
+        "date_time": "2016-10-14T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1334413-reggae-gold-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.892Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 133,
+    "fields": {
+        "billing": "The Lincoln Lodge",
+        "venue": 3,
+        "date_time": "2016-10-15T01:00:00Z",
+        "price": "Suggested Donation",
+        "url": "http://www.subt.net/event/1334431-lincoln-lodge-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.893Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 134,
+    "fields": {
+        "billing": "U.K. Corral: A Dance Party Celebration of New Wave, Post-Punk, Electro & Rock n' Roll with Astrobrite, Foreign Shores, DJ Sweet Figurine",
+        "venue": 3,
+        "date_time": "2016-10-15T02:00:00Z",
+        "price": "$8",
+        "url": "http://www.subt.net/event/1286207-uk-corral-dance-party-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.894Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 135,
+    "fields": {
+        "billing": "Bow & Spear with Hurry, Aurora L'Orealis, Ro Laren",
+        "venue": 3,
+        "date_time": "2016-10-15T03:15:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1299381-bow-spear-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.895Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 136,
+    "fields": {
+        "billing": "Haybaby with Glamour Hotline, Bloom, Evasive Backflip",
+        "venue": 3,
+        "date_time": "2016-10-16T00:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1297491-haybaby-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.896Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 137,
+    "fields": {
+        "billing": "Crosseyed and Phishless: A Tribute To Songs That Phish Covers",
+        "venue": 3,
+        "date_time": "2016-10-16T02:00:00Z",
+        "price": "$12.00 - $15.00",
+        "url": "http://www.subt.net/event/1314189-crosseyed-phishless-tribute-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.897Z",
+        "is_active": true,
+        "artists": [
+            384
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 138,
+    "fields": {
+        "billing": "Chicago Turntablist Authority with RTST, Toltech, J.Marz",
+        "venue": 3,
+        "date_time": "2016-10-16T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1338719-chicago-turntablist-authority-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.898Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 139,
+    "fields": {
+        "billing": "Snow Burial with Druids, Cantharone, Stander",
+        "venue": 3,
+        "date_time": "2016-10-16T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1292401-snow-burial-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.899Z",
+        "is_active": true,
+        "artists": [
+            70
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 140,
+    "fields": {
+        "billing": "Citizens & Saints",
+        "venue": 3,
+        "date_time": "2016-10-17T00:00:00Z",
+        "price": "$15.00 - $18.00",
+        "url": "http://www.subt.net/event/1300563-citizens-saints-kings-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.900Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 141,
+    "fields": {
+        "billing": "Grown Folks Business",
+        "venue": 3,
+        "date_time": "2016-10-17T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1338745-grown-folks-business-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.901Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 142,
+    "fields": {
+        "billing": "Sex Jams with Mile Me Deaf, Richard Vain",
+        "venue": 3,
+        "date_time": "2016-10-18T00:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1339023-sex-jams-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.902Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 143,
+    "fields": {
+        "billing": "Anthony Jay Sanders with Stevenson, Leaner, Laverne",
+        "venue": 3,
+        "date_time": "2016-10-18T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1324699-anthony-jay-sanders-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.904Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 144,
+    "fields": {
+        "billing": "Open Mic Hip Hop",
+        "venue": 3,
+        "date_time": "2016-10-19T03:00:00Z",
+        "price": "No price / free?",
+        "url": "http://www.subt.net/event/1334407-open-mic-hip-hop-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.905Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 145,
+    "fields": {
+        "billing": "Cute Is What We Aim For \"The Same Old Blood Rush With A New Touch\" Ten Year Anniversary Tour with Sleep On It",
+        "venue": 3,
+        "date_time": "2016-10-20T01:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1253383-cute-is-what-we-aim-for-same-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.906Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 146,
+    "fields": {
+        "billing": "Prodigy with Iron Rose, Jonny Ra, R. Chris, Yung Honcho",
+        "venue": 3,
+        "date_time": "2016-10-21T00:30:00Z",
+        "price": "$15.00 - $65.00",
+        "url": "http://www.subt.net/event/1310183-prodigy-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.907Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 147,
+    "fields": {
+        "billing": "Reggae Gold",
+        "venue": 3,
+        "date_time": "2016-10-21T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1334417-reggae-gold-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.908Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 148,
+    "fields": {
+        "billing": "The Lincoln Lodge",
+        "venue": 3,
+        "date_time": "2016-10-22T01:00:00Z",
+        "price": "Suggested Donation",
+        "url": "http://www.subt.net/event/1334433-lincoln-lodge-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.909Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 149,
+    "fields": {
+        "billing": "The King of Mars with Friday Pilots Club, Out The Car Window, Flounder",
+        "venue": 3,
+        "date_time": "2016-10-22T01:30:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1334381-king-mars-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.910Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 150,
+    "fields": {
+        "billing": "Lord Snow with Birds In Row, Mercy Ties, Stay Asleep",
+        "venue": 3,
+        "date_time": "2016-10-23T00:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1279465-lord-snow-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.911Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 151,
+    "fields": {
+        "billing": "Skeletonwitch with Iron Reagan, Oathbreaker, Homewrecker",
+        "venue": 3,
+        "date_time": "2016-10-23T02:00:00Z",
+        "price": "$16.00",
+        "url": "http://www.subt.net/event/1235631-skeletonwitch-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.912Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 152,
+    "fields": {
+        "billing": "Wild Pink with Sonny Falls, Vetter Kids, Harvey Dentures, Old Joy",
+        "venue": 3,
+        "date_time": "2016-10-24T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1326015-wild-pink-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.913Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 153,
+    "fields": {
+        "billing": "Karl Blau with LAKE, Michael Albert, Boo Baby",
+        "venue": 3,
+        "date_time": "2016-10-26T00:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1267733-karl-blau-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.914Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 154,
+    "fields": {
+        "billing": "Open Mic Hip Hop",
+        "venue": 3,
+        "date_time": "2016-10-26T03:00:00Z",
+        "price": "No price / free?",
+        "url": "http://www.subt.net/event/1334409-open-mic-hip-hop-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.915Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 155,
+    "fields": {
+        "billing": "Kero Kero Bonito",
+        "venue": 3,
+        "date_time": "2016-10-26T23:30:00Z",
+        "price": "$14.00 - $18.00",
+        "url": "http://www.subt.net/event/1219079-kero-kero-bonito-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.917Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 156,
+    "fields": {
+        "billing": "Reign with Beyond De-th, Texas Toast Chainsaw Massacre, Depremacy",
+        "venue": 3,
+        "date_time": "2016-10-28T00:30:00Z",
+        "price": "$8 - $5 w/ Costume",
+        "url": "http://www.subt.net/event/1329137-reign-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.918Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 157,
+    "fields": {
+        "billing": "Reggae Gold",
+        "venue": 3,
+        "date_time": "2016-10-28T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1334421-reggae-gold-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.919Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 158,
+    "fields": {
+        "billing": "Honeyblood with Jay Som, Emily Jane Powers",
+        "venue": 3,
+        "date_time": "2016-10-29T01:00:00Z",
+        "price": "$14.00",
+        "url": "http://www.subt.net/event/1287351-honeyblood-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.920Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 159,
+    "fields": {
+        "billing": "The Lincoln Lodge",
+        "venue": 3,
+        "date_time": "2016-10-29T01:00:00Z",
+        "price": "Suggested Donation",
+        "url": "http://www.subt.net/event/1334435-lincoln-lodge-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.922Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 160,
+    "fields": {
+        "billing": "Terry Malts",
+        "venue": 3,
+        "date_time": "2016-10-29T03:30:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1297595-terry-malts-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.923Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 161,
+    "fields": {
+        "billing": "Bear vs Shark",
+        "venue": 3,
+        "date_time": "2016-10-30T01:00:00Z",
+        "price": "$18.00 - $20.00",
+        "url": "http://www.subt.net/event/1185901-bear-vs-shark-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.924Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 162,
+    "fields": {
+        "billing": "TanZen with Contra., Known By Numbers, Deville",
+        "venue": 3,
+        "date_time": "2016-10-30T01:00:00Z",
+        "price": "$7.00 - $10.00",
+        "url": "http://www.subt.net/event/1287235-tanzen-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.925Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 163,
+    "fields": {
+        "billing": "Dingus. Halloween Show with Backpacks, The Mile, High Five",
+        "venue": 3,
+        "date_time": "2016-10-30T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1320787-dingus-halloween-show-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.927Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 164,
+    "fields": {
+        "billing": "Bear vs Shark",
+        "venue": 3,
+        "date_time": "2016-10-31T01:00:00Z",
+        "price": "$18.00 - $20.00",
+        "url": "http://www.subt.net/event/1189751-bear-vs-shark-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.928Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 165,
+    "fields": {
+        "billing": "King Magnetic with R.A. The Rugged Man, Pace Won (of The Outsidaz)",
+        "venue": 3,
+        "date_time": "2016-11-01T01:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1317937-king-magnetic-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.929Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 166,
+    "fields": {
+        "billing": "Screaming Females with Moor Mother, Fake Limbs",
+        "venue": 3,
+        "date_time": "2016-11-03T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1305995-screaming-females-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.930Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 167,
+    "fields": {
+        "billing": "Red Francis (Tour Kickoff) with The Ivorys, Dronebaby",
+        "venue": 3,
+        "date_time": "2016-11-05T03:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1326075-red-francis-tour-kickoff-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.931Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 168,
+    "fields": {
+        "billing": "mc chris with MC Lars, Random aka Mega Ran",
+        "venue": 3,
+        "date_time": "2016-11-06T01:30:00Z",
+        "price": "$16.00 - $18.00",
+        "url": "http://www.subt.net/event/1218787-mc-chris-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.932Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 169,
+    "fields": {
+        "billing": "IAMDYNAMITE with *repeat repeat, Ballroom Boxer",
+        "venue": 3,
+        "date_time": "2016-11-07T02:30:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1321719-iamdynamite-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.933Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 170,
+    "fields": {
+        "billing": "July Talk with Mona",
+        "venue": 3,
+        "date_time": "2016-11-10T03:00:00Z",
+        "price": "$12.00 - $14.00",
+        "url": "http://www.subt.net/event/1279491-july-talk-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.935Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 171,
+    "fields": {
+        "billing": "Cassettes On Tape with Mercury Girls, Mumblr, Tiny Fireflies",
+        "venue": 3,
+        "date_time": "2016-11-10T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1320771-cassettes-on-tape-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.936Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 172,
+    "fields": {
+        "billing": "Metro Station with Palaye Royal, The Strive",
+        "venue": 3,
+        "date_time": "2016-11-11T01:30:00Z",
+        "price": "$18.00 - $20.00",
+        "url": "http://www.subt.net/event/1310161-metro-station-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.937Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 173,
+    "fields": {
+        "billing": "Alex G with LVL UP, Brandon Can't Dance",
+        "venue": 3,
+        "date_time": "2016-11-12T01:00:00Z",
+        "price": "$15.00 - $18.00",
+        "url": "http://www.subt.net/event/1250075-alex-g-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.938Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 174,
+    "fields": {
+        "billing": "Nnamdi's Sooper-Dooper Secret Side Project with Hellrazor (mbrs. of Speedy Ortiz), Astolfo Sulla Luna, Worst Gift, Future Biff",
+        "venue": 3,
+        "date_time": "2016-11-13T00:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1301067-nnamdis-sooper-dooper-secret-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.939Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 175,
+    "fields": {
+        "billing": "Arkells",
+        "venue": 3,
+        "date_time": "2016-11-13T03:00:00Z",
+        "price": "$13.00 - $15.00",
+        "url": "http://www.subt.net/event/1254763-arkells-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.940Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 176,
+    "fields": {
+        "billing": "Bracewar with Bent Life, Malice At The Palace, Mal Intent, Kharma, Capitol Offense",
+        "venue": 3,
+        "date_time": "2016-11-14T00:00:00Z",
+        "price": "$12.00 - $14.00",
+        "url": "http://www.subt.net/event/1323179-bracewar-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.941Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 177,
+    "fields": {
+        "billing": "Jeffrey Lewis & Los Bolts with Swellshark",
+        "venue": 3,
+        "date_time": "2016-11-15T01:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1272165-jeffrey-lewis-los-bolts-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.943Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 178,
+    "fields": {
+        "billing": "Trap Them with Yautja, Like Rats, Stay Asleep",
+        "venue": 3,
+        "date_time": "2016-11-16T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1287811-trap-them-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.944Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 179,
+    "fields": {
+        "billing": "Marc E. Bassy",
+        "venue": 3,
+        "date_time": "2016-11-17T02:30:00Z",
+        "price": "$12.00 - $15.00",
+        "url": "http://www.subt.net/event/1323181-marc-e-bassy-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.945Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 180,
+    "fields": {
+        "billing": "Gavin James with Matt Simons",
+        "venue": 3,
+        "date_time": "2016-11-18T01:30:00Z",
+        "price": "$16.00",
+        "url": "http://www.subt.net/event/1241437-gavin-james-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.947Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 181,
+    "fields": {
+        "billing": "ONO with Shop Talk, Casper Skulls, No Men",
+        "venue": 3,
+        "date_time": "2016-11-20T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1319079-ono-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.948Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 182,
+    "fields": {
+        "billing": "Slim Cessna's Auto Club with The Blind Staggers, Devil In A Woodpile",
+        "venue": 3,
+        "date_time": "2016-11-20T03:30:00Z",
+        "price": "$13.00 - $15.00",
+        "url": "http://www.subt.net/event/1233859-slim-cessnas-auto-club-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.949Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 183,
+    "fields": {
+        "billing": "Wax",
+        "venue": 3,
+        "date_time": "2016-11-27T02:30:00Z",
+        "price": "$15.00 - $20.00",
+        "url": "http://www.subt.net/event/1338707-wax-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.950Z",
+        "is_active": true,
+        "artists": [
+            252
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 184,
+    "fields": {
+        "billing": "Mannequin Pussy with Melkbelly, So Pretty",
+        "venue": 3,
+        "date_time": "2016-11-28T02:00:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1317851-mannequin-pussy-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.951Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 185,
+    "fields": {
+        "billing": "Sunjacket with Elsinore, Namorado",
+        "venue": 3,
+        "date_time": "2016-12-10T03:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1304531-sunjacket-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.952Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 186,
+    "fields": {
+        "billing": "Weekend Nachos with Sick Fix, Sex Prisoner, Mellow Harsher, Home Alone",
+        "venue": 3,
+        "date_time": "2017-01-14T01:00:00Z",
+        "price": "$12.00 - $15.00",
+        "url": "http://www.subt.net/event/1273867-weekend-nachos-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.954Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 187,
+    "fields": {
+        "billing": "Weekend Nachos with Harm's Way, Homewrecker, Mal Intent",
+        "venue": 3,
+        "date_time": "2017-01-15T01:00:00Z",
+        "price": "$12.00 - $15.00",
+        "url": "http://www.subt.net/event/1274149-weekend-nachos-chicago/",
+        "date_scraped": "2016-10-01T22:58:46.955Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 188,
+    "fields": {
+        "billing": "AJJ ",
+        "venue": 4,
+        "date_time": "2016-10-01T22:00:00Z",
+        "price": "$20 ADV / $25 DOS",
+        "url": "http://doubledoor.com/event/ajj/",
+        "date_scraped": "2016-10-01T22:58:50.424Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 189,
+    "fields": {
+        "billing": "Nothing More ",
+        "venue": 4,
+        "date_time": "2016-10-02T03:00:00Z",
+        "price": "$15 ADV / $20 DOS",
+        "url": "http://doubledoor.com/event/nothing-more/",
+        "date_scraped": "2016-10-01T22:58:50.717Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 190,
+    "fields": {
+        "billing": "Carpenter Brut with Gost * Protector 101",
+        "venue": 4,
+        "date_time": "2016-10-03T00:00:00Z",
+        "price": "$8 ADV / $10 DOS",
+        "url": "http://doubledoor.com/event/carpenter-brut/",
+        "date_scraped": "2016-10-01T22:58:50.723Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 191,
+    "fields": {
+        "billing": "Lamon Manuel with MTV Ghosts * Jovan * The Voluptuals",
+        "venue": 4,
+        "date_time": "2016-10-04T01:00:00Z",
+        "price": "$5 GA / $3 w/RSVP on Do312.com",
+        "url": "http://doubledoor.com/event/lamon-manuel/",
+        "date_scraped": "2016-10-01T22:58:50.727Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 192,
+    "fields": {
+        "billing": "Connealy Design Element Presents\u2026 Chicago\u2019s A&D Chili Cook Off ",
+        "venue": 4,
+        "date_time": "2016-10-06T23:00:00Z",
+        "price": "PRIVATE EVENT",
+        "url": "http://doubledoor.com/event/connealy-design-element-presents-chicagos-ad-chili-cook-off/",
+        "date_scraped": "2016-10-01T22:58:50.729Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 193,
+    "fields": {
+        "billing": "The Dropper with Zoofunkyou * Shady Grady and The Nobodies * Alabaster * Revolt Coda",
+        "venue": 4,
+        "date_time": "2016-10-08T01:00:00Z",
+        "price": "$12 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/the-dropper/",
+        "date_scraped": "2016-10-01T22:58:50.730Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 194,
+    "fields": {
+        "billing": "Push Beats ",
+        "venue": 4,
+        "date_time": "2016-10-08T02:00:00Z",
+        "price": "FREE SHOW before 11PM/ $5 after 11PM",
+        "url": "http://doubledoor.com/event/push-beats-4/",
+        "date_scraped": "2016-10-01T22:58:50.732Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 195,
+    "fields": {
+        "billing": "Simmer Down Sound\u200b \u200b Celebrates the 40th Anniversary of Peter Tosh\u2019s \u201cLegalize It\u201d album! with \u200bHeavyWeightDub! and special guests  * Simmer Down DJs: The Graduate, Rad Brian and MarcusIyah! Films by Odd Obsession Movies!",
+        "venue": 4,
+        "date_time": "2016-10-09T03:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/simmer-down-sound-5/",
+        "date_scraped": "2016-10-01T22:58:50.734Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 196,
+    "fields": {
+        "billing": "FABITAT: Homecumming with Live Music by Natalie G Alford * DJ Adam El * Ldy Prblms * Lucy Stoole * Curlene Ribbon * The Vixen * Nico",
+        "venue": 4,
+        "date_time": "2016-10-13T02:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/fabitat-7/",
+        "date_scraped": "2016-10-01T22:58:50.737Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 197,
+    "fields": {
+        "billing": "Rasputina Vita and the Woolf * DJ Scary Lady Sarah",
+        "venue": 4,
+        "date_time": "2016-10-14T00:30:00Z",
+        "price": "$17 ADV / $20 DOS / $27 VIP",
+        "url": "http://doubledoor.com/event/rasputina/",
+        "date_scraped": "2016-10-01T22:58:50.741Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 198,
+    "fields": {
+        "billing": "Electric Six with In The Whale",
+        "venue": 4,
+        "date_time": "2016-10-15T01:00:00Z",
+        "price": "$12 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/electric-six/",
+        "date_scraped": "2016-10-01T22:58:50.744Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 199,
+    "fields": {
+        "billing": "Soul Summit Free Dance Party! with Soul Summit DJs: Sloppy White, Dave Mata, & Duke Grip * Guest DJ: E Da Boss (Myron & E, Stones Throw, Pendletons)",
+        "venue": 4,
+        "date_time": "2016-10-16T02:00:00Z",
+        "price": "FREE SHOW ($10 VIP Tickets Available)",
+        "url": "http://doubledoor.com/event/soul-summit-free-dance-party-5/",
+        "date_scraped": "2016-10-01T22:58:50.748Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 200,
+    "fields": {
+        "billing": "Nina Diaz with Mobley",
+        "venue": 4,
+        "date_time": "2016-10-18T00:30:00Z",
+        "price": "$10 GA",
+        "url": "http://doubledoor.com/event/nina-diaz/",
+        "date_scraped": "2016-10-01T22:58:50.751Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 201,
+    "fields": {
+        "billing": "CARNIVALE DELIRIUM: A Night of Dancing, Burlesque, Vaudeville & Freakshow with Dutty Moonshine (UK) * Midnite Martini (Miss Exotic World 2014) * Zombo's Reject Roadshow * Eva La Feva * Samantha Siren * Vourteque * Gaea Lady * Mr. Automatic",
+        "venue": 4,
+        "date_time": "2016-10-20T01:00:00Z",
+        "price": "$15 Early Bird Tickets at calliopepresents.org  $25 ADV / $33 DOS",
+        "url": "http://doubledoor.com/event/carnivale-delirium-the-spookshow-spectacular-2016/",
+        "date_scraped": "2016-10-01T22:58:50.754Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 202,
+    "fields": {
+        "billing": "Hayden James ",
+        "venue": 4,
+        "date_time": "2016-10-21T01:00:00Z",
+        "price": "$12.50 Earlybird  / $15 GA / $18 GA ADV / $20 DOS",
+        "url": "http://doubledoor.com/event/hayden-james/",
+        "date_scraped": "2016-10-01T22:58:50.758Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 203,
+    "fields": {
+        "billing": "Failure (Playing Fantastic Planet In Full) ",
+        "venue": 4,
+        "date_time": "2016-10-22T01:00:00Z",
+        "price": "$25 ADV / $28 DOS",
+        "url": "http://doubledoor.com/event/failure/",
+        "date_scraped": "2016-10-01T22:58:50.762Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 204,
+    "fields": {
+        "billing": "CumbiaSazo! Dance Party!! ft. Calixta (CumbiaSazo) *  Itzi Nallah w/ Tifflove (CumbiaSazo)",
+        "venue": 4,
+        "date_time": "2016-10-23T02:00:00Z",
+        "price": "$10 w/ RSVP @ www.do312.com/cumbiasazo  / $15 ADV / $20 VIP",
+        "url": "http://doubledoor.com/event/6655358cumbiasazodance-party-chicago-double-door/",
+        "date_scraped": "2016-10-01T22:58:50.765Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 205,
+    "fields": {
+        "billing": "TsuShiMaMiRe ",
+        "venue": 4,
+        "date_time": "2016-10-26T00:30:00Z",
+        "price": "$10 GA",
+        "url": "http://doubledoor.com/event/tsushemamire/",
+        "date_scraped": "2016-10-01T22:58:50.768Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 206,
+    "fields": {
+        "billing": "FABITAT with DJ Adam El * Ldy Prblms * Lucy Stoole * Curlene Ribbon * Joan Waters * The Vixen",
+        "venue": 4,
+        "date_time": "2016-10-27T02:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/fabitat-5/",
+        "date_scraped": "2016-10-01T22:58:50.772Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 207,
+    "fields": {
+        "billing": "Logan Cage with Nyck Caution",
+        "venue": 4,
+        "date_time": "2016-10-28T00:00:00Z",
+        "price": "$10 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/logan-cage/",
+        "date_scraped": "2016-10-01T22:58:50.775Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 208,
+    "fields": {
+        "billing": "Bad Suns with Coin",
+        "venue": 4,
+        "date_time": "2016-10-29T00:00:00Z",
+        "price": "$20 GA",
+        "url": "http://doubledoor.com/event/bad-suns/",
+        "date_scraped": "2016-10-01T22:58:50.778Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 209,
+    "fields": {
+        "billing": "The Curls The Pukes (Dumpster Tapes Release) * Speed Babes (Dumpster Tapes Release)",
+        "venue": 4,
+        "date_time": "2016-10-29T02:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/the-curls/",
+        "date_scraped": "2016-10-01T22:58:50.781Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 210,
+    "fields": {
+        "billing": "Local H as Nirvana with Fig Dish as Reo Speedwagon   * Made To Fade as Metallica * Bicycle Tricycle as Meat Loaf *  AM Taxi as Cheap Trick // IN DOOR NO. 3... The Sweeps as The Beatles * The Locals as The Who * Valaska as Elton John * Turbo Controller as The Rolling Stones",
+        "venue": 4,
+        "date_time": "2016-10-30T00:30:00Z",
+        "price": "$18 ADV / $20 DOS",
+        "url": "http://doubledoor.com/event/local-h-as-nirvana/",
+        "date_scraped": "2016-10-01T22:58:50.783Z",
+        "is_active": true,
+        "artists": [
+            482,
+            543
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 211,
+    "fields": {
+        "billing": "Tricky Presents \u2018Skilled Mechanics\u2019 with Special Guest Rituals of Mine",
+        "venue": 4,
+        "date_time": "2016-10-31T00:00:00Z",
+        "price": "$22 Earlybird / $25 GA / $28 at the Door",
+        "url": "http://doubledoor.com/event/tricky/",
+        "date_scraped": "2016-10-01T22:58:50.785Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 212,
+    "fields": {
+        "billing": "Letters To Cleo ",
+        "venue": 4,
+        "date_time": "2016-11-05T01:00:00Z",
+        "price": "$25 GA",
+        "url": "http://doubledoor.com/event/letters-to-cleo/",
+        "date_scraped": "2016-10-01T22:58:50.787Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 213,
+    "fields": {
+        "billing": "The Gories with Heavy Times * Mike Rep's Last Call * The Sueves * DJ Spider (The Spits)  /  DOOR NO. 3: Julian Leal * Cozy * The Jeanies * 1-800 Band",
+        "venue": 4,
+        "date_time": "2016-11-06T01:00:00Z",
+        "price": "$28 ADV / $30 DOS",
+        "url": "http://doubledoor.com/event/the-gories/",
+        "date_scraped": "2016-10-01T22:58:50.790Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 214,
+    "fields": {
+        "billing": "Roisin Murphy with Infinity Ink",
+        "venue": 4,
+        "date_time": "2016-11-08T02:00:00Z",
+        "price": "$25 GA",
+        "url": "http://doubledoor.com/event/roisin-murphy/",
+        "date_scraped": "2016-10-01T22:58:50.792Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 215,
+    "fields": {
+        "billing": "Lemaitre ",
+        "venue": 4,
+        "date_time": "2016-11-11T02:00:00Z",
+        "price": "$12.50 Earlybird  / $15.50 GA ADV / $20 ADV",
+        "url": "http://doubledoor.com/event/lemaitre/",
+        "date_scraped": "2016-10-01T22:58:50.794Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 216,
+    "fields": {
+        "billing": "\ufeffDance Yourself Clean \u2013 An Indie-Pop Dance Party ",
+        "venue": 4,
+        "date_time": "2016-11-13T03:00:00Z",
+        "price": "$12 GA",
+        "url": "http://doubledoor.com/event/%ef%bb%bfdance-yourself-clean-an-indie-pop-dance-party/",
+        "date_scraped": "2016-10-01T22:58:50.797Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 217,
+    "fields": {
+        "billing": "The Bouncing Souls with The Flatliners & Cayetana",
+        "venue": 4,
+        "date_time": "2016-11-18T01:00:00Z",
+        "price": "$25 ADV / $30 DOS",
+        "url": "http://doubledoor.com/event/bouncing-souls/",
+        "date_scraped": "2016-10-01T22:58:50.799Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 218,
+    "fields": {
+        "billing": "The Bouncing Souls with The Flatliners & Cayetana",
+        "venue": 4,
+        "date_time": "2016-11-19T00:00:00Z",
+        "price": "$25 ADV / $30 DOS",
+        "url": "http://doubledoor.com/event/the-bouncing-souls/",
+        "date_scraped": "2016-10-01T22:58:50.801Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 219,
+    "fields": {
+        "billing": "The Jezabels ",
+        "venue": 4,
+        "date_time": "2016-11-24T02:00:00Z",
+        "price": "$14 Earlybird / $16 GA / $18 at the door",
+        "url": "http://doubledoor.com/event/the-jezabels/",
+        "date_scraped": "2016-10-01T22:58:50.804Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 220,
+    "fields": {
+        "billing": "Austin Fillmore with Murley * DTCO * Harvey Fox",
+        "venue": 4,
+        "date_time": "2016-11-26T02:00:00Z",
+        "price": "$10 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/austin-fillmore/",
+        "date_scraped": "2016-10-01T22:58:50.806Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 221,
+    "fields": {
+        "billing": "Copeland: Now | Then Tour with Rae Cassidy",
+        "venue": 4,
+        "date_time": "2016-12-02T01:00:00Z",
+        "price": "$20 GA",
+        "url": "http://doubledoor.com/event/copeland/",
+        "date_scraped": "2016-10-01T22:58:50.809Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 222,
+    "fields": {
+        "billing": "Lordi ",
+        "venue": 4,
+        "date_time": "2017-02-15T02:00:00Z",
+        "price": "$25 ADV / $28 DOS / $65 VIP (ticket to the show, 30 min early entry, show poster, meet n greet)",
+        "url": "http://doubledoor.com/event/lordi/",
+        "date_scraped": "2016-10-01T22:58:50.811Z",
+        "is_active": true,
+        "artists": []
+    }
+}
+]
