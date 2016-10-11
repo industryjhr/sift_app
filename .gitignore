@@ -9,6 +9,7 @@ activate
 
 # logs
 debug.log
+ghostdriver.log
 
 # sphinx docs
 _*

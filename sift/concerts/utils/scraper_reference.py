@@ -14,6 +14,7 @@ SCRAPERS = {
     2: scrapers.BottomLounge,
     3: scrapers.Subterranean,
     4: scrapers.DoubleDoor,
+    5: scrapers.HouseOfBlues,
 }
 
 if __name__ == '__main__':
