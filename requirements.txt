@@ -7,3 +7,4 @@ psycopg2==2.6.1
 pytz==2016.4
 requests==2.10.0
 Sphinx
+selenium==2.53.6
