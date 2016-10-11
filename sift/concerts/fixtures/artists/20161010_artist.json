@@ -695,7 +695,7 @@
     "fields": {
         "name": "Burial",
         "re_string": "\\bBurial\\b",
-        "spotify_id": "0uNj4RxFjG0iVPlZS753en",
+        "spotify_id": "0uCCBpmg6MrPb1KY2msceF",
         "is_active": true
     }
 },
@@ -945,7 +945,7 @@
     "fields": {
         "name": "Simple",
         "re_string": "\\bSimple\\b",
-        "spotify_id": "2p4FqHnazRucYQHyDCdBrJ",
+        "spotify_id": "3xKDhAHahMkwltHAAd0Yw9",
         "is_active": true
     }
 },
