@@ -8,7 +8,7 @@
         "date_time": "2016-10-18T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6855635",
-        "date_scraped": "2016-10-16T20:27:02.684Z",
+        "date_scraped": "2016-10-16T21:10:30.484Z",
         "is_active": true,
         "artists": []
     }
@@ -22,7 +22,7 @@
         "date_time": "2016-10-19T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6917405",
-        "date_scraped": "2016-10-16T20:27:02.976Z",
+        "date_scraped": "2016-10-16T21:10:30.488Z",
         "is_active": true,
         "artists": []
     }
@@ -36,7 +36,7 @@
         "date_time": "2016-10-20T02:00:00Z",
         "price": "$5.00",
         "url": "http://emptybottle.com/?event_id=6917885",
-        "date_scraped": "2016-10-16T20:27:02.981Z",
+        "date_scraped": "2016-10-16T21:10:30.489Z",
         "is_active": true,
         "artists": []
     }
@@ -50,7 +50,7 @@
         "date_time": "2016-10-21T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6856455",
-        "date_scraped": "2016-10-16T20:27:02.986Z",
+        "date_scraped": "2016-10-16T21:10:30.490Z",
         "is_active": true,
         "artists": []
     }
@@ -64,7 +64,7 @@
         "date_time": "2016-10-21T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823745",
-        "date_scraped": "2016-10-16T20:27:02.987Z",
+        "date_scraped": "2016-10-16T21:10:30.491Z",
         "is_active": true,
         "artists": []
     }
@@ -78,7 +78,7 @@
         "date_time": "2016-10-22T01:00:00Z",
         "price": "FREE!",
         "url": "http://emptybottle.com/?event_id=6967755",
-        "date_scraped": "2016-10-16T20:27:02.991Z",
+        "date_scraped": "2016-10-16T21:10:30.493Z",
         "is_active": true,
         "artists": []
     }
@@ -92,7 +92,7 @@
         "date_time": "2016-10-22T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6736515",
-        "date_scraped": "2016-10-16T20:27:02.993Z",
+        "date_scraped": "2016-10-16T21:10:30.494Z",
         "is_active": true,
         "artists": []
     }
@@ -106,7 +106,7 @@
         "date_time": "2016-10-23T02:00:00Z",
         "price": "$20.00",
         "url": "http://emptybottle.com/?event_id=6736475",
-        "date_scraped": "2016-10-16T20:27:02.994Z",
+        "date_scraped": "2016-10-16T21:10:30.495Z",
         "is_active": true,
         "artists": []
     }
@@ -120,7 +120,7 @@
         "date_time": "2016-10-23T20:00:00Z",
         "price": "FREE",
         "url": "http://emptybottle.com/?event_id=6952095",
-        "date_scraped": "2016-10-16T20:27:02.995Z",
+        "date_scraped": "2016-10-16T21:10:30.497Z",
         "is_active": true,
         "artists": []
     }
@@ -134,7 +134,7 @@
         "date_time": "2016-10-24T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6906675",
-        "date_scraped": "2016-10-16T20:27:02.997Z",
+        "date_scraped": "2016-10-16T21:10:30.498Z",
         "is_active": true,
         "artists": []
     }
@@ -148,7 +148,7 @@
         "date_time": "2016-10-25T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6890305",
-        "date_scraped": "2016-10-16T20:27:02.998Z",
+        "date_scraped": "2016-10-16T21:10:30.499Z",
         "is_active": true,
         "artists": []
     }
@@ -162,7 +162,7 @@
         "date_time": "2016-10-26T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6876135",
-        "date_scraped": "2016-10-16T20:27:03.000Z",
+        "date_scraped": "2016-10-16T21:10:30.500Z",
         "is_active": true,
         "artists": []
     }
@@ -176,7 +176,7 @@
         "date_time": "2016-10-27T02:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6889555",
-        "date_scraped": "2016-10-16T20:27:03.001Z",
+        "date_scraped": "2016-10-16T21:10:30.501Z",
         "is_active": true,
         "artists": []
     }
@@ -190,7 +190,7 @@
         "date_time": "2016-10-28T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6920825",
-        "date_scraped": "2016-10-16T20:27:03.002Z",
+        "date_scraped": "2016-10-16T21:10:30.502Z",
         "is_active": true,
         "artists": []
     }
@@ -204,7 +204,7 @@
         "date_time": "2016-10-28T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823735",
-        "date_scraped": "2016-10-16T20:27:03.005Z",
+        "date_scraped": "2016-10-16T21:10:30.503Z",
         "is_active": true,
         "artists": []
     }
@@ -218,7 +218,7 @@
         "date_time": "2016-10-29T02:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6885075",
-        "date_scraped": "2016-10-16T20:27:03.007Z",
+        "date_scraped": "2016-10-16T21:10:30.504Z",
         "is_active": true,
         "artists": []
     }
@@ -232,7 +232,7 @@
         "date_time": "2016-10-29T02:00:00Z",
         "price": "$20 (advance), $25",
         "url": "http://emptybottle.com/?event_id=6828925",
-        "date_scraped": "2016-10-16T20:27:03.009Z",
+        "date_scraped": "2016-10-16T21:10:30.505Z",
         "is_active": true,
         "artists": []
     }
@@ -246,7 +246,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "$25.00",
         "url": "http://emptybottle.com/?event_id=6960675",
-        "date_scraped": "2016-10-16T20:27:03.011Z",
+        "date_scraped": "2016-10-16T21:10:30.507Z",
         "is_active": true,
         "artists": []
     }
@@ -260,7 +260,7 @@
         "date_time": "2016-10-30T02:00:00Z",
         "price": "$5 Cover",
         "url": "http://emptybottle.com/?event_id=6914145",
-        "date_scraped": "2016-10-16T20:27:03.013Z",
+        "date_scraped": "2016-10-16T21:10:30.508Z",
         "is_active": true,
         "artists": []
     }
@@ -274,7 +274,7 @@
         "date_time": "2016-10-30T17:00:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6967175",
-        "date_scraped": "2016-10-16T20:27:03.015Z",
+        "date_scraped": "2016-10-16T21:10:30.509Z",
         "is_active": true,
         "artists": []
     }
@@ -288,7 +288,7 @@
         "date_time": "2016-10-31T02:00:00Z",
         "price": "$12 (advance), $15",
         "url": "http://emptybottle.com/?event_id=6853885",
-        "date_scraped": "2016-10-16T20:27:03.017Z",
+        "date_scraped": "2016-10-16T21:10:30.510Z",
         "is_active": true,
         "artists": []
     }
@@ -302,7 +302,7 @@
         "date_time": "2016-11-01T02:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6937465",
-        "date_scraped": "2016-10-16T20:27:03.019Z",
+        "date_scraped": "2016-10-16T21:10:30.512Z",
         "is_active": true,
         "artists": []
     }
@@ -316,7 +316,7 @@
         "date_time": "2016-11-02T02:00:00Z",
         "price": "$5.00",
         "url": "http://emptybottle.com/?event_id=6951585",
-        "date_scraped": "2016-10-16T20:27:03.021Z",
+        "date_scraped": "2016-10-16T21:10:30.513Z",
         "is_active": true,
         "artists": []
     }
@@ -330,7 +330,7 @@
         "date_time": "2016-11-03T02:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6844905",
-        "date_scraped": "2016-10-16T20:27:03.023Z",
+        "date_scraped": "2016-10-16T21:10:30.515Z",
         "is_active": true,
         "artists": []
     }
@@ -344,7 +344,7 @@
         "date_time": "2016-11-04T02:00:00Z",
         "price": "$10 (advance), $12",
         "url": "http://emptybottle.com/?event_id=6890605",
-        "date_scraped": "2016-10-16T20:27:03.025Z",
+        "date_scraped": "2016-10-16T21:10:30.516Z",
         "is_active": true,
         "artists": []
     }
@@ -358,7 +358,7 @@
         "date_time": "2016-11-04T22:30:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6823775",
-        "date_scraped": "2016-10-16T20:27:03.027Z",
+        "date_scraped": "2016-10-16T21:10:30.517Z",
         "is_active": true,
         "artists": []
     }
@@ -372,7 +372,7 @@
         "date_time": "2016-11-05T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6900615",
-        "date_scraped": "2016-10-16T20:27:03.029Z",
+        "date_scraped": "2016-10-16T21:10:30.519Z",
         "is_active": true,
         "artists": []
     }
@@ -386,7 +386,7 @@
         "date_time": "2016-11-06T02:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6922155",
-        "date_scraped": "2016-10-16T20:27:03.031Z",
+        "date_scraped": "2016-10-16T21:10:30.520Z",
         "is_active": true,
         "artists": []
     }
@@ -400,7 +400,7 @@
         "date_time": "2016-11-06T18:00:00Z",
         "price": "Free",
         "url": "http://emptybottle.com/?event_id=6967305",
-        "date_scraped": "2016-10-16T20:27:03.033Z",
+        "date_scraped": "2016-10-16T21:10:30.521Z",
         "is_active": true,
         "artists": []
     }
@@ -414,7 +414,7 @@
         "date_time": "2016-11-07T03:00:00Z",
         "price": "$12.00",
         "url": "http://emptybottle.com/?event_id=6877305",
-        "date_scraped": "2016-10-16T20:27:03.035Z",
+        "date_scraped": "2016-10-16T21:10:30.522Z",
         "is_active": true,
         "artists": []
     }
@@ -428,7 +428,7 @@
         "date_time": "2016-11-08T03:00:00Z",
         "price": "Free Monday",
         "url": "http://emptybottle.com/?event_id=6958235",
-        "date_scraped": "2016-10-16T20:27:03.037Z",
+        "date_scraped": "2016-10-16T21:10:30.524Z",
         "is_active": true,
         "artists": []
     }
@@ -442,7 +442,7 @@
         "date_time": "2016-11-10T03:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6898335",
-        "date_scraped": "2016-10-16T20:27:03.039Z",
+        "date_scraped": "2016-10-16T21:10:30.525Z",
         "is_active": true,
         "artists": []
     }
@@ -456,7 +456,7 @@
         "date_time": "2016-11-11T03:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6898285",
-        "date_scraped": "2016-10-16T20:27:03.041Z",
+        "date_scraped": "2016-10-16T21:10:30.527Z",
         "is_active": true,
         "artists": []
     }
@@ -470,7 +470,7 @@
         "date_time": "2016-11-12T03:00:00Z",
         "price": "$12 (advance), $15",
         "url": "http://emptybottle.com/?event_id=6945185",
-        "date_scraped": "2016-10-16T20:27:03.042Z",
+        "date_scraped": "2016-10-16T21:10:30.528Z",
         "is_active": true,
         "artists": []
     }
@@ -484,7 +484,7 @@
         "date_time": "2016-11-12T18:00:00Z",
         "price": "FREE",
         "url": "http://emptybottle.com/?event_id=6880665",
-        "date_scraped": "2016-10-16T20:27:03.044Z",
+        "date_scraped": "2016-10-16T21:10:30.529Z",
         "is_active": true,
         "artists": []
     }
@@ -498,7 +498,7 @@
         "date_time": "2016-11-13T03:00:00Z",
         "price": "$8 advance, $10",
         "url": "http://emptybottle.com/?event_id=6895755",
-        "date_scraped": "2016-10-16T20:27:03.046Z",
+        "date_scraped": "2016-10-16T21:10:30.530Z",
         "is_active": true,
         "artists": []
     }
@@ -512,7 +512,7 @@
         "date_time": "2016-11-13T20:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6963575",
-        "date_scraped": "2016-10-16T20:27:03.048Z",
+        "date_scraped": "2016-10-16T21:10:30.531Z",
         "is_active": true,
         "artists": []
     }
@@ -526,7 +526,7 @@
         "date_time": "2016-11-14T03:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6918025",
-        "date_scraped": "2016-10-16T20:27:03.049Z",
+        "date_scraped": "2016-10-16T21:10:30.532Z",
         "is_active": true,
         "artists": []
     }
@@ -540,7 +540,7 @@
         "date_time": "2016-11-16T03:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6936305",
-        "date_scraped": "2016-10-16T20:27:03.051Z",
+        "date_scraped": "2016-10-16T21:10:30.533Z",
         "is_active": true,
         "artists": []
     }
@@ -554,7 +554,7 @@
         "date_time": "2016-11-17T03:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6917915",
-        "date_scraped": "2016-10-16T20:27:03.053Z",
+        "date_scraped": "2016-10-16T21:10:30.535Z",
         "is_active": true,
         "artists": []
     }
@@ -568,7 +568,7 @@
         "date_time": "2016-11-18T03:00:00Z",
         "price": "$10 (advance), $12",
         "url": "http://emptybottle.com/?event_id=6863845",
-        "date_scraped": "2016-10-16T20:27:03.055Z",
+        "date_scraped": "2016-10-16T21:10:30.536Z",
         "is_active": true,
         "artists": []
     }
@@ -582,7 +582,7 @@
         "date_time": "2016-11-19T03:00:00Z",
         "price": "$5 (advance), $8",
         "url": "http://emptybottle.com/?event_id=6952345",
-        "date_scraped": "2016-10-16T20:27:03.056Z",
+        "date_scraped": "2016-10-16T21:10:30.537Z",
         "is_active": true,
         "artists": []
     }
@@ -596,7 +596,7 @@
         "date_time": "2016-11-20T03:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6860515",
-        "date_scraped": "2016-10-16T20:27:03.058Z",
+        "date_scraped": "2016-10-16T21:10:30.538Z",
         "is_active": true,
         "artists": []
     }
@@ -610,7 +610,7 @@
         "date_time": "2016-11-21T03:00:00Z",
         "price": "$20.00",
         "url": "http://emptybottle.com/?event_id=6931035",
-        "date_scraped": "2016-10-16T20:27:03.059Z",
+        "date_scraped": "2016-10-16T21:10:30.539Z",
         "is_active": true,
         "artists": []
     }
@@ -624,7 +624,7 @@
         "date_time": "2016-11-22T03:00:00Z",
         "price": "*Free Monday!*",
         "url": "http://emptybottle.com/?event_id=6958425",
-        "date_scraped": "2016-10-16T20:27:03.061Z",
+        "date_scraped": "2016-10-16T21:10:30.540Z",
         "is_active": true,
         "artists": []
     }
@@ -638,7 +638,7 @@
         "date_time": "2016-11-24T03:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6958175",
-        "date_scraped": "2016-10-16T20:27:03.063Z",
+        "date_scraped": "2016-10-16T21:10:30.541Z",
         "is_active": true,
         "artists": []
     }
@@ -652,7 +652,7 @@
         "date_time": "2016-11-28T03:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6910965",
-        "date_scraped": "2016-10-16T20:27:03.064Z",
+        "date_scraped": "2016-10-16T21:10:30.542Z",
         "is_active": true,
         "artists": []
     }
@@ -666,7 +666,7 @@
         "date_time": "2016-11-30T03:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6933445",
-        "date_scraped": "2016-10-16T20:27:03.066Z",
+        "date_scraped": "2016-10-16T21:10:30.543Z",
         "is_active": true,
         "artists": []
     }
@@ -680,7 +680,7 @@
         "date_time": "2016-12-01T03:00:00Z",
         "price": "$8.00",
         "url": "http://emptybottle.com/?event_id=6959025",
-        "date_scraped": "2016-10-16T20:27:03.068Z",
+        "date_scraped": "2016-10-16T21:10:30.544Z",
         "is_active": true,
         "artists": []
     }
@@ -694,7 +694,7 @@
         "date_time": "2016-12-03T03:00:00Z",
         "price": "$14 (advance), $16",
         "url": "http://emptybottle.com/?event_id=6877775",
-        "date_scraped": "2016-10-16T20:27:03.069Z",
+        "date_scraped": "2016-10-16T21:10:30.545Z",
         "is_active": true,
         "artists": []
     }
@@ -708,7 +708,7 @@
         "date_time": "2016-12-04T03:00:00Z",
         "price": "$20.00",
         "url": "http://emptybottle.com/?event_id=6872615",
-        "date_scraped": "2016-10-16T20:27:03.071Z",
+        "date_scraped": "2016-10-16T21:10:30.547Z",
         "is_active": true,
         "artists": []
     }
@@ -722,7 +722,7 @@
         "date_time": "2016-12-07T03:00:00Z",
         "price": "$8 advance, $10",
         "url": "http://emptybottle.com/?event_id=6949605",
-        "date_scraped": "2016-10-16T20:27:03.073Z",
+        "date_scraped": "2016-10-16T21:10:30.549Z",
         "is_active": true,
         "artists": []
     }
@@ -736,7 +736,7 @@
         "date_time": "2016-12-10T03:00:00Z",
         "price": "$10 advance, $12",
         "url": "http://emptybottle.com/?event_id=6951505",
-        "date_scraped": "2016-10-16T20:27:03.076Z",
+        "date_scraped": "2016-10-16T21:10:30.551Z",
         "is_active": true,
         "artists": []
     }
@@ -750,7 +750,7 @@
         "date_time": "2016-12-12T03:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6955215",
-        "date_scraped": "2016-10-16T20:27:03.078Z",
+        "date_scraped": "2016-10-16T21:10:30.553Z",
         "is_active": true,
         "artists": []
     }
@@ -764,7 +764,7 @@
         "date_time": "2016-12-13T03:00:00Z",
         "price": "*FREE MONDAY*",
         "url": "http://emptybottle.com/?event_id=6940155",
-        "date_scraped": "2016-10-16T20:27:03.080Z",
+        "date_scraped": "2016-10-16T21:10:30.556Z",
         "is_active": true,
         "artists": []
     }
@@ -778,7 +778,7 @@
         "date_time": "2017-01-10T03:00:00Z",
         "price": "$15.00",
         "url": "http://emptybottle.com/?event_id=6907135",
-        "date_scraped": "2016-10-16T20:27:03.082Z",
+        "date_scraped": "2016-10-16T21:10:30.558Z",
         "is_active": true,
         "artists": []
     }
@@ -792,7 +792,7 @@
         "date_time": "2017-01-29T03:00:00Z",
         "price": "$10.00",
         "url": "http://emptybottle.com/?event_id=6891535",
-        "date_scraped": "2016-10-16T20:27:03.083Z",
+        "date_scraped": "2016-10-16T21:10:30.561Z",
         "is_active": true,
         "artists": []
     }
@@ -806,7 +806,7 @@
         "date_time": "2016-10-17T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5137",
-        "date_scraped": "2016-10-16T20:27:05.774Z",
+        "date_scraped": "2016-10-16T21:10:32.615Z",
         "is_active": true,
         "artists": []
     }
@@ -820,7 +820,7 @@
         "date_time": "2016-10-18T00:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5526",
-        "date_scraped": "2016-10-16T20:27:06.067Z",
+        "date_scraped": "2016-10-16T21:10:32.908Z",
         "is_active": true,
         "artists": []
     }
@@ -834,7 +834,7 @@
         "date_time": "2016-10-18T23:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4982",
-        "date_scraped": "2016-10-16T20:27:06.072Z",
+        "date_scraped": "2016-10-16T21:10:32.913Z",
         "is_active": true,
         "artists": []
     }
@@ -848,7 +848,7 @@
         "date_time": "2016-10-20T23:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5354",
-        "date_scraped": "2016-10-16T20:27:06.076Z",
+        "date_scraped": "2016-10-16T21:10:32.918Z",
         "is_active": true,
         "artists": []
     }
@@ -862,7 +862,7 @@
         "date_time": "2016-10-22T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5179",
-        "date_scraped": "2016-10-16T20:27:06.079Z",
+        "date_scraped": "2016-10-16T21:10:32.919Z",
         "is_active": true,
         "artists": []
     }
@@ -876,7 +876,7 @@
         "date_time": "2016-10-23T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5315",
-        "date_scraped": "2016-10-16T20:27:06.084Z",
+        "date_scraped": "2016-10-16T21:10:32.921Z",
         "is_active": true,
         "artists": []
     }
@@ -890,7 +890,7 @@
         "date_time": "2016-10-27T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5340",
-        "date_scraped": "2016-10-16T20:27:06.087Z",
+        "date_scraped": "2016-10-16T21:10:32.922Z",
         "is_active": true,
         "artists": []
     }
@@ -904,7 +904,7 @@
         "date_time": "2016-10-29T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5180",
-        "date_scraped": "2016-10-16T20:27:06.089Z",
+        "date_scraped": "2016-10-16T21:10:32.925Z",
         "is_active": true,
         "artists": []
     }
@@ -918,7 +918,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5087",
-        "date_scraped": "2016-10-16T20:27:06.091Z",
+        "date_scraped": "2016-10-16T21:10:32.930Z",
         "is_active": true,
         "artists": []
     }
@@ -932,7 +932,7 @@
         "date_time": "2016-10-31T00:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5468",
-        "date_scraped": "2016-10-16T20:27:06.093Z",
+        "date_scraped": "2016-10-16T21:10:32.933Z",
         "is_active": true,
         "artists": []
     }
@@ -946,7 +946,7 @@
         "date_time": "2016-11-04T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5116",
-        "date_scraped": "2016-10-16T20:27:06.095Z",
+        "date_scraped": "2016-10-16T21:10:32.936Z",
         "is_active": true,
         "artists": []
     }
@@ -960,7 +960,7 @@
         "date_time": "2016-11-05T00:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5249",
-        "date_scraped": "2016-10-16T20:27:06.096Z",
+        "date_scraped": "2016-10-16T21:10:32.938Z",
         "is_active": true,
         "artists": []
     }
@@ -974,7 +974,7 @@
         "date_time": "2016-11-06T00:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5472",
-        "date_scraped": "2016-10-16T20:27:06.098Z",
+        "date_scraped": "2016-10-16T21:10:32.940Z",
         "is_active": true,
         "artists": []
     }
@@ -988,7 +988,7 @@
         "date_time": "2016-11-07T00:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5438",
-        "date_scraped": "2016-10-16T20:27:06.100Z",
+        "date_scraped": "2016-10-16T21:10:32.943Z",
         "is_active": true,
         "artists": []
     }
@@ -1002,7 +1002,7 @@
         "date_time": "2016-11-08T01:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5378",
-        "date_scraped": "2016-10-16T20:27:06.102Z",
+        "date_scraped": "2016-10-16T21:10:32.945Z",
         "is_active": true,
         "artists": []
     }
@@ -1016,7 +1016,7 @@
         "date_time": "2016-11-10T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5465",
-        "date_scraped": "2016-10-16T20:27:06.104Z",
+        "date_scraped": "2016-10-16T21:10:32.947Z",
         "is_active": true,
         "artists": [
             26
@@ -1032,7 +1032,7 @@
         "date_time": "2016-11-11T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5345",
-        "date_scraped": "2016-10-16T20:27:06.106Z",
+        "date_scraped": "2016-10-16T21:10:32.949Z",
         "is_active": true,
         "artists": []
     }
@@ -1046,7 +1046,7 @@
         "date_time": "2016-11-12T03:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=4998",
-        "date_scraped": "2016-10-16T20:27:06.109Z",
+        "date_scraped": "2016-10-16T21:10:32.952Z",
         "is_active": true,
         "artists": []
     }
@@ -1060,7 +1060,7 @@
         "date_time": "2016-11-13T01:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5112",
-        "date_scraped": "2016-10-16T20:27:06.110Z",
+        "date_scraped": "2016-10-16T21:10:32.954Z",
         "is_active": true,
         "artists": []
     }
@@ -1074,7 +1074,7 @@
         "date_time": "2016-11-13T23:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5261",
-        "date_scraped": "2016-10-16T20:27:06.113Z",
+        "date_scraped": "2016-10-16T21:10:32.956Z",
         "is_active": true,
         "artists": []
     }
@@ -1088,7 +1088,7 @@
         "date_time": "2016-11-15T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5344",
-        "date_scraped": "2016-10-16T20:27:06.115Z",
+        "date_scraped": "2016-10-16T21:10:32.958Z",
         "is_active": true,
         "artists": []
     }
@@ -1102,7 +1102,7 @@
         "date_time": "2016-11-16T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5475",
-        "date_scraped": "2016-10-16T20:27:06.117Z",
+        "date_scraped": "2016-10-16T21:10:32.960Z",
         "is_active": true,
         "artists": []
     }
@@ -1116,7 +1116,7 @@
         "date_time": "2016-11-18T03:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5491",
-        "date_scraped": "2016-10-16T20:27:06.120Z",
+        "date_scraped": "2016-10-16T21:10:32.962Z",
         "is_active": true,
         "artists": []
     }
@@ -1130,7 +1130,7 @@
         "date_time": "2016-11-19T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5366",
-        "date_scraped": "2016-10-16T20:27:06.122Z",
+        "date_scraped": "2016-10-16T21:10:32.964Z",
         "is_active": true,
         "artists": []
     }
@@ -1144,7 +1144,7 @@
         "date_time": "2016-11-20T00:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5455",
-        "date_scraped": "2016-10-16T20:27:06.124Z",
+        "date_scraped": "2016-10-16T21:10:32.966Z",
         "is_active": true,
         "artists": []
     }
@@ -1158,7 +1158,7 @@
         "date_time": "2016-11-24T00:45:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5509",
-        "date_scraped": "2016-10-16T20:27:06.126Z",
+        "date_scraped": "2016-10-16T21:10:32.968Z",
         "is_active": true,
         "artists": []
     }
@@ -1172,7 +1172,7 @@
         "date_time": "2016-11-26T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5319",
-        "date_scraped": "2016-10-16T20:27:06.128Z",
+        "date_scraped": "2016-10-16T21:10:32.970Z",
         "is_active": true,
         "artists": []
     }
@@ -1186,7 +1186,7 @@
         "date_time": "2016-11-27T03:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5514",
-        "date_scraped": "2016-10-16T20:27:06.129Z",
+        "date_scraped": "2016-10-16T21:10:32.972Z",
         "is_active": true,
         "artists": []
     }
@@ -1200,7 +1200,7 @@
         "date_time": "2016-12-03T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5251",
-        "date_scraped": "2016-10-16T20:27:06.131Z",
+        "date_scraped": "2016-10-16T21:10:32.975Z",
         "is_active": true,
         "artists": []
     }
@@ -1214,7 +1214,7 @@
         "date_time": "2016-12-04T03:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5463",
-        "date_scraped": "2016-10-16T20:27:06.133Z",
+        "date_scraped": "2016-10-16T21:10:32.977Z",
         "is_active": true,
         "artists": []
     }
@@ -1228,7 +1228,7 @@
         "date_time": "2016-12-04T23:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5237",
-        "date_scraped": "2016-10-16T20:27:06.136Z",
+        "date_scraped": "2016-10-16T21:10:32.979Z",
         "is_active": true,
         "artists": []
     }
@@ -1242,7 +1242,7 @@
         "date_time": "2016-12-11T03:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5226",
-        "date_scraped": "2016-10-16T20:27:06.138Z",
+        "date_scraped": "2016-10-16T21:10:32.981Z",
         "is_active": true,
         "artists": []
     }
@@ -1256,7 +1256,7 @@
         "date_time": "2016-12-15T00:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5439",
-        "date_scraped": "2016-10-16T20:27:06.141Z",
+        "date_scraped": "2016-10-16T21:10:32.983Z",
         "is_active": true,
         "artists": []
     }
@@ -1270,7 +1270,7 @@
         "date_time": "2016-12-16T00:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5100",
-        "date_scraped": "2016-10-16T20:27:06.144Z",
+        "date_scraped": "2016-10-16T21:10:32.986Z",
         "is_active": true,
         "artists": []
     }
@@ -1284,7 +1284,7 @@
         "date_time": "2016-12-18T03:30:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5430",
-        "date_scraped": "2016-10-16T20:27:06.147Z",
+        "date_scraped": "2016-10-16T21:10:32.988Z",
         "is_active": true,
         "artists": []
     }
@@ -1298,7 +1298,7 @@
         "date_time": "2017-01-29T02:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5506",
-        "date_scraped": "2016-10-16T20:27:06.148Z",
+        "date_scraped": "2016-10-16T21:10:32.991Z",
         "is_active": true,
         "artists": []
     }
@@ -1312,7 +1312,7 @@
         "date_time": "2017-03-05T01:00:00Z",
         "price": "(See ticketing site for price)",
         "url": "http://bottomlounge.com/?post_type=type_event&p=5562",
-        "date_scraped": "2016-10-16T20:27:06.151Z",
+        "date_scraped": "2016-10-16T21:10:32.993Z",
         "is_active": true,
         "artists": []
     }
@@ -1326,7 +1326,7 @@
         "date_time": "2016-10-16T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1292401-snow-burial-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.542Z",
+        "date_scraped": "2016-10-16T21:10:33.380Z",
         "is_active": true,
         "artists": [
             70
@@ -1342,7 +1342,7 @@
         "date_time": "2016-10-17T00:00:00Z",
         "price": "$15.00 - $18.00",
         "url": "http://www.subt.net/event/1300563-citizens-saints-kings-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.545Z",
+        "date_scraped": "2016-10-16T21:10:33.383Z",
         "is_active": true,
         "artists": []
     }
@@ -1356,7 +1356,7 @@
         "date_time": "2016-10-17T03:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1338745-grown-folks-business-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.547Z",
+        "date_scraped": "2016-10-16T21:10:33.384Z",
         "is_active": true,
         "artists": []
     }
@@ -1370,7 +1370,7 @@
         "date_time": "2016-10-18T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1339023-chew-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.549Z",
+        "date_scraped": "2016-10-16T21:10:33.385Z",
         "is_active": true,
         "artists": []
     }
@@ -1384,7 +1384,7 @@
         "date_time": "2016-10-18T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1324699-anthony-jay-sanders-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.550Z",
+        "date_scraped": "2016-10-16T21:10:33.387Z",
         "is_active": true,
         "artists": []
     }
@@ -1398,7 +1398,7 @@
         "date_time": "2016-10-19T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1334407-open-mic-hip-hop-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.551Z",
+        "date_scraped": "2016-10-16T21:10:33.389Z",
         "is_active": true,
         "artists": []
     }
@@ -1412,7 +1412,7 @@
         "date_time": "2016-10-20T01:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1253383-cute-is-what-we-aim-for-same-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.552Z",
+        "date_scraped": "2016-10-16T21:10:33.391Z",
         "is_active": true,
         "artists": []
     }
@@ -1426,7 +1426,7 @@
         "date_time": "2016-10-21T00:30:00Z",
         "price": "$15.00 - $65.00",
         "url": "http://www.subt.net/event/1310183-prodigy-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.553Z",
+        "date_scraped": "2016-10-16T21:10:33.393Z",
         "is_active": true,
         "artists": []
     }
@@ -1440,7 +1440,7 @@
         "date_time": "2016-10-21T03:00:00Z",
         "price": "$5.00",
         "url": "http://www.subt.net/event/1334417-reggae-gold-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.554Z",
+        "date_scraped": "2016-10-16T21:10:33.395Z",
         "is_active": true,
         "artists": []
     }
@@ -1454,7 +1454,7 @@
         "date_time": "2016-10-22T01:00:00Z",
         "price": "Suggested Donation",
         "url": "http://www.subt.net/event/1334433-lincoln-lodge-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.556Z",
+        "date_scraped": "2016-10-16T21:10:33.397Z",
         "is_active": true,
         "artists": []
     }
@@ -1468,7 +1468,7 @@
         "date_time": "2016-10-22T01:30:00Z",
         "price": "$8.00 - $10.00",
         "url": "http://www.subt.net/event/1334381-king-mars-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.557Z",
+        "date_scraped": "2016-10-16T21:10:33.398Z",
         "is_active": true,
         "artists": []
     }
@@ -1482,7 +1482,7 @@
         "date_time": "2016-10-23T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1279465-lord-snow-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.558Z",
+        "date_scraped": "2016-10-16T21:10:33.400Z",
         "is_active": true,
         "artists": []
     }
@@ -1496,7 +1496,7 @@
         "date_time": "2016-10-23T02:00:00Z",
         "price": "$16.00",
         "url": "http://www.subt.net/event/1235631-skeletonwitch-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.559Z",
+        "date_scraped": "2016-10-16T21:10:33.402Z",
         "is_active": true,
         "artists": []
     }
@@ -1510,7 +1510,7 @@
         "date_time": "2016-10-25T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1326015-wild-pink-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.561Z",
+        "date_scraped": "2016-10-16T21:10:33.404Z",
         "is_active": true,
         "artists": []
     }
@@ -1524,7 +1524,7 @@
         "date_time": "2016-10-25T03:00:00Z",
         "price": "$3 Donation",
         "url": "http://www.subt.net/event/1353845-2-year-anniversary-boom-bap-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.562Z",
+        "date_scraped": "2016-10-16T21:10:33.406Z",
         "is_active": true,
         "artists": []
     }
@@ -1538,7 +1538,7 @@
         "date_time": "2016-10-25T23:00:00Z",
         "price": "$5.00",
         "url": "http://www.subt.net/event/1353423-chicago-night-hip-hop-stars-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.563Z",
+        "date_scraped": "2016-10-16T21:10:33.407Z",
         "is_active": true,
         "artists": []
     }
@@ -1552,7 +1552,7 @@
         "date_time": "2016-10-26T00:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1267733-karl-blau-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.564Z",
+        "date_scraped": "2016-10-16T21:10:33.409Z",
         "is_active": true,
         "artists": []
     }
@@ -1566,7 +1566,7 @@
         "date_time": "2016-10-26T03:00:00Z",
         "price": "No price / free?",
         "url": "http://www.subt.net/event/1334409-open-mic-hip-hop-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.566Z",
+        "date_scraped": "2016-10-16T21:10:33.411Z",
         "is_active": true,
         "artists": []
     }
@@ -1580,7 +1580,7 @@
         "date_time": "2016-10-26T23:30:00Z",
         "price": "$14.00 - $18.00",
         "url": "http://www.subt.net/event/1219079-kero-kero-bonito-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.567Z",
+        "date_scraped": "2016-10-16T21:10:33.412Z",
         "is_active": true,
         "artists": []
     }
@@ -1594,7 +1594,7 @@
         "date_time": "2016-10-28T00:30:00Z",
         "price": "$8 - $5 w/ Costume",
         "url": "http://www.subt.net/event/1329137-reign-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.568Z",
+        "date_scraped": "2016-10-16T21:10:33.414Z",
         "is_active": true,
         "artists": []
     }
@@ -1608,7 +1608,7 @@
         "date_time": "2016-10-28T03:00:00Z",
         "price": "$5.00",
         "url": "http://www.subt.net/event/1334421-reggae-gold-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.569Z",
+        "date_scraped": "2016-10-16T21:10:33.416Z",
         "is_active": true,
         "artists": []
     }
@@ -1622,7 +1622,7 @@
         "date_time": "2016-10-29T01:00:00Z",
         "price": "$14.00",
         "url": "http://www.subt.net/event/1287351-honeyblood-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.570Z",
+        "date_scraped": "2016-10-16T21:10:33.417Z",
         "is_active": true,
         "artists": []
     }
@@ -1636,7 +1636,7 @@
         "date_time": "2016-10-29T01:00:00Z",
         "price": "Suggested Donation",
         "url": "http://www.subt.net/event/1334435-lincoln-lodge-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.571Z",
+        "date_scraped": "2016-10-16T21:10:33.420Z",
         "is_active": true,
         "artists": []
     }
@@ -1650,7 +1650,7 @@
         "date_time": "2016-10-29T03:30:00Z",
         "price": "$10.00 - $12.00",
         "url": "http://www.subt.net/event/1297595-terry-malts-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.572Z",
+        "date_scraped": "2016-10-16T21:10:33.422Z",
         "is_active": true,
         "artists": []
     }
@@ -1664,7 +1664,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "$18.00 - $20.00",
         "url": "http://www.subt.net/event/1185901-bear-vs-shark-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.573Z",
+        "date_scraped": "2016-10-16T21:10:33.424Z",
         "is_active": true,
         "artists": []
     }
@@ -1678,7 +1678,7 @@
         "date_time": "2016-10-30T01:00:00Z",
         "price": "$7.00 - $10.00",
         "url": "http://www.subt.net/event/1287235-tanzen-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.575Z",
+        "date_scraped": "2016-10-16T21:10:33.426Z",
         "is_active": true,
         "artists": []
     }
@@ -1692,7 +1692,7 @@
         "date_time": "2016-10-30T23:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1320787-dingus-halloween-show-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.577Z",
+        "date_scraped": "2016-10-16T21:10:33.427Z",
         "is_active": true,
         "artists": []
     }
@@ -1706,7 +1706,7 @@
         "date_time": "2016-10-31T01:00:00Z",
         "price": "$18.00 - $20.00",
         "url": "http://www.subt.net/event/1189751-bear-vs-shark-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.579Z",
+        "date_scraped": "2016-10-16T21:10:33.429Z",
         "is_active": true,
         "artists": []
     }
@@ -1720,7 +1720,7 @@
         "date_time": "2016-11-01T01:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1317937-king-magnetic-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.581Z",
+        "date_scraped": "2016-10-16T21:10:33.431Z",
         "is_active": true,
         "artists": []
     }
@@ -1734,7 +1734,7 @@
         "date_time": "2016-11-03T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1353461-as-is-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.583Z",
+        "date_scraped": "2016-10-16T21:10:33.433Z",
         "is_active": true,
         "artists": []
     }
@@ -1748,7 +1748,7 @@
         "date_time": "2016-11-03T02:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1305995-screaming-females-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.585Z",
+        "date_scraped": "2016-10-16T21:10:33.435Z",
         "is_active": true,
         "artists": []
     }
@@ -1762,7 +1762,7 @@
         "date_time": "2016-11-05T02:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1353467-mr-bill-his-live-band-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.588Z",
+        "date_scraped": "2016-10-16T21:10:33.436Z",
         "is_active": true,
         "artists": []
     }
@@ -1776,7 +1776,7 @@
         "date_time": "2016-11-05T03:30:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1326075-red-francis-tour-kickoff-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.591Z",
+        "date_scraped": "2016-10-16T21:10:33.438Z",
         "is_active": true,
         "artists": []
     }
@@ -1790,7 +1790,7 @@
         "date_time": "2016-11-06T00:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1346973-king-garbage-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.592Z",
+        "date_scraped": "2016-10-16T21:10:33.440Z",
         "is_active": true,
         "artists": []
     }
@@ -1804,7 +1804,7 @@
         "date_time": "2016-11-06T01:30:00Z",
         "price": "$16.00 - $18.00",
         "url": "http://www.subt.net/event/1218787-mc-chris-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.594Z",
+        "date_scraped": "2016-10-16T21:10:33.442Z",
         "is_active": true,
         "artists": []
     }
@@ -1818,7 +1818,7 @@
         "date_time": "2016-11-07T02:30:00Z",
         "price": "$10.00 - $12.00",
         "url": "http://www.subt.net/event/1321719-iamdynamite-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.596Z",
+        "date_scraped": "2016-10-16T21:10:33.444Z",
         "is_active": true,
         "artists": []
     }
@@ -1832,7 +1832,7 @@
         "date_time": "2016-11-10T03:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1320771-cassettes-on-tape-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.598Z",
+        "date_scraped": "2016-10-16T21:10:33.446Z",
         "is_active": true,
         "artists": []
     }
@@ -1846,7 +1846,7 @@
         "date_time": "2016-11-11T01:30:00Z",
         "price": "$18.00 - $20.00",
         "url": "http://www.subt.net/event/1310161-metro-station-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.600Z",
+        "date_scraped": "2016-10-16T21:10:33.448Z",
         "is_active": true,
         "artists": []
     }
@@ -1860,7 +1860,7 @@
         "date_time": "2016-11-12T01:00:00Z",
         "price": "$15.00 - $18.00",
         "url": "http://www.subt.net/event/1250075-alex-g-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.602Z",
+        "date_scraped": "2016-10-16T21:10:33.450Z",
         "is_active": true,
         "artists": []
     }
@@ -1874,7 +1874,7 @@
         "date_time": "2016-11-12T04:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1353819-new-color-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.604Z",
+        "date_scraped": "2016-10-16T21:10:33.452Z",
         "is_active": true,
         "artists": []
     }
@@ -1888,7 +1888,7 @@
         "date_time": "2016-11-13T00:30:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1301067-nnamdis-sooper-dooper-secret-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.606Z",
+        "date_scraped": "2016-10-16T21:10:33.453Z",
         "is_active": true,
         "artists": []
     }
@@ -1902,7 +1902,7 @@
         "date_time": "2016-11-13T03:00:00Z",
         "price": "$13.00 - $15.00",
         "url": "http://www.subt.net/event/1254763-arkells-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.608Z",
+        "date_scraped": "2016-10-16T21:10:33.455Z",
         "is_active": true,
         "artists": []
     }
@@ -1916,7 +1916,7 @@
         "date_time": "2016-11-13T04:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1343443-off-top-pt-9-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.610Z",
+        "date_scraped": "2016-10-16T21:10:33.457Z",
         "is_active": true,
         "artists": []
     }
@@ -1930,7 +1930,7 @@
         "date_time": "2016-11-14T00:00:00Z",
         "price": "$12.00 - $14.00",
         "url": "http://www.subt.net/event/1323179-bracewar-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.611Z",
+        "date_scraped": "2016-10-16T21:10:33.459Z",
         "is_active": true,
         "artists": []
     }
@@ -1944,7 +1944,7 @@
         "date_time": "2016-11-14T01:30:00Z",
         "price": "$17.50 - $225.00",
         "url": "http://www.subt.net/event/1342115-wesley-stromberg-emblem-3-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.614Z",
+        "date_scraped": "2016-10-16T21:10:33.461Z",
         "is_active": true,
         "artists": []
     }
@@ -1958,7 +1958,7 @@
         "date_time": "2016-11-15T01:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1272165-jeffrey-lewis-los-bolts-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.616Z",
+        "date_scraped": "2016-10-16T21:10:33.463Z",
         "is_active": true,
         "artists": []
     }
@@ -1972,7 +1972,7 @@
         "date_time": "2016-11-16T02:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1287811-trap-them-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.619Z",
+        "date_scraped": "2016-10-16T21:10:33.465Z",
         "is_active": true,
         "artists": []
     }
@@ -1986,7 +1986,7 @@
         "date_time": "2016-11-17T02:30:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1323181-marc-e-bassy-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.621Z",
+        "date_scraped": "2016-10-16T21:10:33.467Z",
         "is_active": true,
         "artists": []
     }
@@ -2000,7 +2000,7 @@
         "date_time": "2016-11-17T03:00:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1343429-infinity-shred-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.624Z",
+        "date_scraped": "2016-10-16T21:10:33.469Z",
         "is_active": true,
         "artists": []
     }
@@ -2014,7 +2014,7 @@
         "date_time": "2016-11-18T01:30:00Z",
         "price": "$16.00",
         "url": "http://www.subt.net/event/1241437-gavin-james-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.626Z",
+        "date_scraped": "2016-10-16T21:10:33.472Z",
         "is_active": true,
         "artists": []
     }
@@ -2028,7 +2028,7 @@
         "date_time": "2016-11-19T04:00:00Z",
         "price": "$12.00",
         "url": "http://www.subt.net/event/1348199-kid-perform-ok-computer-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.628Z",
+        "date_scraped": "2016-10-16T21:10:33.475Z",
         "is_active": true,
         "artists": []
     }
@@ -2042,7 +2042,7 @@
         "date_time": "2016-11-20T01:00:00Z",
         "price": "$8.00",
         "url": "http://www.subt.net/event/1319079-ono-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.630Z",
+        "date_scraped": "2016-10-16T21:10:33.478Z",
         "is_active": true,
         "artists": []
     }
@@ -2056,7 +2056,7 @@
         "date_time": "2016-11-20T03:30:00Z",
         "price": "$13.00 - $15.00",
         "url": "http://www.subt.net/event/1233859-slim-cessnas-auto-club-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.632Z",
+        "date_scraped": "2016-10-16T21:10:33.481Z",
         "is_active": true,
         "artists": []
     }
@@ -2070,7 +2070,7 @@
         "date_time": "2016-11-27T02:30:00Z",
         "price": "$15.00 - $20.00",
         "url": "http://www.subt.net/event/1338707-wax-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.634Z",
+        "date_scraped": "2016-10-16T21:10:33.483Z",
         "is_active": true,
         "artists": [
             252
@@ -2086,7 +2086,7 @@
         "date_time": "2016-11-28T02:00:00Z",
         "price": "$8.00 - $10.00",
         "url": "http://www.subt.net/event/1317851-mannequin-pussy-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.636Z",
+        "date_scraped": "2016-10-16T21:10:33.485Z",
         "is_active": true,
         "artists": []
     }
@@ -2100,7 +2100,7 @@
         "date_time": "2016-11-29T01:00:00Z",
         "price": "$10.00 - $12.00",
         "url": "http://www.subt.net/event/1346963-slaughter-beach-dog-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.638Z",
+        "date_scraped": "2016-10-16T21:10:33.487Z",
         "is_active": true,
         "artists": []
     }
@@ -2114,7 +2114,7 @@
         "date_time": "2016-12-04T05:00:00Z",
         "price": "$10.00 - $15.00",
         "url": "http://www.subt.net/event/1341791-fleetmac-wood-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.640Z",
+        "date_scraped": "2016-10-16T21:10:33.489Z",
         "is_active": true,
         "artists": []
     }
@@ -2128,7 +2128,7 @@
         "date_time": "2016-12-09T02:00:00Z",
         "price": "$15.00",
         "url": "http://www.subt.net/event/1334377-lizzo-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.642Z",
+        "date_scraped": "2016-10-16T21:10:33.491Z",
         "is_active": true,
         "artists": []
     }
@@ -2142,7 +2142,7 @@
         "date_time": "2016-12-10T03:30:00Z",
         "price": "$10.00",
         "url": "http://www.subt.net/event/1304531-sunjacket-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.644Z",
+        "date_scraped": "2016-10-16T21:10:33.493Z",
         "is_active": true,
         "artists": []
     }
@@ -2156,7 +2156,7 @@
         "date_time": "2017-01-14T01:00:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1273867-weekend-nachos-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.646Z",
+        "date_scraped": "2016-10-16T21:10:33.495Z",
         "is_active": true,
         "artists": []
     }
@@ -2170,7 +2170,7 @@
         "date_time": "2017-01-15T01:00:00Z",
         "price": "$12.00 - $15.00",
         "url": "http://www.subt.net/event/1274149-weekend-nachos-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.648Z",
+        "date_scraped": "2016-10-16T21:10:33.496Z",
         "is_active": true,
         "artists": []
     }
@@ -2184,7 +2184,7 @@
         "date_time": "2017-02-18T03:00:00Z",
         "price": "$12.00 - $14.00",
         "url": "http://www.subt.net/event/1279491-july-talk-chicago/",
-        "date_scraped": "2016-10-16T20:27:06.650Z",
+        "date_scraped": "2016-10-16T21:10:33.498Z",
         "is_active": true,
         "artists": []
     }
@@ -2198,7 +2198,7 @@
         "date_time": "2016-10-18T00:30:00Z",
         "price": "$10 GA",
         "url": "http://doubledoor.com/event/nina-diaz/",
-        "date_scraped": "2016-10-16T20:27:09.969Z",
+        "date_scraped": "2016-10-16T21:10:36.499Z",
         "is_active": true,
         "artists": []
     }
@@ -2212,7 +2212,7 @@
         "date_time": "2016-10-20T01:00:00Z",
         "price": "$15 Early Bird Tickets at calliopepresents.org  $25 ADV / $33 DOS",
         "url": "http://doubledoor.com/event/carnivale-delirium-the-spookshow-spectacular-2016/",
-        "date_scraped": "2016-10-16T20:27:09.972Z",
+        "date_scraped": "2016-10-16T21:10:36.503Z",
         "is_active": true,
         "artists": []
     }
@@ -2226,7 +2226,7 @@
         "date_time": "2016-10-21T01:00:00Z",
         "price": "$12.50 Earlybird  / $15 GA / $18 GA ADV / $20 DOS",
         "url": "http://doubledoor.com/event/hayden-james/",
-        "date_scraped": "2016-10-16T20:27:09.973Z",
+        "date_scraped": "2016-10-16T21:10:36.505Z",
         "is_active": true,
         "artists": []
     }
@@ -2240,7 +2240,7 @@
         "date_time": "2016-10-22T01:00:00Z",
         "price": "$25 ADV / $28 DOS",
         "url": "http://doubledoor.com/event/failure/",
-        "date_scraped": "2016-10-16T20:27:09.975Z",
+        "date_scraped": "2016-10-16T21:10:36.506Z",
         "is_active": true,
         "artists": []
     }
@@ -2254,7 +2254,7 @@
         "date_time": "2016-10-23T02:00:00Z",
         "price": "$10 w/ RSVP @ www.do312.com/cumbiasazo  / $15 ADV / $20 VIP",
         "url": "http://doubledoor.com/event/6655358cumbiasazodance-party-chicago-double-door/",
-        "date_scraped": "2016-10-16T20:27:09.976Z",
+        "date_scraped": "2016-10-16T21:10:36.507Z",
         "is_active": true,
         "artists": []
     }
@@ -2268,7 +2268,7 @@
         "date_time": "2016-10-26T00:30:00Z",
         "price": "$10 GA",
         "url": "http://doubledoor.com/event/tsushemamire/",
-        "date_scraped": "2016-10-16T20:27:09.977Z",
+        "date_scraped": "2016-10-16T21:10:36.509Z",
         "is_active": true,
         "artists": []
     }
@@ -2282,7 +2282,7 @@
         "date_time": "2016-10-27T02:00:00Z",
         "price": "FREE SHOW",
         "url": "http://doubledoor.com/event/fabitat-5/",
-        "date_scraped": "2016-10-16T20:27:09.978Z",
+        "date_scraped": "2016-10-16T21:10:36.510Z",
         "is_active": true,
         "artists": []
     }
@@ -2296,7 +2296,7 @@
         "date_time": "2016-10-28T00:00:00Z",
         "price": "$10 ADV / $15 DOS",
         "url": "http://doubledoor.com/event/logan-cage/",
-        "date_scraped": "2016-10-16T20:27:09.980Z",
+        "date_scraped": "2016-10-16T21:10:36.512Z",
         "is_active": true,
         "artists": []
     }
@@ -2310,7 +2310,7 @@
         "date_time": "2016-10-29T00:00:00Z",
         "price": "$20 GA",
         "url": "http://doubledoor.com/event/bad-suns/",
-        "date_scraped": "2016-10-16T20:27:09.982Z",
+        "date_scraped": "2016-10-16T21:10:36.513Z",
         "is_active": true,
         "artists": []
     }
@@ -2324,7 +2324,7 @@
         "date_time": "2016-10-29T02:00:00Z",
         "price": "FREE SHOW",
         "url": "http://doubledoor.com/event/the-curls/",
-        "date_scraped": "2016-10-16T20:27:09.984Z",
+        "date_scraped": "2016-10-16T21:10:36.514Z",
         "is_active": true,
         "artists": []
     }
@@ -2338,7 +2338,7 @@
         "date_time": "2016-10-30T00:30:00Z",
         "price": "$18 ADV / $20 DOS",
         "url": "http://doubledoor.com/event/local-h-as-nirvana/",
-        "date_scraped": "2016-10-16T20:27:09.985Z",
+        "date_scraped": "2016-10-16T21:10:36.515Z",
         "is_active": true,
         "artists": [
             482,
@@ -2355,7 +2355,7 @@
         "date_time": "2016-10-31T00:00:00Z",
         "price": "$22 Earlybird / $25 GA / $28 at the Door",
         "url": "http://doubledoor.com/event/tricky/",
-        "date_scraped": "2016-10-16T20:27:09.987Z",
+        "date_scraped": "2016-10-16T21:10:36.516Z",
         "is_active": true,
         "artists": []
     }
@@ -2369,7 +2369,7 @@
         "date_time": "2016-11-05T01:00:00Z",
         "price": "$25 GA",
         "url": "http://doubledoor.com/event/letters-to-cleo/",
-        "date_scraped": "2016-10-16T20:27:09.989Z",
+        "date_scraped": "2016-10-16T21:10:36.517Z",
         "is_active": true,
         "artists": []
     }
@@ -2383,7 +2383,7 @@
         "date_time": "2016-11-06T01:00:00Z",
         "price": "$28 ADV / $30 DOS",
         "url": "http://doubledoor.com/event/the-gories/",
-        "date_scraped": "2016-10-16T20:27:09.991Z",
+        "date_scraped": "2016-10-16T21:10:36.518Z",
         "is_active": true,
         "artists": []
     }
@@ -2397,7 +2397,7 @@
         "date_time": "2016-11-08T02:00:00Z",
         "price": "$25 GA",
         "url": "http://doubledoor.com/event/roisin-murphy/",
-        "date_scraped": "2016-10-16T20:27:09.993Z",
+        "date_scraped": "2016-10-16T21:10:36.520Z",
         "is_active": true,
         "artists": []
     }
@@ -2411,7 +2411,7 @@
         "date_time": "2016-11-10T03:00:00Z",
         "price": "FREE SHOW",
         "url": "http://doubledoor.com/event/fabitat-8/",
-        "date_scraped": "2016-10-16T20:27:09.995Z",
+        "date_scraped": "2016-10-16T21:10:36.521Z",
         "is_active": true,
         "artists": []
     }
@@ -2425,7 +2425,7 @@
         "date_time": "2016-11-11T02:00:00Z",
         "price": "$12.50 Earlybird  / $15.50 GA ADV / $20 ADV",
         "url": "http://doubledoor.com/event/lemaitre/",
-        "date_scraped": "2016-10-16T20:27:09.997Z",
+        "date_scraped": "2016-10-16T21:10:36.522Z",
         "is_active": true,
         "artists": []
     }
@@ -2439,7 +2439,7 @@
         "date_time": "2016-11-12T02:00:00Z",
         "price": "$10 ADV / $15 DOS",
         "url": "http://doubledoor.com/event/darmata/",
-        "date_scraped": "2016-10-16T20:27:09.999Z",
+        "date_scraped": "2016-10-16T21:10:36.523Z",
         "is_active": true,
         "artists": []
     }
@@ -2453,7 +2453,7 @@
         "date_time": "2016-11-12T03:00:00Z",
         "price": "FREE SHOW before 11PM/ $5 after 11PM",
         "url": "http://doubledoor.com/event/push-beats-4/",
-        "date_scraped": "2016-10-16T20:27:10.001Z",
+        "date_scraped": "2016-10-16T21:10:36.525Z",
         "is_active": true,
         "artists": []
     }
@@ -2467,7 +2467,7 @@
         "date_time": "2016-11-13T03:00:00Z",
         "price": "$12 GA",
         "url": "http://doubledoor.com/event/%ef%bb%bfdance-yourself-clean-an-indie-pop-dance-party/",
-        "date_scraped": "2016-10-16T20:27:10.003Z",
+        "date_scraped": "2016-10-16T21:10:36.526Z",
         "is_active": true,
         "artists": []
     }
@@ -2481,7 +2481,7 @@
         "date_time": "2016-11-13T04:00:00Z",
         "price": "FREE SHOW",
         "url": "http://doubledoor.com/event/simmer-down-sound-5/",
-        "date_scraped": "2016-10-16T20:27:10.005Z",
+        "date_scraped": "2016-10-16T21:10:36.527Z",
         "is_active": true,
         "artists": []
     }
@@ -2495,7 +2495,7 @@
         "date_time": "2016-11-18T01:00:00Z",
         "price": "$25 ADV / $30 DOS",
         "url": "http://doubledoor.com/event/bouncing-souls/",
-        "date_scraped": "2016-10-16T20:27:10.007Z",
+        "date_scraped": "2016-10-16T21:10:36.528Z",
         "is_active": true,
         "artists": []
     }
@@ -2509,7 +2509,7 @@
         "date_time": "2016-11-19T00:00:00Z",
         "price": "$25 ADV / $30 DOS",
         "url": "http://doubledoor.com/event/the-bouncing-souls/",
-        "date_scraped": "2016-10-16T20:27:10.008Z",
+        "date_scraped": "2016-10-16T21:10:36.529Z",
         "is_active": true,
         "artists": []
     }
@@ -2523,7 +2523,7 @@
         "date_time": "2016-11-24T02:00:00Z",
         "price": "$14 Earlybird / $16 GA / $18 at the door",
         "url": "http://doubledoor.com/event/the-jezabels/",
-        "date_scraped": "2016-10-16T20:27:10.011Z",
+        "date_scraped": "2016-10-16T21:10:36.530Z",
         "is_active": true,
         "artists": []
     }
@@ -2537,7 +2537,7 @@
         "date_time": "2016-11-26T02:00:00Z",
         "price": "$10 ADV / $15 DOS",
         "url": "http://doubledoor.com/event/austin-fillmore/",
-        "date_scraped": "2016-10-16T20:27:10.013Z",
+        "date_scraped": "2016-10-16T21:10:36.531Z",
         "is_active": true,
         "artists": []
     }
@@ -2551,7 +2551,7 @@
         "date_time": "2016-12-02T01:00:00Z",
         "price": "$20 GA",
         "url": "http://doubledoor.com/event/copeland/",
-        "date_scraped": "2016-10-16T20:27:10.015Z",
+        "date_scraped": "2016-10-16T21:10:36.532Z",
         "is_active": true,
         "artists": []
     }
@@ -2565,7 +2565,7 @@
         "date_time": "2016-12-03T02:00:00Z",
         "price": "$39.98 ADV / $45 DOS",
         "url": "http://doubledoor.com/event/cock-sparrer/",
-        "date_scraped": "2016-10-16T20:27:10.017Z",
+        "date_scraped": "2016-10-16T21:10:36.533Z",
         "is_active": true,
         "artists": []
     }
@@ -2579,7 +2579,7 @@
         "date_time": "2016-12-04T02:00:00Z",
         "price": "$39.98 ADV / $45 DOS",
         "url": "http://doubledoor.com/event/3525/",
-        "date_scraped": "2016-10-16T20:27:10.019Z",
+        "date_scraped": "2016-10-16T21:10:36.534Z",
         "is_active": true,
         "artists": []
     }
@@ -2593,7 +2593,7 @@
         "date_time": "2016-12-17T00:00:00Z",
         "price": "$15 GA",
         "url": "http://doubledoor.com/event/foxing/",
-        "date_scraped": "2016-10-16T20:27:10.020Z",
+        "date_scraped": "2016-10-16T21:10:36.536Z",
         "is_active": true,
         "artists": []
     }
@@ -2607,7 +2607,7 @@
         "date_time": "2017-01-14T02:00:00Z",
         "price": "$10 ADV / $15 DOS",
         "url": "http://doubledoor.com/event/sneezy/",
-        "date_scraped": "2016-10-16T20:27:10.022Z",
+        "date_scraped": "2016-10-16T21:10:36.539Z",
         "is_active": true,
         "artists": []
     }
@@ -2621,7 +2621,7 @@
         "date_time": "2017-02-15T02:00:00Z",
         "price": "$25 ADV / $28 DOS / $65 VIP (ticket to the show, 30 min early entry, show poster, meet n greet)",
         "url": "http://doubledoor.com/event/lordi/",
-        "date_scraped": "2016-10-16T20:27:10.024Z",
+        "date_scraped": "2016-10-16T21:10:36.541Z",
         "is_active": true,
         "artists": []
     }
@@ -2635,7 +2635,7 @@
         "date_time": "2016-10-16T15:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1807C9596B&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.094Z",
+        "date_scraped": "2016-10-16T21:10:53.426Z",
         "is_active": true,
         "artists": []
     }
@@ -2649,7 +2649,7 @@
         "date_time": "2016-10-16T17:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1808FB5A59&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.098Z",
+        "date_scraped": "2016-10-16T21:10:53.428Z",
         "is_active": true,
         "artists": []
     }
@@ -2663,7 +2663,7 @@
         "date_time": "2016-10-16T22:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050D0A8D33900&offerid=29969",
-        "date_scraped": "2016-10-16T20:27:28.099Z",
+        "date_scraped": "2016-10-16T21:10:53.429Z",
         "is_active": true,
         "artists": [
             95
@@ -2679,7 +2679,7 @@
         "date_time": "2016-10-20T00:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513AD9FE2CE4&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.101Z",
+        "date_scraped": "2016-10-16T21:10:53.430Z",
         "is_active": true,
         "artists": []
     }
@@ -2693,7 +2693,7 @@
         "date_time": "2016-10-21T22:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005103BC251FB0&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.103Z",
+        "date_scraped": "2016-10-16T21:10:53.431Z",
         "is_active": true,
         "artists": []
     }
@@ -2707,7 +2707,7 @@
         "date_time": "2016-10-23T15:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1807CD596D&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.105Z",
+        "date_scraped": "2016-10-16T21:10:53.433Z",
         "is_active": true,
         "artists": []
     }
@@ -2721,7 +2721,7 @@
         "date_time": "2016-10-23T17:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1808FF5A5B&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.106Z",
+        "date_scraped": "2016-10-16T21:10:53.434Z",
         "is_active": true,
         "artists": []
     }
@@ -2735,7 +2735,7 @@
         "date_time": "2016-10-23T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400514AEFA13F67&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.108Z",
+        "date_scraped": "2016-10-16T21:10:53.435Z",
         "is_active": true,
         "artists": []
     }
@@ -2749,7 +2749,7 @@
         "date_time": "2016-10-25T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050C7FBBD5B05&offerid=29970",
-        "date_scraped": "2016-10-16T20:27:28.109Z",
+        "date_scraped": "2016-10-16T21:10:53.436Z",
         "is_active": true,
         "artists": []
     }
@@ -2763,7 +2763,7 @@
         "date_time": "2016-10-26T21:15:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050FBF84863CD&offerid=29971",
-        "date_scraped": "2016-10-16T20:27:28.110Z",
+        "date_scraped": "2016-10-16T21:10:53.438Z",
         "is_active": true,
         "artists": []
     }
@@ -2777,7 +2777,7 @@
         "date_time": "2016-10-28T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050EDC99C405A&offerid=29972",
-        "date_scraped": "2016-10-16T20:27:28.112Z",
+        "date_scraped": "2016-10-16T21:10:53.439Z",
         "is_active": true,
         "artists": [
             154
@@ -2793,7 +2793,7 @@
         "date_time": "2016-10-30T00:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050E8D80F4F30&offerid=29889",
-        "date_scraped": "2016-10-16T20:27:28.114Z",
+        "date_scraped": "2016-10-16T21:10:53.440Z",
         "is_active": true,
         "artists": []
     }
@@ -2807,7 +2807,7 @@
         "date_time": "2016-10-30T15:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1807D05972&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.116Z",
+        "date_scraped": "2016-10-16T21:10:53.441Z",
         "is_active": true,
         "artists": []
     }
@@ -2821,7 +2821,7 @@
         "date_time": "2016-10-30T17:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1809035A5D&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.117Z",
+        "date_scraped": "2016-10-16T21:10:53.442Z",
         "is_active": true,
         "artists": []
     }
@@ -2835,7 +2835,7 @@
         "date_time": "2016-10-30T22:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400511E00197905&offerid=36816",
-        "date_scraped": "2016-10-16T20:27:28.119Z",
+        "date_scraped": "2016-10-16T21:10:53.443Z",
         "is_active": true,
         "artists": []
     }
@@ -2849,7 +2849,7 @@
         "date_time": "2016-10-31T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005110E08C48AB&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.120Z",
+        "date_scraped": "2016-10-16T21:10:53.445Z",
         "is_active": true,
         "artists": []
     }
@@ -2863,7 +2863,7 @@
         "date_time": "2016-11-01T21:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050EEB5E91FB4&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.122Z",
+        "date_scraped": "2016-10-16T21:10:53.446Z",
         "is_active": true,
         "artists": []
     }
@@ -2877,7 +2877,7 @@
         "date_time": "2016-11-02T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005122057648ED&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.123Z",
+        "date_scraped": "2016-10-16T21:10:53.447Z",
         "is_active": true,
         "artists": []
     }
@@ -2891,7 +2891,7 @@
         "date_time": "2016-11-03T21:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050C9157460CB&offerid=29890",
-        "date_scraped": "2016-10-16T20:27:28.125Z",
+        "date_scraped": "2016-10-16T21:10:53.448Z",
         "is_active": true,
         "artists": []
     }
@@ -2905,7 +2905,7 @@
         "date_time": "2016-11-04T23:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050C917126112&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.126Z",
+        "date_scraped": "2016-10-16T21:10:53.449Z",
         "is_active": true,
         "artists": []
     }
@@ -2919,7 +2919,7 @@
         "date_time": "2016-11-06T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050539DD816C2&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.128Z",
+        "date_scraped": "2016-10-16T21:10:53.450Z",
         "is_active": true,
         "artists": []
     }
@@ -2933,7 +2933,7 @@
         "date_time": "2016-11-06T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18084659CB&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.129Z",
+        "date_scraped": "2016-10-16T21:10:53.453Z",
         "is_active": true,
         "artists": []
     }
@@ -2947,7 +2947,7 @@
         "date_time": "2016-11-06T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1809065A5F&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.131Z",
+        "date_scraped": "2016-10-16T21:10:53.456Z",
         "is_active": true,
         "artists": []
     }
@@ -2961,7 +2961,7 @@
         "date_time": "2016-11-11T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050ECC6431D22&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.132Z",
+        "date_scraped": "2016-10-16T21:10:53.460Z",
         "is_active": true,
         "artists": []
     }
@@ -2975,7 +2975,7 @@
         "date_time": "2016-11-13T01:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005146B5AA1A82&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.134Z",
+        "date_scraped": "2016-10-16T21:10:53.463Z",
         "is_active": true,
         "artists": []
     }
@@ -2989,7 +2989,7 @@
         "date_time": "2016-11-13T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18084959CD&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.136Z",
+        "date_scraped": "2016-10-16T21:10:53.465Z",
         "is_active": true,
         "artists": []
     }
@@ -3003,7 +3003,7 @@
         "date_time": "2016-11-13T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18090A5A63&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.138Z",
+        "date_scraped": "2016-10-16T21:10:53.468Z",
         "is_active": true,
         "artists": []
     }
@@ -3017,7 +3017,7 @@
         "date_time": "2016-11-13T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513E1224970F&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.140Z",
+        "date_scraped": "2016-10-16T21:10:53.471Z",
         "is_active": true,
         "artists": []
     }
@@ -3031,7 +3031,7 @@
         "date_time": "2016-11-15T23:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400510900B96D43&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.142Z",
+        "date_scraped": "2016-10-16T21:10:53.473Z",
         "is_active": true,
         "artists": []
     }
@@ -3045,7 +3045,7 @@
         "date_time": "2016-11-16T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050FB36D37003&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.145Z",
+        "date_scraped": "2016-10-16T21:10:53.475Z",
         "is_active": true,
         "artists": []
     }
@@ -3059,7 +3059,7 @@
         "date_time": "2016-11-18T01:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400510AD2E81F87&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.149Z",
+        "date_scraped": "2016-10-16T21:10:53.477Z",
         "is_active": true,
         "artists": [
             543
@@ -3075,7 +3075,7 @@
         "date_time": "2016-11-19T03:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050D3A3E91768&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.152Z",
+        "date_scraped": "2016-10-16T21:10:53.479Z",
         "is_active": true,
         "artists": []
     }
@@ -3089,7 +3089,7 @@
         "date_time": "2016-11-20T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050B2276163A7&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.156Z",
+        "date_scraped": "2016-10-16T21:10:53.481Z",
         "is_active": true,
         "artists": []
     }
@@ -3103,7 +3103,7 @@
         "date_time": "2016-11-20T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18084D59CF&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.159Z",
+        "date_scraped": "2016-10-16T21:10:53.483Z",
         "is_active": true,
         "artists": []
     }
@@ -3117,7 +3117,7 @@
         "date_time": "2016-11-20T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18090D5A65&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.162Z",
+        "date_scraped": "2016-10-16T21:10:53.485Z",
         "is_active": true,
         "artists": []
     }
@@ -3131,7 +3131,7 @@
         "date_time": "2016-11-24T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400512B05EA35FA&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.165Z",
+        "date_scraped": "2016-10-16T21:10:53.487Z",
         "is_active": true,
         "artists": []
     }
@@ -3145,7 +3145,7 @@
         "date_time": "2016-11-26T01:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050DC32645AFC&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.169Z",
+        "date_scraped": "2016-10-16T21:10:53.489Z",
         "is_active": true,
         "artists": []
     }
@@ -3159,7 +3159,7 @@
         "date_time": "2016-11-27T00:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005111C02E14DD&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.171Z",
+        "date_scraped": "2016-10-16T21:10:53.491Z",
         "is_active": true,
         "artists": []
     }
@@ -3173,7 +3173,7 @@
         "date_time": "2016-11-27T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18085159D6&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.174Z",
+        "date_scraped": "2016-10-16T21:10:53.493Z",
         "is_active": true,
         "artists": []
     }
@@ -3187,7 +3187,7 @@
         "date_time": "2016-11-27T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1809115A68&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.176Z",
+        "date_scraped": "2016-10-16T21:10:53.495Z",
         "is_active": true,
         "artists": []
     }
@@ -3201,7 +3201,7 @@
         "date_time": "2016-12-01T00:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400512EC2631D5B&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.179Z",
+        "date_scraped": "2016-10-16T21:10:53.497Z",
         "is_active": true,
         "artists": []
     }
@@ -3215,7 +3215,7 @@
         "date_time": "2016-12-02T23:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513601432CB0&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.180Z",
+        "date_scraped": "2016-10-16T21:10:53.499Z",
         "is_active": true,
         "artists": []
     }
@@ -3229,7 +3229,7 @@
         "date_time": "2016-12-03T23:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400510AC9111CB2&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.182Z",
+        "date_scraped": "2016-10-16T21:10:53.501Z",
         "is_active": true,
         "artists": []
     }
@@ -3243,7 +3243,7 @@
         "date_time": "2016-12-04T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18085459D9&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.183Z",
+        "date_scraped": "2016-10-16T21:10:53.504Z",
         "is_active": true,
         "artists": []
     }
@@ -3257,7 +3257,7 @@
         "date_time": "2016-12-04T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1809155A6A&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.184Z",
+        "date_scraped": "2016-10-16T21:10:53.506Z",
         "is_active": true,
         "artists": []
     }
@@ -3271,7 +3271,7 @@
         "date_time": "2016-12-05T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040050E92CB20954&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.186Z",
+        "date_scraped": "2016-10-16T21:10:53.508Z",
         "is_active": true,
         "artists": []
     }
@@ -3285,7 +3285,7 @@
         "date_time": "2016-12-07T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400514DFCA140B5&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.187Z",
+        "date_scraped": "2016-10-16T21:10:53.511Z",
         "is_active": true,
         "artists": []
     }
@@ -3299,7 +3299,7 @@
         "date_time": "2016-12-10T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005105C6F04976&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.188Z",
+        "date_scraped": "2016-10-16T21:10:53.513Z",
         "is_active": true,
         "artists": []
     }
@@ -3313,7 +3313,7 @@
         "date_time": "2016-12-10T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005105C9844A62&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.189Z",
+        "date_scraped": "2016-10-16T21:10:53.515Z",
         "is_active": true,
         "artists": []
     }
@@ -3327,7 +3327,7 @@
         "date_time": "2016-12-11T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005105C7B849C6&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.190Z",
+        "date_scraped": "2016-10-16T21:10:53.517Z",
         "is_active": true,
         "artists": []
     }
@@ -3341,7 +3341,7 @@
         "date_time": "2016-12-11T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18085859DB&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.192Z",
+        "date_scraped": "2016-10-16T21:10:53.519Z",
         "is_active": true,
         "artists": []
     }
@@ -3355,7 +3355,7 @@
         "date_time": "2016-12-11T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1809195A6F&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.193Z",
+        "date_scraped": "2016-10-16T21:10:53.521Z",
         "is_active": true,
         "artists": []
     }
@@ -3369,7 +3369,7 @@
         "date_time": "2016-12-18T01:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400512F080C444A&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.194Z",
+        "date_scraped": "2016-10-16T21:10:53.524Z",
         "is_active": true,
         "artists": []
     }
@@ -3383,7 +3383,7 @@
         "date_time": "2016-12-18T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18085B59DD&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.196Z",
+        "date_scraped": "2016-10-16T21:10:53.525Z",
         "is_active": true,
         "artists": []
     }
@@ -3397,7 +3397,7 @@
         "date_time": "2016-12-18T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18091D5A71&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.197Z",
+        "date_scraped": "2016-10-16T21:10:53.527Z",
         "is_active": true,
         "artists": []
     }
@@ -3411,7 +3411,7 @@
         "date_time": "2016-12-19T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005147FC2D4C32&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.198Z",
+        "date_scraped": "2016-10-16T21:10:53.529Z",
         "is_active": true,
         "artists": []
     }
@@ -3425,7 +3425,7 @@
         "date_time": "2016-12-21T01:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005111B56412A8&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.199Z",
+        "date_scraped": "2016-10-16T21:10:53.531Z",
         "is_active": true,
         "artists": []
     }
@@ -3439,7 +3439,7 @@
         "date_time": "2016-12-22T01:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005111B3CA127C&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.200Z",
+        "date_scraped": "2016-10-16T21:10:53.532Z",
         "is_active": true,
         "artists": []
     }
@@ -3453,7 +3453,7 @@
         "date_time": "2016-12-23T00:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005141208C32F0&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.201Z",
+        "date_scraped": "2016-10-16T21:10:53.534Z",
         "is_active": true,
         "artists": []
     }
@@ -3467,7 +3467,7 @@
         "date_time": "2016-12-25T16:00:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F18085F59DF&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.203Z",
+        "date_scraped": "2016-10-16T21:10:53.535Z",
         "is_active": true,
         "artists": []
     }
@@ -3481,9 +3481,611 @@
         "date_time": "2016-12-25T18:30:00Z",
         "price": "Check ticket site for price.",
         "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04004F1809205A73&offerid=0",
-        "date_scraped": "2016-10-16T20:27:28.204Z",
+        "date_scraped": "2016-10-16T21:10:53.537Z",
         "is_active": true,
         "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 249,
+    "fields": {
+        "billing": "Billy Bragg and Joe Henry",
+        "venue": 6,
+        "date_time": "2016-10-19T00:30:00Z",
+        "price": "$34 / $44 / $66",
+        "url": "http://thaliahallchicago.com/?event_id=6718075",
+        "date_scraped": "2016-10-16T21:10:53.760Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 250,
+    "fields": {
+        "billing": "Red Bull Sound Select Presents: A Quest for Love Tour  with Mick Jenkins, Smino and Kweku Collins",
+        "venue": 6,
+        "date_time": "2016-10-21T02:00:00Z",
+        "price": "$3 w/ RSVP, $10 w/o RSVP",
+        "url": "http://thaliahallchicago.com/?event_id=6868735",
+        "date_scraped": "2016-10-16T21:10:53.763Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 251,
+    "fields": {
+        "billing": "Colbie Caillat : The Malibu Sessions Acoustic Tour with High Dive Heart and Justin Young",
+        "venue": 6,
+        "date_time": "2016-10-22T00:30:00Z",
+        "price": "$30 / $40",
+        "url": "http://thaliahallchicago.com/?event_id=6755855",
+        "date_scraped": "2016-10-16T21:10:53.765Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 252,
+    "fields": {
+        "billing": "Hinds 'In The Round' with Cold Fronts",
+        "venue": 6,
+        "date_time": "2016-10-25T01:30:00Z",
+        "price": "$16",
+        "url": "http://thaliahallchicago.com/?event_id=6808825",
+        "date_scraped": "2016-10-16T21:10:53.766Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 253,
+    "fields": {
+        "billing": "The Strumbellas with Special Guest Foreign Air",
+        "venue": 6,
+        "date_time": "2016-10-26T00:30:00Z",
+        "price": "$16 (adv), $19 / $26",
+        "url": "http://thaliahallchicago.com/?event_id=6710745",
+        "date_scraped": "2016-10-16T21:10:53.767Z",
+        "is_active": true,
+        "artists": [
+            531
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 254,
+    "fields": {
+        "billing": "Frankie Cosmos with Big Thief 'In The Round'",
+        "venue": 6,
+        "date_time": "2016-10-27T00:30:00Z",
+        "price": "$16 (adv), $18",
+        "url": "http://thaliahallchicago.com/?event_id=6889415",
+        "date_scraped": "2016-10-16T21:10:53.769Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 255,
+    "fields": {
+        "billing": "Esperanza Spalding presents:  Emily\u2019s D+Evolution",
+        "venue": 6,
+        "date_time": "2016-10-28T01:00:00Z",
+        "price": "$37 / $47",
+        "url": "http://thaliahallchicago.com/?event_id=6850415",
+        "date_scraped": "2016-10-16T21:10:53.770Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 256,
+    "fields": {
+        "billing": "Lucero with Cory Branan",
+        "venue": 6,
+        "date_time": "2016-10-29T01:00:00Z",
+        "price": "$25 (adv), $27 / $37",
+        "url": "http://thaliahallchicago.com/?event_id=6777885",
+        "date_scraped": "2016-10-16T21:10:53.772Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 257,
+    "fields": {
+        "billing": "Trial By Fire feat. YELAWOLF, Bubba Sparxxx, Jelly Roll and Struggle Jennings",
+        "venue": 6,
+        "date_time": "2016-10-30T01:30:00Z",
+        "price": "$25 / $28",
+        "url": "http://thaliahallchicago.com/?event_id=6817275",
+        "date_scraped": "2016-10-16T21:10:53.774Z",
+        "is_active": true,
+        "artists": [
+            56
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 258,
+    "fields": {
+        "billing": "SPOOKY FAMILY MOVIE DAY feat. Casper and Hocus Pocus",
+        "venue": 6,
+        "date_time": "2016-10-30T20:00:00Z",
+        "price": "$10",
+        "url": "http://thaliahallchicago.com/?event_id=6963495",
+        "date_scraped": "2016-10-16T21:10:53.776Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 259,
+    "fields": {
+        "billing": "JOHN CARPENTER MOVIE NIGHT feat. Halloween and The Thing",
+        "venue": 6,
+        "date_time": "2016-10-31T00:30:00Z",
+        "price": "$10",
+        "url": "http://thaliahallchicago.com/?event_id=6963505",
+        "date_scraped": "2016-10-16T21:10:53.777Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 260,
+    "fields": {
+        "billing": "Pitchfork and Good Beer Hunting present OCT31 w/ Baroness, Bloodiest & Matchess",
+        "venue": 6,
+        "date_time": "2016-11-01T01:00:00Z",
+        "price": "$50",
+        "url": "http://thaliahallchicago.com/?event_id=6937765",
+        "date_scraped": "2016-10-16T21:10:53.779Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 261,
+    "fields": {
+        "billing": "St. Paul and The Broken Bones with Diane Coffee, presented by Thalia Hall, NS2 & MSG",
+        "venue": 6,
+        "date_time": "2016-11-02T01:00:00Z",
+        "price": "$35.00",
+        "url": "http://thaliahallchicago.com/?event_id=6770805",
+        "date_scraped": "2016-10-16T21:10:53.780Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 262,
+    "fields": {
+        "billing": "The Weepies \u2013 Completely Acoustic and Alone",
+        "venue": 6,
+        "date_time": "2016-11-03T01:00:00Z",
+        "price": "$26 / $46",
+        "url": "http://thaliahallchicago.com/?event_id=6816955",
+        "date_scraped": "2016-10-16T21:10:53.782Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 263,
+    "fields": {
+        "billing": "Criminal Podcast",
+        "venue": 6,
+        "date_time": "2016-11-05T02:00:00Z",
+        "price": "$20",
+        "url": "http://thaliahallchicago.com/?event_id=6841435",
+        "date_scraped": "2016-10-16T21:10:53.784Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 264,
+    "fields": {
+        "billing": "WXRT Big Beat welcomes Mitski with Fear of Men and Weaves",
+        "venue": 6,
+        "date_time": "2016-11-06T01:00:00Z",
+        "price": "$18 (adv), $20 / $26",
+        "url": "http://thaliahallchicago.com/?event_id=6842015",
+        "date_scraped": "2016-10-16T21:10:53.786Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 265,
+    "fields": {
+        "billing": "Joshua Radin with Good Old War",
+        "venue": 6,
+        "date_time": "2016-11-09T01:30:00Z",
+        "price": "$27 (adv), $29 / $47",
+        "url": "http://thaliahallchicago.com/?event_id=6816895",
+        "date_scraped": "2016-10-16T21:10:53.787Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 266,
+    "fields": {
+        "billing": "Nicolas Jaar Live",
+        "venue": 6,
+        "date_time": "2016-11-10T03:00:00Z",
+        "price": "$25 /$30",
+        "url": "http://thaliahallchicago.com/?event_id=6896805",
+        "date_scraped": "2016-10-16T21:10:53.789Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 267,
+    "fields": {
+        "billing": "DIIV with Moon King",
+        "venue": 6,
+        "date_time": "2016-11-11T02:30:00Z",
+        "price": "$20 (adv), $22 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=6944705",
+        "date_scraped": "2016-10-16T21:10:53.791Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 268,
+    "fields": {
+        "billing": "WXRT presents Aurora with special guest Dan Croll",
+        "venue": 6,
+        "date_time": "2016-11-12T03:00:00Z",
+        "price": "$20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=6888155",
+        "date_scraped": "2016-10-16T21:10:53.792Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 269,
+    "fields": {
+        "billing": "Johnnyswim with Jonny P",
+        "venue": 6,
+        "date_time": "2016-11-13T02:00:00Z",
+        "price": "$25 / $39",
+        "url": "http://thaliahallchicago.com/?event_id=6817005",
+        "date_scraped": "2016-10-16T21:10:53.794Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 270,
+    "fields": {
+        "billing": "An Evening with Amanda Palmer",
+        "venue": 6,
+        "date_time": "2016-11-14T01:30:00Z",
+        "price": "$26 / $56",
+        "url": "http://thaliahallchicago.com/?event_id=6891675",
+        "date_scraped": "2016-10-16T21:10:53.795Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 271,
+    "fields": {
+        "billing": "Speed Rack",
+        "venue": 6,
+        "date_time": "2016-11-15T00:00:00Z",
+        "price": "$25 (adv) / $30",
+        "url": "http://thaliahallchicago.com/?event_id=6964135",
+        "date_scraped": "2016-10-16T21:10:53.797Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 272,
+    "fields": {
+        "billing": "Maynard James Keenan",
+        "venue": 6,
+        "date_time": "2016-11-17T01:00:00Z",
+        "price": "$65",
+        "url": "http://thaliahallchicago.com/?event_id=6813545",
+        "date_scraped": "2016-10-16T21:10:53.798Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 273,
+    "fields": {
+        "billing": "Maynard James Keenan",
+        "venue": 6,
+        "date_time": "2016-11-17T04:30:00Z",
+        "price": "$65",
+        "url": "http://thaliahallchicago.com/?event_id=6842675",
+        "date_scraped": "2016-10-16T21:10:53.801Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 274,
+    "fields": {
+        "billing": "Seu Jorge Presents The Life Aquatic A Tribute To David Bowie",
+        "venue": 6,
+        "date_time": "2016-11-18T00:00:00Z",
+        "price": "$35 / $50",
+        "url": "http://thaliahallchicago.com/?event_id=6858445",
+        "date_scraped": "2016-10-16T21:10:53.803Z",
+        "is_active": true,
+        "artists": [
+            180,
+            259
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 275,
+    "fields": {
+        "billing": "Seu Jorge Presents The Life Aquatic A Tribute To David Bowie",
+        "venue": 6,
+        "date_time": "2016-11-18T03:00:00Z",
+        "price": "$35 / $50",
+        "url": "http://thaliahallchicago.com/?event_id=6847395",
+        "date_scraped": "2016-10-16T21:10:53.805Z",
+        "is_active": true,
+        "artists": [
+            180,
+            259
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 276,
+    "fields": {
+        "billing": "WXRT & Oak Park Food Pantry  present Jason Isbell with Robbie Fulks, (acoustic performance)",
+        "venue": 6,
+        "date_time": "2016-11-19T01:30:00Z",
+        "price": "$41 / $81",
+        "url": "http://thaliahallchicago.com/?event_id=6836855",
+        "date_scraped": "2016-10-16T21:10:53.808Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 277,
+    "fields": {
+        "billing": "Thee Oh Sees with  Running and Gr\u00fcn Wasser",
+        "venue": 6,
+        "date_time": "2016-11-20T02:30:00Z",
+        "price": "$20",
+        "url": "http://thaliahallchicago.com/?event_id=6737675",
+        "date_scraped": "2016-10-16T21:10:53.811Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 278,
+    "fields": {
+        "billing": "STRFKR with Gigamesh and Psychic Twin",
+        "venue": 6,
+        "date_time": "2016-11-21T02:30:00Z",
+        "price": "$20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=6856585",
+        "date_scraped": "2016-10-16T21:10:53.813Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 279,
+    "fields": {
+        "billing": "An Intimate Solo Performance with Conor Oberst with Anna McClellan",
+        "venue": 6,
+        "date_time": "2016-11-27T02:30:00Z",
+        "price": "$40",
+        "url": "http://thaliahallchicago.com/?event_id=6777685",
+        "date_scraped": "2016-10-16T21:10:53.815Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 280,
+    "fields": {
+        "billing": "An Intimate Solo Performance with Conor Oberst with Miwi La Lupa",
+        "venue": 6,
+        "date_time": "2016-11-28T02:00:00Z",
+        "price": "$40",
+        "url": "http://thaliahallchicago.com/?event_id=6777695",
+        "date_scraped": "2016-10-16T21:10:53.817Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 281,
+    "fields": {
+        "billing": "A John Waters Christmas",
+        "venue": 6,
+        "date_time": "2016-11-30T03:00:00Z",
+        "price": "$42",
+        "url": "http://thaliahallchicago.com/?event_id=6958405",
+        "date_scraped": "2016-10-16T21:10:53.819Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 282,
+    "fields": {
+        "billing": "Richard Cheese & Lounge Against The Machine",
+        "venue": 6,
+        "date_time": "2016-12-03T03:00:00Z",
+        "price": "$36 / $75",
+        "url": "http://thaliahallchicago.com/?event_id=6864805",
+        "date_scraped": "2016-10-16T21:10:53.822Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 283,
+    "fields": {
+        "billing": "WXRT welcomes Whitney",
+        "venue": 6,
+        "date_time": "2016-12-04T02:30:00Z",
+        "price": "$15 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=6817325",
+        "date_scraped": "2016-10-16T21:10:53.824Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 284,
+    "fields": {
+        "billing": "WXRT welcomes Whitney",
+        "venue": 6,
+        "date_time": "2016-12-05T01:30:00Z",
+        "price": "$15 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=6861605",
+        "date_scraped": "2016-10-16T21:10:53.826Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 285,
+    "fields": {
+        "billing": "WXRT presents Twin Peaks with together PANGEA and Golden Daze",
+        "venue": 6,
+        "date_time": "2016-12-17T02:30:00Z",
+        "price": "$22",
+        "url": "http://thaliahallchicago.com/?event_id=6888105",
+        "date_scraped": "2016-10-16T21:10:53.828Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 286,
+    "fields": {
+        "billing": "Janeane Garofalo",
+        "venue": 6,
+        "date_time": "2017-01-08T01:00:00Z",
+        "price": "$33.50",
+        "url": "http://thaliahallchicago.com/?event_id=6706755",
+        "date_scraped": "2016-10-16T21:10:53.830Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 287,
+    "fields": {
+        "billing": "Janeane Garofalo",
+        "venue": 6,
+        "date_time": "2017-01-08T04:00:00Z",
+        "price": "$33.50",
+        "url": "http://thaliahallchicago.com/?event_id=6706765",
+        "date_scraped": "2016-10-16T21:10:53.832Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 288,
+    "fields": {
+        "billing": "Wax Tailor",
+        "venue": 6,
+        "date_time": "2017-01-27T02:00:00Z",
+        "price": "$18 (adv), $20 / $24",
+        "url": "http://thaliahallchicago.com/?event_id=6864085",
+        "date_scraped": "2016-10-16T21:10:53.834Z",
+        "is_active": true,
+        "artists": [
+            252
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 289,
+    "fields": {
+        "billing": "Cloud Nothings",
+        "venue": 6,
+        "date_time": "2017-02-11T02:30:00Z",
+        "price": "$18 (adv), $20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=6959745",
+        "date_scraped": "2016-10-16T21:10:53.836Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 290,
+    "fields": {
+        "billing": "The Radio Dept.",
+        "venue": 6,
+        "date_time": "2017-03-05T02:30:00Z",
+        "price": "$15 (adv), $18 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=6887755",
+        "date_scraped": "2016-10-16T21:10:53.838Z",
+        "is_active": true,
+        "artists": [
+            301
+        ]
     }
 }
 ]

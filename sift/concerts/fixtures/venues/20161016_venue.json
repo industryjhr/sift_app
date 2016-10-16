@@ -41,6 +41,26 @@
 },
 {
     "model": "concerts.venue",
+    "pk": 5,
+    "fields": {
+        "name": "House of Blues",
+        "address": "329 N Dearborn St., Chicago, IL, 60654",
+        "schedule_url": "http://www.houseofblues.com/chicago",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.venue",
+    "pk": 6,
+    "fields": {
+        "name": "Thalia Hall",
+        "address": "1807 S. Allport St., Chicago, IL, 60608",
+        "schedule_url": "http://thaliahallchicago.com/",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.venue",
     "pk": 99,
     "fields": {
         "name": "Misc",

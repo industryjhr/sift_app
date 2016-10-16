@@ -13,6 +13,7 @@ from .scrapers import (
     subterranean,
     doubledoor,
     houseofblues,
+    thaliahall,
 )
 
 SCRAPERS = {
@@ -21,6 +22,7 @@ SCRAPERS = {
     3: subterranean.Subterranean,
     4: doubledoor.DoubleDoor,
     5: houseofblues.HouseOfBlues,
+    6: thaliahall.ThaliaHall,
 }
 
 if __name__ == '__main__':
