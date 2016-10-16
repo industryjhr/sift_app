@@ -7,14 +7,20 @@ is the concerts.models.Venue object's pk, value is scraper object.
 Used by the concerts.scrape_shows management command.
 """
 
-from concerts.utils import scrapers
+from .scrapers import (
+    emptybottle,
+    bottomlounge,
+    subterranean,
+    doubledoor,
+    houseofblues,
+)
 
 SCRAPERS = {
-    1: scrapers.EmptyBottle,
-    2: scrapers.BottomLounge,
-    3: scrapers.Subterranean,
-    4: scrapers.DoubleDoor,
-    5: scrapers.HouseOfBlues,
+    1: emptybottle.EmptyBottle,
+    2: bottomlounge.BottomLounge,
+    3: subterranean.Subterranean,
+    4: doubledoor.DoubleDoor,
+    5: houseofblues.HouseOfBlues,
 }
 
 if __name__ == '__main__':
