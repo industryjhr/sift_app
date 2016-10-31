@@ -14,12 +14,13 @@ class HouseOfBlues(Venue):
 
     329 N Dearborn St.
     Chicago, IL 60654
+    http://houseofblues.com/chicago/
     """
 
     def __init__(self):
         super().__init__()
         self.venue_name = 'House of Blues'
-        self.url = 'http://www.houseofblues.com/chicago'
+        self.url = 'http://houseofblues.com/chicago'
 
     def load_live_shows(self):
         """
@@ -44,11 +45,15 @@ class HouseOfBlues(Venue):
             venue_html = []
             venue_html.append(driver.page_source)
 
-            next_month_xpath = '//*[@id="content"]/div[2]/div/section/header[2]/h2/a[2]/i'
+            next_month_xpath = '//*[@id="content"]/div[2]/div/section/header[1]/h2/a[2]/i'
+            #next_month_xpath = '//*[@id="content"]/div[2]/div/section/header[2]/h2/a[2]/i'
             next_month_button = driver.find_element_by_xpath(next_month_xpath)
 
+            # get next two months' shows as well
             for _ in range(2):
-                # get next two months' shows as well                
+                # reset to list view
+                list_button.click()
+                time.sleep(4)
                 next_month_button.click()
                 time.sleep(4)
                 venue_html.append(driver.page_source)
