@@ -40,15 +40,19 @@ class Metro(Venue):
         See Venue.get_artist_billing.
 
         headliner: summary > '.headliner'
-        supporting acts: summary > '.support' (all in one, sep'd by \n)
+        supporting acts: summary > h3 > h3
         """
 
         headliner = summary.select('.headliner')[0].text.strip()
-        support_string = summary.select('.support')[0].text.replace('\n', ' ')
-        support_list = support_string.strip().split()
 
-        if support_list:
+        supporting_artists = summary.select('h3 > h3')
+        if supporting_artists:
+            support_list = []
+
+            for artist_element in supporting_artists:
+                support_list.append(artist_element.text)
             support = ', '.join(support_list)
+
             return headliner + ' with ' + support
 
         return headliner
