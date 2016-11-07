@@ -945,7 +945,7 @@
     "fields": {
         "name": "Simple",
         "re_string": "\\bSimple\\b",
-        "spotify_id": "2p4FqHnazRucYQHyDCdBrJ",
+        "spotify_id": "3xKDhAHahMkwltHAAd0Yw9",
         "is_active": true
     }
 },
@@ -3625,7 +3625,7 @@
     "fields": {
         "name": "Prince",
         "re_string": "\\bPrince\\b",
-        "spotify_id": "3MHaV05u0io8fQbZ2XPtlC",
+        "spotify_id": "5a2EaR3hamoenG9rDuVn8j",
         "is_active": true
     }
 },
