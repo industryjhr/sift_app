@@ -113,7 +113,7 @@ class Metro(Venue):
         else:
             show_time = show_times
 
-        if len(show_time) > 3:
+        if show_time.count(':'):
             # eg. '7:30PM'
             t = time.strptime(show_time, '%I:%M%p')
         else:
