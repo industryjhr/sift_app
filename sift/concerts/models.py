@@ -1,10 +1,8 @@
 from django.db import models
 
-# Create your models here.
-
 
 class Artist(models.Model):
-    name = models.CharField(max_length=200)
+    name = models.CharField(max_length=200, unique=True)
     re_string = models.CharField(max_length=200)
     spotify_id = models.CharField(max_length=200, blank=True)
     is_active = models.BooleanField(default=True)
