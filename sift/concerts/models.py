@@ -1,14 +1,35 @@
 from django.db import models
 
-
 class Artist(models.Model):
     name = models.CharField(max_length=200, unique=True)
     re_string = models.CharField(max_length=200)
     spotify_id = models.CharField(max_length=200, blank=True)
     is_active = models.BooleanField(default=True)
 
+    # vs. custom manager?
+    @classmethod
+    def add_artist(cls, artist_name):
+        """
+        Get Spotify ID and regex string for complete database entry.
+
+        Assumes artist DNE; calling code should check for artist in DB first.
+        """
+
+        from concerts.utils import get_spotify_id, make_artist_regex
+
+        spotify_id = get_spotify_id(artist_name)
+        re_string = make_artist_regex(artist_name)
+        artist = Artist.objects.create(
+            name=artist_name,
+            re_string=re_string,
+            spotify_id=spotify_id
+        )
+        return artist
+
     def __str__(self):
-        return self.name
+        return "({}) {} - Spotify ID: {}".format(self.pk,
+                                                 self.name,
+                                                 self.spotify_id)
 
 class Venue(models.Model):
     name = models.CharField(max_length=200)
