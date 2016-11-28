@@ -7,7 +7,7 @@ writes the upcoming concerts to Concerts table.
 
 from django.core.management.base import BaseCommand, CommandError
 from concerts.models import Venue, Concert
-from concerts.utils.scraper_reference import SCRAPERS
+from concerts.utils import SCRAPERS
 
 MISC_VENUE = Venue.objects.get(id=99)
 
@@ -18,6 +18,7 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
 
         for venue in Venue.objects.filter(is_active=True):
+            # point to from model?
             scraper = SCRAPERS[venue.id]()
             scraper.load_live_shows()
 

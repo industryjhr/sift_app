@@ -14,13 +14,7 @@ from datetime import datetime
 from django.core.management.base import BaseCommand, CommandError
 from django.core.management import call_command
 
-FIXTURES_BASE_DIR = os.path.join(os.environ.get('SIFT_HOME'), 'concerts', 'fixtures')
-
-FIXTURE_DIRS = {
-    'artists': os.path.join(FIXTURES_BASE_DIR, 'artists'),
-    'concerts': os.path.join(FIXTURES_BASE_DIR, 'concerts'),
-    'venues': os.path.join(FIXTURES_BASE_DIR, 'venues'),
-}
+from concerts.utils import FIXTURE_DIRS
 
 class Command(BaseCommand):
     help = "Flushes and re-seeds DB from fixtures, runs make_matches to find upcoming concerts."

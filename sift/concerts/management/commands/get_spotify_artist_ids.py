@@ -18,7 +18,7 @@ from concerts.models import Artist
 
 logger = logging.getLogger('concerts')
 
-SPOTIFY_SEARCH_URI_BASE = 'https://api.spotify.com/v1/search?'
+SPOTIFY_SEARCH_BASE = 'https://api.spotify.com/v1/search?'
 
 class Command(BaseCommand):
     help = 'Attempt to save the Spotify Artist URI to the Artist model'
@@ -31,7 +31,7 @@ class Command(BaseCommand):
             # first result; eg. Boris vs. "Boris"
             quoted_name = '\"' + artist.name + '\"'
             query_str = urlencode([('q', quoted_name), ('type', 'artist')])
-            response = requests.get(SPOTIFY_SEARCH_URI_BASE + query_str)
+            response = requests.get(SPOTIFY_SEARCH_BASE + query_str)
             response.raise_for_status()
 
             # use the artist regex algo on returned artist names to compare
