@@ -101,7 +101,7 @@ class Metro(Venue):
         show_info = summary.select('.showinfo')[0].text.strip()
         show_info_list = show_info.split('//')
         if len(show_info_list) == 1:
-            # someone messed up and used single /s instead of the predominant //s
+            # someone messed up and used single / instead of the predominant //
             # make the show time string the second element in show_info_list
             show_info_list = show_info.split('/')
             show_info_list = ['placeholder text', show_info_list[1] + '/' + show_info_list[2]]
@@ -112,6 +112,11 @@ class Metro(Venue):
             show_time = show_times.split('/')[1].strip().split()[1]
         else:
             show_time = show_times
+
+        # time range, eg. 9PM - 5AM
+        # take first for start of concert
+        if show_time.count('-'):
+            show_time = show_time.split('-')[0].strip()
 
         if show_time.count(':'):
             # eg. '7:30PM'

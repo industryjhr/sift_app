@@ -37,11 +37,10 @@ class Command(BaseCommand):
                     # check for existing concertmatch
                     # TODO but hacky? --review models--
 
-                    try:
-                        match = ConcertMatch.objects.get(concert=concert_matched) 
-                    except ConcertMatch.DoesNotExist:
-                        match = ConcertMatch.objects.create(concert=concert_matched)
- 
+                    match, created = ConcertMatch.objects.get_or_create(
+                        concert=concert_matched
+                    )
+
                     concert_matched.artists.add(artist_matched)
                     concert_matched.save()
                     match.artists.add(artist_matched)
