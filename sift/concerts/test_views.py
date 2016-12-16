@@ -13,8 +13,6 @@ class ViewsTest(TestCase):
     """
 
     def setUp(self):
-        #self.factory = RequestFactory()
-
         ## TODO move to fixture
         # seed DB
         self.test_venue = Venue.objects.create(
