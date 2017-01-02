@@ -13,7 +13,7 @@ class ViewsTest(TestCase):
     """
 
     def setUp(self):
-        ## TODO move to fixture
+        ## TODO move to fixture? or factoryboy, modelmommy?
         # seed DB
         self.test_venue = Venue.objects.create(
             name='House of Bugs', address='123 Card St., Chicago, IL 60606',

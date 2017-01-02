@@ -5618,5 +5618,45 @@
         "spotify_id": "7wPBSl15ddi9mRCgIllOa9",
         "is_active": true
     }
+},
+{
+    "model": "concerts.artist",
+    "pk": 582,
+    "fields": {
+        "name": "Foodman",
+        "re_string": "\\bFoodman\\b",
+        "spotify_id": "4e8VeCyfFRBL1e06oGg1dR",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 583,
+    "fields": {
+        "name": "Traxman",
+        "re_string": "\\bTraxman\\b",
+        "spotify_id": "0KyFKunOclAI5jah1T55lh",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 584,
+    "fields": {
+        "name": "DJ Fulltono",
+        "re_string": "\\bDJ Fulltono\\b",
+        "spotify_id": "2caET2IWaWIWQfYycvGcEv",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 585,
+    "fields": {
+        "name": "Basecamp",
+        "re_string": "\\bBasecamp\\b",
+        "spotify_id": "2tT6SE9nGCYXysoJ4qicsZ",
+        "is_active": true
+    }
 }
 ]
