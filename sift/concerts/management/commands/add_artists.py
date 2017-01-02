@@ -20,7 +20,7 @@ class Command(BaseCommand):
             help='Artist names to add, wrapped in double quotes if necessary')
 
     def handle(self, **options):
-        
+
         # get manual confirmation that artists were entered correctly
         print("Artists to add:")
         for artist in options['artists']:
@@ -33,7 +33,7 @@ class Command(BaseCommand):
         added_new_artists = False
 
         for artist_name in options['artists']:
-            
+
             if Artist.objects.filter(name__iexact=artist_name).count():
                 self.stdout.write("Existing artist {} found. Skipping..".format(
                     artist_name)
