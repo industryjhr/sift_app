@@ -1,11 +1,13 @@
-# concerts/test_views.py
+# -*- coding: utf-8 -*-
+# concerts/tests/test_views.py
+
 import datetime
 
 from django.test import TestCase, RequestFactory
 from django.core.urlresolvers import reverse
 
-from .models import Artist, Concert, ConcertMatch, Venue
-from .views import Home, UpcomingShows, ArtistsIndex, VenuesIndex, ConcertsIndex
+from ..models import Artist, Concert, ConcertMatch, Venue
+from ..views import Home, UpcomingShows, ArtistsIndex, VenuesIndex, ConcertsIndex
 
 class ViewsTest(TestCase):
     """
@@ -48,7 +50,7 @@ class ViewsTest(TestCase):
         Homepage should return a tagline.
         """
 
-        response = self.client.get('')
+        response = self.client.get('/')
         self.assertEqual(response.status_code, 200)
         self.assertIsNotNone(response.context['tagline'])
 
@@ -67,7 +69,6 @@ class ViewsTest(TestCase):
         )
 
     def test_artists_index(self):
-        #pass
         response = self.client.get(self.artist_index_url)
         self.assertEqual(response.status_code, 200)
         # accessing queryset response object from generic.ListView
@@ -83,7 +84,7 @@ class ViewsTest(TestCase):
         self.assertEqual(venue_data[0], self.test_venue)
         self.assertEqual(len(venue_data), 1)
 
-    def test_venues_index(self):
+    def test_concerts_index(self):
         response = self.client.get(self.concert_index_url)
         self.assertEqual(response.status_code, 200)
         # accessing queryset response object from generic.ListView

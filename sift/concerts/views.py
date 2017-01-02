@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# concerts/views.py
+
 from datetime import datetime
 
 from django.shortcuts import render

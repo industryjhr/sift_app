@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# sift/urls.py
+
 """sift URL Configuration"""
 
 from django.conf.urls import url, include
