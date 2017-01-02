@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# concerts/scrapers/thaliahall.py
+
 import calendar, datetime, iso8601, os, pytz, sys, time
 from collections import namedtuple
 

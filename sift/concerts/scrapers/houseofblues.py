@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# concerts/scrapers/houseofblues.py
+
 import calendar, datetime, iso8601, os, pytz, sys, time
 from collections import namedtuple
 
@@ -41,6 +44,7 @@ class HouseOfBlues(Venue):
             list_button = driver.find_element_by_xpath(list_xpath)
             list_button.click()
             # play it safe, let page load
+            # TODO use driver.implicitly_wait ?
             time.sleep(4)
             venue_html = []
             venue_html.append(driver.page_source)

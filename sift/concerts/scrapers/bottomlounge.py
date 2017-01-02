@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# concerts/scrapers/bottomlounge.py
+
 from .venue import Venue
 
 import calendar, datetime, iso8601, os, pytz, sys, time

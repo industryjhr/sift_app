@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
+
 """
-venue.py
+concerts/scrapers/venue.py
 
 Class definition for Venue base class.
 """
