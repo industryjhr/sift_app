@@ -34,6 +34,10 @@ class HouseOfBlues(Venue):
         if not self.shows:
 
             from selenium import webdriver
+            from selenium.webdriver.common.by import By
+            from selenium.webdriver.support.ui import WebDriverWait
+            from selenium.webdriver.support import expected_conditions as EC
+
             driver = webdriver.PhantomJS()
             driver.set_window_size(1221, 686)
             driver.delete_all_cookies()
@@ -42,31 +46,33 @@ class HouseOfBlues(Venue):
             # set to list view
             list_xpath = '//*[@id="EventCalendar122"]/div[1]/div/section/div/div[3]/a[2]'
             list_button = driver.find_element_by_xpath(list_xpath)
-            list_button.click()
-            # play it safe, let page load
-            # TODO use driver.implicitly_wait ?
-            time.sleep(4)
-            venue_html = []
-            venue_html.append(driver.page_source)
 
             next_month_xpath = '//*[@id="content"]/div[2]/div/section/header[1]/h2/a[2]/i'
-            #next_month_xpath = '//*[@id="content"]/div[2]/div/section/header[2]/h2/a[2]/i'
             next_month_button = driver.find_element_by_xpath(next_month_xpath)
 
-            # get next two months' shows as well
-            for _ in range(2):
-                # reset to list view
-                list_button.click()
-                time.sleep(4)
-                next_month_button.click()
-                time.sleep(4)
-                venue_html.append(driver.page_source)
+            venue_html_list = []
+            
+            # http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp#explicit-and-implicit-waits
+            def wait_function():
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "c-calendar-list__item")))
 
-            driver.quit()
-            self.make_shows('\n'.join(venue_html))
+            try:
+                # grab current month plus next two
+                for _ in range(3):
+                    list_button.click()
+                    wait_function()
+                    venue_html_list.append(driver.page_source)
+                    next_month_button.click()
+                    wait_function()
+            finally:
+                driver.quit()
+
+            self.make_shows('\n'.join(venue_html_list))
 
         else:
-            print("Shows list already populated")
+            print("Shows list already populated")                
+
 
     def get_summaries(self, html):
         """
