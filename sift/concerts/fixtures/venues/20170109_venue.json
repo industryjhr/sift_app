@@ -4,7 +4,7 @@
     "pk": 1,
     "fields": {
         "name": "The Empty Bottle",
-        "address": "1035 N Western Ave., Chicago, IL, 60622",
+        "address": "1035 N Western Ave., Chicago, IL 60622",
         "schedule_url": "http://emptybottle.com",
         "is_active": true
     }
@@ -14,7 +14,7 @@
     "pk": 2,
     "fields": {
         "name": "Bottom Lounge",
-        "address": "1375 W Lake St., Chicago, IL, 60607",
+        "address": "1375 W Lake St., Chicago, IL 60607",
         "schedule_url": "http://bottomlounge.com",
         "is_active": true
     }
@@ -24,7 +24,7 @@
     "pk": 3,
     "fields": {
         "name": "Subterranean",
-        "address": "2011 W North Ave., Chicago, IL, 60647",
+        "address": "2011 W North Ave., Chicago, IL 60647",
         "schedule_url": "http://www.subt.net",
         "is_active": true
     }
@@ -34,7 +34,7 @@
     "pk": 4,
     "fields": {
         "name": "Double Door",
-        "address": "1551 N Damen Ave., Chicago, IL, 60622",
+        "address": "1551 N Damen Ave., Chicago, IL 60622",
         "schedule_url": "http://doubledoor.com",
         "is_active": true
     }
@@ -44,7 +44,7 @@
     "pk": 5,
     "fields": {
         "name": "House of Blues",
-        "address": "329 N Dearborn St., Chicago, IL, 60654",
+        "address": "329 N Dearborn St., Chicago, IL 60654",
         "schedule_url": "http://www.houseofblues.com/chicago",
         "is_active": true
     }
@@ -54,8 +54,38 @@
     "pk": 6,
     "fields": {
         "name": "Thalia Hall",
-        "address": "1807 S. Allport St., Chicago, IL, 60608",
+        "address": "1807 S. Allport St., Chicago, IL 60608",
         "schedule_url": "http://thaliahallchicago.com/",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.venue",
+    "pk": 7,
+    "fields": {
+        "name": "Metro",
+        "address": "3730 N. Clark St., Chicago, IL 60613",
+        "schedule_url": "http://metrochicago.com",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.venue",
+    "pk": 8,
+    "fields": {
+        "name": "Lincoln Hall",
+        "address": "2424 N. Lincoln Ave. Chicago, IL 60614",
+        "schedule_url": "http://www.lh-st.com",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.venue",
+    "pk": 9,
+    "fields": {
+        "name": "Schubas Tavern",
+        "address": "3159 N. Southport Ave. Chicago, IL 60657",
+        "schedule_url": "http://www.lh-st.com",
         "is_active": true
     }
 },

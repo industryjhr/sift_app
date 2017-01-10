@@ -955,7 +955,7 @@
     "fields": {
         "name": "Actress",
         "re_string": "\\bActress\\b",
-        "spotify_id": "4nZbOHYEypqHtWwTPQu8Fl",
+        "spotify_id": "3bg5rmICvmA8dmYVAdKGYH",
         "is_active": true
     }
 },
@@ -5646,6 +5646,16 @@
         "name": "DJ Fulltono",
         "re_string": "\\bDJ Fulltono\\b",
         "spotify_id": "2caET2IWaWIWQfYycvGcEv",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 585,
+    "fields": {
+        "name": "Basecamp",
+        "re_string": "\\bBasecamp\\b",
+        "spotify_id": "2tT6SE9nGCYXysoJ4qicsZ",
         "is_active": true
     }
 }

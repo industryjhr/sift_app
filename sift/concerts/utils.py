@@ -14,6 +14,8 @@ from .scrapers import (
     houseofblues,
     thaliahall,
     metro,
+    lincolnhall,
+    schubas,
 )
 
 LOGGER = logging.getLogger('concerts')
@@ -27,6 +29,8 @@ SCRAPERS = {
     5: houseofblues.HouseOfBlues,
     6: thaliahall.ThaliaHall,
     7: metro.Metro,
+    8: lincolnhall.LincolnHall,
+    9: schubas.SchubasTavern,
 }
 
 FIXTURES_BASE_DIR = os.path.join(
