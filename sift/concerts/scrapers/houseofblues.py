@@ -53,18 +53,20 @@ class HouseOfBlues(Venue):
             venue_html_list = []
             
             # http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp#explicit-and-implicit-waits
-            def wait_function():
-                WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.CLASS_NAME, "c-calendar-list__item")))
+            def _wait_function():
+                time.sleep(3)
+                # Getting duplicates with the selenium wait function..
+                # WebDriverWait(driver, 10).until(
+                #     EC.presence_of_element_located((By.CLASS_NAME, "c-calendar-list__item")))
 
             try:
                 # grab current month plus next two
                 for _ in range(3):
                     list_button.click()
-                    wait_function()
+                    _wait_function()
                     venue_html_list.append(driver.page_source)
                     next_month_button.click()
-                    wait_function()
+                    _wait_function()
             finally:
                 driver.quit()
 
