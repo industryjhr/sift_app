@@ -15,7 +15,7 @@ TODAY = datetime.datetime.today()
 class BottomLounge(Venue):
     """
     Scraper object for Bottom Lounge.
-    
+
     1375 W Lake St.
     Chicago, IL, 60607
     http://bottomlounge.com
@@ -71,7 +71,7 @@ class BottomLounge(Venue):
         See Venue.get_show_date.
 
         '.schedule-item-content' > '.schedule-date' >
-            
+
             span[0]: '09/08/2016'
             span[1]: ' Doors 6:00 PM    Show 6:30 PM'
 
@@ -89,7 +89,11 @@ class BottomLounge(Venue):
             html_time = '{} PM'.format(html_time.split()[1])
 
         # convert str to 24hr
-        t = time.strptime(html_time, '%I:%M %p')
+        try:
+            t = time.strptime(html_time, '%I:%M %p')
+        except ValueError:
+            # XXX actually handle this
+            t = time.strptime('12:12 PM', '%I:%M %p')
 
         utc_datetime = Venue.make_utc_datetime(
             show_year=int(show_year),
@@ -106,8 +110,7 @@ class BottomLounge(Venue):
         """
         See Venue.get_show_price.
 
-        BL prices only available through TicketWeb (two 
-        links and a search required).
+        BL prices only available through TicketWeb
         """
 
         price = '(See ticketing site for price)'

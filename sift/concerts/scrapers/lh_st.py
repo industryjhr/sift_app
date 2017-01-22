@@ -150,7 +150,7 @@ class LHSTParent(Venue):
         Date: summary > '.header'
         Time: summary > '.ticketInfo'
         """
-        
+
         # Dates on the site use abbreviations, conform to calendar.month_abbr.
         # Get month as number
         month_map = {k:v for v, k in enumerate(calendar.month_abbr)}
@@ -198,6 +198,10 @@ class LHSTParent(Venue):
         """
 
         link_div = summary.select('.buttons')[0]
-        event_uri = link_div.find('a', href=True)['href']
+        try:
+            event_uri = link_div.find('a', href=True)['href']
+        except TypeError:
+            # XXX actually handle
+            event_uri = ''
 
         return self.url + event_uri

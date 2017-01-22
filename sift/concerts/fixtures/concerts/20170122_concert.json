@@ -1,0 +1,5840 @@
+[
+{
+    "model": "concerts.concert",
+    "pk": 1,
+    "fields": {
+        "billing": "Daymaker, Woongi, Anthony Fremont's Garden Solutions, BLXCK",
+        "venue": 1,
+        "date_time": "2017-01-24T03:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=7036185",
+        "date_scraped": "2017-01-22T17:50:34.515Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 2,
+    "fields": {
+        "billing": "A Very Tall Pat Records Night featuring Comm To Black, HAIR, Giantology, DJ Tall Pat's Dad",
+        "venue": 1,
+        "date_time": "2017-01-25T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=7130845",
+        "date_scraped": "2017-01-22T17:50:34.809Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 3,
+    "fields": {
+        "billing": "Pretty All Right Night featuring Winston Lasker, Spa Moans, Blu Sham, DJ Potions",
+        "venue": 1,
+        "date_time": "2017-01-26T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=7152005",
+        "date_scraped": "2017-01-22T17:50:34.815Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 4,
+    "fields": {
+        "billing": "The Lemon Twigs, Savoy Motel, Glyders",
+        "venue": 1,
+        "date_time": "2017-01-27T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7013155",
+        "date_scraped": "2017-01-22T17:50:34.819Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 5,
+    "fields": {
+        "billing": "Hard Country Honky-Tonk with The Hoyle Brothers",
+        "venue": 1,
+        "date_time": "2017-01-27T23:30:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=7012505",
+        "date_scraped": "2017-01-22T17:50:34.820Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 6,
+    "fields": {
+        "billing": "Black Marble, YOU., Ganser",
+        "venue": 1,
+        "date_time": "2017-01-28T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7040495",
+        "date_scraped": "2017-01-22T17:50:34.822Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 7,
+    "fields": {
+        "billing": "West Town Bikes Brunch",
+        "venue": 1,
+        "date_time": "2017-01-28T18:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=7123645",
+        "date_scraped": "2017-01-22T17:50:34.823Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 8,
+    "fields": {
+        "billing": "Official Palace Film Festival After Party featuring Xeno & Oaklander, Champagne Mirrors, Simulation [Matchess, Gel Set], Brett Naucke [DJ set]",
+        "venue": 1,
+        "date_time": "2017-01-29T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=6891535",
+        "date_scraped": "2017-01-22T17:50:34.824Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 9,
+    "fields": {
+        "billing": "FPE Presents: Everyone Has a Voice featuring Zigtebra, Syna So Pro, Fury",
+        "venue": 1,
+        "date_time": "2017-01-30T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=7114805",
+        "date_scraped": "2017-01-22T17:50:34.826Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 10,
+    "fields": {
+        "billing": "Michael Vallera (solo LP release), Matchess, Jeremiah Meece",
+        "venue": 1,
+        "date_time": "2017-01-31T03:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=7123525",
+        "date_scraped": "2017-01-22T17:50:34.827Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 11,
+    "fields": {
+        "billing": "Empty Bottle & 1833 Present, girlyboi",
+        "venue": 1,
+        "date_time": "2017-02-01T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7129905",
+        "date_scraped": "2017-01-22T17:50:34.829Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 12,
+    "fields": {
+        "billing": "Lockdown Anniversary Show featuring Black Actress, Lockdown Jam, Ladies of Leisure, NO CONVICTION",
+        "venue": 1,
+        "date_time": "2017-02-02T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7122335",
+        "date_scraped": "2017-01-22T17:50:34.833Z",
+        "is_active": true,
+        "artists": [
+            96
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 13,
+    "fields": {
+        "billing": "Fake Limbs, Lasers and Fast and Shit, Salvation (Record Release), Den",
+        "venue": 1,
+        "date_time": "2017-02-03T03:00:00Z",
+        "price": "$7.00",
+        "url": "http://emptybottle.com/?event_id=7096175",
+        "date_scraped": "2017-01-22T17:50:34.834Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 14,
+    "fields": {
+        "billing": "Daniel Bachman, Moon Bros, Jim Becker",
+        "venue": 1,
+        "date_time": "2017-02-04T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7100365",
+        "date_scraped": "2017-01-22T17:50:34.836Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 15,
+    "fields": {
+        "billing": "School of Rock Evanston & Highwood present Covering Dylan & Riot Fest",
+        "venue": 1,
+        "date_time": "2017-02-04T18:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=7184345",
+        "date_scraped": "2017-01-22T17:50:34.837Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 16,
+    "fields": {
+        "billing": "Last Podcast On The Left",
+        "venue": 1,
+        "date_time": "2017-02-05T00:00:00Z",
+        "price": "$20.00",
+        "url": "http://emptybottle.com/?event_id=7080895",
+        "date_scraped": "2017-01-22T17:50:34.838Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 17,
+    "fields": {
+        "billing": "Last Podcast On The Left",
+        "venue": 1,
+        "date_time": "2017-02-05T03:00:00Z",
+        "price": "$20.00",
+        "url": "http://emptybottle.com/?event_id=7048925",
+        "date_scraped": "2017-01-22T17:50:34.840Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 18,
+    "fields": {
+        "billing": "Strange Lovelies, PEEL, Lifestyles",
+        "venue": 1,
+        "date_time": "2017-02-07T03:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=7106425",
+        "date_scraped": "2017-01-22T17:50:34.841Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 19,
+    "fields": {
+        "billing": "Songs with Friends to benefit Southern Poverty Law Center",
+        "venue": 1,
+        "date_time": "2017-02-08T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7132455",
+        "date_scraped": "2017-01-22T17:50:34.842Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 20,
+    "fields": {
+        "billing": "Heaters, Basement Family, mtvghosts",
+        "venue": 1,
+        "date_time": "2017-02-09T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7152985",
+        "date_scraped": "2017-01-22T17:50:34.843Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 21,
+    "fields": {
+        "billing": "The Life and Times, Storm Clouds, Trevor de Brauw (Record Release)",
+        "venue": 1,
+        "date_time": "2017-02-11T03:00:00Z",
+        "price": "$8 (advance), $10",
+        "url": "http://emptybottle.com/?event_id=7057925",
+        "date_scraped": "2017-01-22T17:50:34.844Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 22,
+    "fields": {
+        "billing": "Handmade Market",
+        "venue": 1,
+        "date_time": "2017-02-11T18:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=7169255",
+        "date_scraped": "2017-01-22T17:50:34.845Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 23,
+    "fields": {
+        "billing": "'Mirrored' featuring Galaxxu & friends",
+        "venue": 1,
+        "date_time": "2017-02-12T00:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=7169195",
+        "date_scraped": "2017-01-22T17:50:34.846Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 24,
+    "fields": {
+        "billing": "Windy City Soul Club",
+        "venue": 1,
+        "date_time": "2017-02-12T03:00:00Z",
+        "price": "$5 cover",
+        "url": "http://emptybottle.com/?event_id=7169215",
+        "date_scraped": "2017-01-22T17:50:34.848Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 25,
+    "fields": {
+        "billing": "Al Scorch's Winter Slumber",
+        "venue": 1,
+        "date_time": "2017-02-12T20:00:00Z",
+        "price": "Free",
+        "url": "http://emptybottle.com/?event_id=7169205",
+        "date_scraped": "2017-01-22T17:50:34.849Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 26,
+    "fields": {
+        "billing": "Pillowhammer, Caleb Willitz",
+        "venue": 1,
+        "date_time": "2017-02-13T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=7070825",
+        "date_scraped": "2017-01-22T17:50:34.850Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 27,
+    "fields": {
+        "billing": "Sports Boyfriend, Dizzyride, Press, Lokomoko",
+        "venue": 1,
+        "date_time": "2017-02-14T03:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=7065265",
+        "date_scraped": "2017-01-22T17:50:34.851Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 28,
+    "fields": {
+        "billing": "Empty Bottle Valentine's Day Dance featuring Super Sonic Space Rebels, The Lizzies, Bremer and the No Goods, DJs Greg Harbour & Aric Sparticus",
+        "venue": 1,
+        "date_time": "2017-02-15T03:00:00Z",
+        "price": "$7.00 - $45.00",
+        "url": "http://emptybottle.com/?event_id=7171255",
+        "date_scraped": "2017-01-22T17:50:34.852Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 29,
+    "fields": {
+        "billing": "Glitter Creeps presents A Benefit for Between Friends featuring The Gold Web, Radiant Devices, Bloodhype",
+        "venue": 1,
+        "date_time": "2017-02-16T03:00:00Z",
+        "price": "$5.00",
+        "url": "http://emptybottle.com/?event_id=7172585",
+        "date_scraped": "2017-01-22T17:50:34.853Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 30,
+    "fields": {
+        "billing": "Naomi Punk, PC Worship, The Bug",
+        "venue": 1,
+        "date_time": "2017-02-17T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7105105",
+        "date_scraped": "2017-01-22T17:50:34.855Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 31,
+    "fields": {
+        "billing": "93XRT welcomes River Whyless",
+        "venue": 1,
+        "date_time": "2017-02-18T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=7040415",
+        "date_scraped": "2017-01-22T17:50:34.856Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 32,
+    "fields": {
+        "billing": "Winter Formal 2017 featuring Troy Anderson, The Evening Attraction, Red Francis, Faux Furrs",
+        "venue": 1,
+        "date_time": "2017-02-19T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7151955",
+        "date_scraped": "2017-01-22T17:50:34.858Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 33,
+    "fields": {
+        "billing": "Red Bull Sound Select Presents, Dan Deacon , Marijuana Deathsquads, Air Credits",
+        "venue": 1,
+        "date_time": "2017-02-20T03:00:00Z",
+        "price": "$5 w/ RSVP, $15 without",
+        "url": "http://emptybottle.com/?event_id=7171045",
+        "date_scraped": "2017-01-22T17:50:34.860Z",
+        "is_active": true,
+        "artists": [
+            7,
+            531
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 34,
+    "fields": {
+        "billing": "Dumpster Tapes Presents No Men, Son of a Gun, Parent, Cass Cwik",
+        "venue": 1,
+        "date_time": "2017-02-21T03:00:00Z",
+        "price": "Free Monday",
+        "url": "http://emptybottle.com/?event_id=7175435",
+        "date_scraped": "2017-01-22T17:50:34.863Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 35,
+    "fields": {
+        "billing": "Gaika [soundsystem], Yves Tumor",
+        "venue": 1,
+        "date_time": "2017-02-22T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7154505",
+        "date_scraped": "2017-01-22T17:50:34.865Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 36,
+    "fields": {
+        "billing": "Black Atlass with special guest OVERWERK",
+        "venue": 1,
+        "date_time": "2017-02-23T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=7175475",
+        "date_scraped": "2017-01-22T17:50:34.867Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 37,
+    "fields": {
+        "billing": "NE-HI, Deeper, Cafe Racer",
+        "venue": 1,
+        "date_time": "2017-02-25T03:00:00Z",
+        "price": "$10 (advance), $12",
+        "url": "http://emptybottle.com/?event_id=7026355",
+        "date_scraped": "2017-01-22T17:50:34.868Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 38,
+    "fields": {
+        "billing": "Meat Wave (Record Release), Paper Mice, Melkbelly, Foul Tip",
+        "venue": 1,
+        "date_time": "2017-02-26T03:00:00Z",
+        "price": "$10 (advance), $12",
+        "url": "http://emptybottle.com/?event_id=7028145",
+        "date_scraped": "2017-01-22T17:50:34.870Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 39,
+    "fields": {
+        "billing": "Withered, Immortal Bird, Varaha",
+        "venue": 1,
+        "date_time": "2017-03-01T03:00:00Z",
+        "price": "$8 advance, $10",
+        "url": "http://emptybottle.com/?event_id=7053795",
+        "date_scraped": "2017-01-22T17:50:34.872Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 40,
+    "fields": {
+        "billing": "Death By Unga Bunga, City Slang",
+        "venue": 1,
+        "date_time": "2017-03-02T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://emptybottle.com/?event_id=7060435",
+        "date_scraped": "2017-01-22T17:50:34.873Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 41,
+    "fields": {
+        "billing": "Crocodiles, AJ Davila",
+        "venue": 1,
+        "date_time": "2017-03-03T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=7123655",
+        "date_scraped": "2017-01-22T17:50:34.875Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 42,
+    "fields": {
+        "billing": "Dehd (tape release), Bunny, Coffin Ships, Max Pelt\nEye Vybe DJs",
+        "venue": 1,
+        "date_time": "2017-03-10T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://emptybottle.com/?event_id=7154555",
+        "date_scraped": "2017-01-22T17:50:34.877Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 43,
+    "fields": {
+        "billing": "Moving Units presents The Songs of Joy Division featuring Moving Units, Viktor Fiction, Soviet, Analog Signals Djs",
+        "venue": 1,
+        "date_time": "2017-03-11T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=7049075",
+        "date_scraped": "2017-01-22T17:50:34.879Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 44,
+    "fields": {
+        "billing": "Springtime Carnivore",
+        "venue": 1,
+        "date_time": "2017-03-13T02:00:00Z",
+        "price": "$10 (advance). $12",
+        "url": "http://emptybottle.com/?event_id=7086715",
+        "date_scraped": "2017-01-22T17:50:34.881Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 45,
+    "fields": {
+        "billing": "All Them Witches, Irata",
+        "venue": 1,
+        "date_time": "2017-03-17T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=7009555",
+        "date_scraped": "2017-01-22T17:50:34.883Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 46,
+    "fields": {
+        "billing": "Sam Patch",
+        "venue": 1,
+        "date_time": "2017-03-19T02:00:00Z",
+        "price": "$10 (advance). $12",
+        "url": "http://emptybottle.com/?event_id=7062575",
+        "date_scraped": "2017-01-22T17:50:34.884Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 47,
+    "fields": {
+        "billing": "Tim Darcy [Ought], Molly Burch",
+        "venue": 1,
+        "date_time": "2017-03-24T02:00:00Z",
+        "price": "$10 advance, $12",
+        "url": "http://emptybottle.com/?event_id=7049465",
+        "date_scraped": "2017-01-22T17:50:34.886Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 48,
+    "fields": {
+        "billing": "Lawrence English, Cleared",
+        "venue": 1,
+        "date_time": "2017-03-29T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=7153105",
+        "date_scraped": "2017-01-22T17:50:34.888Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 49,
+    "fields": {
+        "billing": "Xiu Xiu",
+        "venue": 1,
+        "date_time": "2017-04-01T02:00:00Z",
+        "price": "$13 advance. $15",
+        "url": "http://emptybottle.com/?event_id=7023695",
+        "date_scraped": "2017-01-22T17:50:34.889Z",
+        "is_active": true,
+        "artists": [
+            199
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 50,
+    "fields": {
+        "billing": "Modern English",
+        "venue": 1,
+        "date_time": "2017-04-07T02:00:00Z",
+        "price": "$15 (advance), $18",
+        "url": "http://emptybottle.com/?event_id=7060625",
+        "date_scraped": "2017-01-22T17:50:34.892Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 51,
+    "fields": {
+        "billing": "Six Organs of Admittance, Tashi Dorji & Tyler Damon, Health&Beauty;",
+        "venue": 1,
+        "date_time": "2017-04-10T02:00:00Z",
+        "price": "$10 (advance). $12",
+        "url": "http://emptybottle.com/?event_id=7062805",
+        "date_scraped": "2017-01-22T17:50:34.894Z",
+        "is_active": true,
+        "artists": [
+            220
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 52,
+    "fields": {
+        "billing": "Methyl Ethel",
+        "venue": 1,
+        "date_time": "2017-04-14T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=6990125",
+        "date_scraped": "2017-01-22T17:50:34.896Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 53,
+    "fields": {
+        "billing": "Moon Duo, Jackie Lynn",
+        "venue": 1,
+        "date_time": "2017-04-22T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=6991465",
+        "date_scraped": "2017-01-22T17:50:34.898Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 54,
+    "fields": {
+        "billing": "Chaz Bundick Meets The Mattson 2, Madeline Kenney",
+        "venue": 1,
+        "date_time": "2017-04-23T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=7174855",
+        "date_scraped": "2017-01-22T17:50:34.900Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 55,
+    "fields": {
+        "billing": "Jambinai",
+        "venue": 1,
+        "date_time": "2017-05-19T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://emptybottle.com/?event_id=7155565",
+        "date_scraped": "2017-01-22T17:50:34.902Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 56,
+    "fields": {
+        "billing": "Ha Ha Tonka Record Release, Trapper Schoepp",
+        "venue": 1,
+        "date_time": "2017-05-21T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://emptybottle.com/?event_id=7144475",
+        "date_scraped": "2017-01-22T17:50:34.903Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 57,
+    "fields": {
+        "billing": "GROTESQUE OBSESSION: PARSING GRIEF",
+        "venue": 2,
+        "date_time": "2017-01-26T18:12:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5849",
+        "date_scraped": "2017-01-22T17:50:36.477Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 58,
+    "fields": {
+        "billing": "JACKASS LIVE!",
+        "venue": 2,
+        "date_time": "2017-01-28T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5776",
+        "date_scraped": "2017-01-22T17:50:36.774Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 59,
+    "fields": {
+        "billing": "P.O.S with DJ FUNDO * TRANSIT22",
+        "venue": 2,
+        "date_time": "2017-01-29T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5506",
+        "date_scraped": "2017-01-22T17:50:36.779Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 60,
+    "fields": {
+        "billing": "DAYLIGHT SINNERS * LEX MILLER * JIMMY PHAM * ODYSSEY * FADE",
+        "venue": 2,
+        "date_time": "2017-01-30T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5840",
+        "date_scraped": "2017-01-22T17:50:36.782Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 61,
+    "fields": {
+        "billing": "G JONES & FRIENDS",
+        "venue": 2,
+        "date_time": "2017-02-04T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5673",
+        "date_scraped": "2017-01-22T17:50:36.783Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 62,
+    "fields": {
+        "billing": "J BOOG * JO MERSA MARLEY * JEMERE MORGAN",
+        "venue": 2,
+        "date_time": "2017-02-08T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5580",
+        "date_scraped": "2017-01-22T17:50:36.785Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 63,
+    "fields": {
+        "billing": "US THE DUO \u2013 JUST LOVE TOUR with HAILEY KNOX",
+        "venue": 2,
+        "date_time": "2017-02-09T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5637",
+        "date_scraped": "2017-01-22T17:50:36.786Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 64,
+    "fields": {
+        "billing": "SPACE JESUS: WINTER 2017 with special guests PROKO and OF THE TREES",
+        "venue": 2,
+        "date_time": "2017-02-11T04:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5831",
+        "date_scraped": "2017-01-22T17:50:36.787Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 65,
+    "fields": {
+        "billing": "ROBB BANKS * DASH * WIFISFUNERAL * WARHOL.SS",
+        "venue": 2,
+        "date_time": "2017-02-18T00:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5770",
+        "date_scraped": "2017-01-22T17:50:36.789Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 66,
+    "fields": {
+        "billing": "THE STUNT QUEEN TOUR WITH MYKKI BLANCO AND CAKES DA KILLA",
+        "venue": 2,
+        "date_time": "2017-02-19T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5790",
+        "date_scraped": "2017-01-22T17:50:36.790Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 67,
+    "fields": {
+        "billing": "AFTER THE BURIAL * EMMURE * FIT FOR A KING * FIT FOR AN AUTOPSY * INVENT, ANIMATE",
+        "venue": 2,
+        "date_time": "2017-02-24T23:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5744",
+        "date_scraped": "2017-01-22T17:50:36.792Z",
+        "is_active": true,
+        "artists": [
+            70
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 68,
+    "fields": {
+        "billing": "THE JAPANESE HOUSE",
+        "venue": 2,
+        "date_time": "2017-02-26T01:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5733",
+        "date_scraped": "2017-01-22T17:50:36.795Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 69,
+    "fields": {
+        "billing": "GZA",
+        "venue": 2,
+        "date_time": "2017-03-01T02:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5864",
+        "date_scraped": "2017-01-22T17:50:36.796Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 70,
+    "fields": {
+        "billing": "MICKEY AVALON",
+        "venue": 2,
+        "date_time": "2017-03-04T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5746",
+        "date_scraped": "2017-01-22T17:50:36.797Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 71,
+    "fields": {
+        "billing": "AJR",
+        "venue": 2,
+        "date_time": "2017-03-05T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5562",
+        "date_scraped": "2017-01-22T17:50:36.799Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 72,
+    "fields": {
+        "billing": "MAE * CONSTELLATIONS",
+        "venue": 2,
+        "date_time": "2017-03-08T03:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5794",
+        "date_scraped": "2017-01-22T17:50:36.800Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 73,
+    "fields": {
+        "billing": "ARCHITECTS * STRAY FROM THE PATH * MAKE THEM SUFFER",
+        "venue": 2,
+        "date_time": "2017-03-09T01:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5632",
+        "date_scraped": "2017-01-22T17:50:36.801Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 74,
+    "fields": {
+        "billing": "Riot Fest Presents: WE THE KINGS with Special Guests",
+        "venue": 2,
+        "date_time": "2017-03-10T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5710",
+        "date_scraped": "2017-01-22T17:50:36.803Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 75,
+    "fields": {
+        "billing": "Riot Fest Presents: SAVE FERRIS * BABY BABY",
+        "venue": 2,
+        "date_time": "2017-03-11T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5645",
+        "date_scraped": "2017-01-22T17:50:36.804Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 76,
+    "fields": {
+        "billing": "TAUK",
+        "venue": 2,
+        "date_time": "2017-03-12T04:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5781",
+        "date_scraped": "2017-01-22T17:50:36.805Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 77,
+    "fields": {
+        "billing": "ENTER SHIKARI \u2013 A \u2018TAKE TO THE SKIES\u2019 TEN YEAR CELEBRATION with BEING AS AN OCEAN",
+        "venue": 2,
+        "date_time": "2017-03-17T23:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5765",
+        "date_scraped": "2017-01-22T17:50:36.806Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 78,
+    "fields": {
+        "billing": "SUNSQUABI * ARTIFAKTS",
+        "venue": 2,
+        "date_time": "2017-03-26T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5826",
+        "date_scraped": "2017-01-22T17:50:36.807Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 79,
+    "fields": {
+        "billing": "NAILS * TOXIC HOLOCAUST * HARM\u2019S WAY * GATECREEPER * LIKE RATS",
+        "venue": 2,
+        "date_time": "2017-03-29T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5714",
+        "date_scraped": "2017-01-22T17:50:36.808Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 80,
+    "fields": {
+        "billing": "BOWLING FOR SOUP * RUNAWAY KIDS * DIRECT HIT",
+        "venue": 2,
+        "date_time": "2017-04-01T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5820",
+        "date_scraped": "2017-01-22T17:50:36.810Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 81,
+    "fields": {
+        "billing": "CHELSEA GRIN \u2013 Self Inflicted Tour with ICE NINE KILLS * GIDEON * ENTERPRISE EARTH",
+        "venue": 2,
+        "date_time": "2017-04-05T22:30:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5845",
+        "date_scraped": "2017-01-22T17:50:36.811Z",
+        "is_active": true,
+        "artists": [
+            103
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 82,
+    "fields": {
+        "billing": "SPAFFORD * MUNGION",
+        "venue": 2,
+        "date_time": "2017-04-09T02:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5738",
+        "date_scraped": "2017-01-22T17:50:36.812Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 83,
+    "fields": {
+        "billing": "SOLD OUT! \u2013 NEW FOUND GLORY \u2013 NIGHT ONE (Sticks & Stones / Coming Home)",
+        "venue": 2,
+        "date_time": "2017-04-12T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5724",
+        "date_scraped": "2017-01-22T17:50:36.814Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 84,
+    "fields": {
+        "billing": "SOLD OUT! \u2013 NEW FOUND GLORY \u2013 NIGHT TWO (Self-Titled / Not Without A Fight)",
+        "venue": 2,
+        "date_time": "2017-04-13T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5725",
+        "date_scraped": "2017-01-22T17:50:36.816Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 85,
+    "fields": {
+        "billing": "SOLD OUT! \u2013 NEW FOUND GLORY \u2013 NIGHT THREE (Catalyst / Nothing Gold Can Stay)",
+        "venue": 2,
+        "date_time": "2017-04-14T01:00:00Z",
+        "price": "(See ticketing site for price)",
+        "url": "http://bottomlounge.com/?post_type=type_event&p=5726",
+        "date_scraped": "2017-01-22T17:50:36.818Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 86,
+    "fields": {
+        "billing": "The Sooper Swag Project with H A U N T E R, Morimoto, Malci",
+        "venue": 3,
+        "date_time": "2017-01-23T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1392021-sooper-swag-project-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.503Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 87,
+    "fields": {
+        "billing": "Psalm Zero with Gr\u00fcn Wasser, Nequient, The Well Tempered",
+        "venue": 3,
+        "date_time": "2017-01-25T01:00:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1405804-psalm-zero-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.506Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 88,
+    "fields": {
+        "billing": "Open Mic Hip Hop",
+        "venue": 3,
+        "date_time": "2017-01-25T04:00:00Z",
+        "price": "No price / free?",
+        "url": "http://www.subt.net/event/1406110-open-mic-hip-hop-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.508Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 89,
+    "fields": {
+        "billing": "Infinite Me with Alistair Hennessey, Home Burial, Elder Light",
+        "venue": 3,
+        "date_time": "2017-01-26T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1402372-infinite-me-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.510Z",
+        "is_active": true,
+        "artists": [
+            70
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 90,
+    "fields": {
+        "billing": "Paul Cherry with Dam Gila, Velours, Wavy I.D.",
+        "venue": 3,
+        "date_time": "2017-01-27T02:30:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1409793-paul-cherry-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.512Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 91,
+    "fields": {
+        "billing": "Reggae Gold",
+        "venue": 3,
+        "date_time": "2017-01-27T04:00:00Z",
+        "price": "$5.00",
+        "url": "http://www.subt.net/event/1406115-reggae-gold-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.513Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 92,
+    "fields": {
+        "billing": "The Lincoln Lodge",
+        "venue": 3,
+        "date_time": "2017-01-28T02:00:00Z",
+        "price": "Suggested Donation",
+        "url": "http://www.subt.net/event/1406121-lincoln-lodge-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.515Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 93,
+    "fields": {
+        "billing": "ShowYouSuck with Rapper Chicks, Abraham Mellish, Joseph Chilliams",
+        "venue": 3,
+        "date_time": "2017-01-28T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1411409-showyousuck-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.516Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 94,
+    "fields": {
+        "billing": "I Made You Myself with Primordial Black, Barren Heir",
+        "venue": 3,
+        "date_time": "2017-01-28T04:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1413555-i-made-you-myself-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.517Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 95,
+    "fields": {
+        "billing": "Cherry Glazerr with Slow Hollows, Lala Lala",
+        "venue": 3,
+        "date_time": "2017-01-29T01:00:00Z",
+        "price": "$13.00 - $15.00",
+        "url": "http://www.subt.net/event/1365753-cherry-glazerr-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.518Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 96,
+    "fields": {
+        "billing": "The Cardboard Swords with Regular Oatmeal, Retirement Party, Recreational Drugs",
+        "venue": 3,
+        "date_time": "2017-01-29T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1394824-cardboard-swords-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.520Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 97,
+    "fields": {
+        "billing": "Young and Heartless with Museum Mouth, Grammaw",
+        "venue": 3,
+        "date_time": "2017-01-30T00:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1398397-young-heartless-kississippi-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.521Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 98,
+    "fields": {
+        "billing": "Open Mic Hip Hop",
+        "venue": 3,
+        "date_time": "2017-02-01T04:00:00Z",
+        "price": "No price / free?",
+        "url": "http://www.subt.net/event/1406111-open-mic-hip-hop-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.522Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 99,
+    "fields": {
+        "billing": "HOUSE PARTY with DOPEKATZ, Mon'aerie, The A.S.A Project",
+        "venue": 3,
+        "date_time": "2017-02-04T03:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1417229-house-party-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.523Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 100,
+    "fields": {
+        "billing": "Sinai Vessel with Rayboys, Options, Close Kept",
+        "venue": 3,
+        "date_time": "2017-02-04T04:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1396941-sinai-vessel-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.524Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 101,
+    "fields": {
+        "billing": "Dear Deadly EP Release with Speaking With Ghosts, When We Was Kids, Fear And Grace",
+        "venue": 3,
+        "date_time": "2017-02-05T01:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1404780-dear-deadly-ep-release-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.525Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 102,
+    "fields": {
+        "billing": "Breaking Sweats with OREO, Jody Digital, Wemmy, MO, Satchel Stokes",
+        "venue": 3,
+        "date_time": "2017-02-05T04:00:00Z",
+        "price": "$0.00 - $10.00",
+        "url": "http://www.subt.net/event/1419550-breaking-sweats-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.527Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 103,
+    "fields": {
+        "billing": "Lemuria 'Get Better' 10 Year Anniversary with Cayetana, Mikey Erg",
+        "venue": 3,
+        "date_time": "2017-02-08T02:30:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1377731-lemuria-get-better-10-year-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.528Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 104,
+    "fields": {
+        "billing": "Leggy with T-Rextasy, Daymaker, Blacker Face",
+        "venue": 3,
+        "date_time": "2017-02-11T04:30:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1414226-leggy-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.530Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 105,
+    "fields": {
+        "billing": "The Peeves with Fast Decay, Modern Advances, HighBall",
+        "venue": 3,
+        "date_time": "2017-02-12T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1420326-peeves-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.531Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 106,
+    "fields": {
+        "billing": "YONAS with Lucid, Believe In Dreams, Deem",
+        "venue": 3,
+        "date_time": "2017-02-12T03:00:00Z",
+        "price": "$12.00 - $15.00",
+        "url": "http://www.subt.net/event/1404346-yonas-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.532Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 107,
+    "fields": {
+        "billing": "Xoe Wise with Tara Terra, Marcus Alan Ward",
+        "venue": 3,
+        "date_time": "2017-02-17T02:30:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1405065-xoe-wise-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.533Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 108,
+    "fields": {
+        "billing": "July Talk with Mona, Little Junior",
+        "venue": 3,
+        "date_time": "2017-02-18T03:00:00Z",
+        "price": "$12.00 - $14.00",
+        "url": "http://www.subt.net/event/1279491-july-talk-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.535Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 109,
+    "fields": {
+        "billing": "Winter Classic with Elder Light, Bristletongue, Sarah Jo",
+        "venue": 3,
+        "date_time": "2017-02-18T04:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1411421-winter-classic-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.536Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 110,
+    "fields": {
+        "billing": "Brigades with Bonfires, In Her Own Words, Ship Captain Crew, Heavenfaced",
+        "venue": 3,
+        "date_time": "2017-02-19T00:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1392320-brigades-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.537Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 111,
+    "fields": {
+        "billing": "MUNA with Lo Moon",
+        "venue": 3,
+        "date_time": "2017-02-19T03:00:00Z",
+        "price": "$13.00 - $15.00",
+        "url": "http://www.subt.net/event/1385611-muna-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.539Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 112,
+    "fields": {
+        "billing": "Chris Farren",
+        "venue": 3,
+        "date_time": "2017-02-20T01:30:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1415064-chris-farren-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.540Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 113,
+    "fields": {
+        "billing": "Ron Gallo with Modern Vices",
+        "venue": 3,
+        "date_time": "2017-02-21T02:30:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1400797-ron-gallo-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.541Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 114,
+    "fields": {
+        "billing": "Pkew Pkew Pkew with Horrible Things, Costanza, Otto Mann",
+        "venue": 3,
+        "date_time": "2017-02-22T00:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1418567-pkew-pkew-pkew-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.543Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 115,
+    "fields": {
+        "billing": "Rah Digga with Lyric Jones, Fury, Army of 2",
+        "venue": 3,
+        "date_time": "2017-02-22T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1419389-rah-digga-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.545Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 116,
+    "fields": {
+        "billing": "Kodie Shane with Cymia, Saucy Longwe",
+        "venue": 3,
+        "date_time": "2017-02-25T00:00:00Z",
+        "price": "$15.00 - $18.00",
+        "url": "http://www.subt.net/event/1402365-kodie-shane-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.546Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 117,
+    "fields": {
+        "billing": "Honeystone (Album Release) with Joey Pettrone",
+        "venue": 3,
+        "date_time": "2017-02-25T04:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1413559-honeystone-album-release-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.547Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 118,
+    "fields": {
+        "billing": "Mother Evergreen (LP Release) with Same, NNAMDI'S SOOPER-DOOPER SECRET SIDE PROJECT!, Single Player",
+        "venue": 3,
+        "date_time": "2017-02-26T00:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1418960-mother-evergreen-lp-release-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.549Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 119,
+    "fields": {
+        "billing": "The New Constitution with Forgotten Species, The Bon Mots, Thomas Comerford",
+        "venue": 3,
+        "date_time": "2017-02-26T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1396241-new-constitution-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.550Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 120,
+    "fields": {
+        "billing": "Saratoga with Death Wish, True Hidden Conspiracy",
+        "venue": 3,
+        "date_time": "2017-02-27T02:00:00Z",
+        "price": "$35-$45",
+        "url": "http://www.subt.net/event/1413301-saratoga-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.551Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 121,
+    "fields": {
+        "billing": "Longface with Sun Organ, Clasp, Swampers",
+        "venue": 3,
+        "date_time": "2017-03-01T00:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1402351-longface-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.553Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 122,
+    "fields": {
+        "billing": "Knocked Loose with Eternal Sleep, Pains, Kharma",
+        "venue": 3,
+        "date_time": "2017-03-01T00:30:00Z",
+        "price": "$10.00 - $12.00",
+        "url": "http://www.subt.net/event/1399953-knocked-loose-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.554Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 123,
+    "fields": {
+        "billing": "Slumpgang777 with Solo Sam, Red Bella, BOTH, Savier",
+        "venue": 3,
+        "date_time": "2017-03-02T01:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1410681-slumpgang777-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.555Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 124,
+    "fields": {
+        "billing": "Chad Valley with Computer Magic, The Well Tempered",
+        "venue": 3,
+        "date_time": "2017-03-03T02:00:00Z",
+        "price": "$15.00 - $18.00",
+        "url": "http://www.subt.net/event/1394172-chad-valley-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.556Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 125,
+    "fields": {
+        "billing": "Kevin Abstract with Bearface",
+        "venue": 3,
+        "date_time": "2017-03-04T01:00:00Z",
+        "price": "$15.00 - $18.00",
+        "url": "http://www.subt.net/event/1403004-kevin-abstract-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.558Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 126,
+    "fields": {
+        "billing": "Nervous Passenger with The Superweaks, No Thank You, Coaster",
+        "venue": 3,
+        "date_time": "2017-03-04T04:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1412137-nervous-passenger-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.559Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 127,
+    "fields": {
+        "billing": "Siimba Liives Long",
+        "venue": 3,
+        "date_time": "2017-03-05T03:00:00Z",
+        "price": "$10.00 - $20.00",
+        "url": "http://www.subt.net/event/1415893-siimba-liives-long-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.561Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 128,
+    "fields": {
+        "billing": "Hill Dunes with Jared Grabb, The Gunshy, Jason Douglass Swearingen, Jason Douglass Swearingen",
+        "venue": 3,
+        "date_time": "2017-03-06T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1418922-hill-dunes-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.562Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 129,
+    "fields": {
+        "billing": "Air Sex World Championships",
+        "venue": 3,
+        "date_time": "2017-03-06T02:00:00Z",
+        "price": "$8.00 - $10.00",
+        "url": "http://www.subt.net/event/1411615-air-sex-world-championships-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.563Z",
+        "is_active": true,
+        "artists": [
+            531
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 130,
+    "fields": {
+        "billing": "Prince Daddy & The Hyena with Jouska, Forfeit",
+        "venue": 3,
+        "date_time": "2017-03-09T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1417551-prince-daddy-hyena-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.564Z",
+        "is_active": true,
+        "artists": [
+            371
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 131,
+    "fields": {
+        "billing": "Expire Final Chicago Show with Homewrecker, Cross Me, Mal Intent, Backbone",
+        "venue": 3,
+        "date_time": "2017-03-10T01:00:00Z",
+        "price": "$13.00 - $15.00",
+        "url": "http://www.subt.net/event/1400810-expire-final-chicago-show-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.566Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 132,
+    "fields": {
+        "billing": "Polyphia with Jason Richardson, Covet",
+        "venue": 3,
+        "date_time": "2017-03-11T01:00:00Z",
+        "price": "$15.00 - $17.00",
+        "url": "http://www.subt.net/event/1388957-polyphia-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.568Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 133,
+    "fields": {
+        "billing": "Eisley with Civillian, Backwards Dancer",
+        "venue": 3,
+        "date_time": "2017-03-12T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1399094-eisley-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.570Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 134,
+    "fields": {
+        "billing": "Black Spring Break 4evr",
+        "venue": 3,
+        "date_time": "2017-03-12T04:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1413448-black-spring-break-4evr-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.573Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 135,
+    "fields": {
+        "billing": "Winter Classic with Spill, Aficionado, Two Houses",
+        "venue": 3,
+        "date_time": "2017-03-14T00:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1404342-winter-classic-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.575Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 136,
+    "fields": {
+        "billing": "Hey Violet with Jessarae",
+        "venue": 3,
+        "date_time": "2017-03-16T00:30:00Z",
+        "price": "$15.00 - $17.50",
+        "url": "http://www.subt.net/event/1417132-hey-violet-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.577Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 137,
+    "fields": {
+        "billing": "Clipping",
+        "venue": 3,
+        "date_time": "2017-03-17T00:00:00Z",
+        "price": "$17.00 - $20.00",
+        "url": "http://www.subt.net/event/1419453-clipping-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.579Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 138,
+    "fields": {
+        "billing": "Dany Laj and the Looks with Gun, Delmar & The Dedications, Aggro Control",
+        "venue": 3,
+        "date_time": "2017-03-19T00:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1385882-dany-laj-looks-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.581Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 139,
+    "fields": {
+        "billing": "Niney The Observer with Akasha, DJ Chuck Wren",
+        "venue": 3,
+        "date_time": "2017-03-19T01:30:00Z",
+        "price": "$15.00 - $20.00",
+        "url": "http://www.subt.net/event/1420211-niney-observer-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.583Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 140,
+    "fields": {
+        "billing": "Wild Pink with Sonny Falls, Laverne, Closed Mouths",
+        "venue": 3,
+        "date_time": "2017-03-21T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1412193-wild-pink-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.585Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 141,
+    "fields": {
+        "billing": "Post Child with Drones, Avenues, Double Feature, Fuck You, Idiot",
+        "venue": 3,
+        "date_time": "2017-03-25T23:30:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1415094-post-child-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.587Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 142,
+    "fields": {
+        "billing": "Dan Andriano",
+        "venue": 3,
+        "date_time": "2017-03-26T01:30:00Z",
+        "price": "$16.00 - $20.00",
+        "url": "http://www.subt.net/event/1394168-dan-andriano-matt-pryor-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.589Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 143,
+    "fields": {
+        "billing": "The Skints with Run And Punch, DJ Chuck Wren, The Crombies",
+        "venue": 3,
+        "date_time": "2017-03-28T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.subt.net/event/1400805-skints-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.591Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 144,
+    "fields": {
+        "billing": "Creepoid with Ecstatic Vision, Bow & Spear",
+        "venue": 3,
+        "date_time": "2017-03-30T01:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1404338-creepoid-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.593Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 145,
+    "fields": {
+        "billing": "Bleep Bloop",
+        "venue": 3,
+        "date_time": "2017-04-01T02:00:00Z",
+        "price": "$10.00 - $20.00",
+        "url": "http://www.subt.net/event/1412255-bleep-bloop-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.594Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 146,
+    "fields": {
+        "billing": "JAIN with Two Feet",
+        "venue": 3,
+        "date_time": "2017-04-02T02:00:00Z",
+        "price": "$18.00",
+        "url": "http://www.subt.net/event/1395816-jain-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.596Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 147,
+    "fields": {
+        "billing": "Staring Problem with Decorum, Wingtips, Split Tongue",
+        "venue": 3,
+        "date_time": "2017-04-04T00:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.subt.net/event/1417202-staring-problem-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.598Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 148,
+    "fields": {
+        "billing": "Oathbreaker with Khemmis, Jaye Jayle",
+        "venue": 3,
+        "date_time": "2017-04-06T01:30:00Z",
+        "price": "$12.00 - $14.00",
+        "url": "http://www.subt.net/event/1404126-oathbreaker-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.600Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 149,
+    "fields": {
+        "billing": "Stolas with Mylets, Icarus The Owl, Death of Massive Stars",
+        "venue": 3,
+        "date_time": "2017-04-08T22:30:00Z",
+        "price": "$13.00",
+        "url": "http://www.subt.net/event/1417547-stolas-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.601Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 150,
+    "fields": {
+        "billing": "Emo Nite LA Presents: Emo Nite Chicago",
+        "venue": 3,
+        "date_time": "2017-04-20T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.subt.net/event/1412149-emo-nite-la-emo-nite-chicago-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.603Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 151,
+    "fields": {
+        "billing": "Pile with Gnarwhal",
+        "venue": 3,
+        "date_time": "2017-05-12T01:00:00Z",
+        "price": "$12.00 - $14.00",
+        "url": "http://www.subt.net/event/1417546-pile-chicago/",
+        "date_scraped": "2017-01-22T17:50:37.605Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 152,
+    "fields": {
+        "billing": "Message For Details ",
+        "venue": 4,
+        "date_time": "2017-01-25T01:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/message-for-details-2/",
+        "date_scraped": "2017-01-22T17:50:39.583Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 153,
+    "fields": {
+        "billing": "FABITAT: Robyn with DJ Adam El * Ldy Prblms * Greg Haus * The Vixen * Nico * Shea Coulee *  Hosted by: Lucy Stoole * The Vixen",
+        "venue": 4,
+        "date_time": "2017-01-26T03:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/fabitat-8/",
+        "date_scraped": "2017-01-22T17:50:39.877Z",
+        "is_active": true,
+        "artists": [
+            464
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 154,
+    "fields": {
+        "billing": "Bleeker with The Wrecks * Rakunk",
+        "venue": 4,
+        "date_time": "2017-01-27T02:00:00Z",
+        "price": "$10 GA",
+        "url": "http://doubledoor.com/event/bleeker/",
+        "date_scraped": "2017-01-22T17:50:39.882Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 155,
+    "fields": {
+        "billing": "Gooey with The War Inside * Weber Band * Frankie B.",
+        "venue": 4,
+        "date_time": "2017-01-28T01:30:00Z",
+        "price": "$12 GA / $32 VIP",
+        "url": "http://doubledoor.com/event/gooey-2/",
+        "date_scraped": "2017-01-22T17:50:39.887Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 156,
+    "fields": {
+        "billing": "CumbiaSazo! Dance Party with CALIXTA (CumbiaSazo) // ITZI NALLAH w/ TIFFLOVE (CumbiaSazo)",
+        "venue": 4,
+        "date_time": "2017-01-29T03:00:00Z",
+        "price": "$10 w/ RSVP @ www.do312.com/cumbiasazo  / $15 ADV / $20 VIP",
+        "url": "http://doubledoor.com/event/cumbia-sazo-dance-party-chicago-double-door/",
+        "date_scraped": "2017-01-22T17:50:39.888Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 157,
+    "fields": {
+        "billing": "The Biohackers Tour w/ CloZee & Psymbionic with Zero Gravity * Caveman",
+        "venue": 4,
+        "date_time": "2017-02-01T03:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/clozee-france/",
+        "date_scraped": "2017-01-22T17:50:39.889Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 158,
+    "fields": {
+        "billing": "Beatlerama! ",
+        "venue": 4,
+        "date_time": "2017-02-02T02:00:00Z",
+        "price": "$5 GA",
+        "url": "http://doubledoor.com/event/beatlerama/",
+        "date_scraped": "2017-01-22T17:50:39.891Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 159,
+    "fields": {
+        "billing": "24hrs with Ye Ali * James and the Giant Trap Beat",
+        "venue": 4,
+        "date_time": "2017-02-03T00:00:00Z",
+        "price": "$15 ADV / $20 DOS",
+        "url": "http://doubledoor.com/event/24hrs/",
+        "date_scraped": "2017-01-22T17:50:39.892Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 160,
+    "fields": {
+        "billing": "Red Jr. with Laik * American Cosmonaut (EP Release) * The Dead On * Lost But Happy",
+        "venue": 4,
+        "date_time": "2017-02-04T02:00:00Z",
+        "price": "$10 GA",
+        "url": "http://doubledoor.com/event/red-jr/",
+        "date_scraped": "2017-01-22T17:50:39.894Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 161,
+    "fields": {
+        "billing": "Barclay Crenshaw ",
+        "venue": 4,
+        "date_time": "2017-02-05T02:00:00Z",
+        "price": "$12.50 Earlybird  / $15 GA ADV / $18 ADV / $20 AT THE DOOR",
+        "url": "http://doubledoor.com/event/barclay-crenshaw/",
+        "date_scraped": "2017-01-22T17:50:39.895Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 162,
+    "fields": {
+        "billing": "No Men with Dumb Vision * Wolfpac",
+        "venue": 4,
+        "date_time": "2017-02-07T02:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/no-men/",
+        "date_scraped": "2017-01-22T17:50:39.896Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 163,
+    "fields": {
+        "billing": "#Beloved Gang: Tuesday Night Turn-up with \"\ud83d\udca6\" (Jamprov) * Calez * Becca Brown * Glitter Moneyyyy * A Lion's Game",
+        "venue": 4,
+        "date_time": "2017-02-08T01:30:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/belovedgang-ting/",
+        "date_scraped": "2017-01-22T17:50:39.898Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 164,
+    "fields": {
+        "billing": "DJ R3DLINE Presents\u2026Melodic Mayhem ",
+        "venue": 4,
+        "date_time": "2017-02-08T02:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/dj-r3dline/",
+        "date_scraped": "2017-01-22T17:50:39.901Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 165,
+    "fields": {
+        "billing": "FABITAT with DJ Adam El * Ldy Prblms * Lucy Stoole * Curlene Ribbon * The Vixen",
+        "venue": 4,
+        "date_time": "2017-02-09T03:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/fabitat-7/",
+        "date_scraped": "2017-01-22T17:50:39.903Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 166,
+    "fields": {
+        "billing": "Rev Gusto with La Guerre * Dude Same",
+        "venue": 4,
+        "date_time": "2017-02-10T02:00:00Z",
+        "price": "$8 GA",
+        "url": "http://doubledoor.com/event/rev-gusto/",
+        "date_scraped": "2017-01-22T17:50:39.904Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 167,
+    "fields": {
+        "billing": "Cold Country with Carmichael * Old Joy",
+        "venue": 4,
+        "date_time": "2017-02-10T02:00:00Z",
+        "price": "$5 GA / $10 at the door",
+        "url": "http://doubledoor.com/event/carmichael/",
+        "date_scraped": "2017-01-22T17:50:39.906Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 168,
+    "fields": {
+        "billing": "Dre Day 2017 with Get Up With The Get Downs * DJ Intel * Big Once * Maker * Trew * Pickel * Kool Hersh * Scend + Shazam Bangles * Hosted by... Dirty MF",
+        "venue": 4,
+        "date_time": "2017-02-11T03:00:00Z",
+        "price": "$12 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/dre-day/",
+        "date_scraped": "2017-01-22T17:50:39.907Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 169,
+    "fields": {
+        "billing": "Gazebo Effect with Splor * Big City Burn",
+        "venue": 4,
+        "date_time": "2017-02-12T01:30:00Z",
+        "price": "$9.99 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/gazebo-effect/",
+        "date_scraped": "2017-01-22T17:50:39.908Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 170,
+    "fields": {
+        "billing": "Simmer Down Sound with Live Sets by Akasha * The Graduate * Rad Brian * Marcus Iyah * Odd Obsession Movies",
+        "venue": 4,
+        "date_time": "2017-02-12T04:00:00Z",
+        "price": "FREE SHOW",
+        "url": "http://doubledoor.com/event/simmer-down-sound-5/",
+        "date_scraped": "2017-01-22T17:50:39.909Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 171,
+    "fields": {
+        "billing": "Lordi with Rival * Wrath * Spare Change",
+        "venue": 4,
+        "date_time": "2017-02-15T02:00:00Z",
+        "price": "$25 ADV / $28 DOS / $65 VIP (ticket to the show, 30 min early entry, show poster, meet n greet)",
+        "url": "http://doubledoor.com/event/lordi/",
+        "date_scraped": "2017-01-22T17:50:39.910Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 172,
+    "fields": {
+        "billing": "The Number 12 Looks Like You with Exotic Animal Petting Zoo",
+        "venue": 4,
+        "date_time": "2017-02-16T00:00:00Z",
+        "price": "$15.50 ADV / $18 DOS",
+        "url": "http://doubledoor.com/event/the-number-12-looks-like-you/",
+        "date_scraped": "2017-01-22T17:50:39.911Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 173,
+    "fields": {
+        "billing": "Rouge! with Vourteque * Mr. Automatic * Gaea Lady and Special Guests TBA",
+        "venue": 4,
+        "date_time": "2017-02-16T03:00:00Z",
+        "price": "$5 GA",
+        "url": "http://doubledoor.com/event/rouge-4/",
+        "date_scraped": "2017-01-22T17:50:39.912Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 174,
+    "fields": {
+        "billing": "Tribal Seeds: Winter Roots Tour with Raging Fyah * Nattali Rize",
+        "venue": 4,
+        "date_time": "2017-02-17T02:00:00Z",
+        "price": "$20 GA / $23 at the door",
+        "url": "http://doubledoor.com/event/tribal-seeds/",
+        "date_scraped": "2017-01-22T17:50:39.913Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 175,
+    "fields": {
+        "billing": "Bickhamstock \u201917 with Little Boy Jr. * Coyote Riot * The Safes * Railway Gamblers * PM Buys",
+        "venue": 4,
+        "date_time": "2017-02-18T01:30:00Z",
+        "price": "$15 GA",
+        "url": "http://doubledoor.com/event/bickhamstock-17/",
+        "date_scraped": "2017-01-22T17:50:39.914Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 176,
+    "fields": {
+        "billing": "Push Beats with Uncle El * E. Brown * Hongry Bogart",
+        "venue": 4,
+        "date_time": "2017-02-18T03:00:00Z",
+        "price": "FREE SHOW before 11PM / $5 after 11PM",
+        "url": "http://doubledoor.com/event/pb/",
+        "date_scraped": "2017-01-22T17:50:39.915Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 177,
+    "fields": {
+        "billing": "Bassel & The Supernaturals (Album Release) with Molehill * The Maytags * Willy Dynomite",
+        "venue": 4,
+        "date_time": "2017-02-25T01:30:00Z",
+        "price": "$12 ADV / $15 DOS",
+        "url": "http://doubledoor.com/event/bassel-and-the-supernaturals/",
+        "date_scraped": "2017-01-22T17:50:39.916Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 178,
+    "fields": {
+        "billing": "dada: 25th Anniversary Tour ",
+        "venue": 4,
+        "date_time": "2017-03-03T01:00:00Z",
+        "price": "$25 ADV / $30 DOS",
+        "url": "http://doubledoor.com/event/dada/",
+        "date_scraped": "2017-01-22T17:50:39.917Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 179,
+    "fields": {
+        "billing": "Split Lip Rayfield ",
+        "venue": 4,
+        "date_time": "2017-03-05T02:00:00Z",
+        "price": "$15 ADV / $18 DOS",
+        "url": "http://doubledoor.com/event/split-lip-rayfield/",
+        "date_scraped": "2017-01-22T17:50:39.919Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 180,
+    "fields": {
+        "billing": "Dead Meadow with The Flash Hits * Blue Dream",
+        "venue": 4,
+        "date_time": "2017-03-09T02:00:00Z",
+        "price": "$12 GA",
+        "url": "http://doubledoor.com/event/sticky-fingers/",
+        "date_scraped": "2017-01-22T17:50:39.920Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 181,
+    "fields": {
+        "billing": "The Griswolds with Dreamers",
+        "venue": 4,
+        "date_time": "2017-03-11T01:00:00Z",
+        "price": "$18 GA",
+        "url": "http://doubledoor.com/event/the-griswolds/",
+        "date_scraped": "2017-01-22T17:50:39.921Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 182,
+    "fields": {
+        "billing": "\ufeffDance Yourself Clean ",
+        "venue": 4,
+        "date_time": "2017-03-12T03:00:00Z",
+        "price": "$12 GA",
+        "url": "http://doubledoor.com/event/%ef%bb%bfdance-yourself-clean/",
+        "date_scraped": "2017-01-22T17:50:39.922Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 183,
+    "fields": {
+        "billing": "Four Year Strong (playing Rise Or Die Trying in its entirety) with Can't Swim * Light Years * Sleep On It",
+        "venue": 4,
+        "date_time": "2017-03-19T22:00:00Z",
+        "price": "$19.99 ADV / $22 DOS",
+        "url": "http://doubledoor.com/event/four-years-strong/",
+        "date_scraped": "2017-01-22T17:50:39.924Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 184,
+    "fields": {
+        "billing": "Moose Blood with Trophy Eyes * Boston Manor * A Will Away",
+        "venue": 4,
+        "date_time": "2017-03-21T22:00:00Z",
+        "price": "$17.50 ADV / $20 DOS",
+        "url": "http://doubledoor.com/event/moose-blood/",
+        "date_scraped": "2017-01-22T17:50:39.926Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 185,
+    "fields": {
+        "billing": "Despised Icon with Carnifex * Fallujah * Rings of Saturn * Lorna Shore",
+        "venue": 4,
+        "date_time": "2017-03-22T22:30:00Z",
+        "price": "$20 ADV / $25 DOS",
+        "url": "http://doubledoor.com/event/despised-icon/",
+        "date_scraped": "2017-01-22T17:50:39.927Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 186,
+    "fields": {
+        "billing": "Hayley Kiyoko ",
+        "venue": 4,
+        "date_time": "2017-04-01T23:30:00Z",
+        "price": "$15 GA",
+        "url": "http://doubledoor.com/event/hayley-kiyoko/",
+        "date_scraped": "2017-01-22T17:50:39.929Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 187,
+    "fields": {
+        "billing": "Sleaford Mods with Negative Scanner",
+        "venue": 4,
+        "date_time": "2017-04-04T00:00:00Z",
+        "price": "$20 GA",
+        "url": "http://doubledoor.com/event/sleaford-mods/",
+        "date_scraped": "2017-01-22T17:50:39.931Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 188,
+    "fields": {
+        "billing": "Sam Gellaitry ",
+        "venue": 4,
+        "date_time": "2017-04-08T01:00:00Z",
+        "price": "$12.50 Earlybird  / $15.50 GA  / $18.50 AT THE DOOR",
+        "url": "http://doubledoor.com/event/sam-gellaitry/",
+        "date_scraped": "2017-01-22T17:50:39.933Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 189,
+    "fields": {
+        "billing": "Chairlift ",
+        "venue": 4,
+        "date_time": "2017-04-15T01:00:00Z",
+        "price": "$14 Earlybird / $20 GA / $22 at the door",
+        "url": "http://doubledoor.com/event/chairlift2/",
+        "date_scraped": "2017-01-22T17:50:39.935Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 190,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-01-22T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC2A2510&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.227Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 191,
+    "fields": {
+        "billing": "93 XRT Presents: Frank Turner & The Sleeping Souls",
+        "venue": 5,
+        "date_time": "2017-01-22T21:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400514C036D2DEE&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.231Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 192,
+    "fields": {
+        "billing": "93 XRT Presents: Frank Turner & The Sleeping Souls",
+        "venue": 5,
+        "date_time": "2017-01-23T23:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400514C037F2DFE&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.233Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 193,
+    "fields": {
+        "billing": "Swizzle Steve Showcase",
+        "venue": 5,
+        "date_time": "2017-01-28T01:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005225CB701C4E&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.234Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 194,
+    "fields": {
+        "billing": "101 WKQX Presents: Dashboard Confessional",
+        "venue": 5,
+        "date_time": "2017-01-28T23:45:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400517E15643CC0&offerid=39619",
+        "date_scraped": "2017-01-22T17:51:03.236Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 195,
+    "fields": {
+        "billing": "HOUSE OF BURLESQUE",
+        "venue": 5,
+        "date_time": "2017-01-29T02:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400519F1C492089&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.237Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 196,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-01-29T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC2F2513&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.238Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 197,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-01-29T18:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD5A29A6&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.239Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 198,
+    "fields": {
+        "billing": "JACOB SARTORIUS",
+        "venue": 5,
+        "date_time": "2017-01-30T00:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400517E0ED7452F&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.240Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 199,
+    "fields": {
+        "billing": "Dita Von Teese's \"The Art of the Teese\" Burlesque Revue",
+        "venue": 5,
+        "date_time": "2017-02-02T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513BD8911CD9&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.242Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 200,
+    "fields": {
+        "billing": "Dita Von Teese's \"The Art of the Teese\" Burlesque Revue",
+        "venue": 5,
+        "date_time": "2017-02-03T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513BD8971CE1&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.243Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 201,
+    "fields": {
+        "billing": "Dita Von Teese's \"The Art of the Teese\" Burlesque Revue",
+        "venue": 5,
+        "date_time": "2017-02-04T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513BD89E1CE7&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.244Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 202,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-05T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC35251D&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.245Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 203,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-05T18:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD5E29A8&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.247Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 204,
+    "fields": {
+        "billing": "Ms. Lauryn Hill -The MLH Caravan: The Diaspora Calling! Concert Series",
+        "venue": 5,
+        "date_time": "2017-02-07T01:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400519F070C1EDD&offerid=40477",
+        "date_scraped": "2017-01-22T17:51:03.248Z",
+        "is_active": true,
+        "artists": [
+            314
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 205,
+    "fields": {
+        "billing": "The Noise Presents Pop Evil",
+        "venue": 5,
+        "date_time": "2017-02-11T00:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400514CEC6F24A3&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.249Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 206,
+    "fields": {
+        "billing": "Back to the 80s with Sixteen Candles",
+        "venue": 5,
+        "date_time": "2017-02-12T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005110D1EE412E&offerid=40611",
+        "date_scraped": "2017-01-22T17:51:03.250Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 207,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-12T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC392521&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.251Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 208,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-12T18:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD6229AA&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.253Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 209,
+    "fields": {
+        "billing": "Tank: The Bionce Foxx Experience Live",
+        "venue": 5,
+        "date_time": "2017-02-13T01:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040051810B80482B&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.254Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 210,
+    "fields": {
+        "billing": "John Vincent's Sinatra Valentine's Show",
+        "venue": 5,
+        "date_time": "2017-02-15T01:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005225E0132000&offerid=40506",
+        "date_scraped": "2017-01-22T17:51:03.255Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 211,
+    "fields": {
+        "billing": "Tove Lo: Lady Wood Tour",
+        "venue": 5,
+        "date_time": "2017-02-17T00:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005154F11F48E3&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.257Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 212,
+    "fields": {
+        "billing": "SUPER DIAMOND",
+        "venue": 5,
+        "date_time": "2017-02-18T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400516BA27A1A30&offerid=40511",
+        "date_scraped": "2017-01-22T17:51:03.258Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 213,
+    "fields": {
+        "billing": "HERE COME THE MUMMIES",
+        "venue": 5,
+        "date_time": "2017-02-19T01:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005145FEF644F5&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.259Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 214,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-19T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC3E252D&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.260Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 215,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-19T18:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD6729AF&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.261Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 216,
+    "fields": {
+        "billing": "Chippendales 2017: Best. Night. Ever. Tour",
+        "venue": 5,
+        "date_time": "2017-02-24T00:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513BB8D21631&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.262Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 217,
+    "fields": {
+        "billing": "Chippendales 2017: Best. Night. Ever. Tour",
+        "venue": 5,
+        "date_time": "2017-02-24T03:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513BB8D81634&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.263Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 218,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-26T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC422533&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.264Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 219,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-02-26T18:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD6B29B7&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.265Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 220,
+    "fields": {
+        "billing": "Josh Garrels & John Mark McMillan present The Revelators Tour",
+        "venue": 5,
+        "date_time": "2017-02-26T23:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040051343ABB38C4&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.266Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 221,
+    "fields": {
+        "billing": "JAKE MILLER",
+        "venue": 5,
+        "date_time": "2017-02-27T23:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005179A4B018EF&offerid=39020",
+        "date_scraped": "2017-01-22T17:51:03.268Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 222,
+    "fields": {
+        "billing": "101WKQX Presents: Dashboard Confessional",
+        "venue": 5,
+        "date_time": "2017-03-01T23:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=040052261FFE07B6&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.269Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 223,
+    "fields": {
+        "billing": "97.9 The Loop Presents: Pink Floyd Laser Spectacular",
+        "venue": 5,
+        "date_time": "2017-03-04T00:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400516AC11A1817&offerid=40630",
+        "date_scraped": "2017-01-22T17:51:03.270Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 224,
+    "fields": {
+        "billing": "The Noise Presents Metal Blade's 35th Anniversary Tour w/ Whitechapel",
+        "venue": 5,
+        "date_time": "2017-03-04T22:35:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005189F6115223&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.272Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 225,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-05T16:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC462535&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.273Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 226,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-05T18:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD7029B9&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.274Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 227,
+    "fields": {
+        "billing": "GAELIC STORM",
+        "venue": 5,
+        "date_time": "2017-03-11T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005147FFB64CE5&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.275Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 228,
+    "fields": {
+        "billing": "GAELIC STORM",
+        "venue": 5,
+        "date_time": "2017-03-12T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400514704974DBF&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.276Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 229,
+    "fields": {
+        "billing": "Gaelic Storm 2 Day Pass",
+        "venue": 5,
+        "date_time": "2017-03-12T01:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005147079A4E25&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.278Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 230,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-12T15:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC4B2537&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.279Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 231,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-12T17:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD7429BC&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.280Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 232,
+    "fields": {
+        "billing": "HOB and React Presents: Hippie Sabotage Chasing the Wild Tour",
+        "venue": 5,
+        "date_time": "2017-03-13T01:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005189FC365347&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.281Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 233,
+    "fields": {
+        "billing": "BLUE OCTOBER",
+        "venue": 5,
+        "date_time": "2017-03-16T23:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400518FFA88287D&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.282Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 234,
+    "fields": {
+        "billing": "Merry Jane Presents Juicy J - The Rubba Band Business Tour",
+        "venue": 5,
+        "date_time": "2017-03-17T23:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400515CC42B27DB&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.283Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 235,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-19T15:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC4F253E&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.284Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 236,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-19T17:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD7929BE&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.286Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 237,
+    "fields": {
+        "billing": "Born Of Osiris - The New Reign Tour",
+        "venue": 5,
+        "date_time": "2017-03-19T22:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005190A6231842&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.287Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 238,
+    "fields": {
+        "billing": "101WKQX Presents: Judah & the Lion - Going to Mars tour",
+        "venue": 5,
+        "date_time": "2017-03-23T23:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400523019083499&offerid=40974",
+        "date_scraped": "2017-01-22T17:51:03.288Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 239,
+    "fields": {
+        "billing": "101WKQX Presents: Andrew McMahon in the Wilderness",
+        "venue": 5,
+        "date_time": "2017-03-24T23:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005167004C1E6B&offerid=39753",
+        "date_scraped": "2017-01-22T17:51:03.289Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 240,
+    "fields": {
+        "billing": "SiriusXM Jam On Presents: Galactic Winter Tour",
+        "venue": 5,
+        "date_time": "2017-03-26T00:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0&offerid=38252",
+        "date_scraped": "2017-01-22T17:51:03.290Z",
+        "is_active": true,
+        "artists": [
+            52
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 241,
+    "fields": {
+        "billing": "SiriusXM Jam On Presents: Galactic Winter Tour",
+        "venue": 5,
+        "date_time": "2017-03-26T00:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513BE72F2052&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.291Z",
+        "is_active": true,
+        "artists": [
+            52
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 242,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-26T15:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BC542542&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.293Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 243,
+    "fields": {
+        "billing": "World Famous Gospel Brunch at House of Blues (CHI)",
+        "venue": 5,
+        "date_time": "2017-03-26T17:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005121BD7F29D0&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.294Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 244,
+    "fields": {
+        "billing": "DAYA",
+        "venue": 5,
+        "date_time": "2017-03-26T23:00:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=0400513615AA3CE9&offerid=0",
+        "date_scraped": "2017-01-22T17:51:03.296Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 245,
+    "fields": {
+        "billing": "93 XRT Presents: Richard Ashcroft",
+        "venue": 5,
+        "date_time": "2017-03-31T00:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005186EFA52AE7&offerid=39754",
+        "date_scraped": "2017-01-22T17:51:03.297Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 246,
+    "fields": {
+        "billing": "Simple Plan - No Pads, No Helmets...Just Balls 15TH Anniversary Tour",
+        "venue": 5,
+        "date_time": "2017-03-31T21:30:00Z",
+        "price": "Check ticket site for price.",
+        "url": "http://www.houseofblues.com/chicago/EventDetail?tmeventid=04005225EA412141&offerid=40605",
+        "date_scraped": "2017-01-22T17:51:03.298Z",
+        "is_active": true,
+        "artists": [
+            95
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 247,
+    "fields": {
+        "billing": "Wax Tailor",
+        "venue": 6,
+        "date_time": "2017-01-27T02:00:00Z",
+        "price": "$18 (adv), $20 / $24",
+        "url": "http://thaliahallchicago.com/?event_id=6864085",
+        "date_scraped": "2017-01-22T17:51:03.564Z",
+        "is_active": true,
+        "artists": [
+            252
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 248,
+    "fields": {
+        "billing": "Bear's Den with Gill Landry",
+        "venue": 6,
+        "date_time": "2017-01-28T02:00:00Z",
+        "price": "$18 (adv), $20 / $28",
+        "url": "http://thaliahallchicago.com/?event_id=6953495",
+        "date_scraped": "2017-01-22T17:51:03.568Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 249,
+    "fields": {
+        "billing": "Palace Film Festival",
+        "venue": 6,
+        "date_time": "2017-01-28T21:00:00Z",
+        "price": "$20",
+        "url": "http://thaliahallchicago.com/?event_id=7148375",
+        "date_scraped": "2017-01-22T17:51:03.570Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 250,
+    "fields": {
+        "billing": "Palace Film Festival",
+        "venue": 6,
+        "date_time": "2017-01-29T21:00:00Z",
+        "price": "$20",
+        "url": "http://thaliahallchicago.com/?event_id=7159155",
+        "date_scraped": "2017-01-22T17:51:03.572Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 251,
+    "fields": {
+        "billing": "12th Annual Barn Dance Apocalypse",
+        "venue": 6,
+        "date_time": "2017-02-05T02:00:00Z",
+        "price": "$18 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=7091925",
+        "date_scraped": "2017-01-22T17:51:03.574Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 252,
+    "fields": {
+        "billing": "WXRT welcomes Cloud Nothings",
+        "venue": 6,
+        "date_time": "2017-02-11T02:30:00Z",
+        "price": "$18 (adv), $20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=6959745",
+        "date_scraped": "2017-01-22T17:51:03.576Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 253,
+    "fields": {
+        "billing": "Very Very Fun Day presented by Maximum Fun",
+        "venue": 6,
+        "date_time": "2017-02-11T18:00:00Z",
+        "price": "$65 / $99",
+        "url": "http://thaliahallchicago.com/?event_id=7005355",
+        "date_scraped": "2017-01-22T17:51:03.578Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 254,
+    "fields": {
+        "billing": "Punch-Drunk Love Movie Night!",
+        "venue": 6,
+        "date_time": "2017-02-15T01:00:00Z",
+        "price": "$7 single/$10 pair",
+        "url": "http://thaliahallchicago.com/?event_id=7152115",
+        "date_scraped": "2017-01-22T17:51:03.580Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 255,
+    "fields": {
+        "billing": "Michael Ian Black",
+        "venue": 6,
+        "date_time": "2017-02-18T03:00:00Z",
+        "price": "$25",
+        "url": "http://thaliahallchicago.com/?event_id=7137925",
+        "date_scraped": "2017-01-22T17:51:03.582Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 256,
+    "fields": {
+        "billing": "Austra with The Range and My Gold Mask",
+        "venue": 6,
+        "date_time": "2017-02-19T03:00:00Z",
+        "price": "$20",
+        "url": "http://thaliahallchicago.com/?event_id=7002655",
+        "date_scraped": "2017-01-22T17:51:03.584Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 257,
+    "fields": {
+        "billing": "George Clinton & Parliament Funkadelic \u2013 Mardi Gras Madness Tour",
+        "venue": 6,
+        "date_time": "2017-02-20T02:00:00Z",
+        "price": "$38 (adv), $40 / $58",
+        "url": "http://thaliahallchicago.com/?event_id=7030735",
+        "date_scraped": "2017-01-22T17:51:03.586Z",
+        "is_active": true,
+        "artists": [
+            420,
+            446
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 258,
+    "fields": {
+        "billing": "UPPERS & DOWNERS",
+        "venue": 6,
+        "date_time": "2017-02-25T17:00:00Z",
+        "price": "$60",
+        "url": "http://thaliahallchicago.com/?event_id=7101765",
+        "date_scraped": "2017-01-22T17:51:03.588Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 259,
+    "fields": {
+        "billing": "Shiner with Milemarker 'In The Round'",
+        "venue": 6,
+        "date_time": "2017-02-26T03:30:00Z",
+        "price": "$18 (adv), $20",
+        "url": "http://thaliahallchicago.com/?event_id=7023985",
+        "date_scraped": "2017-01-22T17:51:03.590Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 260,
+    "fields": {
+        "billing": "Lee Fields & the Expressions",
+        "venue": 6,
+        "date_time": "2017-03-01T02:30:00Z",
+        "price": "$20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=7018265",
+        "date_scraped": "2017-01-22T17:51:03.593Z",
+        "is_active": true,
+        "artists": [
+            236
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 261,
+    "fields": {
+        "billing": "Chirp welcomes Electric Guest with Nine Pound Shadow",
+        "venue": 6,
+        "date_time": "2017-03-02T02:30:00Z",
+        "price": "$16 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=7066255",
+        "date_scraped": "2017-01-22T17:51:03.595Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 262,
+    "fields": {
+        "billing": "Las Cafeteras presented by Thalia Hall and Sound Culture",
+        "venue": 6,
+        "date_time": "2017-03-04T02:30:00Z",
+        "price": "$15 (adv), $18 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=7148605",
+        "date_scraped": "2017-01-22T17:51:03.597Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 263,
+    "fields": {
+        "billing": "The Radio Dept. with  GERMANS",
+        "venue": 6,
+        "date_time": "2017-03-05T02:30:00Z",
+        "price": "$15 (adv), $18 / $20",
+        "url": "http://thaliahallchicago.com/?event_id=6887755",
+        "date_scraped": "2017-01-22T17:51:03.599Z",
+        "is_active": true,
+        "artists": [
+            301
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 264,
+    "fields": {
+        "billing": "WXRT welcomes Devendra Banhart",
+        "venue": 6,
+        "date_time": "2017-03-07T02:00:00Z",
+        "price": "$26 (adv), $28 / $38",
+        "url": "http://thaliahallchicago.com/?event_id=7036865",
+        "date_scraped": "2017-01-22T17:51:03.600Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 265,
+    "fields": {
+        "billing": "WXRT Big Beat presents Tennis with Overcoats",
+        "venue": 6,
+        "date_time": "2017-03-10T01:30:00Z",
+        "price": "$18 (adv), $20 / $26",
+        "url": "http://thaliahallchicago.com/?event_id=6992485",
+        "date_scraped": "2017-01-22T17:51:03.602Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 266,
+    "fields": {
+        "billing": "WXRT welcomes Colin Hay",
+        "venue": 6,
+        "date_time": "2017-03-11T02:00:00Z",
+        "price": "$29 / $39 / $65",
+        "url": "http://thaliahallchicago.com/?event_id=7052385",
+        "date_scraped": "2017-01-22T17:51:03.604Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 267,
+    "fields": {
+        "billing": "Carpenter Brut-North American Tour presented by Dot to Dot and Thalia Hall",
+        "venue": 6,
+        "date_time": "2017-03-14T02:00:00Z",
+        "price": "$25 (adv), $30 / $35",
+        "url": "http://thaliahallchicago.com/?event_id=7100725",
+        "date_scraped": "2017-01-22T17:51:03.606Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 268,
+    "fields": {
+        "billing": "Allah-Las with The Babe Rainbow (OZ)",
+        "venue": 6,
+        "date_time": "2017-03-17T01:30:00Z",
+        "price": "$20 (adv), $22 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=7019205",
+        "date_scraped": "2017-01-22T17:51:03.607Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 269,
+    "fields": {
+        "billing": "WHY? with Dosh",
+        "venue": 6,
+        "date_time": "2017-03-18T02:00:00Z",
+        "price": "$20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=7062645",
+        "date_scraped": "2017-01-22T17:51:03.609Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 270,
+    "fields": {
+        "billing": "Goose Island presents Strand of Oaks with Twin Limb",
+        "venue": 6,
+        "date_time": "2017-03-19T02:00:00Z",
+        "price": "$16 / $21",
+        "url": "http://thaliahallchicago.com/?event_id=7036945",
+        "date_scraped": "2017-01-22T17:51:03.611Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 271,
+    "fields": {
+        "billing": "Monsieur Perin\u00e9 with Pedrina y Rio presented by Festivus Live & Thalia Hall",
+        "venue": 6,
+        "date_time": "2017-03-23T01:00:00Z",
+        "price": "$31 early bird, $36 / $46",
+        "url": "http://thaliahallchicago.com/?event_id=7085725",
+        "date_scraped": "2017-01-22T17:51:03.613Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 272,
+    "fields": {
+        "billing": "An Evening with Southern Soul Assembly feat. JJ Grey, Luther Dickinson, Anders Osborne and Marc Broussard",
+        "venue": 6,
+        "date_time": "2017-03-25T02:00:00Z",
+        "price": "$30 / $48",
+        "url": "http://thaliahallchicago.com/?event_id=6892835",
+        "date_scraped": "2017-01-22T17:51:03.614Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 273,
+    "fields": {
+        "billing": "Pallbearer",
+        "venue": 6,
+        "date_time": "2017-04-01T01:30:00Z",
+        "price": "$16 (adv), $19 / $24",
+        "url": "http://thaliahallchicago.com/?event_id=7089565",
+        "date_scraped": "2017-01-22T17:51:03.616Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 274,
+    "fields": {
+        "billing": "WXRT welcome Son Volt with Anders Parker",
+        "venue": 6,
+        "date_time": "2017-04-02T01:00:00Z",
+        "price": "$25 (adv), $27 / $37",
+        "url": "http://thaliahallchicago.com/?event_id=7033135",
+        "date_scraped": "2017-01-22T17:51:03.618Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 275,
+    "fields": {
+        "billing": "SOHN",
+        "venue": 6,
+        "date_time": "2017-04-04T01:30:00Z",
+        "price": "$17 (adv), $20 / $22",
+        "url": "http://thaliahallchicago.com/?event_id=6995885",
+        "date_scraped": "2017-01-22T17:51:03.620Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 276,
+    "fields": {
+        "billing": "WXRT welcomes Margo Price",
+        "venue": 6,
+        "date_time": "2017-04-08T01:00:00Z",
+        "price": "$20 / $35",
+        "url": "http://thaliahallchicago.com/?event_id=7069345",
+        "date_scraped": "2017-01-22T17:51:03.621Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 277,
+    "fields": {
+        "billing": "WXRT welcomes San Fermin and Low Roar",
+        "venue": 6,
+        "date_time": "2017-04-13T01:30:00Z",
+        "price": "$18 (adv), $20 / $25",
+        "url": "http://thaliahallchicago.com/?event_id=7138095",
+        "date_scraped": "2017-01-22T17:51:03.623Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 278,
+    "fields": {
+        "billing": "The Zombies: Odessey and Oracle 50th Anniversary",
+        "venue": 6,
+        "date_time": "2017-04-14T01:00:00Z",
+        "price": "$42 / $58",
+        "url": "http://thaliahallchicago.com/?event_id=6953485",
+        "date_scraped": "2017-01-22T17:51:03.625Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 279,
+    "fields": {
+        "billing": "The Wailin' Jennys",
+        "venue": 6,
+        "date_time": "2017-04-19T01:00:00Z",
+        "price": "$29 / $37 / $57",
+        "url": "http://thaliahallchicago.com/?event_id=7175505",
+        "date_scraped": "2017-01-22T17:51:03.626Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 280,
+    "fields": {
+        "billing": "WXRT welcomes The Magnetic Fields: 50 Song Memoir",
+        "venue": 6,
+        "date_time": "2017-04-20T01:00:00Z",
+        "price": "$35 / $40 / $55",
+        "url": "http://thaliahallchicago.com/?event_id=6938065",
+        "date_scraped": "2017-01-22T17:51:03.628Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 281,
+    "fields": {
+        "billing": "WXRT welcomes The Magnetic Fields: 50 Song Memoir",
+        "venue": 6,
+        "date_time": "2017-04-21T01:00:00Z",
+        "price": "$35 / $40 / $55",
+        "url": "http://thaliahallchicago.com/?event_id=6938075",
+        "date_scraped": "2017-01-22T17:51:03.630Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 282,
+    "fields": {
+        "billing": "Welcome To Night Vale with special musical guest Erin McKeown",
+        "venue": 6,
+        "date_time": "2017-04-26T23:30:00Z",
+        "price": "$30",
+        "url": "http://thaliahallchicago.com/?event_id=7142155",
+        "date_scraped": "2017-01-22T17:51:03.633Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 283,
+    "fields": {
+        "billing": "WXRT welcomes Hurray for the Riff Raff with Ron Gallo",
+        "venue": 6,
+        "date_time": "2017-04-29T01:00:00Z",
+        "price": "$17 (adv), $20 / $27",
+        "url": "http://thaliahallchicago.com/?event_id=7036975",
+        "date_scraped": "2017-01-22T17:51:03.635Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 284,
+    "fields": {
+        "billing": "WXRT welcomes The Jayhawks",
+        "venue": 6,
+        "date_time": "2017-04-30T01:00:00Z",
+        "price": "$26 / $39 / $360",
+        "url": "http://thaliahallchicago.com/?event_id=7173835",
+        "date_scraped": "2017-01-22T17:51:03.636Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 285,
+    "fields": {
+        "billing": "The Mavericks",
+        "venue": 6,
+        "date_time": "2017-05-06T01:00:00Z",
+        "price": "$36 (adv), $38 / $65",
+        "url": "http://thaliahallchicago.com/?event_id=7096185",
+        "date_scraped": "2017-01-22T17:51:03.638Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 286,
+    "fields": {
+        "billing": "Paula Poundstone",
+        "venue": 6,
+        "date_time": "2017-05-14T00:00:00Z",
+        "price": "$39.50 / $60",
+        "url": "http://thaliahallchicago.com/?event_id=7023455",
+        "date_scraped": "2017-01-22T17:51:03.641Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 287,
+    "fields": {
+        "billing": "Paula Poundstone",
+        "venue": 6,
+        "date_time": "2017-05-14T03:00:00Z",
+        "price": "$39.50 / $60",
+        "url": "http://thaliahallchicago.com/?event_id=7023475",
+        "date_scraped": "2017-01-22T17:51:03.643Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 288,
+    "fields": {
+        "billing": "Ty Segall",
+        "venue": 6,
+        "date_time": "2017-05-15T01:30:00Z",
+        "price": "$24 (adv). $26 / $30",
+        "url": "http://thaliahallchicago.com/?event_id=7023655",
+        "date_scraped": "2017-01-22T17:51:03.644Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 289,
+    "fields": {
+        "billing": "ALKALINE TRIO with TURNSPIT",
+        "venue": 7,
+        "date_time": "2017-01-20T03:00:00Z",
+        "price": "$34.50 adv. - $36 day of",
+        "url": "http://metrochicago.com/alkaline-trio-01-19-17/",
+        "date_scraped": "2017-01-22T17:51:04.241Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 290,
+    "fields": {
+        "billing": "ALKALINE TRIO with AIRSTREAM FUTURES",
+        "venue": 7,
+        "date_time": "2017-01-21T03:00:00Z",
+        "price": "$34.50 adv. - $36 day of",
+        "url": "http://metrochicago.com/alkaline-trio-01-20-17/",
+        "date_scraped": "2017-01-22T17:51:04.244Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 291,
+    "fields": {
+        "billing": "STARSET with GEMINI SYNDROME, SEE THIS THROUGH, SHALLOW STATE",
+        "venue": 7,
+        "date_time": "2017-01-22T00:30:00Z",
+        "price": "$16 Advance, $18 Doors",
+        "url": "http://metrochicago.com/starset-01-21-17/",
+        "date_scraped": "2017-01-22T17:51:04.246Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 292,
+    "fields": {
+        "billing": "MAYHEM (PERFORMING DE MYSTERIIS DOM SATHANAS) with INQUISITION\u00c2\u00a0, BLACK ANVIL",
+        "venue": 7,
+        "date_time": "2017-01-24T02:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/mayhem-01-23-17/",
+        "date_scraped": "2017-01-22T17:51:04.247Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 293,
+    "fields": {
+        "billing": "RAW CHICAGO presents: CUSP",
+        "venue": 7,
+        "date_time": "2017-01-26T01:00:00Z",
+        "price": "$22 Advance, $30 Doors",
+        "url": "http://metrochicago.com/raw-chicago-cusp-01-25-17/",
+        "date_scraped": "2017-01-22T17:51:04.249Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 294,
+    "fields": {
+        "billing": "THE DEVIL MAKES THREE",
+        "venue": 99,
+        "date_time": "2017-01-28T03:00:00Z",
+        "price": "$25",
+        "url": "http://metrochicago.com/the-devil-makes-three-01-27-17/",
+        "date_scraped": "2017-01-22T17:51:04.250Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 295,
+    "fields": {
+        "billing": "D.R.A.M. with RIVER TIBER, NEBU KINIZA",
+        "venue": 7,
+        "date_time": "2017-01-28T03:00:00Z",
+        "price": "$21 Advance, $23 Doors",
+        "url": "http://metrochicago.com/d-r-a-m-01-27-17/",
+        "date_scraped": "2017-01-22T17:51:04.252Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 296,
+    "fields": {
+        "billing": "THE 8TH ANNUAL WINTER BLOCK PARTY with U.N.I.T.Y. \u2013 A CELEBRATION OF CHICAGO\u2019S HIP HOP ARTS",
+        "venue": 7,
+        "date_time": "2017-01-28T18:00:00Z",
+        "price": "Free",
+        "url": "http://metrochicago.com/winter-block-party-01-28-17/",
+        "date_scraped": "2017-01-22T17:51:04.253Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 297,
+    "fields": {
+        "billing": "WBEZ WINTER BLOCK PARTY CONCERT with FEATURING:, JAMILA WOODS, KAINA, MEDICINE WOMAN, ANG 13, BEBE O\u2019HARE, FREDDY OLD SOUL, LIN-Z, HOSTED BY AMINA NORMAN-HAWKINS",
+        "venue": 7,
+        "date_time": "2017-01-29T01:00:00Z",
+        "price": "$6 Student, $10 General Public",
+        "url": "http://metrochicago.com/ltab-2017-mixtape-release-01-28-17/",
+        "date_scraped": "2017-01-22T17:51:04.254Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 298,
+    "fields": {
+        "billing": "TALIB KWELI with STYLES P, K\u2019VALENTINE",
+        "venue": 7,
+        "date_time": "2017-02-03T03:00:00Z",
+        "price": "$26 Advance, $29 Day Of",
+        "url": "http://metrochicago.com/talib-kweli-02-02-17/",
+        "date_scraped": "2017-01-22T17:51:04.256Z",
+        "is_active": true,
+        "artists": [
+            380
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 299,
+    "fields": {
+        "billing": "CELLRS with REVOLT CODA, FREY GEOFFREX, MIKE GASSETT, FARKUS",
+        "venue": 7,
+        "date_time": "2017-02-04T02:00:00Z",
+        "price": "$12 Advance, $15 Doors",
+        "url": "http://metrochicago.com/cellrs-02-03-17/",
+        "date_scraped": "2017-01-22T17:51:04.257Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 300,
+    "fields": {
+        "billing": "SAMPHA",
+        "venue": 7,
+        "date_time": "2017-02-07T02:00:00Z",
+        "price": "$21 Advance, $25 Day Of",
+        "url": "http://metrochicago.com/sampha-02-06-17/",
+        "date_scraped": "2017-01-22T17:51:04.259Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 301,
+    "fields": {
+        "billing": "NONAME with RAVYN LENAE",
+        "venue": 7,
+        "date_time": "2017-02-09T01:00:00Z",
+        "price": "$21",
+        "url": "http://metrochicago.com/noname-02-08-17-2/",
+        "date_scraped": "2017-01-22T17:51:04.260Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 302,
+    "fields": {
+        "billing": "NONAME with RAVYN LENAE",
+        "venue": 7,
+        "date_time": "2017-02-10T01:00:00Z",
+        "price": "$21",
+        "url": "http://metrochicago.com/noname-02-09-17/",
+        "date_scraped": "2017-01-22T17:51:04.261Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 303,
+    "fields": {
+        "billing": "SANGO with MONTE BOOKER",
+        "venue": 7,
+        "date_time": "2017-02-12T03:00:00Z",
+        "price": "$18 Advance, $21 Doors",
+        "url": "http://metrochicago.com/sango-02-11-17/",
+        "date_scraped": "2017-01-22T17:51:04.262Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 304,
+    "fields": {
+        "billing": "JAPANDROIDS with CRAIG FINN & THE UPTOWN CONTROLLERS",
+        "venue": 99,
+        "date_time": "2017-02-16T02:00:00Z",
+        "price": "$25.00",
+        "url": "http://metrochicago.com/japandroids-02-15-17/",
+        "date_scraped": "2017-01-22T17:51:04.263Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 305,
+    "fields": {
+        "billing": "RUN THE JEWELS with THE GASLAMP KILLER / SPARK MASTER TAPE",
+        "venue": 99,
+        "date_time": "2017-02-18T02:00:00Z",
+        "price": "$30.50",
+        "url": "http://metrochicago.com/run-the-jewels-02-17-17/",
+        "date_scraped": "2017-01-22T17:51:04.264Z",
+        "is_active": true,
+        "artists": [
+            425
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 306,
+    "fields": {
+        "billing": "NOCTURNA VALENTINE\u2019S DAY BALL with \u201cNEW LOVES & BROKEN HEARTS\u201d, WITH DJ SCARY LADY SARAH",
+        "venue": 7,
+        "date_time": "2017-02-19T05:00:00Z",
+        "price": "$10",
+        "url": "http://metrochicago.com/nocturna-02-18-17/",
+        "date_scraped": "2017-01-22T17:51:04.266Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 307,
+    "fields": {
+        "billing": "DRAFT WEEK with SUGAR FREE GUNS, SCOTCH THE FILMMAKER, NAMORADO, THE PRAIRIE FIRES",
+        "venue": 7,
+        "date_time": "2017-02-25T02:00:00Z",
+        "price": "$12 Advance, $15 Doors",
+        "url": "http://metrochicago.com/draft-week-02-24-17/",
+        "date_scraped": "2017-01-22T17:51:04.267Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 308,
+    "fields": {
+        "billing": "THE-DREAM",
+        "venue": 7,
+        "date_time": "2017-02-26T03:00:00Z",
+        "price": "$25 adv. - $30 day of - $150 VIP Meet & Greet",
+        "url": "http://metrochicago.com/the-dream-02-25-17/",
+        "date_scraped": "2017-01-22T17:51:04.270Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 309,
+    "fields": {
+        "billing": "LOS CAMPESINOS! with CRYING",
+        "venue": 7,
+        "date_time": "2017-03-03T02:00:00Z",
+        "price": "$22.50 Advance & Day Of",
+        "url": "http://metrochicago.com/los-campesinos-03-02-17/",
+        "date_scraped": "2017-01-22T17:51:04.274Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 310,
+    "fields": {
+        "billing": "THE MENZINGERS with JEFF ROSENSTOCK, ROZWELL KID",
+        "venue": 7,
+        "date_time": "2017-03-04T02:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/the-menzingers-03-03-17/",
+        "date_scraped": "2017-01-22T17:51:04.277Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 311,
+    "fields": {
+        "billing": "THE LILACS (REUNION SHOW) with MATERIAL REISSUE / THE BAD EXAMPLES",
+        "venue": 7,
+        "date_time": "2017-03-05T00:00:00Z",
+        "price": "$21 Advance, $23 Doors",
+        "url": "http://metrochicago.com/the-lilacs-03-04-17/",
+        "date_scraped": "2017-01-22T17:51:04.278Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 312,
+    "fields": {
+        "billing": "BLACK JOE LEWIS & THE HONEYBEARS",
+        "venue": 7,
+        "date_time": "2017-03-05T04:30:00Z",
+        "price": "$21 Adv.",
+        "url": "http://metrochicago.com/black-joe-lewis-the-honeybears-03-04-17/",
+        "date_scraped": "2017-01-22T17:51:04.280Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 313,
+    "fields": {
+        "billing": "SECONDHAND SERENADE (PERFORMING\u00c2\u00a0AWAKE\u00c2\u00a0IN ITS ENTIRETY) with HAWTHORNE HEIGHTS (ACOUSTIC), RONNIE WINTER (OF THE RED JUMPSUIT APPARATUS), KENNY HOLLAND",
+        "venue": 7,
+        "date_time": "2017-03-07T00:30:00Z",
+        "price": "$20 Advance, $22 Doors",
+        "url": "http://metrochicago.com/secondhand-serenade-03-06-17/",
+        "date_scraped": "2017-01-22T17:51:04.282Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 314,
+    "fields": {
+        "billing": "JENS LEKMAN",
+        "venue": 7,
+        "date_time": "2017-03-10T03:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/jens-lekman-03-09-17/",
+        "date_scraped": "2017-01-22T17:51:04.283Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 315,
+    "fields": {
+        "billing": "THE GROWLERS",
+        "venue": 7,
+        "date_time": "2017-03-11T02:00:00Z",
+        "price": "$23",
+        "url": "http://metrochicago.com/the-growlers-03-10-16/",
+        "date_scraped": "2017-01-22T17:51:04.285Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 316,
+    "fields": {
+        "billing": "CHRONIXX with WITH SPECIAL GUEST KELISSA, JAH 9, MAZ GLAZER FEDERATION SOUND (DJ SET)",
+        "venue": 7,
+        "date_time": "2017-03-12T03:00:00Z",
+        "price": "$26 Advance, $28 Doors",
+        "url": "http://metrochicago.com/chronixx-03-11-17/",
+        "date_scraped": "2017-01-22T17:51:04.286Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 317,
+    "fields": {
+        "billing": "M\u00c3\u0098",
+        "venue": 7,
+        "date_time": "2017-03-14T00:00:00Z",
+        "price": "$24 Adv. & $26 Day Of",
+        "url": "http://metrochicago.com/mo-11-27-16/",
+        "date_scraped": "2017-01-22T17:51:04.288Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 318,
+    "fields": {
+        "billing": "THE ORWELLS",
+        "venue": 7,
+        "date_time": "2017-03-17T00:30:00Z",
+        "price": "$22",
+        "url": "http://metrochicago.com/the-orwells-03-16-17/",
+        "date_scraped": "2017-01-22T17:51:04.290Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 319,
+    "fields": {
+        "billing": "VINCE STAPLES with WITH SPECIAL GUEST KILO KISH",
+        "venue": 7,
+        "date_time": "2017-03-19T02:00:00Z",
+        "price": "$21 Advance, $25 Day Of",
+        "url": "http://metrochicago.com/vince-staples-03-18-16/",
+        "date_scraped": "2017-01-22T17:51:04.292Z",
+        "is_active": true,
+        "artists": [
+            337
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 320,
+    "fields": {
+        "billing": "VINCE STAPLES with WITH SPECIAL GUEST KILO KISH",
+        "venue": 7,
+        "date_time": "2017-03-20T01:00:00Z",
+        "price": "$21 Advance, $25 Day Of",
+        "url": "http://metrochicago.com/vince-staples-03-19-17/",
+        "date_scraped": "2017-01-22T17:51:04.294Z",
+        "is_active": true,
+        "artists": [
+            337
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 321,
+    "fields": {
+        "billing": "SLEIGH BELLS with TUNDE OLANIRAN",
+        "venue": 7,
+        "date_time": "2017-03-22T01:00:00Z",
+        "price": "$26 Advance",
+        "url": "http://metrochicago.com/sleigh-bells-03-21-17/",
+        "date_scraped": "2017-01-22T17:51:04.295Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 322,
+    "fields": {
+        "billing": "NOUVELLE VAGUE with LISET ALEA",
+        "venue": 7,
+        "date_time": "2017-03-28T01:00:00Z",
+        "price": "$30 Advance, $35 Doors",
+        "url": "http://metrochicago.com/nouvelle-vague-03-27-17/",
+        "date_scraped": "2017-01-22T17:51:04.297Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 323,
+    "fields": {
+        "billing": "FOXYGEN",
+        "venue": 99,
+        "date_time": "2017-04-01T01:00:00Z",
+        "price": "$22",
+        "url": "http://metrochicago.com/foxygen-03-31-17/",
+        "date_scraped": "2017-01-22T17:51:04.299Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 324,
+    "fields": {
+        "billing": "HIPPO CAMPUS with MAGIC CITY HIPPIES",
+        "venue": 7,
+        "date_time": "2017-04-08T00:30:00Z",
+        "price": "$16 adv. - $18 day of",
+        "url": "http://metrochicago.com/hippo-campus-04-07-17/",
+        "date_scraped": "2017-01-22T17:51:04.301Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 325,
+    "fields": {
+        "billing": "KING GIZZARD & THE LIZARD WIZARD with ORB, STONEFIELD",
+        "venue": 7,
+        "date_time": "2017-04-09T02:00:00Z",
+        "price": "$21 Advance, $23 Day Of",
+        "url": "http://metrochicago.com/king-gizzard-the-lizard-wizard-04-08-17/",
+        "date_scraped": "2017-01-22T17:51:04.303Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 326,
+    "fields": {
+        "billing": "KATATONIA with CASPIAN, UNCURED",
+        "venue": 7,
+        "date_time": "2017-04-16T01:00:00Z",
+        "price": "$22 Advance & $25 Day Of",
+        "url": "http://metrochicago.com/katatonia-04-15-17/",
+        "date_scraped": "2017-01-22T17:51:04.305Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 327,
+    "fields": {
+        "billing": "THE NEW PORNOGRAPHERS with WAXAHATCHEE",
+        "venue": 7,
+        "date_time": "2017-04-20T01:00:00Z",
+        "price": "$38 Advance",
+        "url": "http://metrochicago.com/the-new-pornographers-04-19-17/",
+        "date_scraped": "2017-01-22T17:51:04.306Z",
+        "is_active": true,
+        "artists": [
+            188
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 328,
+    "fields": {
+        "billing": "THE NEW PORNOGRAPHERS with WAXAHATCHEE",
+        "venue": 7,
+        "date_time": "2017-04-22T02:00:00Z",
+        "price": "$38 Advance",
+        "url": "http://metrochicago.com/the-new-pornographers-04-21-17/",
+        "date_scraped": "2017-01-22T17:51:04.308Z",
+        "is_active": true,
+        "artists": [
+            188
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 329,
+    "fields": {
+        "billing": "VULFPECK with WITH SPECIAL GUEST",
+        "venue": 7,
+        "date_time": "2017-05-05T02:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/vulfpeck-05-04-17/",
+        "date_scraped": "2017-01-22T17:51:04.310Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 330,
+    "fields": {
+        "billing": "VULFPECK with WITH SPECIAL GUEST",
+        "venue": 7,
+        "date_time": "2017-05-06T02:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/vulfpeck-05-05-17/",
+        "date_scraped": "2017-01-22T17:51:04.311Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 331,
+    "fields": {
+        "billing": "VULFPECK with WITH SPECIAL GUEST",
+        "venue": 7,
+        "date_time": "2017-05-07T02:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/vulfpeck-05-06-17/",
+        "date_scraped": "2017-01-22T17:51:04.313Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 332,
+    "fields": {
+        "billing": "LAURA MARLING",
+        "venue": 7,
+        "date_time": "2017-05-08T01:00:00Z",
+        "price": "$25 Advance & Doors",
+        "url": "http://metrochicago.com/laura-marling-05-07-17/",
+        "date_scraped": "2017-01-22T17:51:04.315Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 333,
+    "fields": {
+        "billing": "TY SEGALL",
+        "venue": 7,
+        "date_time": "2017-05-14T02:00:00Z",
+        "price": "$25 Advance",
+        "url": "http://metrochicago.com/ty-segall-05-13-17/",
+        "date_scraped": "2017-01-22T17:51:04.316Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 334,
+    "fields": {
+        "billing": "MASTODON with EAGLES OF DEATH METAL, RUSSIAN CIRCLES",
+        "venue": 99,
+        "date_time": "2017-05-14T00:30:00Z",
+        "price": "$35 Advance & Doors",
+        "url": "http://metrochicago.com/mastodon-05-13-17/",
+        "date_scraped": "2017-01-22T17:51:04.318Z",
+        "is_active": true,
+        "artists": [
+            179,
+            284,
+            563
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 335,
+    "fields": {
+        "billing": "MORBID ANGEL with SUFFOCATION, REVOCATION, WITHERED",
+        "venue": 7,
+        "date_time": "2017-06-04T01:00:00Z",
+        "price": "$15 Early Bird, $25 Advance, $35 Doors",
+        "url": "http://metrochicago.com/morbid-angel-06-03-17/",
+        "date_scraped": "2017-01-22T17:51:04.319Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 336,
+    "fields": {
+        "billing": "Lincoln Hall + Harmonica Dunn present:, , Pajamuary 2017 featuring...EGi  SpreadVibe & Direct",
+        "venue": 8,
+        "date_time": "2017-01-22T03:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com",
+        "date_scraped": "2017-01-22T17:51:16.244Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 337,
+    "fields": {
+        "billing": "Jam Productions presents:Rainbow Kitten Surprise  Caamp",
+        "venue": 8,
+        "date_time": "2017-01-26T01:30:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/01-25-2017+Rainbow+Kitten+Surprise",
+        "date_scraped": "2017-01-22T17:51:16.540Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 338,
+    "fields": {
+        "billing": "React Presents:Plaid  CanterAbstract Science DJs",
+        "venue": 8,
+        "date_time": "2017-01-27T03:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/01-26-2017+Plaid",
+        "date_scraped": "2017-01-22T17:51:16.545Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 339,
+    "fields": {
+        "billing": "93XRT Welcomes...Sam Roberts Band  Hollerado",
+        "venue": 8,
+        "date_time": "2017-01-28T03:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/01-27-2017+Sam+Roberts+Band",
+        "date_scraped": "2017-01-22T17:51:16.548Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 340,
+    "fields": {
+        "billing": "Silver Wrapper presents:Joshua Davis Trio  Donnie BigginsRailway Gamblers",
+        "venue": 8,
+        "date_time": "2017-01-29T03:30:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/01-28-2017+Joshua+Davis+Trio",
+        "date_scraped": "2017-01-22T17:51:16.552Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 341,
+    "fields": {
+        "billing": "The Chicago Moth StorySLAM",
+        "venue": 8,
+        "date_time": "2017-01-30T01:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/01-29-2017+The+Chicago+Moth+StorySLAM",
+        "date_scraped": "2017-01-22T17:51:16.553Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 342,
+    "fields": {
+        "billing": "93XRT Welcomes + React Presents:PHOX  Cuddle Magic",
+        "venue": 8,
+        "date_time": "2017-02-01T02:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/01-31-2017+PHOX",
+        "date_scraped": "2017-01-22T17:51:16.554Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 343,
+    "fields": {
+        "billing": "John Darnielle Universal HarvesterBook Release",
+        "venue": 8,
+        "date_time": "2017-03-02T01:00:00Z",
+        "price": "$32.50",
+        "url": "http://www.lh-st.com/Shows/03-01-2017+John+Darnielle",
+        "date_scraped": "2017-01-22T17:51:16.555Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 344,
+    "fields": {
+        "billing": "React Presents:Clap Your Hands Say Yeah  Steady Holiday",
+        "venue": 8,
+        "date_time": "2017-03-11T02:00:00Z",
+        "price": "$18.00",
+        "url": "http://www.lh-st.com/Shows/03-10-2017+Clap+Your+Hands+Say+Yeah",
+        "date_scraped": "2017-01-22T17:51:16.557Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 345,
+    "fields": {
+        "billing": "Silver Wrapper + Madison House presents:Nikki Lane  Brent CobbJonathan Tyler",
+        "venue": 8,
+        "date_time": "2017-03-12T03:00:00Z",
+        "price": "$18.00",
+        "url": "http://www.lh-st.com/Shows/03-11-2017+Nikki+Lane",
+        "date_scraped": "2017-01-22T17:51:16.558Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 346,
+    "fields": {
+        "billing": "LITE  Mouse On The Keys",
+        "venue": 8,
+        "date_time": "2017-03-15T02:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/03-14-2017+Mouse+On+The+Keys",
+        "date_scraped": "2017-01-22T17:51:16.559Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 347,
+    "fields": {
+        "billing": "Robert Randolph and The Family Band  Guest",
+        "venue": 8,
+        "date_time": "2017-03-18T02:00:00Z",
+        "price": "$25.00",
+        "url": "http://www.lh-st.com/Shows/03-17-2017+Robert+Randolph+and+The+Family+Band",
+        "date_scraped": "2017-01-22T17:51:16.561Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 348,
+    "fields": {
+        "billing": "Silver Wrapper + Madison House presents:Alina Baraz  Guest",
+        "venue": 8,
+        "date_time": "2017-03-24T02:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/03-23-2017+Alina+Baraz",
+        "date_scraped": "2017-01-22T17:51:16.562Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 349,
+    "fields": {
+        "billing": "CHIRP + WLUW Welcome...Lambchop  Guest",
+        "venue": 8,
+        "date_time": "2017-03-25T02:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/03-24-2017+Lambchop",
+        "date_scraped": "2017-01-22T17:51:16.563Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 350,
+    "fields": {
+        "billing": "React presents:Jenny Hval  Guest",
+        "venue": 8,
+        "date_time": "2017-03-31T01:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/03-30-2017+Jenny+Hval",
+        "date_scraped": "2017-01-22T17:51:16.564Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 351,
+    "fields": {
+        "billing": "NYLON MUSIC TOUR PRESENTS:POWERS  Bridgit Mendler  Guest",
+        "venue": 8,
+        "date_time": "2017-04-01T00:30:00Z",
+        "price": "$16.00",
+        "url": "http://www.lh-st.com/Shows/03-31-2017+POWERS+and+Bridgit+Mendler",
+        "date_scraped": "2017-01-22T17:51:16.565Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 352,
+    "fields": {
+        "billing": "BASECAMP  Shallou",
+        "venue": 9,
+        "date_time": "2017-01-22T04:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com",
+        "date_scraped": "2017-01-22T17:51:28.915Z",
+        "is_active": true,
+        "artists": [
+            585
+        ]
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 353,
+    "fields": {
+        "billing": "Pony Town String Band",
+        "venue": 9,
+        "date_time": "2017-01-22T18:00:00Z",
+        "price": "All",
+        "url": "http://www.lh-st.com/Shows/01-22-2017+Acoustic+Brunch+Pony+Town+String+Band",
+        "date_scraped": "2017-01-22T17:51:29.119Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 354,
+    "fields": {
+        "billing": "Partner  Faux FurrsSo Pretty",
+        "venue": 9,
+        "date_time": "2017-01-23T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/01-22-2017+Partner",
+        "date_scraped": "2017-01-22T17:51:29.124Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 355,
+    "fields": {
+        "billing": "Tragic Trip  The Caleb Willitz EnsembleDeadbeatTy Maxon",
+        "venue": 9,
+        "date_time": "2017-01-25T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.lh-st.com/Shows/01-24-2016+Tragic+Trip",
+        "date_scraped": "2017-01-22T17:51:29.127Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 356,
+    "fields": {
+        "billing": "The Quaker City Night Hawks  Guest",
+        "venue": 9,
+        "date_time": "2017-01-26T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/01-25-2017+The+Quaker+City+Night+Hawks",
+        "date_scraped": "2017-01-22T17:51:29.131Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 357,
+    "fields": {
+        "billing": "Public Access T.V.  SplashhThe Britanys",
+        "venue": 9,
+        "date_time": "2017-01-27T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/01-26-2017+Public+Access+TV",
+        "date_scraped": "2017-01-22T17:51:29.133Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 358,
+    "fields": {
+        "billing": "Bonnie Bishop  Glass Mountain",
+        "venue": 9,
+        "date_time": "2017-01-28T01:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/01-27-2017+Bonnie+Bishop",
+        "date_scraped": "2017-01-22T17:51:29.135Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 359,
+    "fields": {
+        "billing": "Esm\u00e9 Patterson  Guest",
+        "venue": 9,
+        "date_time": "2017-01-28T04:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/01-27-2017+Esme+Patterson",
+        "date_scraped": "2017-01-22T17:51:29.138Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 360,
+    "fields": {
+        "billing": "Goodnight BrooklynThe Story of Death By Audio",
+        "venue": 9,
+        "date_time": "2017-01-29T00:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/01-28-2017+Goodnight+Brooklyn",
+        "date_scraped": "2017-01-22T17:51:29.140Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 361,
+    "fields": {
+        "billing": "Girls Guns And Glory  Wilson's Reservoir",
+        "venue": 9,
+        "date_time": "2017-01-29T04:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/01-28-2017+Girls+Guns+And+Glory",
+        "date_scraped": "2017-01-22T17:51:29.143Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 362,
+    "fields": {
+        "billing": "3rd Sunday String Band",
+        "venue": 9,
+        "date_time": "2017-01-29T18:00:00Z",
+        "price": "All",
+        "url": "http://www.lh-st.com/Shows/01-29-2017+3rd+Sunday+String+Band",
+        "date_scraped": "2017-01-22T17:51:29.145Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 363,
+    "fields": {
+        "billing": "JAM productions presents:Margaret Glaspy  Bad Bad Hats",
+        "venue": 9,
+        "date_time": "2017-01-30T01:00:00Z",
+        "price": "$17.00",
+        "url": "http://www.lh-st.com/Shows/01-29-2017+Margaret+Glaspy",
+        "date_scraped": "2017-01-22T17:51:29.148Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 364,
+    "fields": {
+        "billing": "Stix Presents: Jam Night Hosted By: Peter Cottontale DJ ElzSpecial Guests",
+        "venue": 9,
+        "date_time": "2017-02-01T02:30:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.comhttp://www.harmonicadunn.com/event/1413769-jam-night-chicago/ ",
+        "date_scraped": "2017-01-22T17:51:29.150Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 365,
+    "fields": {
+        "billing": "Cigarettes After Sex  Libsyd Read",
+        "venue": 9,
+        "date_time": "2017-02-03T02:00:00Z",
+        "price": "$13.00",
+        "url": "http://www.lh-st.com/Shows/02-02-2017+Cigarettes+After+Sex",
+        "date_scraped": "2017-01-22T17:51:29.153Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 366,
+    "fields": {
+        "billing": "The Purcells  Embassies",
+        "venue": 9,
+        "date_time": "2017-02-04T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.lh-st.com/Shows/02-03-2017+The+Purcells",
+        "date_scraped": "2017-01-22T17:51:29.156Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 367,
+    "fields": {
+        "billing": "Silver Wrapper Presents:Bluetech  Guest",
+        "venue": 9,
+        "date_time": "2017-02-04T04:00:00Z",
+        "price": "$14.00",
+        "url": "http://www.lh-st.com/Shows/02-03-2017+Bluetech",
+        "date_scraped": "2017-01-22T17:51:29.158Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 368,
+    "fields": {
+        "billing": "SUSTO The \"& I'm Fine Today\" Tour Cereus Bright",
+        "venue": 9,
+        "date_time": "2017-02-05T01:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/02-04-2017+SUSTO",
+        "date_scraped": "2017-01-22T17:51:29.161Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 369,
+    "fields": {
+        "billing": "Davy Knowles  Guest",
+        "venue": 9,
+        "date_time": "2017-02-05T04:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/02-04-2017+Davy+Knowles",
+        "date_scraped": "2017-01-22T17:51:29.163Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 370,
+    "fields": {
+        "billing": "Mark Dvorak",
+        "venue": 9,
+        "date_time": "2017-02-05T18:00:00Z",
+        "price": "All",
+        "url": "http://www.lh-st.com/Shows/02-05-2017+Acoustic+Brunch+Mark+Dvorak",
+        "date_scraped": "2017-01-22T17:51:29.165Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 371,
+    "fields": {
+        "billing": "100% Off Bands presents:Clearance  Cafe Racer  Bunny  Liquid Gardens",
+        "venue": 9,
+        "date_time": "2017-02-07T03:00:00Z",
+        "price": "FREE!",
+        "url": "http://www.lh-st.com/Shows/02-06-2017+100+Off+Bands",
+        "date_scraped": "2017-01-22T17:51:29.167Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 372,
+    "fields": {
+        "billing": "100% Off Bands Presents:Amateur  DoubleSpeak  Harvey Dentures",
+        "venue": 9,
+        "date_time": "2017-02-08T03:00:00Z",
+        "price": "FREE!",
+        "url": "http://www.lh-st.com/Shows/02-07-2017+100+Off+Bands",
+        "date_scraped": "2017-01-22T17:51:29.169Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 373,
+    "fields": {
+        "billing": "Landlady  Sunjacket",
+        "venue": 9,
+        "date_time": "2017-02-09T02:00:00Z",
+        "price": "$13.00",
+        "url": "http://www.lh-st.com/Shows/02-08-2017+Landlady",
+        "date_scraped": "2017-01-22T17:51:29.171Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 374,
+    "fields": {
+        "billing": "React Presents:L\u00c9ON  Jacob Banks",
+        "venue": 9,
+        "date_time": "2017-02-10T03:00:00Z",
+        "price": "$16.00",
+        "url": "http://www.lh-st.comhttp://www.clubtix.com/l%C3%89on-at-schubas-tickets-454397 ",
+        "date_scraped": "2017-01-22T17:51:29.173Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 375,
+    "fields": {
+        "billing": "MYZICA  Karma Wears White Ties",
+        "venue": 9,
+        "date_time": "2017-02-11T01:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.lh-st.com/Shows/02-10-2017+MYZICA",
+        "date_scraped": "2017-01-22T17:51:29.175Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 376,
+    "fields": {
+        "billing": "React Presents:Dumbfoundead We Might Die Tour Year Of The Ox",
+        "venue": 9,
+        "date_time": "2017-02-11T04:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/02-10-2017+Dumbfoundead",
+        "date_scraped": "2017-01-22T17:51:29.177Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 377,
+    "fields": {
+        "billing": "Laura Doherty & the Heartbeats 6th Annual Valentine's Show For Kids!",
+        "venue": 9,
+        "date_time": "2017-02-11T17:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/02-11-2017+Laura+Doherty+and+Heartbeats",
+        "date_scraped": "2017-01-22T17:51:29.180Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 378,
+    "fields": {
+        "billing": "JAM productions presents:Dan Navarro",
+        "venue": 9,
+        "date_time": "2017-02-12T01:00:00Z",
+        "price": "$25.00",
+        "url": "http://www.lh-st.comhttp://www.ticketfly.com/purchase/event/1383239 ",
+        "date_scraped": "2017-01-22T17:51:29.182Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 379,
+    "fields": {
+        "billing": "Half Baked Goods",
+        "venue": 9,
+        "date_time": "2017-02-12T18:00:00Z",
+        "price": "All",
+        "url": "http://www.lh-st.com/Shows/02-12-2017+Acoustic+Brunch+Half+Baked+Goods",
+        "date_scraped": "2017-01-22T17:51:29.183Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 380,
+    "fields": {
+        "billing": "100% Off Bands presents:Brendan & The Black Jackets  Laverne  Delmar & The Dedications",
+        "venue": 9,
+        "date_time": "2017-02-13T03:00:00Z",
+        "price": "FREE!",
+        "url": "http://www.lh-st.com/Shows/02-12-2017+100+Off+Bands",
+        "date_scraped": "2017-01-22T17:51:29.185Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 381,
+    "fields": {
+        "billing": "The Flashbulb  Five Step PathAbstract Science DJs",
+        "venue": 9,
+        "date_time": "2017-02-14T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/02-13-2017+The+Flashbulb",
+        "date_scraped": "2017-01-22T17:51:29.187Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 382,
+    "fields": {
+        "billing": "Busty and The Bass  Michael BlumeSkippin' Rocks",
+        "venue": 9,
+        "date_time": "2017-02-15T02:30:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/02-14-2017+Busty+and+the+Bass",
+        "date_scraped": "2017-01-22T17:51:29.188Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 383,
+    "fields": {
+        "billing": "Schubas + 1833 presents:SonReal The No Warm Up Tour GuestClairmont the Second",
+        "venue": 9,
+        "date_time": "2017-02-16T01:00:00Z",
+        "price": "$13.00",
+        "url": "http://www.lh-st.com/Shows/02-15-2017+SonReal",
+        "date_scraped": "2017-01-22T17:51:29.190Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 384,
+    "fields": {
+        "billing": "Dunn Dunn Fest 2017 Welcomes...BoneLang  Deep Fayed",
+        "venue": 9,
+        "date_time": "2017-02-17T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.comhttp://www.ticketfly.com/purchase/event/1396090 ",
+        "date_scraped": "2017-01-22T17:51:29.192Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 385,
+    "fields": {
+        "billing": "Dunn Dunn Fest 2017 Welcomes...Birdcloud  Archie Powell & The ExportsGuest",
+        "venue": 9,
+        "date_time": "2017-02-18T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.comhttp://www.ticketfly.com/purchase/event/1395619 ",
+        "date_scraped": "2017-01-22T17:51:29.193Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 386,
+    "fields": {
+        "billing": "Dunn Dunn Fest 2017 Welcomes...Naughty Professor  Nasty SnacksFunk Trek",
+        "venue": 9,
+        "date_time": "2017-02-19T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.comhttp://www.ticketfly.com/purchase/event/1396148 ",
+        "date_scraped": "2017-01-22T17:51:29.195Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 387,
+    "fields": {
+        "billing": "Acoustic Brunch featuring:Sarah Sharpe",
+        "venue": 9,
+        "date_time": "2017-02-19T18:00:00Z",
+        "price": "All",
+        "url": "http://www.lh-st.com/Shows/02-19-2017+Acoustic+Brunch+Sarah+Sharpe",
+        "date_scraped": "2017-01-22T17:51:29.197Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 388,
+    "fields": {
+        "billing": "The Trews  Watching For Foxes",
+        "venue": 9,
+        "date_time": "2017-02-20T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.lh-st.com/Shows/02-19-2017+The+Trews",
+        "date_scraped": "2017-01-22T17:51:29.199Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 389,
+    "fields": {
+        "billing": "Whitney Rose  Guest",
+        "venue": 9,
+        "date_time": "2017-02-21T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/02-20-2017+Whitney+Rose",
+        "date_scraped": "2017-01-22T17:51:29.201Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 390,
+    "fields": {
+        "billing": "Hand Habits  John Andrews & The Yawns",
+        "venue": 9,
+        "date_time": "2017-02-22T02:00:00Z",
+        "price": "$8.00",
+        "url": "http://www.lh-st.com/Shows/02-21-2017+Hand+Habits",
+        "date_scraped": "2017-01-22T17:51:29.202Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 391,
+    "fields": {
+        "billing": "React Presents...Leroy Sanchez Man of the Year Guest",
+        "venue": 9,
+        "date_time": "2017-02-24T00:30:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/02-23-2017+Leroy+Sanchez",
+        "date_scraped": "2017-01-22T17:51:29.204Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 392,
+    "fields": {
+        "billing": "Potty Mouth  PARTYBABY  Guest",
+        "venue": 9,
+        "date_time": "2017-02-25T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/PARTYBABY+and+Potty+Mouth",
+        "date_scraped": "2017-01-22T17:51:29.206Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 393,
+    "fields": {
+        "billing": "Frances Luke Accord  Sedgewick",
+        "venue": 9,
+        "date_time": "2017-02-26T01:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/02-25-2017+Frances+Luke+Accord",
+        "date_scraped": "2017-01-22T17:51:29.208Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 394,
+    "fields": {
+        "billing": "100% Off Bands Presents:The Band Royale  Guests",
+        "venue": 9,
+        "date_time": "2017-02-26T04:00:00Z",
+        "price": "FREE!",
+        "url": "http://www.lh-st.com/Shows/02-25-2017+100+Off+Bands",
+        "date_scraped": "2017-01-22T17:51:29.209Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 395,
+    "fields": {
+        "billing": "Acoustic Brunch featuring:The Greenleaf Band",
+        "venue": 9,
+        "date_time": "2017-02-26T18:00:00Z",
+        "price": "All",
+        "url": "http://www.lh-st.com/Shows/02-26-2017+Acoustic+Brunch+Greenleaf+Band",
+        "date_scraped": "2017-01-22T17:51:29.211Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 396,
+    "fields": {
+        "billing": "The Go Rounds  Guest",
+        "venue": 9,
+        "date_time": "2017-03-01T02:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/02-28-2017+The+Go+Rounds",
+        "date_scraped": "2017-01-22T17:51:29.213Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 397,
+    "fields": {
+        "billing": "Lydia Ainsworth  Guest",
+        "venue": 9,
+        "date_time": "2017-04-29T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/04-28-2017+Lydia+Ainsworth",
+        "date_scraped": "2017-01-22T17:51:29.214Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 398,
+    "fields": {
+        "billing": "React Presents:Vallis Alps  Guest",
+        "venue": 9,
+        "date_time": "2017-03-02T02:00:00Z",
+        "price": "$11.00",
+        "url": "http://www.lh-st.comhttp://www.clubtix.com/vallis-alps-schubas-tickets-477607 ",
+        "date_scraped": "2017-01-22T17:51:29.216Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 399,
+    "fields": {
+        "billing": "An Evening With...California Guitar Trio",
+        "venue": 9,
+        "date_time": "2017-03-04T01:00:00Z",
+        "price": "$20.00",
+        "url": "http://www.lh-st.com/Shows/03-03-2017+California+Guitar+Trio",
+        "date_scraped": "2017-01-22T17:51:29.218Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 400,
+    "fields": {
+        "billing": "An Evening With...Parsonsfield",
+        "venue": 9,
+        "date_time": "2017-03-05T01:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-04-2017+Parsonsfield",
+        "date_scraped": "2017-01-22T17:51:29.219Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 401,
+    "fields": {
+        "billing": "Haley Bonar  Guest",
+        "venue": 9,
+        "date_time": "2017-03-05T04:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-04-2017+Haley+Bonar",
+        "date_scraped": "2017-01-22T17:51:29.221Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 402,
+    "fields": {
+        "billing": "Lindsay Lou & The Flatbellys  The Crane Wives",
+        "venue": 9,
+        "date_time": "2017-03-06T02:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-05-2017+Lindsay+Lou+and+the+Flatbellys",
+        "date_scraped": "2017-01-22T17:51:29.222Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 403,
+    "fields": {
+        "billing": "Nick Hakim  Guests",
+        "venue": 9,
+        "date_time": "2017-03-10T03:00:00Z",
+        "price": "$10.00",
+        "url": "http://www.lh-st.com/Shows/03-09-2017+Nick+Hakim",
+        "date_scraped": "2017-01-22T17:51:29.224Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 404,
+    "fields": {
+        "billing": "Slothrust  And The Kids",
+        "venue": 9,
+        "date_time": "2017-03-11T00:30:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-10-2017+Slothrust",
+        "date_scraped": "2017-01-22T17:51:29.226Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 405,
+    "fields": {
+        "billing": "Zach Heckendorf  Guest",
+        "venue": 9,
+        "date_time": "2017-03-11T04:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-10-2017+Zach+Heckendorf",
+        "date_scraped": "2017-01-22T17:51:29.227Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 406,
+    "fields": {
+        "billing": "Dead Man Winter  Erik Koskinen",
+        "venue": 9,
+        "date_time": "2017-03-12T04:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/03-11-2017+Dead+Man+Winter",
+        "date_scraped": "2017-01-22T17:51:29.229Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 407,
+    "fields": {
+        "billing": "React Presents:Sofi Tukker  Guest",
+        "venue": 9,
+        "date_time": "2017-03-13T01:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-12-2017+Sofi+Tukker",
+        "date_scraped": "2017-01-22T17:51:29.231Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 408,
+    "fields": {
+        "billing": "Alex Dezen Of The Damnwells Mike DunnGuest",
+        "venue": 9,
+        "date_time": "2017-03-15T01:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-14-2017+Alex+Dezen",
+        "date_scraped": "2017-01-22T17:51:29.232Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 409,
+    "fields": {
+        "billing": "Alex Lahey  Guest",
+        "venue": 9,
+        "date_time": "2017-03-21T00:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-20-2017+Alex+Lahey",
+        "date_scraped": "2017-01-22T17:51:29.234Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 410,
+    "fields": {
+        "billing": "React Presents:Youngr  Guest",
+        "venue": 9,
+        "date_time": "2017-03-23T02:00:00Z",
+        "price": "$15.00",
+        "url": "http://www.lh-st.com/Shows/03-22-2017+Youngr",
+        "date_scraped": "2017-01-22T17:51:29.236Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 411,
+    "fields": {
+        "billing": "Jay Som  The Courtneys  The Funs",
+        "venue": 9,
+        "date_time": "2017-03-25T01:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-24-2017+Jay+Som+and+The+Courtneys",
+        "date_scraped": "2017-01-22T17:51:29.237Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 412,
+    "fields": {
+        "billing": "React Presents:Vera Blue  Guest",
+        "venue": 9,
+        "date_time": "2017-03-26T03:00:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-25-2017+Vera+Blue",
+        "date_scraped": "2017-01-22T17:51:29.240Z",
+        "is_active": true,
+        "artists": []
+    }
+},
+{
+    "model": "concerts.concert",
+    "pk": 413,
+    "fields": {
+        "billing": "Allison Crutchfield and The Fizz  VagabonPretty Pretty",
+        "venue": 9,
+        "date_time": "2017-04-01T00:30:00Z",
+        "price": "$12.00",
+        "url": "http://www.lh-st.com/Shows/03-31-2017+Allison+Crutchfield+and+the+Fizz",
+        "date_scraped": "2017-01-22T17:51:29.241Z",
+        "is_active": true,
+        "artists": []
+    }
+}
+]
