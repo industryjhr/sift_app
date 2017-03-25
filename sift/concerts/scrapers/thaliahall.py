@@ -68,13 +68,13 @@ class ThaliaHall(Venue):
         show_summary > '.tw-event-time'
         """
 
-        # Dates on EB site use abbreviations, conform to calendar.month_abbr
-        month_map = {k:v for v, k in enumerate(calendar.month_abbr)}
+        DATE_STRING_FORMAT = "%B %d, %Y"
 
-        date_on_site = summary.select('.tw-event-date')[0].text
-        # month as number (1-12)
-        show_month, show_date, show_year = date_on_site.split()
-        show_month = month_map[show_month]
+        date_on_site = summary.select('.tw-event-date')[0].text.strip()
+        show_datetime_obj = time.strptime(date_on_site, DATE_STRING_FORMAT)
+        show_year = show_datetime_obj.tm_year
+        show_month = show_datetime_obj.tm_mon
+        show_date = show_datetime_obj.tm_mday
 
         html_time = summary.select('.tw-event-time')[0].text
         t = time.strptime(html_time, '%I:%M %p')
