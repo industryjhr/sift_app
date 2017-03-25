@@ -45,3 +45,6 @@ Traceback (most recent call last):
     return self._sock.recv_into(b)
 KeyboardInterrupt
 
+
+----------------
+https://github.com/kennethreitz/requests/issues/3353 ?
