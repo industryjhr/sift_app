@@ -52,7 +52,7 @@ class Command(BaseCommand):
         # call_command('flush', '--noinput')
 
         logger.debug("Deleting existing Concert objects")
-        # Concert.objects.all().delete()
+        Concert.objects.all().delete()
 
         # self.stdout.write("Loading artists from fixture...")
         # call_command('loaddata', latest_artists_fixture)
@@ -61,12 +61,11 @@ class Command(BaseCommand):
 
 
         self.stdout.write("Scraping venue sites for concerts...")
-        # call_command('scrape_shows')
-        logger.info("Would scrape shows here")
+        call_command('scrape_shows')
+        # logger.info("Would scrape shows here")
         self.stdout.write("Finding target artists in the concert billings...")
-        logger.info("Would make matches here")
-        # call_command('make_matches')
-
+        # logger.info("Would make matches here")
+        call_command('make_matches')
 
 
         # TODO Add concert fixture rotation?

@@ -68,11 +68,11 @@ LOGGING = {
             'level': 'ERROR',
             'propagate': False,
         },
-        'concerts': {
-            'handlers': ['console'],
-            'level': 'INFO',
-            'propogate': True,
-        },
+        # 'concerts': {
+        #     'handlers': ['console'],
+        #     'level': 'INFO',
+        #     'propogate': True,
+        # },
         'concerts.data_management': {
             'handlers': ['console_verbose'],
             'level': 'DEBUG',
