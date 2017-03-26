@@ -16,9 +16,11 @@ import requests
 
 from concerts.models import Artist
 
-logger = logging.getLogger('concerts')
+
+logger = logging.getLogger('concerts.data_management')
 
 SPOTIFY_SEARCH_BASE = 'https://api.spotify.com/v1/search?'
+
 
 class Command(BaseCommand):
     help = 'Attempt to save the Spotify Artist URI to the Artist model'

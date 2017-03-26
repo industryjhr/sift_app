@@ -5,11 +5,17 @@ Using the concerts.utils.scrapers, scrapes venue sites and
 writes the upcoming concerts to Concerts table.
 """
 
+import logging
+
 from django.core.management.base import BaseCommand, CommandError
+
 from concerts.models import Venue, Concert
 from concerts.utils import SCRAPERS
 
+
 MISC_VENUE = Venue.objects.get(id=99)
+
+logger = logging.getLogger('concerts.data_management')
 
 
 class Command(BaseCommand):
@@ -20,6 +26,8 @@ class Command(BaseCommand):
         for venue in Venue.objects.filter(is_active=True):
             # point to from model?
             scraper = SCRAPERS[venue.id]()
+
+            logger.info("Scraping venue %s".format(venue))
             scraper.load_live_shows()
 
             for show in scraper.shows:
@@ -32,3 +40,4 @@ class Command(BaseCommand):
                     url=show.show_url,
                 )
                 concert.save()
+                logger.debug("Concert added: %s".format(concert))

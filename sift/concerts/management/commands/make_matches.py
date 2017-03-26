@@ -12,7 +12,9 @@ import logging
 from django.core.management.base import BaseCommand, CommandError
 from concerts.models import Artist, Concert, ConcertMatch, Venue
 
-log = logging.getLogger('concerts')
+
+logger = logging.getLogger('concerts.data_management')
+
 
 class Command(BaseCommand):
     help = 'Looks for tracked artists in the concert billings and saves matches'
@@ -31,7 +33,7 @@ class Command(BaseCommand):
                 if artist_regex.search(concert_billing):
                     concert_matched = Concert.objects.get(id=concert_id)
                     artist_matched = Artist.objects.get(id=artist_id)
-                    log.debug(
+                    logger.info(
                         "Matched artist %s and concert %s" % (artist_matched, concert_matched)
                     )
                     # check for existing concertmatch
