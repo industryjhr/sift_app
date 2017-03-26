@@ -12,11 +12,12 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "sift.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "sift.settings.heroku")
 
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(levelname)s %(asctime)s %(module)s %(process)d %(thread)d %(message)s',
-)
+# adding this didn't send logs to heroku handler
+#logging.basicConfig(
+#    level=logging.INFO,
+#    format='%(levelname)s %(asctime)s %(module)s %(process)d %(thread)d %(message)s',
+#)
 
 application = get_wsgi_application()
