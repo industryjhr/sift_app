@@ -34,7 +34,9 @@ class Command(BaseCommand):
                     concert_matched = Concert.objects.get(id=concert_id)
                     artist_matched = Artist.objects.get(id=artist_id)
                     logger.info(
-                        "Matched artist %s and concert %s" % (artist_matched, concert_matched)
+                        "Matched artist {} and concert {}".format(
+                            artist_matched, concert_matched
+                        )
                     )
                     # check for existing concertmatch
                     # TODO but hacky? --review models--

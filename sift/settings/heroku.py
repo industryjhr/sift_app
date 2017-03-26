@@ -75,7 +75,7 @@ LOGGING = {
         # },
         'concerts.data_management': {
             'handlers': ['console_verbose'],
-            'level': 'DEBUG',
+            'level': 'INFO',
             'propogate': False,
         },
     }

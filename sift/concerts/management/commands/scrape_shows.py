@@ -27,7 +27,7 @@ class Command(BaseCommand):
             # point to from model?
             scraper = SCRAPERS[venue.id]()
 
-            logger.info("Scraping venue %s".format(venue))
+            logger.info("Scraping venue {}".format(venue))
             scraper.load_live_shows()
 
             for show in scraper.shows:
@@ -40,4 +40,4 @@ class Command(BaseCommand):
                     url=show.show_url,
                 )
                 concert.save()
-                logger.debug("Concert added: %s".format(concert))
+                logger.debug("Concert added: {}".format(concert))

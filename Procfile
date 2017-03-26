@@ -1,1 +1,1 @@
-web: gunicorn sift.wsgi --pythonpath 'sift,sift/sift'
+web: gunicorn sift.wsgi --pythonpath 'sift,sift/sift' --log-file -
