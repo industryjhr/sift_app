@@ -7,21 +7,19 @@ Deletes existing concert matches, then runs scrape_shows and make_matches
 commmands to populate ConcertMatch table.
 """
 
-import logging, os, sys
-from datetime import datetime
+import logging
 
 from django.core.management.base import BaseCommand, CommandError
 from django.core.management import call_command
 
 from concerts.models import Concert
-from concerts.utils import FIXTURE_DIRS
 
 
 logger = logging.getLogger('concerts.data_management')
 
 
 class Command(BaseCommand):
-    help = 'Flushes DB, reloads artist and venue fixtures, scrapes shows and finds the matches'
+    help = 'Delete existing Concerts, scrapes venues, and finds the matches'
 
     def handle(self, *args, **options):
 
