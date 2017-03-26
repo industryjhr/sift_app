@@ -43,7 +43,7 @@ class UpcomingShows(generic.View):
         matched_concert_ids = list(ConcertMatch.objects.values_list('concert', flat=True))
         matches = Concert.objects.filter(id__in=matched_concert_ids).order_by('date_time')
         if Concert.objects.count():
-            last_updated = Concert.objects.get(pk=1).date_scraped
+            last_updated = Concert.objects.latest('date_scraped').date_scraped
         # TODO handle empty DB
         else:
             last_updated = datetime(1900,1,1)
