@@ -26,10 +26,8 @@ X_FRAME_OPTIONS = 'DENY'
 
 MIDDLEWARE_CLASSES.append('rollbar.contrib.django.middleware.RollbarNotifierMiddleware')
 
-
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
-
 DATABASES = {
     'default': dj_database_url.config(default=os.environ.get('HEROKU_POSTGRES_CYAN_URL'))
 }
@@ -37,7 +35,6 @@ DATABASES = {
 # Logging
 # Heroku captures logstream from stdout and stderr
 # https://devcenter.heroku.com/articles/logging
-
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
