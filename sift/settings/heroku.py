@@ -13,7 +13,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', None)
 #DEBUG = os.environ.get('DEBUG', False)
 DEBUG = bool(os.environ.get('DEBUG', False))
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['sift.herokuapp.com']
 
 
 # Database
