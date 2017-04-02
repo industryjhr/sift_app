@@ -28,6 +28,8 @@ class Command(BaseCommand):
             scraper = SCRAPERS[venue.id]()
 
             logger.info("Scraping venue {}".format(venue))
+
+            # try:
             scraper.load_live_shows()
 
             for show in scraper.shows:
@@ -41,3 +43,10 @@ class Command(BaseCommand):
                 )
                 concert.save()
                 logger.debug("Concert added: {}".format(concert))
+
+            logger.info("Added {} shows from {}".format(
+                len(scraper.shows), venue)
+            )
+
+            # except: selenium.NoSuchElement, ?
+                # log, send something to rollbar, continue
