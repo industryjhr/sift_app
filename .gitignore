@@ -13,3 +13,6 @@ ghostdriver.log
 
 # sphinx docs
 _*
+
+# Misc
+tmp/
