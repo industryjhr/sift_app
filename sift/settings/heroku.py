@@ -15,6 +15,8 @@ DEBUG = bool(os.environ.get('DEBUG', False))
 
 ALLOWED_HOSTS = ['sift.herokuapp.com']
 
+MIDDLEWARE_CLASSES.append('rollbar.contrib.django.middleware.RollbarNotifierMiddleware')
+
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
@@ -79,6 +81,15 @@ LOGGING = {
             'propogate': False,
         },
     }
+}
+
+
+# Rollbar
+ROLLBAR = {
+    'access_token': os.environ.get('ROLLBAR_ACCESS_TOKEN'),
+    'environment': 'production',
+    'branch': 'master',
+    'root': BASE_DIR,
 }
 
 # Password validation
