@@ -48,5 +48,6 @@ class Command(BaseCommand):
                 len(scraper.shows), venue)
             )
 
-            # except: selenium.NoSuchElement, ?
+            # except: requests.HTTPError (500 seen: once)
+                # selenium.NoSuchElement, ?
                 # log, send something to rollbar, continue

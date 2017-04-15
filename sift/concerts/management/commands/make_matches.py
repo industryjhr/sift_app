@@ -22,6 +22,7 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         artist_pairs = list(Artist.objects.filter(is_active=True).values_list('id', 're_string'))
         concert_pairs = list(Concert.objects.filter(is_active=True).values_list('id', 'billing'))
+        match_count = 0
 
         for artist_id, regex_string in artist_pairs:
             artist_regex = re.compile(
@@ -49,6 +50,9 @@ class Command(BaseCommand):
                     concert_matched.save()
                     match.artists.add(artist_matched)
                     match.save()
+                    match_count += 1
+
+        logger.info("Saved {} matches".format(match_count))
 
 # on first match, create entry in ConcertMatch, add artist to Concert.artists
 # subsequent matches add artist to ConcertMatch.artists, Concert.artists

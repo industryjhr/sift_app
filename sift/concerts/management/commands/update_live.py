@@ -11,7 +11,7 @@ from datetime import datetime
 import logging
 import sys
 
-from django.core.management.base import BaseCommand, CommandError
+from django.core.management.base import BaseCommand
 from django.core.management import call_command
 
 from concerts.models import Concert
@@ -34,10 +34,10 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
 
         # heroku scheduler jobs run at least every day;
-        # only actually refresh every 10 or so
+        # only _actually_ refresh three times per month
         date = datetime.today().day
 
-        if not any((options['force'], not date % 7)):
+        if not any((options['force'], not date % 9)):
             logger.info("Another day..")
             sys.exit()
 
@@ -46,7 +46,6 @@ class Command(BaseCommand):
 
         logger.info("Scraping venue sites for concerts...")
         call_command('scrape_shows')
+
         logger.info("Finding target artists in the concert billings...")
         call_command('make_matches')
-
-        # self.stdout.write("Done!")
