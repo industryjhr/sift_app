@@ -1,0 +1,62 @@
+# provision/vm/tasks/main.yml
+
+## add;l steps to make postgresql-9.6 available;
+## see https://www.postgresql.org/download/linux/ubuntu/
+- name: Update apt repo for Postgres
+  become: yes
+  lineinfile:
+    dest: /etc/apt/sources.list.d/pgdg.list
+    create: yes
+    line: deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main
+
+- name: Import Postgres repo key
+  become: yes
+  shell: wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+
+- name: Update package list
+  become: yes
+  command: apt-get update -y # take all updates
+
+- name: Install packages
+  become: yes
+  apt: pkg={{ item }} state=installed update_cache=yes
+  with_items:
+    # Database
+    - "postgresql-{{ postgresql_version }}" # Heroku currently on 9.6 by default
+    - libpq-dev # Required for Ansible to interact with PGSQL
+    - python-psycopg2 # "
+
+    # Python Dev
+    - python3-dev
+    - python-setuptools
+    - python-virtualenv
+
+    # Python 3
+    - python3.4
+
+    # tests, scraping
+    - phantomjs
+
+    # dev productivity
+    - tree
+
+- name: Allow password authentication for local socket users
+  become: yes
+  copy: "src=pg_hba.conf dest=/etc/postgresql/{{ postgresql_version }}/main/pg_hba.conf force=yes"
+  notify:
+    - Restart Postgres
+
+- name: Create Database
+  become: yes
+  become_user: postgres
+  postgresql_db: name={{ db_name }}
+
+- name: Create User
+  become: yes
+  become_user: postgres
+  postgresql_user: name={{ db_user }} password={{ db_password }} state=present role_attr_flags=NOSUPERUSER,CREATEDB
+
+- name: Provide user with DB permissions
+  become: yes
+  become_user: postgres
+  postgresql_user: name={{ db_user }} db={{ db_name }} priv=ALL

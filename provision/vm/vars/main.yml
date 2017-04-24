@@ -1,0 +1,6 @@
+# provision/vm/vars/main.yml
+
+postgresql_version: 9.6 # Default on Heroku
+db_name: django_app
+db_user: django
+db_password: password

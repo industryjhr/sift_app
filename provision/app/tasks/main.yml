@@ -1,0 +1,44 @@
+# provision/app/tasks/main.yml
+
+# to grab dev DB credentials for Django
+- include_vars: vm/vars/main.yml
+
+- name: Setup Virtualenv
+  pip:  virtualenv_python={{ python_version }}
+        requirements="{{ project_root }}/requirements.txt"
+        virtualenv="{{ virtualenv_path }}"
+
+# fine for dev, manage independently for production
+- name: Configure environment
+  become: yes
+  blockinfile:
+    dest: "{{ environment_file }}"
+    create: yes
+    block: |
+      export {{ item.key }}="{{ item.value }}"
+    marker: "# {mark} ANSIBLE MANAGED BLOCK {{ item.key }}"
+  with_dict: "{{ app_env }}"
+
+#- name: Django syncdb
+#  environment: "{{ app_env }}"
+#  django_manage: command=syncdb app_path="{{ project_root}}/{{ project_name }}" virtualenv="{{ virtualenv_path }}"
+
+- name: Django makemigrations
+  environment: "{{ app_env }}"
+  django_manage: command=makemigrations app_path="{{ project_root}}/{{ project_name }}" virtualenv="{{ virtualenv_path }}"
+
+- name: Django migrate
+  environment: "{{ app_env }}"
+  django_manage: command=migrate app_path="{{ project_root }}/{{ project_name }}" virtualenv="{{ virtualenv_path }}"
+
+#- name: Django loaddata
+#  environment: "{{ app_env }}"
+#  django_manage: command=loaddata app_path="{{ project_root }}/{{ project_name }}" fixtures="{{ project_root }}/{{ project_name }}/fixtures/{{ item }}" virtualenv="{{ virtualenv_path }}"
+#  with_items:
+#    - dev_admin.json
+
+- name: symlink activate
+  file:
+    src: "{{ virtualenv_path }}/bin/activate"
+    dest: "{{ project_root }}/activate"
+    state: link

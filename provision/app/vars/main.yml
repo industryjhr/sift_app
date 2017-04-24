@@ -1,0 +1,21 @@
+# provision/app/vars/main.yml
+
+## per-project
+project_name: "sift"
+python_version: python3.4
+
+## generic
+project_root: /vagrant
+virtualenv_path: /vagrant/.env
+fixtures_path: "{{ project_root }}/{{ project_name }}/fixtures/dev"
+
+# to get set by the 'Configure environment' app task
+app_env:
+  DEBUG: "True"
+  DATABASE_NAME: "{{ db_name }}"
+  DATABASE_USER: "{{ db_user }}"
+  DATABASE_PASS: "{{ db_password }}"
+  DJANGO_SETTINGS_MODULE: settings.local
+  DJANGO_LOG_LEVEL: DEBUG
+
+environment_file: /etc/profile.d/app_vars.sh

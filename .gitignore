@@ -16,3 +16,7 @@ _*
 
 # Misc
 tmp/
+
+# dev environment
+*.retry
+.vagrant
