@@ -28,13 +28,13 @@ SCRAPERS = {
     4: doubledoor.DoubleDoor,
     5: houseofblues.HouseOfBlues,
     6: thaliahall.ThaliaHall,
-    7: metro.Metro,
+    #7: metro.Metro,
     8: lincolnhall.LincolnHall,
     9: schubas.SchubasTavern,
 }
 
 FIXTURES_BASE_DIR = os.path.join(
-                        os.environ.get('SIFT_HOME'), 
+                        os.environ.get('SIFT_HOME'),
                         'concerts',
                         'fixtures'
                     )
