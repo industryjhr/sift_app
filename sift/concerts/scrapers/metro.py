@@ -15,7 +15,7 @@ TODAY = datetime.datetime.today()
 class Metro(Venue):
     """
     Scraper object for Metro.
-    
+
     3730 N. Clark St.
     Chicago, IL 60613
     http://metrochicago.com
@@ -120,6 +120,8 @@ class Metro(Venue):
         # take first for start of concert
         if show_time.count('-'):
             show_time = show_time.split('-')[0].strip()
+
+        # XXX problem item (no price info): Doors: 6PM / Ceremony: 7:30PM // 18+
 
         if show_time.count(':'):
             # eg. '7:30PM'

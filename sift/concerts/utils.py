@@ -28,7 +28,7 @@ SCRAPERS = {
     4: doubledoor.DoubleDoor,
     5: houseofblues.HouseOfBlues,
     6: thaliahall.ThaliaHall,
-    #7: metro.Metro,
+    7: metro.Metro,
     8: lincolnhall.LincolnHall,
     9: schubas.SchubasTavern,
 }
