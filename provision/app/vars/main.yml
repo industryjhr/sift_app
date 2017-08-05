@@ -17,5 +17,6 @@ app_env:
   DATABASE_PASS: "{{ db_password }}"
   DJANGO_SETTINGS_MODULE: settings.local
   DJANGO_LOG_LEVEL: DEBUG
+  SIFT_HOME: /vagrant/sift
 
 environment_file: /etc/profile.d/app_vars.sh
