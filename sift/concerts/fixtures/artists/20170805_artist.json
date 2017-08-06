@@ -955,7 +955,7 @@
     "fields": {
         "name": "Actress",
         "re_string": "\\bActress\\b",
-        "spotify_id": "4nZbOHYEypqHtWwTPQu8Fl",
+        "spotify_id": "3bg5rmICvmA8dmYVAdKGYH",
         "is_active": true
     }
 },
@@ -5256,7 +5256,7 @@
         "name": "Who",
         "re_string": "\\bWho\\b",
         "spotify_id": "67ea9eGLXYMsO2eYQRui3w",
-        "is_active": true
+        "is_active": false
     }
 },
 {
@@ -5656,6 +5656,16 @@
         "name": "Basecamp",
         "re_string": "\\bBasecamp\\b",
         "spotify_id": "2tT6SE9nGCYXysoJ4qicsZ",
+        "is_active": true
+    }
+},
+{
+    "model": "concerts.artist",
+    "pk": 586,
+    "fields": {
+        "name": "The New Mastersounds",
+        "re_string": "\\bThe New Mastersounds\\b",
+        "spotify_id": "1DJVvIcjKhdedkuGRzW7PG",
         "is_active": true
     }
 }

@@ -20,3 +20,6 @@ tmp/
 # dev environment
 *.retry
 .vagrant
+
+# db
+*.dump
